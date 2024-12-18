@@ -1,8 +1,6 @@
-# Importation des bibliothèques nécessaires
 import os
 from collections import Counter
 
-# Déclaration du mot à étudier
 mot_etude = "légende"
 
 # Chemins des fichiers
@@ -27,7 +25,7 @@ for fichier in os.listdir(chemin_dossier):
         resultats[langue] = nb_occurrences
 
 # Fonction pour ajouter les résultats au tableau HTML
-def ajouter_colonne_tableau(fichier_html, langue, compte):
+def ajouter_colonne_tableau(fichier_html, compte):
     with open(fichier_html, 'r', encoding='utf-8') as f:
         contenu = f.read()
 
@@ -40,7 +38,8 @@ def ajouter_colonne_tableau(fichier_html, langue, compte):
     nouveau_contenu = []
     for ligne in lignes:
         if "<tr>" in ligne and "<td>" in ligne:
-            ligne = ligne.replace("</tr>", f"<td>{compte}</td></tr>")
+            if "<td>" in ligne and "</td>" in ligne:
+                ligne = ligne.replace("</tr>", f"<td>{compte}</td></tr>")
         nouveau_contenu.append(ligne)
 
     # Sauvegarder les modifications dans le fichier HTML
@@ -51,6 +50,6 @@ def ajouter_colonne_tableau(fichier_html, langue, compte):
 for langue, compte in resultats.items():
     fichier_html = os.path.join(chemin_tableau_html, f"{langue}.html")
     if os.path.exists(fichier_html):
-        ajouter_colonne_tableau(fichier_html, langue, compte)
+        ajouter_colonne_tableau(fichier_html, compte)
 
 print("Mise à jour des tableaux terminée.")
