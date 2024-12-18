@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet Légende</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
+            color: #4a4a4a;
+            font-family: 'Georgia', serif;
+        }
+
+        .hero {
+            background: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            padding: 2rem 1rem;
+        }
+
+        .title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+            color: #6b4226;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: #8e6a4a;
+        }
+
+        .button {
+            background-color: #f3c5b3;
+            border: none;
+            color: white;
+            font-weight: bold;
+            border-radius: 25px;
+            padding: 0.8rem 2rem;
+            transition: all 0.3s ease;
+        }
+        .button:hover {
+            background-color: #e2a68a;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        footer {
+            background: #e8d6c3;
+            padding: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #6b4226;
+            border-top: 2px solid #d4b59e;
+        }
+        footer a {
+            color: #8e6a4a;
+            text-decoration: underline;
+        }
+
+        .profile img {
+            border-radius: 50%;
+            width: 128px;
+            height: 128px;
+        }
+
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero has-text-centered">
+        <div class="hero-body">
+            <h1 class="title">Projet Légende</h1>
+            <p class="subtitle">Exploration des différents sens du mot "légende" en anglais, français, et arabe.</p>
+        </div>
+    </section>
+
+    <nav class="navbar is-spaced has-shadow">
+        <div class="navbar-menu is-centered">
+            <a class="navbar-item" href="#accueil">Accueil</a>
+            <a class="navbar-item" href="#tableaux">Tableaux</a>
+            <a class="navbar-item" href="#presentation">Présentation</a>
+        </div>
+    </nav>
+
+    <div id="accueil" class="section">
+        <div class="container">
+            <h2 class="title">Bienvenue sur le projet Légende</h2>
+            <p>Ce projet explore les différents sens du mot "légende" à travers plusieurs langues. Découvrez nos analyses dans les tableaux.</p>
+        </div>
+    </div>
+
+    <div id="tableaux" class="section">
+        <div class="container">
+            <h2 class="title">Tableaux</h2>
+            <p>Explorez les différents sens du mot "légende" dans les langues sélectionnées :</p>
+            <div class="buttons">
+                <a class="button" href="anglais.html">Anglais</a>
+                <a class="button" href="francais.html">Français</a>
+                <a class="button" href="arabe.html">Arabe</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="presentation" class="section">
+        <div class="container">
+            <h2 class="title">Présentation</h2>
+            <div class="profile">
+                <img src="./avatar/imagedothraki.jpeg" alt="Avatar de Oumaya">
+                <div>
+                    <h3>Oumaya Chelbi</h3>
+                    <p><a href="https://github.com/Oumaya-Chelbi/PPE1-2024oumaya" target="_blank">GitHub de Oumaya</a></p>
+                </div>
+            </div>
+            <div class="profile">
+                <img src="./avatar/avatar.jpeg" alt="Avatar de Mickaëla">
+                <div>
+                    <h3>Mickaëla Masrodicasa</h3>
+                    <p><a href="https://github.com/mickaela-mstr/PPE1-2024moi.git" target="_blank">GitHub de Mickaëla</a></p>
+                </div>
+            </div>
+            <div class="profile">
+                <img src="./avatar/elf.jpeg" alt="Avatar de Zeineb">
+                <div>
+                    <h3>Zeineb Omar</h3>
+                    <p><a href="https://github.com/zeiiii1/PPE1_2024.git" target="_blank">GitHub de Zeineb</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>
+            Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeineb Omar.<br>
+            <a href="https://github.com/yourgithub" target="_blank">Voir le projet sur GitHub</a>
+        </p>
+    </footer>
+</body>
+</html>
