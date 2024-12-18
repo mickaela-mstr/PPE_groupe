@@ -13,7 +13,8 @@ while read -r line
 do
 	code_http=$(curl -o /dev/null -s -w "%{http_code}" "$line")
 	if [$code_http != 200]; then
-        echo "La page n'existe pas ou ne fonctionne pas"
+        echo "La page n'existe pas ou ne fonctionne pas, l'url ne peut pas être traitée."
+        echo "pas de résultat" >>
         exit 1
     fi
 

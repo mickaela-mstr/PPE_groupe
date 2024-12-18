@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-tableau_tsv=$1
+tableau_anglais=$1
 
-echo "<html>" > "tableau-fr2.html"
+echo "<html>" > "tableau-anglais.html"
 echo "<head>" >> "tableau-fr2.html"
 echo "<title>Tabelau-fr</title>" >> "tableau-fr2.html"
 echo "<meta charset=UTF-8>" >> "tableau-fr2.html"
