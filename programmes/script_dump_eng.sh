@@ -5,9 +5,6 @@ fichier="../URLs/anglais.txt"
 # Fichier de sortie pour le dump textuel
 output_file="../dumps-text/anglais.txt"
 
-# Vider ou créer le fichier de sortie
-> "$output_file"
-
 # Lire le fichier ligne par ligne
 while read -r line; do
     # Ajouter un séparateur entre les dumps des différentes URLs (optionnel)
