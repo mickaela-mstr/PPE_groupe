@@ -1,0 +1,105 @@
+   #Lexique pour l'expression
+
+Lexique pour l'expression
+
+     * contenu
+     * menu
+     * navigation
+     * outils
+     __________________________________________________________________
+
+Les mots qui ont plusieurs sens : les mots polysémiques
+
+Définition :
+
+   Un mot peut avoir des sens différents selon la manière dont il est
+   employé dans un texte ou un discours. On dira alors qu'il est
+   polysémique^[1]. Ce mot vient du grec polus, qui signifie « nombreux »,
+   et sêmainein, qui signifie... « signifier ».
+
+   La plupart des mots sont polysémiques, parce qu'ils peuvent être
+   employés dans des contextes très variés, et ces contextes font
+   « peser » sur les mots des contraintes qui en influencent le sens.
+
+Exemple : Légende
+
+   Le mot légende pourra, selon les contextes, désigner un court texte
+   placé sous une photographie ou une histoire merveilleuse (la légende de
+   Merlin l'enchanteur). Étymologiquement, légende vient du latin legenda,
+   qui signifie proprement « ce qui doit être lu ».
+
+Conseil :
+
+   Prenez le temps de bien lire le contexte d'un mot si vous hésitez entre
+   plusieurs acceptions^[2] de ce mot.
+
+   Pour les verbes, c'est souvent la construction qui renseigne sur leur
+   sens. Ainsi, le verbe apprécier (littéralement « déterminer le prix »),
+   selon le complément avec lequel il se construit, signifiera « trouver
+   agréable » ("« Il appréciait sa compagnie »") ou « juger, discerner »
+   ("« Il a mal apprécié le danger »").
+
+   Aux différentes constructions d'un verbe correspondent donc des sens
+   différents. Amusez-vous à expliquer la différence de sens entre :
+
+   taxer les œuvres d'art et taxer son collaborateur d'incapable
+
+   jouer des coudes et jouer une sonate ;
+
+   convenir à tout le monde et convenir de tout ;
+
+   résoudre un problème et se résoudre à partir ;
+
+   présumer l'existence des extra-terrestres et présumer de ses forces,
+   etc.
+
+Notes
+
+    1. Polysémie
+       Propriété d'un terme qui présente plusieurs sens. Les mots les plus
+       fréquemment utilisés sont le plus souvent polysémiques. En
+       revanche, la monosémie caractérise surtout les vocabulaires
+       scientifiques et techniques.
+    2. Acception
+       Sens dans lequel un mot est employé. Par exemple, on dira que le
+       mot canard a plusieurs acceptions : « volatile », « mauvais journal
+       », « couac », « sucre trempé dans un café », etc.
+     __________________________________________________________________
+
+     * Précédent
+     * Suivant
+     __________________________________________________________________
+
+     * Objectifs
+     * Introduction
+     * Origines et formation des mots
+     * Le sens des mots
+          + Introduction
+          + Sens propre et sens figuré
+          + Testez-vous
+          + Les relations sémantiques
+               o Introduction
+               o Les synonymes
+               o Définition
+               o Terminologie
+               o Les mots polysémiques
+               o Les antonymes
+               o Les homonymes
+               o Entraînez-vous
+          + Testez-vous
+          + Les paronymes
+          + Testez-vous
+          + Ressources complémentaires
+     * Lexique, texte, discours
+     * Un vocabulaire adapté
+     * Défis lexicaux
+     __________________________________________________________________
+
+     * Accueil
+     * Module
+     __________________________________________________________________
+
+   Geneviève Salvan Université Nice Sophia Antipolis - Université Côte
+   d'Azur | Paternité - Pas d'Utilisation Commerciale - Partage des
+   Conditions Initiales à l'Identique Réalisé avec Scenari (nouvelle
+   fenêtre)
