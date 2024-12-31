@@ -13,19 +13,36 @@
         }
 
         .hero {
-            background: rgba(255, 255, 255, 0.8);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            padding: 2rem 1rem;
+            background: url('./images/banner.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            padding: 4rem 1rem;
+            position: relative;
+        }
+
+        .hero .hero-content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 2rem;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 0 auto;
         }
 
         .title {
             font-family: 'Playfair Display', serif;
             font-size: 2.5rem;
-            color: #6b4226;
-        }
+            color: #fdfcfb;        }
+
         .subtitle {
             font-size: 1.2rem;
-            color: #8e6a4a;
+            color: #e8e8e8;
+        }
+
+        .navbar-item:hover {
+            background: #f3c5b3;
+            color: white;
+            transition: background 0.3s ease;
         }
 
         .button {
@@ -56,77 +73,111 @@
             text-decoration: underline;
         }
 
-        .profile img {
-            border-radius: 50%;
-            width: 128px;
-            height: 128px;
-        }
-
-        .profile {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
+       
+        .section-title {
+            color: #6b4226; 
         }
     </style>
 </head>
 <body>
+    <!-- Hero Section -->
     <section class="hero has-text-centered">
         <div class="hero-body">
-            <h1 class="title">Projet Légende</h1>
-            <p class="subtitle">Exploration des différents sens du mot "légende" en anglais, français, et arabe.</p>
+            <div class="hero-content">
+                <h1 class="title">Projet Légende</h1>
+                <p class="subtitle">Exploration des différents sens du mot "légende" en anglais, français, et arabe.</p>
+            </div>
         </div>
     </section>
 
+    <!-- Navigation Bar -->
     <nav class="navbar is-spaced has-shadow">
         <div class="navbar-menu is-centered">
-            <a class="navbar-item" href="#accueil">Accueil</a>
-            <a class="navbar-item" href="#tableaux">Tableaux</a>
-            <a class="navbar-item" href="#presentation">Présentation</a>
+            <a class="navbar-item" href="#accueil">🏠 Accueil</a>
+            <a class="navbar-item" href="#tableaux">📊 Tableaux</a>
+            <a class="navbar-item" href="#presentation">👤 Présentation</a>
         </div>
     </nav>
 
+    <!-- ici c la section Accueil -->
     <div id="accueil" class="section">
         <div class="container">
-            <h2 class="title">Bienvenue sur le projet Légende</h2>
+            <h2 class="title section-title">Bienvenue sur le projet Légende</h2>
             <p>Ce projet explore les différents sens du mot "légende" à travers plusieurs langues. Découvrez nos analyses dans les tableaux.</p>
         </div>
     </div>
 
+    <!-- ici c la section Tableaux -->
     <div id="tableaux" class="section">
         <div class="container">
-            <h2 class="title">Tableaux</h2>
+            <h2 class="title section-title">Tableaux</h2>
             <p>Explorez les différents sens du mot "légende" dans les langues sélectionnées :</p>
             <div class="buttons">
-                <a class="button" href="tableaux/anglais.html">Anglais</a>
-                <a class="button" href="tableaux/francais.html">Français</a>
-                <a class="button" href="tableaux/arabe.html">Arabe</a>
+                <a class="button" href="tableaux/anglais.html">📘 Anglais</a>
+                <a class="button" href="tableaux/francais.html">📕 Français</a>
+                <a class="button" href="tableaux/arabe.html">📗 Arabe</a>
             </div>
         </div>
     </div>
 
+    <!-- ici c Section Présentation -->
     <div id="presentation" class="section">
         <div class="container">
-            <h2 class="title">Présentation</h2>
-            <div class="profile">
-                <img src="./avatar/imagedothraki.jpeg" alt="Avatar de Oumaya">
-                <div>
-                    <h3>Oumaya Chelbi</h3>
-                    <p><a href="https://github.com/Oumaya-Chelbi/PPE1-2024oumaya" target="_blank">GitHub de Oumaya</a></p>
+            <h2 class="title section-title">Présentation</h2>
+            <div class="columns is-multiline">
+                <!-- Oumaya -->
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-left">
+                                    <figure class="image is-64x64">
+                                        <img src="./avatar/imagedothraki.jpeg" alt="Avatar de Oumaya">
+                                    </figure>
+                                </div>
+                                <div class="media-content">
+                                    <p class="title is-4">Oumaya Chelbi</p>
+                                    <a href="https://github.com/Oumaya-Chelbi/PPE1-2024oumaya" target="_blank">GitHub</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="profile">
-                <img src="./avatar/avatar.jpeg" alt="Avatar de Mickaëla">
-                <div>
-                    <h3>Mickaëla Masrodicasa</h3>
-                    <p><a href="https://github.com/mickaela-mstr/PPE1-2024moi.git" target="_blank">GitHub de Mickaëla</a></p>
+
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-left">
+                                    <figure class="image is-64x64">
+                                        <img src="./avatar/avatar.jpeg" alt="Avatar de Mickaëla">
+                                    </figure>
+                                </div>
+                                <div class="media-content">
+                                    <p class="title is-4">Mickaëla Masrodicasa</p>
+                                    <a href="https://github.com/mickaela-mstr/PPE1-2024moi.git" target="_blank">GitHub</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="profile">
-                <img src="./avatar/elf.jpeg" alt="Avatar de Zeineb">
-                <div>
-                    <h3>Zeineb Omar</h3>
-                    <p><a href="https://github.com/zeiiii1/PPE1_2024.git" target="_blank">GitHub de Zeineb</a></p>
+
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-left">
+                                    <figure class="image is-64x64">
+                                        <img src="./avatar/elf.jpeg" alt="Avatar de Zeineb">
+                                    </figure>
+                                </div>
+                                <div class="media-content">
+                                    <p class="title is-4">Zeinab Omar</p>
+                                    <a href="https://github.com/zeiiii1/PPE1_2024.git" target="_blank">GitHub</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -134,7 +185,7 @@
 
     <footer>
         <p>
-            Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeineb Omar.<br>
+            Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.<br>
             <a href="https://github.com/yourgithub" target="_blank">Voir le projet sur GitHub</a>
         </p>
     </footer>
