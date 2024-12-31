@@ -1,24 +1,27 @@
 #!/bin/bash
 
-# Dossiers et paramètres
 dossier_dumps="../dumps-text"
-dossier_concordances="../Concordances"
-langues=("français" "arabe" "anglais")
-mot="légende"
+dossier_concordances="../concordances"
 
-# Boucle sur les langues
+declare -A mots_etudies
+mots_etudies=(
+    ["anglais"]="legend"
+    ["francais"]="légende"
+    ["arabe"]="أسطورة"
+)
+
+langues=("anglais" "francais" "arabe")
+
 for langue in "${langues[@]}"; do
-    input_file="$dossier_dumps/$langue.txt"
-    output_file="$dossier_concordances/${langue}.html"
+    input_dir="$dossier_dumps/$langue"
+    output_dir="$dossier_concordances/$langue"
+    mot="${mots_etudies[$langue]}"
 
-    # Vérifie si le fichier source existe
-    if [[ ! -f "$input_file" ]]; then
-        echo "Le fichier source pour $langue est introuvable : $input_file"
-        continue
-    fi
+    for input_file in "$input_dir"/*.txt; do
+        base_name=$(basename "$input_file" .txt)
+        output_file="$output_dir/${base_name}.html"
 
-    # Début du fichier HTML
-    cat <<EOF > "$output_file"
+        cat <<EOF > "$output_file"
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -78,15 +81,13 @@ for langue in "${langues[@]}"; do
                 <tbody>
 EOF
 
-    # Extraction des contextes et ajout au tableau
-    grep -o ".\{0,30\}$mot.\{0,30\}" "$input_file" | while read -r line; do
-        contexte_gauche=$(echo "$line" | sed -E "s/(.*)$mot.*/\1/")
-        contexte_droit=$(echo "$line" | sed -E "s/.*$mot(.*)/\1/")
-        echo "                    <tr><td>${contexte_gauche}</td><td>${mot}</td><td>${contexte_droit}</td></tr>" >> "$output_file"
-    done
+        grep -a -o ".\{0,30\}$mot.\{0,30\}" "$input_file" | while read -r line; do
+            gauche=$(echo "$line" | sed -E "s/(.*)$mot.*/\1/")
+            droite=$(echo "$line" | sed -E "s/.*$mot(.*)/\1/")
+            echo "                    <tr><td>${gauche}</td><td>${mot}</td><td>${droite}</td></tr>" >> "$output_file"
+        done
 
-    # Fin du fichier HTML
-    cat <<EOF >> "$output_file"
+        cat <<EOF >> "$output_file"
                 </tbody>
             </table>
         </div>
@@ -98,7 +99,5 @@ EOF
 </body>
 </html>
 EOF
-
-    echo "Concordancier généré pour $langue dans $output_file"
+    done
 done
-
