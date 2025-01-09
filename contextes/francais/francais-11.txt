@@ -1,58 +1,534 @@
-    #La Bibliomaniaque » Flux La Bibliomaniaque » Flux des commentaires La
-   Bibliomaniaque » Des genres oraux : le conte, le mythe et la légende
-   Flux des commentaires alternate alternate La Bibliomaniaque
+../dumps-text/francais/francais-11.txt-    #La Bibliomaniaque » Flux La Bibliomaniaque » Flux des commentaires La
+../dumps-text/francais/francais-11.txt:   Bibliomaniaque » Des genres oraux : le conte, le mythe et la légende
+../dumps-text/francais/francais-11.txt-   Flux des commentaires alternate alternate La Bibliomaniaque
 --
-
-Des genres oraux : le conte, le mythe et la légende
-
-   Le conte, le mythe et la légende ont pour caractéristique commune
-   d’être, à la base, des histoires contées oralement. Bien souvent, elles
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:Des genres oraux : le conte, le mythe et la légende
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   Le conte, le mythe et la légende ont pour caractéristique commune
+../dumps-text/francais/francais-11.txt-   d’être, à la base, des histoires contées oralement. Bien souvent, elles
 --
-   à l’histoire qu’ils‧elles racontent oralement, que ce soit un mythe,
-   une légende… ou un conte! C’est au moment du passage à l’écrit, de la
-   fixation du texte, que la distinction vient plus souvent se faire. Et
+../dumps-text/francais/francais-11.txt-   à l’histoire qu’ils‧elles racontent oralement, que ce soit un mythe,
+../dumps-text/francais/francais-11.txt:   une légende… ou un conte! C’est au moment du passage à l’écrit, de la
+../dumps-text/francais/francais-11.txt-   fixation du texte, que la distinction vient plus souvent se faire. Et
 --
-   présenté sur le blogue Lireka, qui regroupe des contes, des mythes et
-   des légendes).
-
+../dumps-text/francais/francais-11.txt-   présenté sur le blogue Lireka, qui regroupe des contes, des mythes et
+../dumps-text/francais/francais-11.txt:   des légendes).
+../dumps-text/francais/francais-11.txt-
 --
-
-Le conte littéraire, le mythe et la légende
-
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:Le conte littéraire, le mythe et la légende
+../dumps-text/francais/francais-11.txt-
 --
-   histoires en tous genres, mais il reste possible de faire la
-   distinction entre le conte, le mythe et la légende.
-
+../dumps-text/francais/francais-11.txt-   histoires en tous genres, mais il reste possible de faire la
+../dumps-text/francais/francais-11.txt:   distinction entre le conte, le mythe et la légende.
+../dumps-text/francais/francais-11.txt-
 --
-
-La légende
-
-   Plus près du réel imaginable, la légende se situe dans un cadre
-   spatio-temporel plus précis. On peut penser aux textes de Fred Pellerin
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:La légende
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   Plus près du réel imaginable, la légende se situe dans un cadre
+../dumps-text/francais/francais-11.txt-   spatio-temporel plus précis. On peut penser aux textes de Fred Pellerin
 --
-
-   Certes, la légende se colle au réel, mais elle permet aussi des
-   éléments non prouvés scientifiquement, auxquels on adhère… ou pas!
-   C’est le cas par exemple des esprits qui prennent souvent place dans
-   les légendes québécoises (La Dame blanche, entre autres) ou des
-   créatures fantastiques comme le loup-garou ou le Sasquatch.
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   Certes, la légende se colle au réel, mais elle permet aussi des
+../dumps-text/francais/francais-11.txt-   éléments non prouvés scientifiquement, auxquels on adhère… ou pas!
+../dumps-text/francais/francais-11.txt-   C’est le cas par exemple des esprits qui prennent souvent place dans
+../dumps-text/francais/francais-11.txt:   les légendes québécoises (La Dame blanche, entre autres) ou des
+../dumps-text/francais/francais-11.txt-   créatures fantastiques comme le loup-garou ou le Sasquatch.
 --
-
-   Comme le conte, la légende se veut divertissante, mais aussi
-   moralisatrice. Les histoires racontées cherchent parfois à faire peur à
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   Comme le conte, la légende se veut divertissante, mais aussi
+../dumps-text/francais/francais-11.txt-   moralisatrice. Les histoires racontées cherchent parfois à faire peur à
 --
-   destruction de la nature [Les arbres qui saignent d’Abitibi]…). Dans
-   certains cas, comme le mythe, la légende renseigne sur des aspects du
-   mode de vie ou sur des lieux (La croix maudite de Causapscal, Le rocher
+../dumps-text/francais/francais-11.txt-   destruction de la nature [Les arbres qui saignent d’Abitibi]…). Dans
+../dumps-text/francais/francais-11.txt:   certains cas, comme le mythe, la légende renseigne sur des aspects du
+../dumps-text/francais/francais-11.txt-   mode de vie ou sur des lieux (La croix maudite de Causapscal, Le rocher
 --
-
-   En conclusion, le conte, le mythe et la légende sont des histoires
-   fictives issues de la tradition orale. Avec le temps, même si on couche
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   En conclusion, le conte, le mythe et la légende sont des histoires
+../dumps-text/francais/francais-11.txt-   fictives issues de la tradition orale. Avec le temps, même si on couche
 --
-
-   Catégorie: La lecture     Étiquettes : conte, légende, mythe
-   ← Cheval Indien
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:   Catégorie: La lecture     Étiquettes : conte, légende, mythe
+../dumps-text/francais/francais-11.txt-   ← Cheval Indien
 --
-
-1 Comments on “Des genres oraux : le conte, le mythe et la légende”
-
+../dumps-text/francais/francais-11.txt-
+../dumps-text/francais/francais-11.txt:1 Comments on “Des genres oraux : le conte, le mythe et la légende”
+../dumps-text/francais/francais-11.txt-
+--
+../dumps-text/francais/francais-13.txt-
+../dumps-text/francais/francais-13.txt:   L’importance des légendes et annotations dans vos albums photos
+../dumps-text/francais/francais-13.txt-
+../dumps-text/francais/francais-13.txt:   Les légendes préservent la mémoire en fournissant un contexte et en
+../dumps-text/francais/francais-13.txt-   reliant les événements aux histoires personnelles. Elles renforcent
+--
+../dumps-text/francais/francais-13.txt-   générations futures de se connecter à leurs racines. De plus, les
+../dumps-text/francais/francais-13.txt:   légendes offrent une occasion de réflexion et d'introspection, en
+../dumps-text/francais/francais-13.txt-   permettant de revisiter le passé et d'en tirer des leçons de vie
+--
+../dumps-text/francais/francais-13.txt-
+../dumps-text/francais/francais-13.txt:   L’importance des légendes et annotations dans vos albums photos
+../dumps-text/francais/francais-13.txt-
+--
+../dumps-text/francais/francais-13.txt-   Les photos figent des instants, mais sans contexte, ces instants
+../dumps-text/francais/francais-13.txt:   peuvent perdre leur signification avec le temps. Une légende bien
+../dumps-text/francais/francais-13.txt-   rédigée apporte du contexte, permettant aux générations futures de
+--
+../dumps-text/francais/francais-13.txt-
+../dumps-text/francais/francais-13.txt:   Les légendes et annotations peuvent évoquer des émotions qui vont
+../dumps-text/francais/francais-13.txt-   au-delà de ce qui est visible sur la photo elle-même. Elles capturent
+--
+../dumps-text/francais/francais-13.txt-
+../dumps-text/francais/francais-13.txt:   Revenir sur un album photo enrichi de légendes et d'annotations peut
+../dumps-text/francais/francais-13.txt-   être une expérience profondément réfléchissante. Ces notes offrent une
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Guide de l'esprit : Comment rédiger une légende de chiffre
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Vous avez du mal à créer la légende de la silhouette parfaite ? Ne
+../dumps-text/francais/francais-2.txt-   cherchez plus ! Nos conseils d'experts vous aideront à créer des
+--
+../dumps-text/francais/francais-2.txt-   02/09/2024
+../dumps-text/francais/francais-2.txt:   comment rédiger la légende d'une figure
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   u premier coup d'œil, la légende d'une figure peut sembler n'être
+../dumps-text/francais/francais-2.txt:   qu'une simple légende sous une image. Mais si vous vous êtes déjà
+../dumps-text/francais/francais-2.txt-   interrogé sur les histoires qui se cachent derrière les découvertes
+--
+../dumps-text/francais/francais-2.txt-   ces brèves descriptions ont un poids qui va au-delà du nombre de mots
+../dumps-text/francais/francais-2.txt:   qu'elles contiennent. Apprendre à rédiger une légende de chiffres
+../dumps-text/francais/francais-2.txt-   revient à maîtriser l'art de la narration, où chaque mot compte et où
+--
+../dumps-text/francais/francais-2.txt-   Si vous êtes prêt à transformer de simples images en récits épiques de
+../dumps-text/francais/francais-2.txt:   quêtes scientifiques, plongeons dans l'élaboration de légendes
+../dumps-text/francais/francais-2.txt-   chiffrées convaincantes qui constitueront les piliers de la
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Qu'est-ce qu'une légende chiffrée ?
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Définition d'une légende de chiffres
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Lorsque nous parlons de légende des figures, nous faisons référence au
+../dumps-text/francais/francais-2.txt-   bloc de texte qui accompagne les figures - qu'il s'agisse de
+--
+../dumps-text/francais/francais-2.txt-   matériel d'illustration - dans les articles, les rapports et les
+../dumps-text/francais/francais-2.txt:   présentations scientifiques. La légende d'une figure sert de guide :
+../dumps-text/francais/francais-2.txt-   elle explique ce que le public voit sans nécessiter d'explications
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Objectif et importance d'une légende dans un document scientifique
+../dumps-text/francais/francais-2.txt-
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Éléments à inclure dans la légende d'une figure
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   L'élaboration d'une légende attrayante est cruciale pour la clarté et
+../dumps-text/francais/francais-2.txt-   la compréhension. Plusieurs éléments clés doivent être pris en compte
+../dumps-text/francais/francais-2.txt:   pour rédiger efficacement une légende de figure.
+../dumps-text/francais/francais-2.txt-
+--
+../dumps-text/francais/francais-2.txt-   En suivant ces instructions avec diligence tout en rédigeant chaque
+../dumps-text/francais/francais-2.txt:   élément nécessaire à la légende d'une figure, vous posez des piliers
+../dumps-text/francais/francais-2.txt-   solides qui soutiennent la clarté et la facilité d'interprétation,
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Conseils pour rédiger une légende efficace
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   La création d'une légende qui se distingue par sa clarté et son utilité
+../dumps-text/francais/francais-2.txt-   n'a rien de décourageant. En adoptant quelques pratiques stratégiques,
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Pour communiquer efficacement par le biais de votre légende,
+../dumps-text/francais/francais-2.txt-   l'équilibre est essentiel. Essayez d'être succinct sans sacrifier
+--
+../dumps-text/francais/francais-2.txt-   raison d'être - il n'y a pas de place pour le superflu ! Mais n'oubliez
+../dumps-text/francais/francais-2.txt:   pas que si la concision peut renforcer l'impact de votre légende, elle
+../dumps-text/francais/francais-2.txt-   ne doit pas se faire au détriment des détails nécessaires. Veillez à ce
+--
+../dumps-text/francais/francais-2.txt-Utilisez un format cohérent : Respectez un format cohérent pour toutes les
+../dumps-text/francais/francais-2.txt:légendes des figures de votre document.
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt-   La cohérence est essentielle ; c'est comme un fil visuel qui relie
+../dumps-text/francais/francais-2.txt:   toutes les pièces de votre puzzle. Si vous présentez une légende sous
+../dumps-text/francais/francais-2.txt-   la forme d'un paragraphe descriptif et une autre sous la forme de
+--
+../dumps-text/francais/francais-2.txt-   format - qu'il s'agisse de phrases complètes ou de descriptions
+../dumps-text/francais/francais-2.txt:   fragmentées - et respectez-le pour toutes les légendes. Cette cohérence
+../dumps-text/francais/francais-2.txt-   permet d'établir un rythme qui facilite la digestion du contenu et de
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Lorsqu'il s'agit de rédiger la légende d'une figure, la spécificité
+../dumps-text/francais/francais-2.txt-   n'est pas négociable. Imaginez que vous accompagniez quelqu'un dans la
+--
+../dumps-text/francais/francais-2.txt-   L'objectif est d'éclairer et non de submerger ; il est donc primordial
+../dumps-text/francais/francais-2.txt:   de prêter attention à la longueur lors de la rédaction des légendes. Un
+../dumps-text/francais/francais-2.txt-   paragraphe difficile à lire dans une police minuscule nuit autant à la
+--
+../dumps-text/francais/francais-2.txt-   Veillez également à la lisibilité - utilisez une taille de police
+../dumps-text/francais/francais-2.txt:   cohérente avec le corps du texte et la légende des figures afin que les
+../dumps-text/francais/francais-2.txt-   yeux puissent passer facilement du texte aux figures sans fatigue ni
+--
+../dumps-text/francais/francais-2.txt-       religieusement à ces suggestions sur la façon de rédiger une
+../dumps-text/francais/francais-2.txt:       légende de figure, vous préparez le terrain où la compréhension
+../dumps-text/francais/francais-2.txt-       germe facilement - un objectif primordial dans la communication
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Exemples de légendes de figures
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt-   Donner vie à vos données par le biais de visuels fait partie intégrante
+../dumps-text/francais/francais-2.txt:   de la communication scientifique, et une légende de figure bien rédigée
+../dumps-text/francais/francais-2.txt-   peut faire ou défaire l'efficacité de ces images. Ci-dessous, je vous
+../dumps-text/francais/francais-2.txt:   propose trois exemples de légendes de figures pour illustrer la manière
+../dumps-text/francais/francais-2.txt:   de rédiger une légende de figure dans différents contextes.
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Exemple 1 : Légende d'un diagramme à barres illustrant la croissance de la
+../dumps-text/francais/francais-2.txt-population au fil du temps
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Exemple 2 : Légende d'une image microscopique montrant des structures
+../dumps-text/francais/francais-2.txt-cellulaires
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Exemple 3 : Légende d'un graphique linéaire représentant des changements de
+../dumps-text/francais/francais-2.txt-température
+--
+../dumps-text/francais/francais-2.txt-   Dans tous ces exemples, vous remarquerez que la spécificité est
+../dumps-text/francais/francais-2.txt:   essentielle : chaque légende fournit juste assez de détails pour être
+../dumps-text/francais/francais-2.txt-   claire, sans pour autant être surchargée d'informations. Elles sont à
+--
+../dumps-text/francais/francais-2.txt-   résultats de l'étude, des expériences réalisées, des sections sur les
+../dumps-text/francais/francais-2.txt:   méthodes ou des observations - autant d'éléments que toute légende de
+../dumps-text/francais/francais-2.txt-   figure efficace devrait s'efforcer d'inclure.
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Bonnes pratiques pour la mise en forme de la légende d'une figure
+../dumps-text/francais/francais-2.txt-
+--
+../dumps-text/francais/francais-2.txt-   tout aussi importante que le texte qui les accompagne. Apprendre à
+../dumps-text/francais/francais-2.txt:   rédiger la légende d'une figure ne se limite pas à la précision des
+../dumps-text/francais/francais-2.txt-   faits ; il faut aussi avoir l'œil pour la conception et respecter des
+--
+../dumps-text/francais/francais-2.txt-   régissent non seulement le langage que vous utilisez dans la rédaction
+../dumps-text/francais/francais-2.txt:   des légendes, mais aussi la façon dont vos légendes de figures sont
+../dumps-text/francais/francais-2.txt-   structurées. Avant de mettre le stylo sur le papier - ou les doigts sur
+--
+../dumps-text/francais/francais-2.txt-   un rôle fondamental dans la transmission efficace des connaissances.
+../dumps-text/francais/francais-2.txt:   Pour y parvenir avec vos légendes chiffrées, pensez à.. :
+../dumps-text/francais/francais-2.txt-    1. Taille de la police : Elle doit être suffisamment grande pour être
+--
+../dumps-text/francais/francais-2.txt-       peuvent nuire à la facilité de compréhension.
+../dumps-text/francais/francais-2.txt:    4. Cohérence de la mise en page : L'uniformité de toutes les légendes
+../dumps-text/francais/francais-2.txt-       aide les lecteurs à passer d'une figure à l'autre sans les chocs
+--
+../dumps-text/francais/francais-2.txt-   pratiques permettent de transformer des informations visuelles
+../dumps-text/francais/francais-2.txt:   complexes en idées digestes grâce à des légendes de figures claires et
+../dumps-text/francais/francais-2.txt-   captivantes qui complètent la rédaction de la recherche et élucident
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Erreurs courantes à éviter dans la rédaction des légendes des figures
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Rédiger la légende d'une figure peut sembler simple jusqu'à ce que vous
+../dumps-text/francais/francais-2.txt-   soyez accaparé par votre clavier et que vous essayiez de trouver la
+--
+../dumps-text/francais/francais-2.txt-   tout sous contrôle. Mais n'ayez crainte ! Je suis là pour vous guider à
+../dumps-text/francais/francais-2.txt:   travers les pièges les plus courants de l'élaboration de légendes
+../dumps-text/francais/francais-2.txt-   légendaires.
+--
+../dumps-text/francais/francais-2.txt-   Lorsque je dis que les détails importants sont cruciaux, je veux dire
+../dumps-text/francais/francais-2.txt:   qu'ils sont le pain et le beurre de la légende de votre figure. Un
+../dumps-text/francais/francais-2.txt-   visuel séduisant peut perdre de son charme si l'observateur doit se
+--
+../dumps-text/francais/francais-2.txt-   L'omission d'éléments cruciaux s'accompagne d'un autre faux pas :
+../dumps-text/francais/francais-2.txt:   l'encombrement d'une légende avec des éléments qui devraient plutôt
+../dumps-text/francais/francais-2.txt-   faire partie de textes complets ailleurs dans votre document. Lorsque
+../dumps-text/francais/francais-2.txt:   vous apprenez à rédiger une légende, il est essentiel de trouver un
+../dumps-text/francais/francais-2.txt-   équilibre entre l'information et l'excès d'informations.
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Le point clé de l'art est de s'assurer que les légendes servent de
+../dumps-text/francais/francais-2.txt-   guides utiles sans se transformer en distractions indésirables de
+--
+../dumps-text/francais/francais-2.txt-   N'oubliez pas que l'ambiguïté n'est souvent qu'une spécificité qui
+../dumps-text/francais/francais-2.txt:   attend d'être découverte. Une légende claire comme de l'eau de roche
+../dumps-text/francais/francais-2.txt-   reflète l'attention portée non seulement à la précision des images,
+--
+../dumps-text/francais/francais-2.txt-   En évitant ces erreurs courantes lorsque vous cherchez à rédiger une
+../dumps-text/francais/francais-2.txt:   légende de chiffres, vous parviendrez à combler le fossé entre des
+../dumps-text/francais/francais-2.txt-   images accrocheuses et des informations indispensables, en rédigeant
+../dumps-text/francais/francais-2.txt:   des légendes de chiffres efficaces qui non seulement décrivent, mais
+../dumps-text/francais/francais-2.txt-   aussi éclairent véritablement les histoires de la science.
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Révision et édition de la légende de la figure
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   La rédaction d'une légende parfaite ne s'arrête pas à la rédaction
+../dumps-text/francais/francais-2.txt:   initiale. En fait, s'assurer que chaque légende est aussi claire et
+../dumps-text/francais/francais-2.txt-   précise que possible nécessite un processus diligent de révision et
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Relisez et révisez votre légende pour plus de clarté et d'exactitude.
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Lorsque j'entreprends d'affiner la légende d'une figure, je cherche
+../dumps-text/francais/francais-2.txt-   avant tout à en améliorer la clarté et la précision. N'oubliez pas que,
+../dumps-text/francais/francais-2.txt:   même si l'étude est révolutionnaire, des légendes peu claires peuvent
+../dumps-text/francais/francais-2.txt-   masquer son impact et déconcerter les lecteurs. Suivez les étapes
+../dumps-text/francais/francais-2.txt-   suivantes pour renforcer votre processus de révision :
+../dumps-text/francais/francais-2.txt:    1. Lire à haute voix : Je trouve utile de lire la légende à haute
+../dumps-text/francais/francais-2.txt-       voix. Cela permet de repérer les formulations maladroites ou les
+--
+../dumps-text/francais/francais-2.txt-   choix des mots et en comparant les affirmations aux représentations
+../dumps-text/francais/francais-2.txt:   visuelles, nous ouvrons la voie à une légende de figure soignée qui
+../dumps-text/francais/francais-2.txt-   contribue positivement à notre communication scientifique.
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Au-delà de la révision individuelle, l'alignement de la légende de
+../dumps-text/francais/francais-2.txt-   votre figure avec d'autres éléments importants de votre document est
+--
+../dumps-text/francais/francais-2.txt-       (comme la mise en majuscule de certains termes) sont uniformes dans
+../dumps-text/francais/francais-2.txt:       toutes les légendes du document.
+../dumps-text/francais/francais-2.txt-
+--
+../dumps-text/francais/francais-2.txt-     * La vérification est essentielle ; chaque explication dans votre
+../dumps-text/francais/francais-2.txt:       légende est-elle corroborée par les discussions dans les sections
+../dumps-text/francais/francais-2.txt-       connexes ? Il s'agit notamment du matériel d'introduction, des
+--
+../dumps-text/francais/francais-2.txt-   Pour résumer ces pratiques, rappelez-vous toujours qu'apprendre à
+../dumps-text/francais/francais-2.txt:   rédiger une légende de tableau ou une légende de figure implique
+../dumps-text/francais/francais-2.txt-   impérativement de polir les ébauches pour en faire des tranches
+--
+../dumps-text/francais/francais-2.txt-   touches à leurs chefs-d'œuvre, les scientifiques doivent consacrer du
+../dumps-text/francais/francais-2.txt:   temps à la mise au point de leurs figures et de leurs légendes de
+../dumps-text/francais/francais-2.txt-   tableaux pour les moments cruciaux de l'examen par les pairs, lorsque
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Article connexe : Le guide ultime des légendes de figures et de
+../dumps-text/francais/francais-2.txt-   tableaux
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Conclusion - Importance d'une légende chiffrée bien rédigée
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt-   En naviguant dans les moindres détails de la rédaction d'une bonne
+../dumps-text/francais/francais-2.txt:   légende de chiffres, nous avons couvert un terrain essentiel. Ce voyage
+../dumps-text/francais/francais-2.txt:   a mis en évidence le fait que l'élaboration d'une légende de chiffres
+../dumps-text/francais/francais-2.txt-   bien articulée est à la fois un art et une science - une fusion de
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Nous avons commencé par définir ce qu'est une légende de chiffres et
+../dumps-text/francais/francais-2.txt-   avons rapidement compris son rôle essentiel dans la communication
+../dumps-text/francais/francais-2.txt:   scientifique. Sachant qu'une bonne légende sert de guide à travers les
+../dumps-text/francais/francais-2.txt-   données visuelles, il est évident qu'elle doit être d'une grande
+../dumps-text/francais/francais-2.txt:   précision. Une légende efficace englobe :
+../dumps-text/francais/francais-2.txt-     * A un titre clair et concis qui ouvre la voie à la compréhension.
+--
+../dumps-text/francais/francais-2.txt-   La concision, sans lésiner sur les détails cruciaux, a été érigée en
+../dumps-text/francais/francais-2.txt:   meilleure pratique lors de la création de vos propres légendes. En
+../dumps-text/francais/francais-2.txt-   outre, le respect d'un format cohérent garantit une lecture sans faille
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:Souligner l'importance de légendes de figures claires et informatives dans la
+../dumps-text/francais/francais-2.txt-rédaction scientifique
+--
+../dumps-text/francais/francais-2.txt-   Pour conclure, ne sous-estimons pas l'importance statistique du pouvoir
+../dumps-text/francais/francais-2.txt:   transformateur de la rédaction d'une excellente légende de figure dans
+../dumps-text/francais/francais-2.txt:   la diffusion scientifique. Claires et informatives, les légendes de
+../dumps-text/francais/francais-2.txt-   figures bien rédigées renforcent la compréhension des résultats clés ;
+--
+../dumps-text/francais/francais-2.txt-   des entités autonomes - elles tirent leur souffle d'autres aspects de
+../dumps-text/francais/francais-2.txt:   leurs légendes. Ainsi, l'acquisition de compétences dans la rédaction
+../dumps-text/francais/francais-2.txt:   d'une légende n'est pas seulement une question de rigueur académique ;
+../dumps-text/francais/francais-2.txt-   il s'agit de promouvoir la transparence et d'améliorer l'engagement
+--
+../dumps-text/francais/francais-2.txt-
+../dumps-text/francais/francais-2.txt:   Une légende bien conçue permet de faire avancer les récits
+../dumps-text/francais/francais-2.txt-   scientifiques. Après tout, à quoi servent les données révolutionnaires
+--
+../dumps-text/francais/francais-2.txt-   Lorsque les créateurs, armés de connaissances, imprègnent leurs
+../dumps-text/francais/francais-2.txt:   illustrations d'une clarté lumineuse - rendue par des légendes
+../dumps-text/francais/francais-2.txt-   méticuleusement rédigées - ils offrent à leur public la lentille à
+--
+../dumps-text/francais/francais-2.txt-   Articles connexes
+../dumps-text/francais/francais-2.txt:     * légende des tableaux
+../dumps-text/francais/francais-2.txt:       Le guide ultime de la légende des figures et des tableaux
+../dumps-text/francais/francais-2.txt-     * giphy-9
+--
+../dumps-text/francais/francais-4.txt-     * Début
+../dumps-text/francais/francais-4.txt:     * 1 Légende et mythe
+../dumps-text/francais/francais-4.txt:     * 2 Origines des légendes
+../dumps-text/francais/francais-4.txt-     * 3 Notes et références
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:Légende
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Pour les articles homonymes, voir Légende (homonymie).
+../dumps-text/francais/francais-4.txt-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+--
+../dumps-text/francais/francais-4.txt-   sources ?
+../dumps-text/francais/francais-4.txt:   [220px-Reynard-the-fox.jpg] La légende médiévale de Renard.
+../dumps-text/francais/francais-4.txt:   [220px-Leighton-Alain_Chartier-1903.jpg] La légende d'Alain Chartier
+../dumps-text/francais/francais-4.txt-   (1903).
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Une légende (de l'adjectif verbal latin legenda, « qui doit être lue »)
+../dumps-text/francais/francais-4.txt-   est, à l’origine, un récit mis par écrit pour être lu publiquement :
+--
+../dumps-text/francais/francais-4.txt-   lors de la fête d’un saint. Au XVI^e siècle s'opère un glissement de
+../dumps-text/francais/francais-4.txt:   sens, la légende devenant un récit à caractère merveilleux où les faits
+../dumps-text/francais/francais-4.txt-   historiques sont transformés par l'imagination populaire ou l'invention
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Le légendaire désigne l'auteur, le compilateur de légendes mais aussi
+../dumps-text/francais/francais-4.txt:   le recueil de légendes.
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Le légendier est un recueil de vies de saints sous forme de légendes
+../dumps-text/francais/francais-4.txt-   hagiographiques qui ont plus un rôle liturgique et commémoratif que
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:Légende et mythe
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   La légende diffère du mythe en ce qu'une légende tient de faits réels ;
+../dumps-text/francais/francais-4.txt-   une histoire est racontée puis est transmise par oral d'où les
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Le récit fictif dans les légendes, mythes, contes et fables, est le
+../dumps-text/francais/francais-4.txt:   plus souvent d'origine orale et fait appel au merveilleux. Une légende
+../dumps-text/francais/francais-4.txt-   est fortement liée à un élément clé, ceci est précisé et se concentre
+../dumps-text/francais/francais-4.txt-   sur un lieu, un objet, un personnage, une histoire, etc. Au fil du
+../dumps-text/francais/francais-4.txt:   temps, la légende peut évoluer en mythe pour les sociétés futures, car
+../dumps-text/francais/francais-4.txt-   elle perd en précision et gagne en fantaisie et en amplification, et
+../dumps-text/francais/francais-4.txt:   s'oriente vers du mystique. Ainsi, dans une légende, il peut y avoir
+../dumps-text/francais/francais-4.txt-   une partie mythe, comme pour ce qui est d'Héraclès, le héros Grec,
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Dans le langage courant, les notions de mythe, de légende, de conte et
+../dumps-text/francais/francais-4.txt-   de fable sont souvent confondues^[4]. Néanmoins, le mythe renvoie à une
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:Origines des légendes
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-
+../dumps-text/francais/francais-4.txt:   Jean-Pierre Bayard, dans son Histoire des légendes, énumère une dizaine
+../dumps-text/francais/francais-4.txt:   de théories relatives aux origines des légendes. La théorie
+../dumps-text/francais/francais-4.txt-   anthropologique, soutenue par Henri Gaidoz, Wilhelm Mannhardt et Edward
+../dumps-text/francais/francais-4.txt:   Tylor, postule que les légendes proviendraient de pensées humaines
+../dumps-text/francais/francais-4.txt-   primitives, de restes de religions et cultures élémentaires. La théorie
+../dumps-text/francais/francais-4.txt:   astrale ou naturaliste considère les contes et les légendes
+../dumps-text/francais/francais-4.txt-   étiologiques comme divinisant les grandes manifestations de la nature.
+--
+../dumps-text/francais/francais-4.txt-   Gubernatis, à un naturalisme enfantin, Schelling, à la conscience
+../dumps-text/francais/francais-4.txt:   individuelle du peuple qui ajoute aux légendes créées une signification
+../dumps-text/francais/francais-4.txt:   religieuse. La théorie linguistique considère que les légendes sont
+../dumps-text/francais/francais-4.txt-   issues de la transmission de récits entre plusieurs peuples qui
+--
+../dumps-text/francais/francais-4.txt-   [modifier | modifier le code]
+../dumps-text/francais/francais-4.txt:    1. ↑ Bernard Merdrignac, Les saints bretons entre légendes et
+../dumps-text/francais/francais-4.txt-       histoire, Presses universitaires de Rennes, 2015, p. 11.
+--
+../dumps-text/francais/francais-4.txt-       Éditions, 2012, p. 84.
+../dumps-text/francais/francais-4.txt:    5. ↑ Jean-Pierre Bayard, Histoire des légendes, PUF, 1970, p. 22-28.
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-   Sur les autres projets Wikimedia :
+../dumps-text/francais/francais-4.txt:     * légende, sur le Wiktionnaire
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-   [modifier | modifier le code]
+../dumps-text/francais/francais-4.txt:   Une catégorie est consacrée à ce sujet : Légende.
+../dumps-text/francais/francais-4.txt-     * Liste de créatures légendaires
+--
+../dumps-text/francais/francais-4.txt-     * Hagiographie
+../dumps-text/francais/francais-4.txt:     * Légendes au sujet des Templiers
+../dumps-text/francais/francais-4.txt:          + Légende dorée
+../dumps-text/francais/francais-4.txt:          + Légende noire
+../dumps-text/francais/francais-4.txt:     * Légende urbaine : la légende urbaine est la nouvelle légende. Les
+../dumps-text/francais/francais-4.txt-       lieux publics et la technologie en sont les meilleurs sujets.
+--
+../dumps-text/francais/francais-4.txt-          + Tchéquie
+../dumps-text/francais/francais-4.txt:     * Une exposition itinérante sur les mythes et légendes
+../dumps-text/francais/francais-4.txt-     * La Bibliothèque d'Ygora
+../dumps-text/francais/francais-4.txt:     * Centre des Légendes et d'Elficologie
+../dumps-text/francais/francais-4.txt-
+--
+../dumps-text/francais/francais-4.txt-   Ce document provient de
+../dumps-text/francais/francais-4.txt:   « https://fr.wikipedia.org/w/index.php?title=Légende&oldid=220880816 ».
+../dumps-text/francais/francais-4.txt-   Catégories :
+../dumps-text/francais/francais-4.txt:     * Légende
+../dumps-text/francais/francais-4.txt-     * Genre et forme littéraire
+--
+../dumps-text/francais/francais-5.txt-
+../dumps-text/francais/francais-5.txt:Exemple : Légende
+../dumps-text/francais/francais-5.txt-
+../dumps-text/francais/francais-5.txt:   Le mot légende pourra, selon les contextes, désigner un court texte
+../dumps-text/francais/francais-5.txt:   placé sous une photographie ou une histoire merveilleuse (la légende de
+../dumps-text/francais/francais-5.txt:   Merlin l'enchanteur). Étymologiquement, légende vient du latin legenda,
+../dumps-text/francais/francais-5.txt-   qui signifie proprement « ce qui doit être lu ».
+--
+../dumps-text/francais/francais-6.txt-
+../dumps-text/francais/francais-6.txt:Chapitre I - Légende et histoire
+../dumps-text/francais/francais-6.txt-
+--
+../dumps-text/francais/francais-6.txt-
+../dumps-text/francais/francais-6.txt:   Chapitre I - Légende et histoire. In : Le légendaire au XIXe siècle.
+../dumps-text/francais/francais-6.txt-   Paris cedex 14, Presses Universitaires de France. Perspectives
+--
+../dumps-text/francais/francais-6.txt-
+../dumps-text/francais/francais-6.txt:   « Chapitre I - Légende et histoire ». Le légendaire au XIXe siècle,
+../dumps-text/francais/francais-6.txt-   Presses Universitaires de France, 1997. p.115-142. CAIRN.INFO,
+--
+../dumps-text/francais/francais-6.txt-
+../dumps-text/francais/francais-6.txt:   (1997) . Chapitre I - Légende et histoire. Le légendaire au
+../dumps-text/francais/francais-6.txt-   XIXe siècle. ( p. 115 -142 ). Presses Universitaires de France.
+--
+../dumps-text/francais/francais-6.txt-   Depuis qu’Hérodote et Thucydide ont engagé la lutte de l’Histoire
+../dumps-text/francais/francais-6.txt:   contre la légende, leurs rapports sont ceux d’un couple mal assorti,
+../dumps-text/francais/francais-6.txt-   oscillant entre rupture et réconciliation. Ces conflits opposent à la
+../dumps-text/francais/francais-6.txt:   légende l’Histoire comme écriture et comme devenir, les deux ensemble
+../dumps-text/francais/francais-6.txt-   soudés dans le devenir des formes. « Hérodote vint, écrit Mérimée, qui
+--
+../dumps-text/francais/francais-6.txt-   jusqu’aux confins de la barbarie, achève ce mouvement de destruction de
+../dumps-text/francais/francais-6.txt:   la légende par le devenir historique (cela s’appelle le progrès).
+../dumps-text/francais/francais-6.txt-   L’Histoire alors, comme écriture, a pour devoir de conserver ce qu’en
+--
+../dumps-text/francais/francais-6.txt-   désigne en français depuis le XIXe siècle à la fois un processus et une
+../dumps-text/francais/francais-6.txt:   écriture, aggrave son conflit avec la légende.
+../dumps-text/francais/francais-6.txt-   D’autre part, la question de la relation conflictuelle entre forme
+--
+../dumps-text/francais/francais-6.txt-   façon, en instance de vérité suprême, à l’aune de laquelle est jugée la
+../dumps-text/francais/francais-6.txt:   légende…
+../dumps-text/francais/francais-6.txt-     __________________________________________________________________
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:Rumeurs et légendes urbaines 2022
+../dumps-text/francais/francais-7.txt-
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:Chapitre IV. L’analyse externe des légendes urbaines
+../dumps-text/francais/francais-7.txt-
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:   Chapitre IV. L’analyse externe des légendes urbaines. In : Rumeurs et
+../dumps-text/francais/francais-7.txt:   légendes urbaines. Paris cedex 14, Presses Universitaires de France.
+../dumps-text/francais/francais-7.txt-   Que sais-je ? p.69-83. URL :
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:   « Chapitre IV. L’analyse externe des légendes urbaines ». Rumeurs et
+../dumps-text/francais/francais-7.txt:   légendes urbaines, Presses Universitaires de France, 2022. p.69-83.
+../dumps-text/francais/francais-7.txt-   CAIRN.INFO,
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:   (2022) . Chapitre IV. L’analyse externe des légendes urbaines. Rumeurs
+../dumps-text/francais/francais-7.txt:   et légendes urbaines. ( p. 69 -83 ). Presses Universitaires de France.
+../dumps-text/francais/francais-7.txt-   https://shs.cairn.info/rumeurs-et-legendes-urbaines--9782715409613-page
+--
+../dumps-text/francais/francais-7.txt-
+../dumps-text/francais/francais-7.txt:   L’étude des légendes urbaines nécessite le recours à deux types de
+../dumps-text/francais/francais-7.txt-   méthodes complémentaires. D’une part, les récits seront étudiés de
+--
+../dumps-text/francais/francais-7.txt-   contenus, explicites et implicites (chap. v). Le but recherché est
+../dumps-text/francais/francais-7.txt:   d’ajuster les deux approches afin de comprendre pourquoi une légende
+../dumps-text/francais/francais-7.txt-   circule.
+--
+../dumps-text/francais/francais-7.txt-   mythe n’était pas un récit isolé, mais la somme de ses variantes. Il en
+../dumps-text/francais/francais-7.txt:   est de même pour la légende moderne. Une seule occurrence est
+../dumps-text/francais/francais-7.txt-   insuffisante, car, d’une part, elle ne permet pas de dégager les traits
