@@ -1,0 +1,72 @@
+
+Local Legends
+
+--
+
+   The Local Legend (LCL) achievement is awarded to the athlete who
+   completes a given segment the most over a rolling 90-day period
+--
+
+   The segment details page will display a Local Legend section listing
+   the leading athlete. Strava subscribers can tap on this section to see
+--
+
+   To earn the Local Legend achievement, you must match to the segment
+   more times than any other athlete in the past 90 days.
+--
+
+   You will receive a Local Legends "Laurel" crown icon next to the
+   segment on your activity page as well as on the segment details page.
+   To view all your local legends' achievements, from the mobile app, open
+   the You tab and tap your profile picture from the top navigation bar.
+   Select Segments > Local Legends on the next page. From the Strava
+   website, hover over your profile picture in the upper right and select
+   My Profile > Local Legends.
+
+   Segment efforts completed before the day the segment was created will
+   not count towards Local Legends. This means that you may see less than
+   90 days of activity on segments that were recently created.
+
+Opting Out of Local Legends
+
+   Activities will only count towards the Local Legends feature if their
+   privacy settings are adjusted to "Everyone". You can opt out of all
+   Local Legends competitions from the Local Legends section of any
+   eligible segment or from your privacy settings page. Once you’ve left
+   Local Legends, your activities will not be counted towards a Local
+   Legends achievement on any segment. If you’d like to rejoin again in
+   the future, only activities from the day you rejoin and on will be
+--
+            Icon.jpg icon in the upper right corner of the You tab.
+               o Tap Privacy Controls > Local Legends > select No One
+          + To open a segment page, select Maps > Segments.
+--
+               o Tap on the ellipsis or "i" icon in the upper right-hand
+                 corner then select Leave Local Legends and follow the
+                 prompt to confirm your choice.
+--
+               o Select Privacy Controls from the left-hand navigation
+                 menu and choose No One under Local Legends.
+          + To open a segment page, select Maps from the top navigation
+--
+               o Click on a segment from the map > View Details.
+               o Select View Local Legends Stats from the bottom
+                 right-hand side of the page.
+               o Select the ellipsis icon from the next page to view the
+                 option to Leave Local Legends.
+                 EN_English1.png
+
+Local Legends on Zwift Segments
+
+   As of October 2021, select segments from Zwift are eligible for Local
+   Legends achievements. Email notifications about LCL achievements on
+   Zwift segments will not be sent initially. In the future, notifications
+--
+
+   Currently, Local Legends is only available for select Zwift segments.
+   There’s no way to add Local Legends to a segment that doesn’t already
+   have it, depending on popularity and engagement segments may be added
+--
+
+Can I unsubscribe from emails about the Local Legends' achievements?
+

@@ -1,7 +1,7 @@
 
-Exemple : >>>légende<<<
+Exemple : Légende
 
-   Le mot >>>légende<<< pourra, selon les contextes, désigner un court texte
-   placé sous une photographie ou une histoire merveilleuse (la >>>légende<<< de
-   Merlin l'enchanteur). Étymologiquement, >>>légende<<< vient du latin legenda,
+   Le mot légende pourra, selon les contextes, désigner un court texte
+   placé sous une photographie ou une histoire merveilleuse (la légende de
+   Merlin l'enchanteur). Étymologiquement, légende vient du latin legenda,
    qui signifie proprement « ce qui doit être lu ».

@@ -20,30 +20,29 @@ ESPN
      *
      * scores
 
-   NEW! Find where to watch all of your favorite sports!
-
      * NFL
      * NBA
      * NCAAF
      * NHL
+     * NCAAM
+     * NCAAW
      * Soccer
-     * MLB
-     * MMA
      * More Sports
           + Boxing
           + CFL
           + NCAA
           + Cricket
           + F1
+          + Gaming
           + Golf
           + Horse
           + LLWS
+          + MLB
+          + MMA
           + NASCAR
           + NLL
           + NBA G League
           + NBA Summer League
-          + NCAAM
-          + NCAAW
           + NWSL
           + Olympics
           + PLL
@@ -70,116 +69,124 @@ ESPN
 
    ESPN's top 100 professional athletes of the 21st century: Unveiling
    1-25
-   166dESPN
-   Lions survive the 49ers' first-half surge, secure 8-0 road record
-   Detroit Lions
-   7hEric Woodyard and Nick Wagoner
-
-   Campbell does 'right thing,' rolls with Lions starters
-   Detroit Lions
-   5hEric Woodyard
-   49ers' Purdy injures elbow, says UCL appears fine
-   San Francisco 49ers
-   5hNick Wagoner
-   At 40, LeBron says he could play '5-7' more years
-   Los Angeles Lakers
-   12hDave McMenamin
-   Westbrook authors 'perfect' triple-double in win
-   Denver Nuggets
-   5h
-   Mora: Other schools tampering with UConn players
+   175dESPN
+   Sources: Belichick, UNC get UConn transfer Yates
    UConn Huskies
-   11hAdam Rittenberg
-   McCarthy puts future talk on hold 'til season ends
+   5hMax Olson
+
+   NFL monitoring L.A. fires ahead of Vikings-Rams
+   Los Angeles Rams
+   5hLindsey Thiry
+   NHL postpones Kings' home game due to wildfires
+   Calgary Flames
+   4h
+   49ers motivated to get Purdy's deal done quickly
+   San Francisco 49ers
+   3hNick Wagoner
+   Former O's pitcher, No. 4 pick Matusz dies at 37
+   Baltimore Orioles
+   9h
+   Eagles' Hurts looks 'sharp' in return to practice
+   Philadelphia Eagles
+   1hTim McManus
+   Franklin jabs at ND, says CFP needs uniformity
+   Penn State Nittany Lions
+   8hAdam Rittenberg
+   Spurs' Bentancur stretchered off after collapsing
+   4hAssociated Press
+   What's it like to get fired? Five NFL coaches share their experiences
+   -- and what they did next
+   Washington Commanders
+   13hLindsey Thiry
+   NBA Power Rankings: Under-the-radar trade moves for all 30 teams
+   Atlanta Hawks
+   11hNBA Insiders
+   Our guide to the NFL playoffs: Reasons for hope -- and concern -- for
+   all 14 teams
+   Baltimore Ravens
+   2dNFL Nation, +2 More
+   NHL Awards Watch: The MVP race tightens up -- and adds more contenders
+   Anaheim Ducks
+   2dGreg Wyshynski
+   Women's college basketball Power Rankings: Can Georgia Tech remain
+   undefeated?
+   South Carolina Gamecocks
+   8hMichael Voepel
+   'I'm not going to downplay it': A look at NFL players who earned -- or
+   missed -- their 2024 bonuses
    Dallas Cowboys
-   10hTodd Archer
-   Sasaki met with 'set few' of 20 interested teams
-   Los Angeles Dodgers
-   9hAlden Gonzalez
-   Bills QB Allen to start to maintain streak, then sit
-   Buffalo Bills
-   13hAlaina Getzenberg
-   'Nobody wanted to fire Mike': What went so wrong so fast for the
-   Sacramento Kings
-   Sacramento Kings
-   18hRamona Shelburne
-   How sticky gloves have become NFL receivers' most trusted sidekicks
-   Detroit Lions
-   23hDan Hajducky
-   Teen stars who stood the test of time: LeBron joins rare athletic
-   company
-   Los Angeles Lakers
-   17hESPN staff
-   Three teams, 153 touchdowns: Dillon Gabriel's long road toward another
-   NCAA record
-   Oregon Ducks
-   22hMax Olson
-   Man United's latest loss set a new record low, and there's plenty of
-   blame to go around
-   11hRob Dawson
-   13 players who could move in January: Rashford, Gyökeres, Zubimendi,
-   more
-   21hMark Ogden
-   Transfer rumors, news: Spurs looking to tempt Grealish from Man City
-   1hESPN
-   Man United end '24 with ignominious points tally
-   13hMark Ogden
-   Ipswich top Chelsea, 1st Prem home win since '02
-   13hReuters
-   Amorim: 'Lost' Man United turn focus to 'survival'
-   11hRob Dawson
-   Sources: U.S. forward Vázquez leaving Monterrey
-   12hLizzy Becherano
-   AC Milan fire Fonseca; Conceição appointed
-   1dESPN News Services
-   Arise, Sir Gareth: Southgate lands knighthood
-   12h
-   Maupay 'smiles' when parent club Everton lose
-   22hESPN
-   Slot on Trent celebration: 'Tells you enough'
-   1dESPN
-   Million-dollar bets and 170,000-1 odds: the biggest, wildest wagers of
-   2024
-   Ohio State Buckeyes
-   18hDavid Purdum
-   Week 17 questions and top performances, including the Lions' win and
-   Saquon Barkley's milestone
-   Kansas City Chiefs
-   6hNFL Nation
-   MLB free agency tracker: Keep up with the offseason moves
-   Los Angeles Angels
-   20hESPN
-   Tiger, Nelly, Rory -- and 22 more: Golf's 25 most influential people in
-   2024
-   22hMark Schlabach
-   Liverpool's success this season could depend on the futures of their
-   star players
-   2dMark Ogden
-   Countdown to 894: The Alex Ovechkin goal-scoring tracker
-   Washington Capitals
-   1dESPN staff
-   Can the Blackhawks, Bedard remain patient during this rebuild?
-   Chicago Blackhawks
-   22hEmily Kaplan
-   Beat Ohio State, land a five-star QB ... turn things around? Inside
-   Michigan's momentum-building month
-   Michigan Wolverines
-   15hAdam Rittenberg
-   AP women's college basketball poll reaction: What's next for each Top
-   25 team
-   UCLA Bruins
-   17hESPN staff
-   AP men's poll reaction: What you need to know about each Top 25 team
-   Tennessee Volunteers
-   15hESPN staff
+   13hBen Baby
+   'Lamar doesn't have to be Superman': Will the Ravens QB overcome ghosts
+   of playoffs past?
+   Baltimore Ravens
+   13hJamison Hensley
+   How Saquon Barkley became a linchpin for the Eagles after being
+   discarded by the Giants
+   Philadelphia Eagles
+   1dTim McManus
+   Carabao Cup offers lifeline for Postecoglou and Spurs to cling to
+   12mJames Olley
+   Ranking the 10 best WNBA free agents -- and eight other players who
+   could be on the move
+   Atlanta Dream
+   8hKevin Pelton
+   Steph Curry and the NBA's most confounding paradox
+   2d
+   2025 Australian Open: A fan's guide to the season's first Grand Slam
+   9hD'Arcy Maine
+   Bold 2025 predictions: Pulisic stays in Milan, Wrexham promoted again
+   14hLuis Miguel Echegaray
+   Sources: Amad agrees new Man United contract
+   9hRob Dawson and Moises Llorens
+   Sources: West Ham hire ex-Chelsea coach Potter
+   5hJames Olley
+   Barça's Olmo, Víctor given temporary registration
+   7hSam Marsden and Moises Llorens
+   Gavi, Yamal send Barcelona to Super Cup final
+   3hReuters
+   Sounders acquire star striker Ferreira from Dallas
+   4h
+   Sources: Police hand EPL player rape case to CPS
+   8hJames Olley
+   Ancelotti 'very happy' with Vini Jr. despite ban
+   8hAlex Kirkland and Rodrigo Faez
+   NBA 2K25 will spotlight Shai Gilgeous-Alexander for Season 4
+   Oklahoma City Thunder
+   2hJosh Broadwell
+   'You ain't never a nobody': Myles Garrett agrees to gift jersey to
+   Ravens' Rosengarten
+   Baltimore Ravens
+   2hAnthony Gharib
+   The 2025 championship parlays: Which picks for 2025 do we love most?
+   9hESPN
+   Sam Darnold, fantasy star? Revealing 2024's biggest fantasy football
+   surprises
+   11hESPN Fantasy
+   Superstar moves, new-look rosters? Key questions ahead of the NBA trade
+   deadline
+   Oklahoma City Thunder
+   2dNBA insiders
+   Fantasy basketball: Updated H2H points league player rankings
+   2hAndre Snellings
+   Hamilton, Ferrari and the storylines set to define F1 in 2025
+   7hNate Saunders
+   Transfer rumors, news: Arsenal, Juve open to signing Araújo
+   17mAdam Brown
+   Women's transfer grades: Liverpool get A+ for Kerr loan
+   10hEmily Keogh
+   Monster Hunter Wilds receives second beta test
+   6hJosh Broadwell
+   Release date for "The Last Of Us" second season teased in new trailer
+   1dJosh Broadwell
 
 Ranking the top 100 professional athletes since 2000
 
    [javascript] play
-   Who are the best athletes of the past 25 years? (2:52)
+   ESPN's Top 100 Athletes: Simone Biles (1:05)
 
-   Ryan McGee takes a look at the top 10 athletes on ESPN's list of the
-   100 greatest athletes of the past 25 years. (2:52)
+   Check out the athletic feats of Simone Biles, one of the greatest
+   gymnasts in history and No. 7 on ESPN's list of the top 100 athletes of
+   the past 25 years. (1:05)
      * ESPN
 
    Jul 18, 2024, 07:00 AM ET
@@ -280,6 +287,14 @@ Your League, Your Rules
    in Beijing, and often fielded their questions. Was it his size-14 feet?
    His extra-long arms? His breakfast regimen? "No," Debbie answered
    repeatedly. "It's his hard work." -- Alyssa Roenigk
+
+   [240715_top-100_inlines_001.jpg] play
+   1:05
+   ESPN's Top 100 Athletes: Simone Biles
+
+   Check out the athletic feats of Simone Biles, one of the greatest
+   gymnasts in history and No. 7 on ESPN's list of the top 100 athletes of
+   the past 25 years.
 
      * ESPN The Magazine: Michael Phelps' final turn
 
@@ -431,12 +446,11 @@ Your League, Your Rules
    vault with the highest difficulty level in women's gymnastics. --
    Alyssa Roenigk
    [240715_top-100_inlines_007.jpg] play
-   1:05
-   ESPN's Top 100 Athletes: Simone Biles
+   2:59
+   ESPN's Top 100 Athletes: Kobe Bryant's top plays
 
-   Check out the athletic feats of Simone Biles, one of the greatest
-   gymnasts in history and No. 7 on ESPN's list of the top 100 athletes of
-   the past 25 years.
+   Check out the top 10 career plays from NBA superstar Kobe Bryant as he
+   lands at No. 10 in ESPN's Top 100 athletes of the 21st century.
      * The making of the most competitive U.S. gymnastics team ever
 
    [greyline.png] [240715_top-100_inlines_008.jpg]
@@ -507,11 +521,12 @@ Your League, Your Rules
    told ESPN last season. "How the other guys liked Jordan, that's how we
    are with Kobe." -- Dave McMenamin
    [240715_top-100_inlines_010.jpg] play
-   2:59
-   ESPN's Top 100 Athletes: Kobe Bryant's top plays
+   2:29
+   ESPN's Top 100 Athletes: Nos. 50-26
 
-   Check out the top 10 career plays from NBA superstar Kobe Bryant as he
-   lands at No. 10 in ESPN's Top 100 athletes of the 21st century.
+   Check out some of the big names from 50-26 in ESPN's Top 100 athletes
+   of the 21st century, including Kevin Durant, Ichiro Suzuki and Peyton
+   Manning.
      * Remembering Kobe Bryant
 
    [greyline.png] [240715_top-100_inlines_012.jpg]
@@ -835,12 +850,12 @@ Your League, Your Rules
 
    [greyline.png]
    [greyline.png] play
-   2:29
-   ESPN's Top 100 Athletes: Nos. 50-26
+   1:25
+   ESPN's Top 100 Athletes: Randy Moss
 
-   Check out some of the big names from 50-26 in ESPN's Top 100 athletes
-   of the 21st century, including Kevin Durant, Ichiro Suzuki and Peyton
-   Manning.
+   Check out the athletic feats of Randy Moss, one of the greatest NFL
+   players in history and No. 27 on ESPN's list of the top 100 athletes of
+   the past 25 years.
    [240715_top-100_inlines_026.jpg]
 
 26. Peyton Manning, football
@@ -885,14 +900,6 @@ Your League, Your Rules
    even on what would now be called "bubble screens." Other factors
    contributed to his success as well, but the league had never before
    seen a player like Moss. -- Kevin Seifert
-
-   [240715_top-100_inlines_027.jpg] play
-   1:25
-   ESPN's Top 100 Athletes: Randy Moss
-
-   Check out the athletic feats of Randy Moss, one of the greatest NFL
-   players in history and No. 27 on ESPN's list of the top 100 athletes of
-   the past 25 years.
 
      * Randy Moss rode big-play ability all the way to Hall of Fame
 
@@ -1610,6 +1617,14 @@ Your League, Your Rules
    16 WNBA seasons with the Sparks, but won WNBA titles with Los Angeles,
    Chicago and Las Vegas. -- Michael Voepel
 
+   [240715_top-100_inlines_060.jpg] play
+   2:09
+   ESPN's Top 100 Athletes: Nos. 100-76
+
+   Check out some of the big names from 100-76 in ESPN's Top 100 athletes
+   of the 21st century, including Aaron Rodgers, Sheryl Swoopes and Bryce
+   Harper.
+
      * Parker's legacy comes full circle in Chicago's first WNBA
        championship
 
@@ -1649,13 +1664,6 @@ Your League, Your Rules
    what a baseball player can be. "Shohei," Dodgers president of baseball
    operations Andrew Friedman said, "is arguably the most talented player
    who's ever played this game." -- Jeff Passan
-   [240715_top-100_inlines_062.jpg] play
-   2:09
-   ESPN's Top 100 Athletes: Nos. 100-76
-
-   Check out some of the big names from 100-76 in ESPN's Top 100 athletes
-   of the 21st century, including Aaron Rodgers, Sheryl Swoopes and Bryce
-   Harper.
      * Shohei Ohtani's new contract is just his latest feat to shock the
        world
 
@@ -1720,6 +1728,14 @@ Your League, Your Rules
    talent. You just don't see many players like him. He is only 25, but
    his career is already amazing," Thierry Henry said about his
    compatriot. -- Julien Laurens
+
+   [240715_top-100_inlines_065.jpg] play
+   1:19
+   ESPN's Top 100 Athletes: Annika Sörenstam
+
+   Check out the athletic feats of Annika Sörenstam, one of the greatest
+   golfers in history and No. 89 on ESPN's list of the top 100 athletes of
+   the past 25 years.
 
      * Au revoir, Kylian Mbappé: How should we judge his PSG legacy?
 
@@ -1946,15 +1962,7 @@ Your League, Your Rules
    staggering 20 assists in 35 LaLiga matches. -- Alex Kirkland
      * Xavi's last stand
 
-   [greyline.png]
-   [greyline.png] play
-   1:19
-   ESPN's Top 100 Athletes: Annika Sörenstam
-
-   Check out the athletic feats of Annika Sörenstam, one of the greatest
-   golfers in history and No. 89 on ESPN's list of the top 100 athletes of
-   the past 25 years.
-   [240715_top-100_inlines_076.jpg]
+   [greyline.png] [240715_top-100_inlines_076.jpg]
 
 76. Georges St-Pierre, MMA
 

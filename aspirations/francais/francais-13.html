@@ -10,10 +10,10 @@
 <title>WeMemberz</title>
 <meta content='width=device-width,initial-scale=1' name='viewport'>
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="vIfV2vk-5DEloykHLFBhj0X2zYc2oxo7mu1i8FI-9wPlgkVwICRxaVriQyE7zKgiKYAaDhAY9KvqrdhNopsmZg" />
+<meta name="csrf-token" content="lFl0RdqNWj24HP6MgDIADTHhfaI2yjZ9Wgee0D_R9kTRjAnqk6ZTm2h5Og6nuXSn5SBBHzIX3aYxauzc-69wQQ" />
 
-<link rel="stylesheet" media="screen" href="/assets/company-135784062745a19b2a9874d72b337de5ab6074ee48b3c48d856b005cfdfc65a7.css" />
-<script src="/packs/js/company-8d30fce29dd55486d986.js"></script>
+<link rel="stylesheet" media="screen" href="/assets/company-2d9712839a44d1a90ca4839a74a7ef414ea073416751f5bc4e392cabbd2fe801.css" />
+<script src="/packs/js/company-a146706899702830e68a.js"></script>
 <!-- Favicons -->
 <link rel="icon" type="image/svg" href="/assets/favicon-0ec2dede7a742e0bc8bad9fe216365ee0c9126d4cc4dffa90ec06f7abc998f33.svg" />
 <!-- Hotjar Tracking Code for https://www.wememberz.com/ -->
@@ -37,44 +37,109 @@
 <div class='top' style=''>
 <nav id='top-page'>
 <div class='parent'>
-<a class='logo' href='/' style=''>
-<img style="" src="/assets/welcome/v2/logo-0e387e301313c659c0f519fbf67d4f02e3bc1d70e16df447bef174dbf312f3cf.svg" />
-</a>
-<div class='menu' style=''>
-<a id='img-logo' ng_click='open_principal_menu()'>
-<img alt="menu" class="img-logo" style="" src="/assets/welcome/v2/bouton_menu_entree-5b9ef7c743db499dd1a1cbea23dcffb2df8db253f45fbfc2f59893fe36241d13.svg" />
+<div class='header_logo' style=''>
+<div class='logo_centered'>
+<a href='/'>
+<img src="/assets/welcome/v2/logo-0e387e301313c659c0f519fbf67d4f02e3bc1d70e16df447bef174dbf312f3cf.svg" />
 </a>
 </div>
-<div class='left-items' style=''>
-<a class='sinscrire' href='/users/sign_up' style='margin:0px;float:right;padding:5px;padding: 5px 20px;height: 35px;line-height: 25px;margin-top: 23px;'>S'inscrire</a>
-<a class='btn-mes-livres' href='/users/sign_in' style='margin:0px;float:right;padding:5px;padding: 5px 20px;height: 35px;line-height: 25px;margin-top: 23px;margin-right:30px'>Se connecter</a>
-<!--
-<a href="#" class="connexion">Se connecter</a>
-<button class="s'inscrire" >S'inscrire</button>
--->
-<!-- <a href="#"><img src="/images/" alt="S'inscrire" /></a> -->
-<div class='button'></div>
+<div class='small_main_menu_btn' style=''>
+<a aria-expanded='false' class='dropdown-toggle dropdown-toggle-no-caret' data-bs-toggle='dropdown' href='#' id='img-logo' role='button' style=''>
+<i class='fas fa-bars' style='font-size:20px'></i>
+</a>
+<ul aria-labelledby='concept' class='dropdown-menu'>
+<li class='nav-item' style='text-align:center;margin:5px'>
+<a class='btn-mes-livres' data-target='#staticBackdrop' data-toggle='modal' ng_click='open_login_modal()' style='text-align:center;color:#FFF;display: inline-block;padding: 0px;width: 150px;'>Se connecter</a>
+</li>
+<li class='nav-item' style='text-align:center;margin:5px'>
+<a class='sinscrire' ng_click='openModalRegister()' style='margin-left:0px;text-align:center;color:#FFF;display: inline-block;padding: 0px;width: 150px;'>S&#39;inscrire</a>
+</li>
+</ul>
+</div>
+<div class='right_menu' style=''>
+<a class='btn-mes-livres' data-target='#staticBackdrop' data-toggle='modal' ng_click='open_login_modal()' style='float:left;;padding: 3px 15px;height: 25px;line-height: 25px;margin-top: 7px;margin-right:0;'>Se connecter</a>
+<a class='sinscrire' ng_click='openModalRegister()' style='float:right;text-align:center;;padding:0px 10px;margin-top:0px;margin-left:20px;float:left;;padding: 3px 15px;height: 25px;line-height: 25px;margin-top: 7px;'>S&#39;inscrire</a>
+</div>
+</div>
+<div class='main_menu_container' style=''>
+<ul class='main_menu' style='padding:0px;width:100%;'>
+<li class='nav-item'>
+<div class='dropdown-hover'>
+<a aria-expanded='false' class='nav-link dropdown-toggle dropdown-toggle-no-caret' data-bs-toggle='dropdown' href='#' role='button' style=''>
+Concept
+</a>
+<ul aria-labelledby='concept' class='dropdown-menu dropdown-menu-hover' style='width:160px'>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#conpect_section'>Le Concept</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/qui_sommes_nous'>Qui sommes-nous ?</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/faq'>FAQ</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='nav-item'>
+<div class='dropdown-hover'>
+<a aria-expanded='false' class='nav-link dropdown-toggle dropdown-toggle-no-caret' data-bs-toggle='dropdown' href='#' role='button' style=''>
+Nos albums photo
+</a>
+<ul aria-labelledby='albums' class='dropdown-menu dropdown-menu-hover' style='width:175px'>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#products_section'>Le Pix</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#products_section'>Les Albums Carrés</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#products_section'>Les Albums Paysages</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#products_section'>Les Albums Portraits</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='nav-item'>
+<div class='dropdown-hover'>
+<a aria-expanded='false' class='nav-link dropdown-toggle dropdown-toggle-no-caret' data-bs-toggle='dropdown' href='#' role='button' style=''>
+Pour quelle occasion ?
+</a>
+<ul aria-labelledby='occasion' class='dropdown-menu dropdown-menu-hover' style='min-width:110px;width:110px'>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_mariage1'>Mariage</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_anniv1'>Anniversaire</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_mariage1'>Voyage</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_anniv1'>Erasmus</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_anniv1'>EVG</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_anniv1'>EVJF</a>
+</li>
+<li style='line-height: initial;'>
+<a class='dropdown-item' href='/#gallery_anniv1'>Naissance</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='nav-item'>
+<a class='nav-link' href='/blog'>Blog</a>
+</li>
+</ul>
 </div>
 </div>
 </nav>
-<div class='hidden div-hidden' id='principal_menu'>
-<div class='parent'>
-<div class='logo' href='/'>
-<a href='/'>
-<img alt="logo" src="/assets/welcome/v2/Logo_wememberz_blanc-eaba912074731dbc85e0cb49733e7b78b19d36dfdf9bf9a6c2a9a79774019ee8.svg" />
-</a>
-</div>
-<div class='menu' style=''>
-<a id='img-logo' ng_click='close_principal_menu()'>
-<img alt="" class="sortie-menu" src="/assets/welcome/v2/bouton_menu_sortie-0239a48adc27b74df68e74ce884723ce795ab2e42c43d2f37657407714a357a9.svg" />
-</a>
-</div>
-<div class='left-items' style=''>
-<a class='sinscrire' href='/users/sign_up' style='float:right;text-align:center;;padding:0px 10px;margin-top:0px;margin-left:26px;float:right;padding:5px;padding: 5px 20px;height: 25px;line-height: 17px;margin-top: 25px;'>S'inscrire</a>
-<a class='btn-mes-livres-hidden' href='/users/sign_in' style='background:white;float:right;padding:5px;padding: 5px 20px;height: 25px;line-height: 17px;margin-top: 25px;'>Se connecter</a>
-</div>
-</div>
-</div>
+
 </div>
 </header>
 <main class='container-fluid' style='padding: 144px 48px;'>
@@ -110,12 +175,29 @@
 </ul>
 </div>
 <div class='bloc-1 border-footer'>
-<ul>
+<div style='width:100%;text-align:center;'>
+<b>Retrouvez-nous aussi sur :</b>
+<div class='social_network_links'>
+<a href='https://www.instagram.com/we.memberz/' style='text-decoration:none' target='_blank'>
+<img src="/assets/welcome/rs/insta-f847294fabc81eab417a3eb18dff985c8e5f96ade8c52391ac84bece30b53078.png" />
+</a>
+<a href='https://www.tiktok.com/@wememberz' style='text-decoration:none;' target='_blank'>
+<img src="/assets/welcome/rs/tiktok-3a7b7767ec69f3a1d2d916a373f39b87e5a19ce68cb79f32a24b0bafd6362374.png" />
+</a>
+<a href='https://www.linkedin.com/company/wememberz/' style='text-decoration:none' target='_blank'>
+<img src="/assets/welcome/rs/fb-441fe4d4d3a143b59ccdbcc7c2c66557ed3465d134d11e0dcb2123a655b29b07.png" />
+</a>
+<a href='https://fr.pinterest.com/Wememberz/' style='text-decoration:none' target='_blank'>
+<img src="/assets/welcome/rs/pint-0799871b1589a3c7211e528016bd41349c947c8895edaf86d87599bda122812e.png" />
+</a>
+<a href='https://fr.linkedin.com/company/wememberz' style='text-decoration:none' target='_blank'>
+<img src="/assets/welcome/rs/linkedin-75de36543abfc609c09947ae42403cbf5807c846b0031e60721f60466a6e42fd.png" />
+</a>
+</div>
+</div>
+<ul style='margin-top:20px;padding-left:0px;'>
 <li>
-<a href='/qui_sommes_nous'>Qui-sommes-nous ?</a>
-</li>
-<li>
-<a href='/faq'>FAQ</a>
+<a href='mailto:contact@wememberz.com' style='color:#000;text-decoration:none'>contact@wememberz.com</a>
 </li>
 <li>
 <a ng_click='open_contact_modal()'>Contactez-nous</a>
@@ -123,7 +205,7 @@
 </ul>
 </div>
 <div class='bloc-1 border-footer'>
-<ul class='italique_text'>
+<ul class='italique_text' style='margin-top:40px;padding-left:0px;'>
 <li>
 <a href='/mentions_legales'>Mentions Légales &amp; CGU</a>
 </li>
@@ -139,7 +221,7 @@
 <div class='logo_style'>
 <img alt="logo" style="width: 200px !important;" src="/assets/welcome/v2/logo-0e387e301313c659c0f519fbf67d4f02e3bc1d70e16df447bef174dbf312f3cf.svg" />
 </div>
-<p>© 2024</p>
+<p>© 2025</p>
 <a class='made_eco_footer back-color-footer col-4' href='https://www.wememberz.com/qui_sommes_nous'>
 <div class='pictos_flag_eco'>
 <div class='made_france made-eco-footer d-bloc'>

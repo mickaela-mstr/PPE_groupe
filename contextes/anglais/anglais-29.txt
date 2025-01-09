@@ -1,0 +1,56 @@
+
+Is there a minimum vertical spacing for legend keys? [closed]
+
+--
+
+   Is there a minimum vertical spacing between items in ggplot2 legend?
+
+   I am trying to reduce the space between legend keys. This code seems to
+   suggest there is an absolute minimum (i.e. 0.001 pt).
+--
+  geom_point() +
+  theme(legend.key.spacing.y = unit(0.001, "pt"))
+
+--
+  geom_point() +
+  theme(legend.key.spacing.y = unit(10, "pt"))
+
+--
+       Could you clarify what's the issue? Also be aware that
+       legend.spacing.y sets the spacing between legends, whereas
+       legend.**key**.spacing.y sets the spacing between the keys or
+       items.
+--
+     * 1
+       Yes, I get the difference between legend.spacing.y and
+       legend.key.spacing.y. The publisher wants less space between the
+       key items.
+--
+  geom_point() +
+  theme(legend.key.spacing.y = unit(-6, "pt"))
+
+--
+
+   You can use legend.key.height within theme():
+ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
+  geom_point() +
+  theme(legend.key.height = unit(0.001, 'mm')
+        )
+--
+   190
+   Is there a way to change the spacing between legend items in ggplot2?
+   55
+   ggplot2 increase space between legend keys
+   1
+   Change the vertical spacing of one legend in ggplot?
+   1
+   R: Increase vertical spacing between legend items using ggplot
+   0
+   Not able to reduce spacing between legend labels
+   14
+   How to remove the space between legend keys in ggplot2
+   0
+   Reducing spacing between items in ggplot2 horizontal legend
+   5
+   Spacing between the legend keys for multiple legends in ggplot2 in R
+   8

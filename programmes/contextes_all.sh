@@ -2,9 +2,9 @@
 
 declare -A mots_etudies
 mots_etudies=(
-    ["anglais"]="legend"
-    ["francais"]="légende"
-    ["arabe"]="أسطورة"
+    ["anglais"]="\\blegends?\\b"
+    ["francais"]="\\blégendes?\\b"
+    ["arabe"]="\\b(أسطورة|أسطورات|أسطورتين|الأسطورة|الأسطورات|الأسطورتين)\\b"
 )
 
 langues=("anglais" "francais" "arabe")
@@ -17,6 +17,6 @@ for langue in "${langues[@]}"; do
     for fichier in "$input_dir"/*.txt; do
         base_name=$(basename "$fichier" .txt)
         output_file="${output_dir}/${base_name}.txt"
-        grep -a -i -w -C 1 "$mot_etudie" "$fichier" | sed "s/\b$mot_etudie\b/>>>$mot_etudie<<</Ig" > "$output_file"
+        egrep --binary-files=text -i -E -C 1 "$mot_etudie" "$fichier" | sed "s/\b$mot_etudie\b/>>>$mot_etudie<<</Ig" > "$output_file"
     done
 done

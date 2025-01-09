@@ -1,0 +1,1908 @@
+   #Search within Matplotlib 3.10.0 documentation Search
+   matplotlib.legend_handler matplotlib.layout_engine
+
+   Skip to main content
+
+   (BUTTON) Back to top [ ] [ ]
+
+   ____________________ Ctrl+K
+
+   (BUTTON)
+   Matplotlib 3.10.0 documentation - Home
+     * Plot types
+     * User guide
+     * Tutorials
+     * Examples
+     * Reference
+     * Contribute
+     * Releases
+
+     * Gitter
+     * Discourse
+     * GitHub
+     * Twitter
+
+   (BUTTON)
+
+     * Plot types
+     * User guide
+     * Tutorials
+     * Examples
+     * Reference
+     * Contribute
+     * Releases
+
+     * Gitter
+     * Discourse
+     * GitHub
+     * Twitter
+
+   Section Navigation
+     * matplotlib
+     * matplotlib.animation
+          + matplotlib.animation.Animation
+          + matplotlib.animation.FuncAnimation
+          + matplotlib.animation.ArtistAnimation
+          + matplotlib.animation.PillowWriter
+          + matplotlib.animation.HTMLWriter
+          + matplotlib.animation.FFMpegWriter
+          + matplotlib.animation.ImageMagickWriter
+          + matplotlib.animation.FFMpegFileWriter
+          + matplotlib.animation.ImageMagickFileWriter
+          + matplotlib.animation.Animation
+          + matplotlib.animation.TimedAnimation
+          + matplotlib.animation.MovieWriterRegistry
+          + matplotlib.animation.AbstractMovieWriter
+          + matplotlib.animation.MovieWriter
+          + matplotlib.animation.FileMovieWriter
+          + matplotlib.animation.FFMpegBase
+          + matplotlib.animation.ImageMagickBase
+     * matplotlib.artist
+          + matplotlib.artist.Artist.add_callback
+          + matplotlib.artist.Artist.remove_callback
+          + matplotlib.artist.Artist.pchanged
+          + matplotlib.artist.Artist.get_cursor_data
+          + matplotlib.artist.Artist.format_cursor_data
+          + matplotlib.artist.Artist.set_mouseover
+          + matplotlib.artist.Artist.get_mouseover
+          + matplotlib.artist.Artist.mouseover
+          + matplotlib.artist.Artist.contains
+          + matplotlib.artist.Artist.pick
+          + matplotlib.artist.Artist.pickable
+          + matplotlib.artist.Artist.set_picker
+          + matplotlib.artist.Artist.get_picker
+          + matplotlib.artist.Artist.set_clip_on
+          + matplotlib.artist.Artist.get_clip_on
+          + matplotlib.artist.Artist.set_clip_box
+          + matplotlib.artist.Artist.get_clip_box
+          + matplotlib.artist.Artist.set_clip_path
+          + matplotlib.artist.Artist.get_clip_path
+          + matplotlib.artist.Artist.update
+          + matplotlib.artist.Artist.update_from
+          + matplotlib.artist.Artist.properties
+          + matplotlib.artist.Artist.set
+          + matplotlib.artist.Artist.draw
+          + matplotlib.artist.Artist.set_animated
+          + matplotlib.artist.Artist.get_animated
+          + matplotlib.artist.Artist.set_alpha
+          + matplotlib.artist.Artist.get_alpha
+          + matplotlib.artist.Artist.set_snap
+          + matplotlib.artist.Artist.get_snap
+          + matplotlib.artist.Artist.set_visible
+          + matplotlib.artist.Artist.get_visible
+          + matplotlib.artist.Artist.zorder
+          + matplotlib.artist.Artist.set_zorder
+          + matplotlib.artist.Artist.get_zorder
+          + matplotlib.artist.Artist.set_agg_filter
+          + matplotlib.artist.Artist.set_sketch_params
+          + matplotlib.artist.Artist.get_sketch_params
+          + matplotlib.artist.Artist.set_rasterized
+          + matplotlib.artist.Artist.get_rasterized
+          + matplotlib.artist.Artist.set_path_effects
+          + matplotlib.artist.Artist.get_path_effects
+          + matplotlib.artist.Artist.get_agg_filter
+          + matplotlib.artist.Artist.get_window_extent
+          + matplotlib.artist.Artist.get_tightbbox
+          + matplotlib.artist.Artist.get_transformed_clip_path_and_affine
+          + matplotlib.artist.Artist.remove
+          + matplotlib.artist.Artist.axes
+          + matplotlib.artist.Artist.set_figure
+          + matplotlib.artist.Artist.get_figure
+          + matplotlib.artist.Artist.get_children
+          + matplotlib.artist.Artist.findobj
+          + matplotlib.artist.Artist.set_transform
+          + matplotlib.artist.Artist.get_transform
+          + matplotlib.artist.Artist.is_transform_set
+          + matplotlib.artist.Artist.convert_xunits
+          + matplotlib.artist.Artist.convert_yunits
+          + matplotlib.artist.Artist.have_units
+          + matplotlib.artist.Artist.set_gid
+          + matplotlib.artist.Artist.get_gid
+          + matplotlib.artist.Artist.set_label
+          + matplotlib.artist.Artist.get_label
+          + matplotlib.artist.Artist.set_url
+          + matplotlib.artist.Artist.get_url
+          + matplotlib.artist.Artist.sticky_edges
+          + matplotlib.artist.Artist.set_in_layout
+          + matplotlib.artist.Artist.get_in_layout
+          + matplotlib.artist.Artist.stale
+          + matplotlib.artist.allow_rasterization
+          + matplotlib.artist.get
+          + matplotlib.artist.getp
+          + matplotlib.artist.setp
+          + matplotlib.artist.kwdoc
+          + matplotlib.artist.ArtistInspector
+     * matplotlib.axes
+          + matplotlib.axes.Axes
+          + matplotlib.axes.Axes.viewLim
+          + matplotlib.axes.Axes.dataLim
+          + matplotlib.axes.Axes.plot
+          + matplotlib.axes.Axes.errorbar
+          + matplotlib.axes.Axes.scatter
+          + matplotlib.axes.Axes.plot_date
+          + matplotlib.axes.Axes.step
+          + matplotlib.axes.Axes.loglog
+          + matplotlib.axes.Axes.semilogx
+          + matplotlib.axes.Axes.semilogy
+          + matplotlib.axes.Axes.fill_between
+          + matplotlib.axes.Axes.fill_betweenx
+          + matplotlib.axes.Axes.bar
+          + matplotlib.axes.Axes.barh
+          + matplotlib.axes.Axes.bar_label
+          + matplotlib.axes.Axes.stem
+          + matplotlib.axes.Axes.eventplot
+          + matplotlib.axes.Axes.pie
+          + matplotlib.axes.Axes.stackplot
+          + matplotlib.axes.Axes.broken_barh
+          + matplotlib.axes.Axes.vlines
+          + matplotlib.axes.Axes.hlines
+          + matplotlib.axes.Axes.fill
+          + matplotlib.axes.Axes.axhline
+          + matplotlib.axes.Axes.axhspan
+          + matplotlib.axes.Axes.axvline
+          + matplotlib.axes.Axes.axvspan
+          + matplotlib.axes.Axes.axline
+          + matplotlib.axes.Axes.acorr
+          + matplotlib.axes.Axes.angle_spectrum
+          + matplotlib.axes.Axes.cohere
+          + matplotlib.axes.Axes.csd
+          + matplotlib.axes.Axes.magnitude_spectrum
+          + matplotlib.axes.Axes.phase_spectrum
+          + matplotlib.axes.Axes.psd
+          + matplotlib.axes.Axes.specgram
+          + matplotlib.axes.Axes.xcorr
+          + matplotlib.axes.Axes.ecdf
+          + matplotlib.axes.Axes.boxplot
+          + matplotlib.axes.Axes.violinplot
+          + matplotlib.axes.Axes.bxp
+          + matplotlib.axes.Axes.violin
+          + matplotlib.axes.Axes.hexbin
+          + matplotlib.axes.Axes.hist
+          + matplotlib.axes.Axes.hist2d
+          + matplotlib.axes.Axes.stairs
+          + matplotlib.axes.Axes.clabel
+          + matplotlib.axes.Axes.contour
+          + matplotlib.axes.Axes.contourf
+          + matplotlib.axes.Axes.imshow
+          + matplotlib.axes.Axes.matshow
+          + matplotlib.axes.Axes.pcolor
+          + matplotlib.axes.Axes.pcolorfast
+          + matplotlib.axes.Axes.pcolormesh
+          + matplotlib.axes.Axes.spy
+          + matplotlib.axes.Axes.tripcolor
+          + matplotlib.axes.Axes.triplot
+          + matplotlib.axes.Axes.tricontour
+          + matplotlib.axes.Axes.tricontourf
+          + matplotlib.axes.Axes.annotate
+          + matplotlib.axes.Axes.text
+          + matplotlib.axes.Axes.table
+          + matplotlib.axes.Axes.arrow
+          + matplotlib.axes.Axes.inset_axes
+          + matplotlib.axes.Axes.indicate_inset
+          + matplotlib.axes.Axes.indicate_inset_zoom
+          + matplotlib.axes.Axes.secondary_xaxis
+          + matplotlib.axes.Axes.secondary_yaxis
+          + matplotlib.axes.Axes.barbs
+          + matplotlib.axes.Axes.quiver
+          + matplotlib.axes.Axes.quiverkey
+          + matplotlib.axes.Axes.streamplot
+          + matplotlib.axes.Axes.cla
+          + matplotlib.axes.Axes.clear
+          + matplotlib.axes.Axes.axis
+          + matplotlib.axes.Axes.set_axis_off
+          + matplotlib.axes.Axes.set_axis_on
+          + matplotlib.axes.Axes.set_frame_on
+          + matplotlib.axes.Axes.get_frame_on
+          + matplotlib.axes.Axes.set_axisbelow
+          + matplotlib.axes.Axes.get_axisbelow
+          + matplotlib.axes.Axes.grid
+          + matplotlib.axes.Axes.get_facecolor
+          + matplotlib.axes.Axes.set_facecolor
+          + matplotlib.axes.Axes.set_prop_cycle
+          + matplotlib.axes.Axes.get_xaxis
+          + matplotlib.axes.Axes.get_yaxis
+          + matplotlib.axes.Axes.invert_xaxis
+          + matplotlib.axes.Axes.xaxis_inverted
+          + matplotlib.axes.Axes.invert_yaxis
+          + matplotlib.axes.Axes.yaxis_inverted
+          + matplotlib.axes.Axes.set_xlim
+          + matplotlib.axes.Axes.get_xlim
+          + matplotlib.axes.Axes.set_ylim
+          + matplotlib.axes.Axes.get_ylim
+          + matplotlib.axes.Axes.update_datalim
+          + matplotlib.axes.Axes.set_xbound
+          + matplotlib.axes.Axes.get_xbound
+          + matplotlib.axes.Axes.set_ybound
+          + matplotlib.axes.Axes.get_ybound
+          + matplotlib.axes.Axes.set_xlabel
+          + matplotlib.axes.Axes.get_xlabel
+          + matplotlib.axes.Axes.set_ylabel
+          + matplotlib.axes.Axes.get_ylabel
+          + matplotlib.axes.Axes.label_outer
+          + matplotlib.axes.Axes.set_title
+          + matplotlib.axes.Axes.get_title
+          + matplotlib.axes.Axes.legend
+          + matplotlib.axes.Axes.get_legend
+          + matplotlib.axes.Axes.get_legend_handles_labels
+          + matplotlib.axes.Axes.set_xscale
+          + matplotlib.axes.Axes.get_xscale
+          + matplotlib.axes.Axes.set_yscale
+          + matplotlib.axes.Axes.get_yscale
+          + matplotlib.axes.Axes.use_sticky_edges
+          + matplotlib.axes.Axes.margins
+          + matplotlib.axes.Axes.get_xmargin
+          + matplotlib.axes.Axes.get_ymargin
+          + matplotlib.axes.Axes.set_xmargin
+          + matplotlib.axes.Axes.set_ymargin
+          + matplotlib.axes.Axes.relim
+          + matplotlib.axes.Axes.autoscale
+          + matplotlib.axes.Axes.autoscale_view
+          + matplotlib.axes.Axes.set_autoscale_on
+          + matplotlib.axes.Axes.get_autoscale_on
+          + matplotlib.axes.Axes.set_autoscalex_on
+          + matplotlib.axes.Axes.get_autoscalex_on
+          + matplotlib.axes.Axes.set_autoscaley_on
+          + matplotlib.axes.Axes.get_autoscaley_on
+          + matplotlib.axes.Axes.apply_aspect
+          + matplotlib.axes.Axes.set_aspect
+          + matplotlib.axes.Axes.get_aspect
+          + matplotlib.axes.Axes.set_box_aspect
+          + matplotlib.axes.Axes.get_box_aspect
+          + matplotlib.axes.Axes.set_adjustable
+          + matplotlib.axes.Axes.get_adjustable
+          + matplotlib.axes.Axes.set_xticks
+          + matplotlib.axes.Axes.get_xticks
+          + matplotlib.axes.Axes.set_xticklabels
+          + matplotlib.axes.Axes.get_xticklabels
+          + matplotlib.axes.Axes.get_xmajorticklabels
+          + matplotlib.axes.Axes.get_xminorticklabels
+          + matplotlib.axes.Axes.get_xgridlines
+          + matplotlib.axes.Axes.get_xticklines
+          + matplotlib.axes.Axes.xaxis_date
+          + matplotlib.axes.Axes.set_yticks
+          + matplotlib.axes.Axes.get_yticks
+          + matplotlib.axes.Axes.set_yticklabels
+          + matplotlib.axes.Axes.get_yticklabels
+          + matplotlib.axes.Axes.get_ymajorticklabels
+          + matplotlib.axes.Axes.get_yminorticklabels
+          + matplotlib.axes.Axes.get_ygridlines
+          + matplotlib.axes.Axes.get_yticklines
+          + matplotlib.axes.Axes.yaxis_date
+          + matplotlib.axes.Axes.minorticks_off
+          + matplotlib.axes.Axes.minorticks_on
+          + matplotlib.axes.Axes.ticklabel_format
+          + matplotlib.axes.Axes.tick_params
+          + matplotlib.axes.Axes.locator_params
+          + matplotlib.axes.Axes.convert_xunits
+          + matplotlib.axes.Axes.convert_yunits
+          + matplotlib.axes.Axes.have_units
+          + matplotlib.axes.Axes.add_artist
+          + matplotlib.axes.Axes.add_child_axes
+          + matplotlib.axes.Axes.add_collection
+          + matplotlib.axes.Axes.add_container
+          + matplotlib.axes.Axes.add_image
+          + matplotlib.axes.Axes.add_line
+          + matplotlib.axes.Axes.add_patch
+          + matplotlib.axes.Axes.add_table
+          + matplotlib.axes.Axes.twinx
+          + matplotlib.axes.Axes.twiny
+          + matplotlib.axes.Axes.sharex
+          + matplotlib.axes.Axes.sharey
+          + matplotlib.axes.Axes.get_shared_x_axes
+          + matplotlib.axes.Axes.get_shared_y_axes
+          + matplotlib.axes.Axes.get_anchor
+          + matplotlib.axes.Axes.set_anchor
+          + matplotlib.axes.Axes.get_axes_locator
+          + matplotlib.axes.Axes.set_axes_locator
+          + matplotlib.axes.Axes.get_subplotspec
+          + matplotlib.axes.Axes.set_subplotspec
+          + matplotlib.axes.Axes.reset_position
+          + matplotlib.axes.Axes.get_position
+          + matplotlib.axes.Axes.set_position
+          + matplotlib.axes.Axes.stale
+          + matplotlib.axes.Axes.pchanged
+          + matplotlib.axes.Axes.add_callback
+          + matplotlib.axes.Axes.remove_callback
+          + matplotlib.axes.Axes.can_pan
+          + matplotlib.axes.Axes.can_zoom
+          + matplotlib.axes.Axes.get_navigate
+          + matplotlib.axes.Axes.set_navigate
+          + matplotlib.axes.Axes.get_navigate_mode
+          + matplotlib.axes.Axes.set_navigate_mode
+          + matplotlib.axes.Axes.get_forward_navigation_events
+          + matplotlib.axes.Axes.set_forward_navigation_events
+          + matplotlib.axes.Axes.start_pan
+          + matplotlib.axes.Axes.drag_pan
+          + matplotlib.axes.Axes.end_pan
+          + matplotlib.axes.Axes.format_coord
+          + matplotlib.axes.Axes.format_cursor_data
+          + matplotlib.axes.Axes.format_xdata
+          + matplotlib.axes.Axes.format_ydata
+          + matplotlib.axes.Axes.mouseover
+          + matplotlib.axes.Axes.in_axes
+          + matplotlib.axes.Axes.contains
+          + matplotlib.axes.Axes.contains_point
+          + matplotlib.axes.Axes.get_cursor_data
+          + matplotlib.axes.Axes.get_children
+          + matplotlib.axes.Axes.get_images
+          + matplotlib.axes.Axes.get_lines
+          + matplotlib.axes.Axes.findobj
+          + matplotlib.axes.Axes.draw
+          + matplotlib.axes.Axes.draw_artist
+          + matplotlib.axes.Axes.redraw_in_frame
+          + matplotlib.axes.Axes.get_rasterization_zorder
+          + matplotlib.axes.Axes.set_rasterization_zorder
+          + matplotlib.axes.Axes.get_window_extent
+          + matplotlib.axes.Axes.get_tightbbox
+          + matplotlib.axes.Axes.name
+          + matplotlib.axes.Axes.get_xaxis_transform
+          + matplotlib.axes.Axes.get_yaxis_transform
+          + matplotlib.axes.Axes.get_data_ratio
+          + matplotlib.axes.Axes.get_xaxis_text1_transform
+          + matplotlib.axes.Axes.get_xaxis_text2_transform
+          + matplotlib.axes.Axes.get_yaxis_text1_transform
+          + matplotlib.axes.Axes.get_yaxis_text2_transform
+          + matplotlib.axes.Axes.zorder
+          + matplotlib.axes.Axes.get_default_bbox_extra_artists
+          + matplotlib.axes.Axes.get_transformed_clip_path_and_affine
+          + matplotlib.axes.Axes.has_data
+          + matplotlib.axes.Axes.set
+     * matplotlib.axis
+          + matplotlib.axis.Axis.clear
+          + matplotlib.axis.Axis.get_scale
+          + matplotlib.axis.Axis.get_major_formatter
+          + matplotlib.axis.Axis.get_major_locator
+          + matplotlib.axis.Axis.get_minor_formatter
+          + matplotlib.axis.Axis.get_minor_locator
+          + matplotlib.axis.Axis.set_major_formatter
+          + matplotlib.axis.Axis.set_major_locator
+          + matplotlib.axis.Axis.set_minor_formatter
+          + matplotlib.axis.Axis.set_minor_locator
+          + matplotlib.axis.Axis.remove_overlapping_locs
+          + matplotlib.axis.Axis.get_remove_overlapping_locs
+          + matplotlib.axis.Axis.set_remove_overlapping_locs
+          + matplotlib.axis.Axis.label
+          + matplotlib.axis.Axis.set_label_coords
+          + matplotlib.axis.Axis.set_label_position
+          + matplotlib.axis.Axis.set_label_text
+          + matplotlib.axis.Axis.get_label_position
+          + matplotlib.axis.Axis.get_label_text
+          + matplotlib.axis.Axis.get_major_ticks
+          + matplotlib.axis.Axis.get_majorticklabels
+          + matplotlib.axis.Axis.get_majorticklines
+          + matplotlib.axis.Axis.get_majorticklocs
+          + matplotlib.axis.Axis.get_minor_ticks
+          + matplotlib.axis.Axis.get_minorticklabels
+          + matplotlib.axis.Axis.get_minorticklines
+          + matplotlib.axis.Axis.get_minorticklocs
+          + matplotlib.axis.Axis.get_offset_text
+          + matplotlib.axis.Axis.get_tick_padding
+          + matplotlib.axis.Axis.get_tick_params
+          + matplotlib.axis.Axis.get_ticklabels
+          + matplotlib.axis.Axis.get_ticklines
+          + matplotlib.axis.Axis.get_ticklocs
+          + matplotlib.axis.Axis.get_gridlines
+          + matplotlib.axis.Axis.grid
+          + matplotlib.axis.Axis.set_tick_params
+          + matplotlib.axis.Axis.axis_date
+          + matplotlib.axis.Axis.minorticks_off
+          + matplotlib.axis.Axis.minorticks_on
+          + matplotlib.axis.Axis.get_data_interval
+          + matplotlib.axis.Axis.get_view_interval
+          + matplotlib.axis.Axis.get_inverted
+          + matplotlib.axis.Axis.set_data_interval
+          + matplotlib.axis.Axis.set_view_interval
+          + matplotlib.axis.Axis.set_inverted
+          + matplotlib.axis.Axis.get_minpos
+          + matplotlib.axis.Axis.get_tick_space
+          + matplotlib.axis.Axis.get_tightbbox
+          + matplotlib.axis.Axis.contains
+          + matplotlib.axis.Axis.pickradius
+          + matplotlib.axis.Axis.get_pickradius
+          + matplotlib.axis.Axis.set_pickradius
+          + matplotlib.axis.Axis.convert_units
+          + matplotlib.axis.Axis.set_units
+          + matplotlib.axis.Axis.get_units
+          + matplotlib.axis.Axis.set_converter
+          + matplotlib.axis.Axis.get_converter
+          + matplotlib.axis.Axis.update_units
+          + matplotlib.axis.XAxis.axis_name
+          + matplotlib.axis.XAxis.get_ticks_position
+          + matplotlib.axis.XAxis.set_ticks_position
+          + matplotlib.axis.XAxis.set_label_position
+          + matplotlib.axis.XAxis.tick_bottom
+          + matplotlib.axis.XAxis.tick_top
+          + matplotlib.axis.YAxis.axis_name
+          + matplotlib.axis.YAxis.get_ticks_position
+          + matplotlib.axis.YAxis.set_offset_position
+          + matplotlib.axis.YAxis.set_ticks_position
+          + matplotlib.axis.YAxis.set_label_position
+          + matplotlib.axis.YAxis.tick_left
+          + matplotlib.axis.YAxis.tick_right
+          + matplotlib.axis.Axis.OFFSETTEXTPAD
+          + matplotlib.axis.Axis.axes
+          + matplotlib.axis.Axis.limit_range_for_scale
+          + matplotlib.axis.Axis.reset_ticks
+          + matplotlib.axis.Axis.set_clip_path
+          + matplotlib.axis.Axis.set_default_intervals
+          + matplotlib.axis.Axis.get_label
+          + matplotlib.axis.Axis.set_label
+          + matplotlib.axis.Axis.set_ticks
+          + matplotlib.axis.Axis.set_ticklabels
+          + matplotlib.axis.Tick.get_loc
+          + matplotlib.axis.Tick.get_pad
+          + matplotlib.axis.Tick.get_tick_padding
+          + matplotlib.axis.Tick.get_tickdir
+          + matplotlib.axis.Tick.get_view_interval
+          + matplotlib.axis.Tick.set_clip_path
+          + matplotlib.axis.Tick.set_pad
+          + matplotlib.axis.Tick.set_url
+          + matplotlib.axis.Tick.update_position
+     * matplotlib.backend_bases
+     * matplotlib.backend_managers
+     * matplotlib.backend_tools
+     * matplotlib.backends
+          + matplotlib.backends.backend_mixed
+          + matplotlib.backends.backend_template
+          + matplotlib.backends.backend_agg
+          + matplotlib.backends.backend_cairo
+          + matplotlib.backends.backend_gtk3agg,
+            matplotlib.backends.backend_gtk3cairo
+          + matplotlib.backends.backend_gtk4agg,
+            matplotlib.backends.backend_gtk4cairo
+          + matplotlib.backends.backend_nbagg
+          + matplotlib.backends.backend_pdf
+          + matplotlib.backends.backend_pgf
+          + matplotlib.backends.backend_ps
+          + matplotlib.backends.registry
+          + matplotlib.backends.backend_qtagg,
+            matplotlib.backends.backend_qtcairo
+          + matplotlib.backends.backend_svg
+          + matplotlib.backends.backend_tkagg,
+            matplotlib.backends.backend_tkcairo
+          + matplotlib.backends.backend_webagg_core
+          + matplotlib.backends.backend_webagg
+          + matplotlib.backends.backend_wxagg,
+            matplotlib.backends.backend_wxcairo
+     * matplotlib.bezier
+     * matplotlib.category
+     * matplotlib.cbook
+     * matplotlib.cm
+     * matplotlib.collections
+     * matplotlib.colorbar
+     * matplotlib.colorizer
+     * matplotlib.colors
+          + matplotlib.colors.Normalize
+          + matplotlib.colors.NoNorm
+          + matplotlib.colors.AsinhNorm
+          + matplotlib.colors.BoundaryNorm
+          + matplotlib.colors.CenteredNorm
+          + matplotlib.colors.FuncNorm
+          + matplotlib.colors.LogNorm
+          + matplotlib.colors.PowerNorm
+          + matplotlib.colors.SymLogNorm
+          + matplotlib.colors.TwoSlopeNorm
+          + matplotlib.colors.Colormap
+          + matplotlib.colors.LinearSegmentedColormap
+          + matplotlib.colors.ListedColormap
+          + matplotlib.colors.BivarColormap
+          + matplotlib.colors.SegmentedBivarColormap
+          + matplotlib.colors.BivarColormapFromImage
+          + matplotlib.colors.ColorSequenceRegistry
+          + matplotlib.colors.LightSource
+          + matplotlib.colors.from_levels_and_colors
+          + matplotlib.colors.hsv_to_rgb
+          + matplotlib.colors.rgb_to_hsv
+          + matplotlib.colors.to_hex
+          + matplotlib.colors.to_rgb
+          + matplotlib.colors.to_rgba
+          + matplotlib.colors.to_rgba_array
+          + matplotlib.colors.is_color_like
+          + matplotlib.colors.same_color
+          + matplotlib.colors.get_named_colors_mapping
+          + matplotlib.colors.make_norm_from_scale
+     * matplotlib.container
+     * matplotlib.contour
+     * matplotlib.dates
+     * matplotlib.dviread
+     * matplotlib.figure
+          + matplotlib.figure.Figure
+          + matplotlib.figure.Figure.add_axes
+          + matplotlib.figure.Figure.add_subplot
+          + matplotlib.figure.Figure.subplots
+          + matplotlib.figure.Figure.subplot_mosaic
+          + matplotlib.figure.Figure.add_gridspec
+          + matplotlib.figure.Figure.get_axes
+          + matplotlib.figure.Figure.axes
+          + matplotlib.figure.Figure.delaxes
+          + matplotlib.figure.Figure.subfigures
+          + matplotlib.figure.Figure.add_subfigure
+          + matplotlib.figure.Figure.savefig
+          + matplotlib.figure.Figure.colorbar
+          + matplotlib.figure.Figure.legend
+          + matplotlib.figure.Figure.text
+          + matplotlib.figure.Figure.suptitle
+          + matplotlib.figure.Figure.get_suptitle
+          + matplotlib.figure.Figure.supxlabel
+          + matplotlib.figure.Figure.get_supxlabel
+          + matplotlib.figure.Figure.supylabel
+          + matplotlib.figure.Figure.get_supylabel
+          + matplotlib.figure.Figure.align_labels
+          + matplotlib.figure.Figure.align_xlabels
+          + matplotlib.figure.Figure.align_ylabels
+          + matplotlib.figure.Figure.align_titles
+          + matplotlib.figure.Figure.autofmt_xdate
+          + matplotlib.figure.Figure.set_size_inches
+          + matplotlib.figure.Figure.get_size_inches
+          + matplotlib.figure.Figure.set_figheight
+          + matplotlib.figure.Figure.get_figheight
+          + matplotlib.figure.Figure.set_figwidth
+          + matplotlib.figure.Figure.get_figwidth
+          + matplotlib.figure.Figure.dpi
+          + matplotlib.figure.Figure.set_dpi
+          + matplotlib.figure.Figure.get_dpi
+          + matplotlib.figure.Figure.subplots_adjust
+          + matplotlib.figure.Figure.set_layout_engine
+          + matplotlib.figure.Figure.get_layout_engine
+          + matplotlib.figure.Figure.tight_layout
+          + matplotlib.figure.Figure.set_tight_layout
+          + matplotlib.figure.Figure.get_tight_layout
+          + matplotlib.figure.Figure.set_constrained_layout
+          + matplotlib.figure.Figure.get_constrained_layout
+          + matplotlib.figure.Figure.set_constrained_layout_pads
+          + matplotlib.figure.Figure.get_constrained_layout_pads
+          + matplotlib.figure.Figure.ginput
+          + matplotlib.figure.Figure.add_axobserver
+          + matplotlib.figure.Figure.waitforbuttonpress
+          + matplotlib.figure.Figure.pick
+          + matplotlib.figure.Figure.set_frameon
+          + matplotlib.figure.Figure.get_frameon
+          + matplotlib.figure.Figure.set_linewidth
+          + matplotlib.figure.Figure.get_linewidth
+          + matplotlib.figure.Figure.set_facecolor
+          + matplotlib.figure.Figure.get_facecolor
+          + matplotlib.figure.Figure.set_edgecolor
+          + matplotlib.figure.Figure.get_edgecolor
+          + matplotlib.figure.Figure.add_artist
+          + matplotlib.figure.Figure.get_children
+          + matplotlib.figure.Figure.figimage
+          + matplotlib.figure.Figure.clear
+          + matplotlib.figure.Figure.gca
+          + matplotlib.figure.Figure.sca
+          + matplotlib.figure.Figure.get_tightbbox
+          + matplotlib.figure.Figure.get_window_extent
+          + matplotlib.figure.Figure.show
+          + matplotlib.figure.Figure.set_canvas
+          + matplotlib.figure.Figure.draw
+          + matplotlib.figure.Figure.draw_without_rendering
+          + matplotlib.figure.Figure.draw_artist
+          + matplotlib.figure.SubFigure
+          + matplotlib.figure.SubFigure.add_axes
+          + matplotlib.figure.SubFigure.add_subplot
+          + matplotlib.figure.SubFigure.subplots
+          + matplotlib.figure.SubFigure.subplot_mosaic
+          + matplotlib.figure.SubFigure.add_gridspec
+          + matplotlib.figure.SubFigure.delaxes
+          + matplotlib.figure.SubFigure.add_subfigure
+          + matplotlib.figure.SubFigure.subfigures
+          + matplotlib.figure.SubFigure.colorbar
+          + matplotlib.figure.SubFigure.legend
+          + matplotlib.figure.SubFigure.text
+          + matplotlib.figure.SubFigure.suptitle
+          + matplotlib.figure.SubFigure.get_suptitle
+          + matplotlib.figure.SubFigure.supxlabel
+          + matplotlib.figure.SubFigure.get_supxlabel
+          + matplotlib.figure.SubFigure.supylabel
+          + matplotlib.figure.SubFigure.get_supylabel
+          + matplotlib.figure.SubFigure.align_labels
+          + matplotlib.figure.SubFigure.align_xlabels
+          + matplotlib.figure.SubFigure.align_ylabels
+          + matplotlib.figure.SubFigure.align_titles
+          + matplotlib.figure.SubFigure.add_artist
+          + matplotlib.figure.SubFigure.get_children
+          + matplotlib.figure.SubFigure.set_frameon
+          + matplotlib.figure.SubFigure.get_frameon
+          + matplotlib.figure.SubFigure.set_linewidth
+          + matplotlib.figure.SubFigure.get_linewidth
+          + matplotlib.figure.SubFigure.set_facecolor
+          + matplotlib.figure.SubFigure.get_facecolor
+          + matplotlib.figure.SubFigure.set_edgecolor
+          + matplotlib.figure.SubFigure.get_edgecolor
+          + matplotlib.figure.SubFigure.set_dpi
+          + matplotlib.figure.SubFigure.get_dpi
+     * matplotlib.font_manager
+     * matplotlib.ft2font
+     * matplotlib.gridspec
+          + matplotlib.gridspec.GridSpec
+          + matplotlib.gridspec.SubplotSpec
+          + matplotlib.gridspec.GridSpecBase
+          + matplotlib.gridspec.GridSpecFromSubplotSpec
+          + matplotlib.gridspec.SubplotParams
+     * matplotlib.hatch
+     * matplotlib.image
+     * matplotlib.inset
+     * matplotlib.layout_engine
+     * matplotlib.legend
+     * matplotlib.legend_handler
+     * matplotlib.lines
+          + matplotlib.lines.Line2D
+          + matplotlib.lines.VertexSelector
+          + matplotlib.lines.AxLine
+          + matplotlib.lines.segment_hits
+     * matplotlib.markers
+          + matplotlib.markers.MarkerStyle
+     * matplotlib.mathtext
+     * matplotlib.mlab
+     * matplotlib.offsetbox
+     * matplotlib.patches
+          + matplotlib.patches.Annulus
+          + matplotlib.patches.Arc
+          + matplotlib.patches.Arrow
+          + matplotlib.patches.ArrowStyle
+          + matplotlib.patches.BoxStyle
+          + matplotlib.patches.Circle
+          + matplotlib.patches.CirclePolygon
+          + matplotlib.patches.ConnectionPatch
+          + matplotlib.patches.ConnectionStyle
+          + matplotlib.patches.Ellipse
+          + matplotlib.patches.FancyArrow
+          + matplotlib.patches.FancyArrowPatch
+          + matplotlib.patches.FancyBboxPatch
+          + matplotlib.patches.Patch
+          + matplotlib.patches.PathPatch
+          + matplotlib.patches.StepPatch
+          + matplotlib.patches.Polygon
+          + matplotlib.patches.Rectangle
+          + matplotlib.patches.RegularPolygon
+          + matplotlib.patches.Shadow
+          + matplotlib.patches.Wedge
+          + matplotlib.patches.bbox_artist
+          + matplotlib.patches.draw_bbox
+     * matplotlib.path
+     * matplotlib.patheffects
+     * matplotlib.pyplot
+          + matplotlib.pyplot.axes
+          + matplotlib.pyplot.cla
+          + matplotlib.pyplot.clf
+          + matplotlib.pyplot.close
+          + matplotlib.pyplot.delaxes
+          + matplotlib.pyplot.fignum_exists
+          + matplotlib.pyplot.figure
+          + matplotlib.pyplot.gca
+          + matplotlib.pyplot.gcf
+          + matplotlib.pyplot.get_figlabels
+          + matplotlib.pyplot.get_fignums
+          + matplotlib.pyplot.sca
+          + matplotlib.pyplot.subplot
+          + matplotlib.pyplot.subplot2grid
+          + matplotlib.pyplot.subplot_mosaic
+          + matplotlib.pyplot.subplots
+          + matplotlib.pyplot.twinx
+          + matplotlib.pyplot.twiny
+          + matplotlib.pyplot.plot
+          + matplotlib.pyplot.errorbar
+          + matplotlib.pyplot.scatter
+          + matplotlib.pyplot.plot_date
+          + matplotlib.pyplot.step
+          + matplotlib.pyplot.loglog
+          + matplotlib.pyplot.semilogx
+          + matplotlib.pyplot.semilogy
+          + matplotlib.pyplot.fill_between
+          + matplotlib.pyplot.fill_betweenx
+          + matplotlib.pyplot.bar
+          + matplotlib.pyplot.barh
+          + matplotlib.pyplot.bar_label
+          + matplotlib.pyplot.stem
+          + matplotlib.pyplot.eventplot
+          + matplotlib.pyplot.pie
+          + matplotlib.pyplot.stackplot
+          + matplotlib.pyplot.broken_barh
+          + matplotlib.pyplot.vlines
+          + matplotlib.pyplot.hlines
+          + matplotlib.pyplot.fill
+          + matplotlib.pyplot.polar
+          + matplotlib.pyplot.axhline
+          + matplotlib.pyplot.axhspan
+          + matplotlib.pyplot.axvline
+          + matplotlib.pyplot.axvspan
+          + matplotlib.pyplot.axline
+          + matplotlib.pyplot.acorr
+          + matplotlib.pyplot.angle_spectrum
+          + matplotlib.pyplot.cohere
+          + matplotlib.pyplot.csd
+          + matplotlib.pyplot.magnitude_spectrum
+          + matplotlib.pyplot.phase_spectrum
+          + matplotlib.pyplot.psd
+          + matplotlib.pyplot.specgram
+          + matplotlib.pyplot.xcorr
+          + matplotlib.pyplot.ecdf
+          + matplotlib.pyplot.boxplot
+          + matplotlib.pyplot.violinplot
+          + matplotlib.pyplot.hexbin
+          + matplotlib.pyplot.hist
+          + matplotlib.pyplot.hist2d
+          + matplotlib.pyplot.stairs
+          + matplotlib.pyplot.clabel
+          + matplotlib.pyplot.contour
+          + matplotlib.pyplot.contourf
+          + matplotlib.pyplot.imshow
+          + matplotlib.pyplot.matshow
+          + matplotlib.pyplot.pcolor
+          + matplotlib.pyplot.pcolormesh
+          + matplotlib.pyplot.spy
+          + matplotlib.pyplot.figimage
+          + matplotlib.pyplot.triplot
+          + matplotlib.pyplot.tripcolor
+          + matplotlib.pyplot.tricontour
+          + matplotlib.pyplot.tricontourf
+          + matplotlib.pyplot.annotate
+          + matplotlib.pyplot.text
+          + matplotlib.pyplot.figtext
+          + matplotlib.pyplot.table
+          + matplotlib.pyplot.arrow
+          + matplotlib.pyplot.figlegend
+          + matplotlib.pyplot.legend
+          + matplotlib.pyplot.barbs
+          + matplotlib.pyplot.quiver
+          + matplotlib.pyplot.quiverkey
+          + matplotlib.pyplot.streamplot
+          + matplotlib.pyplot.autoscale
+          + matplotlib.pyplot.axis
+          + matplotlib.pyplot.box
+          + matplotlib.pyplot.grid
+          + matplotlib.pyplot.locator_params
+          + matplotlib.pyplot.minorticks_off
+          + matplotlib.pyplot.minorticks_on
+          + matplotlib.pyplot.rgrids
+          + matplotlib.pyplot.thetagrids
+          + matplotlib.pyplot.tick_params
+          + matplotlib.pyplot.ticklabel_format
+          + matplotlib.pyplot.xlabel
+          + matplotlib.pyplot.xlim
+          + matplotlib.pyplot.xscale
+          + matplotlib.pyplot.xticks
+          + matplotlib.pyplot.ylabel
+          + matplotlib.pyplot.ylim
+          + matplotlib.pyplot.yscale
+          + matplotlib.pyplot.yticks
+          + matplotlib.pyplot.suptitle
+          + matplotlib.pyplot.title
+          + matplotlib.pyplot.margins
+          + matplotlib.pyplot.subplots_adjust
+          + matplotlib.pyplot.subplot_tool
+          + matplotlib.pyplot.tight_layout
+          + matplotlib.pyplot.clim
+          + matplotlib.pyplot.colorbar
+          + matplotlib.pyplot.gci
+          + matplotlib.pyplot.sci
+          + matplotlib.pyplot.get_cmap
+          + matplotlib.pyplot.set_cmap
+          + matplotlib.pyplot.imread
+          + matplotlib.pyplot.imsave
+          + matplotlib.pyplot.rc
+          + matplotlib.pyplot.rc_context
+          + matplotlib.pyplot.rcdefaults
+          + matplotlib.pyplot.draw
+          + matplotlib.pyplot.draw_if_interactive
+          + matplotlib.pyplot.ioff
+          + matplotlib.pyplot.ion
+          + matplotlib.pyplot.install_repl_displayhook
+          + matplotlib.pyplot.isinteractive
+          + matplotlib.pyplot.pause
+          + matplotlib.pyplot.savefig
+          + matplotlib.pyplot.show
+          + matplotlib.pyplot.switch_backend
+          + matplotlib.pyplot.uninstall_repl_displayhook
+          + matplotlib.pyplot.connect
+          + matplotlib.pyplot.disconnect
+          + matplotlib.pyplot.findobj
+          + matplotlib.pyplot.get
+          + matplotlib.pyplot.getp
+          + matplotlib.pyplot.get_current_fig_manager
+          + matplotlib.pyplot.ginput
+          + matplotlib.pyplot.new_figure_manager
+          + matplotlib.pyplot.set_loglevel
+          + matplotlib.pyplot.setp
+          + matplotlib.pyplot.waitforbuttonpress
+          + matplotlib.pyplot.xkcd
+     * matplotlib.projections
+          + matplotlib.projections.polar
+          + matplotlib.projections.geo
+     * matplotlib.quiver
+          + matplotlib.quiver.Quiver
+          + matplotlib.quiver.QuiverKey
+          + matplotlib.quiver.Barbs
+     * matplotlib.rcsetup
+     * matplotlib.sankey
+     * matplotlib.scale
+     * matplotlib.sphinxext.mathmpl
+     * matplotlib.sphinxext.plot_directive
+     * matplotlib.sphinxext.figmpl_directive
+     * matplotlib.sphinxext.roles
+     * matplotlib.spines
+     * matplotlib.style
+     * matplotlib.table
+     * matplotlib.testing
+     * matplotlib.text
+     * matplotlib.texmanager
+     * matplotlib.ticker
+     * matplotlib.transforms
+     * matplotlib.tri
+     * matplotlib.typing
+     * matplotlib.units
+     * matplotlib.widgets
+     * matplotlib._afm
+     * matplotlib._api
+     * matplotlib._docstring
+     * matplotlib._enums
+     * matplotlib._type1font
+     * matplotlib._tight_bbox
+     * matplotlib._tight_layout
+     * mpl_toolkits.mplot3d
+          + mplot3d FAQ
+          + mplot3d View Angles
+          + mpl_toolkits.mplot3d.axes3d.Axes3D
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.plot
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.scatter
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.bar
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.bar3d
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.plot_surface
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.plot_wireframe
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.plot_trisurf
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.fill_between
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.clabel
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.contour
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.tricontour
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.contourf
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.tricontourf
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.quiver
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.voxels
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.errorbar
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.stem
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.text
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.text2D
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.clear
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_axis_off
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_axis_on
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.grid
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zaxis
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_xlim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_xlim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_ylim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_ylim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zlim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlim
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_w_lims
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.invert_xaxis
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.xaxis_inverted
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.invert_yaxis
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.yaxis_inverted
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.invert_zaxis
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.zaxis_inverted
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_xbound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_xbound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_ybound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_ybound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zbound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zbound
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlabel
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zlabel
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_title
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_xscale
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_yscale
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zscale
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zscale
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zmargin
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zmargin
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.margins
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.autoscale
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.autoscale_view
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_autoscalez_on
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_autoscalez_on
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.auto_scale_xyz
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_aspect
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_box_aspect
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.apply_aspect
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.tick_params
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zticks
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zticks
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zticklabels
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zticklines
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zgridlines
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zminorticklabels
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_zmajorticklabels
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.zaxis_date
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.convert_zunits
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.add_collection3d
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.sharez
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.shareview
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.can_zoom
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.can_pan
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.disable_mouse_rotation
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.mouse_init
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.drag_pan
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.format_zdata
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.format_coord
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.view_init
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_proj_type
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_proj
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_top_view
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.draw
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_tightbbox
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.set_zlim3d
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.stem3D
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.text3D
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.get_axis_position
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.add_contour_set
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.add_contourf_set
+               o mpl_toolkits.mplot3d.axes3d.Axes3D.update_datalim
+               o mpl_toolkits.mplot3d.axes3d.get_test_data
+          + mpl_toolkits.mplot3d.axis3d.Axis
+          + mpl_toolkits.mplot3d.art3d.Line3D
+          + mpl_toolkits.mplot3d.art3d.Line3DCollection
+          + mpl_toolkits.mplot3d.art3d.Patch3D
+          + mpl_toolkits.mplot3d.art3d.Patch3DCollection
+          + mpl_toolkits.mplot3d.art3d.Path3DCollection
+          + mpl_toolkits.mplot3d.art3d.PathPatch3D
+          + mpl_toolkits.mplot3d.art3d.Poly3DCollection
+          + mpl_toolkits.mplot3d.art3d.Text3D
+          + mpl_toolkits.mplot3d.art3d.get_dir_vector
+          + mpl_toolkits.mplot3d.art3d.juggle_axes
+          + mpl_toolkits.mplot3d.art3d.line_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.line_collection_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.patch_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.patch_collection_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.pathpatch_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.poly_collection_2d_to_3d
+          + mpl_toolkits.mplot3d.art3d.rotate_axes
+          + mpl_toolkits.mplot3d.art3d.text_2d_to_3d
+          + mpl_toolkits.mplot3d.proj3d.inv_transform
+          + mpl_toolkits.mplot3d.proj3d.proj_transform
+          + mpl_toolkits.mplot3d.proj3d.proj_transform_clip
+          + mpl_toolkits.mplot3d.proj3d.world_transformation
+     * mpl_toolkits.axes_grid1
+          + mpl_toolkits.axes_grid1.anchored_artists
+               o mpl_toolkits.axes_grid1.anchored_artists.AnchoredAuxTrans
+                 formBox
+               o mpl_toolkits.axes_grid1.anchored_artists.AnchoredDirectio
+                 nArrows
+               o mpl_toolkits.axes_grid1.anchored_artists.AnchoredDrawingA
+                 rea
+               o mpl_toolkits.axes_grid1.anchored_artists.AnchoredSizeBar
+          + mpl_toolkits.axes_grid1.axes_divider
+               o mpl_toolkits.axes_grid1.axes_divider.AxesDivider
+               o mpl_toolkits.axes_grid1.axes_divider.Divider
+               o mpl_toolkits.axes_grid1.axes_divider.HBoxDivider
+               o mpl_toolkits.axes_grid1.axes_divider.SubplotDivider
+               o mpl_toolkits.axes_grid1.axes_divider.VBoxDivider
+               o mpl_toolkits.axes_grid1.axes_divider.make_axes_area_auto_
+                 adjustable
+               o mpl_toolkits.axes_grid1.axes_divider.make_axes_locatable
+          + mpl_toolkits.axes_grid1.axes_grid
+               o mpl_toolkits.axes_grid1.axes_grid.AxesGrid
+               o mpl_toolkits.axes_grid1.axes_grid.CbarAxesBase
+               o mpl_toolkits.axes_grid1.axes_grid.Grid
+               o mpl_toolkits.axes_grid1.axes_grid.ImageGrid
+          + mpl_toolkits.axes_grid1.axes_rgb
+               o mpl_toolkits.axes_grid1.axes_rgb.RGBAxes
+               o mpl_toolkits.axes_grid1.axes_rgb.make_rgb_axes
+          + mpl_toolkits.axes_grid1.axes_size
+               o mpl_toolkits.axes_grid1.axes_size.Add
+               o mpl_toolkits.axes_grid1.axes_size.AxesX
+               o mpl_toolkits.axes_grid1.axes_size.AxesY
+               o mpl_toolkits.axes_grid1.axes_size.Fixed
+               o mpl_toolkits.axes_grid1.axes_size.Fraction
+               o mpl_toolkits.axes_grid1.axes_size.MaxExtent
+               o mpl_toolkits.axes_grid1.axes_size.MaxHeight
+               o mpl_toolkits.axes_grid1.axes_size.MaxWidth
+               o mpl_toolkits.axes_grid1.axes_size.Scalable
+               o mpl_toolkits.axes_grid1.axes_size.Scaled
+               o mpl_toolkits.axes_grid1.axes_size.from_any
+          + mpl_toolkits.axes_grid1.inset_locator
+               o mpl_toolkits.axes_grid1.inset_locator.AnchoredLocatorBase
+               o mpl_toolkits.axes_grid1.inset_locator.AnchoredSizeLocator
+               o mpl_toolkits.axes_grid1.inset_locator.AnchoredZoomLocator
+               o mpl_toolkits.axes_grid1.inset_locator.BboxConnector
+               o mpl_toolkits.axes_grid1.inset_locator.BboxConnectorPatch
+               o mpl_toolkits.axes_grid1.inset_locator.BboxPatch
+               o mpl_toolkits.axes_grid1.inset_locator.inset_axes
+               o mpl_toolkits.axes_grid1.inset_locator.mark_inset
+               o mpl_toolkits.axes_grid1.inset_locator.zoomed_inset_axes
+          + mpl_toolkits.axes_grid1.mpl_axes
+               o mpl_toolkits.axes_grid1.mpl_axes.Axes
+               o mpl_toolkits.axes_grid1.mpl_axes.SimpleAxisArtist
+               o mpl_toolkits.axes_grid1.mpl_axes.SimpleChainedObjects
+          + mpl_toolkits.axes_grid1.parasite_axes
+               o mpl_toolkits.axes_grid1.parasite_axes.HostAxes
+               o mpl_toolkits.axes_grid1.parasite_axes.HostAxesBase
+               o mpl_toolkits.axes_grid1.parasite_axes.ParasiteAxes
+               o mpl_toolkits.axes_grid1.parasite_axes.ParasiteAxesBase
+               o mpl_toolkits.axes_grid1.parasite_axes.SubplotHost
+               o mpl_toolkits.axes_grid1.parasite_axes.host_axes
+               o mpl_toolkits.axes_grid1.parasite_axes.host_axes_class_fac
+                 tory
+               o mpl_toolkits.axes_grid1.parasite_axes.host_subplot
+               o mpl_toolkits.axes_grid1.parasite_axes.host_subplot_class_
+                 factory
+               o mpl_toolkits.axes_grid1.parasite_axes.parasite_axes_class
+                 _factory
+     * mpl_toolkits.axisartist
+          + mpl_toolkits.axisartist.angle_helper
+               o mpl_toolkits.axisartist.angle_helper.ExtremeFinderCycle
+               o mpl_toolkits.axisartist.angle_helper.FormatterDMS
+               o mpl_toolkits.axisartist.angle_helper.FormatterHMS
+               o mpl_toolkits.axisartist.angle_helper.LocatorBase
+               o mpl_toolkits.axisartist.angle_helper.LocatorD
+               o mpl_toolkits.axisartist.angle_helper.LocatorDM
+               o mpl_toolkits.axisartist.angle_helper.LocatorDMS
+               o mpl_toolkits.axisartist.angle_helper.LocatorH
+               o mpl_toolkits.axisartist.angle_helper.LocatorHM
+               o mpl_toolkits.axisartist.angle_helper.LocatorHMS
+               o mpl_toolkits.axisartist.angle_helper.select_step
+               o mpl_toolkits.axisartist.angle_helper.select_step24
+               o mpl_toolkits.axisartist.angle_helper.select_step360
+               o mpl_toolkits.axisartist.angle_helper.select_step_degree
+               o mpl_toolkits.axisartist.angle_helper.select_step_hour
+               o mpl_toolkits.axisartist.angle_helper.select_step_sub
+          + mpl_toolkits.axisartist.axes_divider
+          + mpl_toolkits.axisartist.axis_artist
+               o mpl_toolkits.axisartist.axis_artist.AttributeCopier
+               o mpl_toolkits.axisartist.axis_artist.AxisArtist
+               o mpl_toolkits.axisartist.axis_artist.AxisLabel
+               o mpl_toolkits.axisartist.axis_artist.GridlinesCollection
+               o mpl_toolkits.axisartist.axis_artist.LabelBase
+               o mpl_toolkits.axisartist.axis_artist.TickLabels
+               o mpl_toolkits.axisartist.axis_artist.Ticks
+          + mpl_toolkits.axisartist.axisline_style
+               o mpl_toolkits.axisartist.axisline_style.AxislineStyle
+          + mpl_toolkits.axisartist.axislines
+               o mpl_toolkits.axisartist.axislines.Axes
+               o mpl_toolkits.axisartist.axislines.AxesZero
+               o mpl_toolkits.axisartist.axislines.AxisArtistHelper
+               o mpl_toolkits.axisartist.axislines.AxisArtistHelperRectlin
+                 ear
+               o mpl_toolkits.axisartist.axislines.FixedAxisArtistHelperRe
+                 ctilinear
+               o mpl_toolkits.axisartist.axislines.FloatingAxisArtistHelpe
+                 rRectilinear
+               o mpl_toolkits.axisartist.axislines.GridHelperBase
+               o mpl_toolkits.axisartist.axislines.GridHelperRectlinear
+               o mpl_toolkits.axisartist.axislines.Subplot
+               o mpl_toolkits.axisartist.axislines.SubplotZero
+          + mpl_toolkits.axisartist.floating_axes
+               o mpl_toolkits.axisartist.floating_axes.ExtremeFinderFixed
+               o mpl_toolkits.axisartist.floating_axes.FixedAxisArtistHelp
+                 er
+               o mpl_toolkits.axisartist.floating_axes.FloatingAxes
+               o mpl_toolkits.axisartist.floating_axes.FloatingAxesBase
+               o mpl_toolkits.axisartist.floating_axes.FloatingAxisArtistH
+                 elper
+               o mpl_toolkits.axisartist.floating_axes.FloatingSubplot
+               o mpl_toolkits.axisartist.floating_axes.GridHelperCurveLine
+                 ar
+               o mpl_toolkits.axisartist.floating_axes.floatingaxes_class_
+                 factory
+          + mpl_toolkits.axisartist.grid_finder
+               o mpl_toolkits.axisartist.grid_finder.DictFormatter
+               o mpl_toolkits.axisartist.grid_finder.ExtremeFinderSimple
+               o mpl_toolkits.axisartist.grid_finder.FixedLocator
+               o mpl_toolkits.axisartist.grid_finder.FormatterPrettyPrint
+               o mpl_toolkits.axisartist.grid_finder.GridFinder
+               o mpl_toolkits.axisartist.grid_finder.MaxNLocator
+          + mpl_toolkits.axisartist.grid_helper_curvelinear
+               o mpl_toolkits.axisartist.grid_helper_curvelinear.FixedAxis
+                 ArtistHelper
+               o mpl_toolkits.axisartist.grid_helper_curvelinear.FloatingA
+                 xisArtistHelper
+               o mpl_toolkits.axisartist.grid_helper_curvelinear.GridHelpe
+                 rCurveLinear
+          + mpl_toolkits.axisartist.parasite_axes
+     * pylab
+
+     *
+     * API Reference
+     *
+
+matplotlib.legend#
+
+   The legend module defines the Legend class, which is responsible for
+   drawing legends associated with Axes and/or figures.
+
+   Important
+
+   It is unlikely that you would ever create a Legend instance manually.
+   Most users would normally create a legend via the legend function. For
+   more details on legends there is also a legend guide.
+
+   The Legend class is a container of legend handles and legend texts.
+
+   The legend handler map specifies how to create legend handles from
+   artists (lines, patches, etc.) in the Axes or figures. Default legend
+   handlers are defined in the legend_handler module. While not all artist
+   types are covered by the default legend handlers, custom legend
+   handlers can be defined to support arbitrary objects.
+
+   See the :ref`<legend_guide>` for more information.
+
+   class matplotlib.legend.DraggableLegend(legend, use_blit=False,
+          update='loc')[source]#
+          Bases: DraggableOffsetBox
+
+          Wrapper around a Legend to support mouse dragging.
+
+        Parameters:
+
+              legendLegend
+                      The Legend instance to wrap.
+
+              use_blitbool, optional
+                      Use blitting for faster image composition. For
+                      details see FuncAnimation.
+
+              update{'loc', 'bbox'}, optional
+                      If "loc", update the loc parameter of the legend
+                      upon finalizing. If "bbox", update the
+                      bbox_to_anchor parameter.
+
+        finalize_offset()[source]#
+
+   class matplotlib.legend.Legend(parent, handles, labels, *, loc=None,
+          numpoints=None, markerscale=None, markerfirst=True,
+          reverse=False, scatterpoints=None, scatteryoffsets=None,
+          prop=None, fontsize=None, labelcolor=None, borderpad=None,
+          labelspacing=None, handlelength=None, handleheight=None,
+          handletextpad=None, borderaxespad=None, columnspacing=None,
+          ncols=1, mode=None, fancybox=None, shadow=None, title=None,
+          title_fontsize=None, framealpha=None, edgecolor=None,
+          facecolor=None, bbox_to_anchor=None, bbox_transform=None,
+          frameon=None, handler_map=None, title_fontproperties=None,
+          alignment='center', ncol=1, draggable=False)[source]#
+          Bases: Artist
+
+          Place a legend on the figure/axes.
+
+        Parameters:
+
+              parentAxes or Figure
+                      The artist that contains the legend.
+
+              handleslist of (Artist or tuple of Artist)
+                      A list of Artists (lines, patches) to be added to
+                      the legend.
+
+              labelslist of str
+                      A list of labels to show next to the artists. The
+                      length of handles and labels should be the same. If
+                      they are not, they are truncated to the length of
+                      the shorter list.
+
+        Attributes:
+
+              legend_handles
+                      List of Artist objects added as legend entries.
+
+                      Added in version 3.7.
+
+        Other Parameters:
+
+              locstr or pair of floats, default: rcParams["legend.loc"]
+                      (default: 'best') for Axes, 'upper right' for Figure
+                      The location of the legend.
+
+                      The strings 'upper left', 'upper right', 'lower
+                      left', 'lower right' place the legend at the
+                      corresponding corner of the axes/figure.
+
+                      The strings 'upper center', 'lower center', 'center
+                      left', 'center right' place the legend at the center
+                      of the corresponding edge of the axes/figure.
+
+                      The string 'center' places the legend at the center
+                      of the axes/figure.
+
+                      The string 'best' places the legend at the location,
+                      among the nine locations defined so far, with the
+                      minimum overlap with other drawn artists. This
+                      option can be quite slow for plots with large
+                      amounts of data; your plotting speed may benefit
+                      from providing a specific location.
+
+                      The location can also be a 2-tuple giving the
+                      coordinates of the lower-left corner of the legend
+                      in axes/figure coordinates (in which case
+                      bbox_to_anchor will be ignored).
+
+                      For back-compatibility, 'center right' (but no other
+                      location) can also be spelled 'right', and each
+                      "string" location can also be given as a numeric
+                      value:
+
+                       Location String
+                        Location Code
+                      'best' (Axes only)
+                      0
+                      'upper right'
+                      1
+                      'upper left'
+                      2
+                      'lower left'
+                      3
+                      'lower right'
+                      4
+                      'right'
+                      5
+                      'center left'
+                      6
+                      'center right'
+                      7
+                      'lower center'
+                      8
+                      'upper center'
+                      9
+                      'center'
+                      10
+
+                      If a figure is using the constrained layout manager,
+                      the string codes of the loc keyword argument can get
+                      better layout behaviour using the prefix 'outside'.
+                      There is ambiguity at the corners, so 'outside upper
+                      right' will make space for the legend above the rest
+                      of the axes in the layout, and 'outside right upper'
+                      will make space on the right side of the layout. In
+                      addition to the values of loc listed above, we have
+                      'outside right upper', 'outside right lower',
+                      'outside left upper', and 'outside left lower'. See
+                      Legend guide for more details.
+
+              bbox_to_anchorBboxBase, 2-tuple, or 4-tuple of floats
+                      Box that is used to position the legend in
+                      conjunction with loc. Defaults to axes.bbox (if
+                      called as a method to Axes.legend) or figure.bbox
+                      (if figure.legend). This argument allows arbitrary
+                      placement of the legend.
+
+                      Bbox coordinates are interpreted in the coordinate
+                      system given by bbox_transform, with the default
+                      transform Axes or Figure coordinates, depending on
+                      which legend is called.
+
+                      If a 4-tuple or BboxBase is given, then it specifies
+                      the bbox (x, y, width, height) that the legend is
+                      placed in. To put the legend in the best location in
+                      the bottom right quadrant of the Axes (or figure):
+
+loc='best', bbox_to_anchor=(0.5, 0., 0.5, 0.5)
+
+                      A 2-tuple (x, y) places the corner of the legend
+                      specified by loc at x, y. For example, to put the
+                      legend's upper right-hand corner in the center of
+                      the Axes (or figure) the following keywords can be
+                      used:
+
+loc='upper right', bbox_to_anchor=(0.5, 0.5)
+
+              ncolsint, default: 1
+                      The number of columns that the legend has.
+
+                      For backward compatibility, the spelling ncol is
+                      also supported but it is discouraged. If both are
+                      given, ncols takes precedence.
+
+              propNone or FontProperties or dict
+                      The font properties of the legend. If None
+                      (default), the current matplotlib.rcParams will be
+                      used.
+
+              fontsizeint or {'xx-small', 'x-small', 'small', 'medium',
+                      'large', 'x-large', 'xx-large'}
+                      The font size of the legend. If the value is numeric
+                      the size will be the absolute font size in points.
+                      String values are relative to the current default
+                      font size. This argument is only used if prop is not
+                      specified.
+
+              labelcolorstr or list, default:
+                      rcParams["legend.labelcolor"] (default: 'None')
+                      The color of the text in the legend. Either a valid
+                      color string (for example, 'red'), or a list of
+                      color strings. The labelcolor can also be made to
+                      match the color of the line or marker using
+                      'linecolor', 'markerfacecolor' (or 'mfc'), or
+                      'markeredgecolor' (or 'mec').
+
+                      Labelcolor can be set globally using
+                      rcParams["legend.labelcolor"] (default: 'None'). If
+                      None, use rcParams["text.color"] (default: 'black').
+
+              numpointsint, default: rcParams["legend.numpoints"]
+                      (default: 1)
+                      The number of marker points in the legend when
+                      creating a legend entry for a Line2D (line).
+
+              scatterpointsint, default: rcParams["legend.scatterpoints"]
+                      (default: 1)
+                      The number of marker points in the legend when
+                      creating a legend entry for a PathCollection
+                      (scatter plot).
+
+              scatteryoffsetsiterable of floats, default: [0.375, 0.5,
+                      0.3125]
+                      The vertical offset (relative to the font size) for
+                      the markers created for a scatter plot legend entry.
+                      0.0 is at the base the legend text, and 1.0 is at
+                      the top. To draw all markers at the same height, set
+                      to [0.5].
+
+              markerscalefloat, default: rcParams["legend.markerscale"]
+                      (default: 1.0)
+                      The relative size of legend markers compared to the
+                      originally drawn ones.
+
+              markerfirstbool, default: True
+                      If True, legend marker is placed to the left of the
+                      legend label. If False, legend marker is placed to
+                      the right of the legend label.
+
+              reversebool, default: False
+                      If True, the legend labels are displayed in reverse
+                      order from the input. If False, the legend labels
+                      are displayed in the same order as the input.
+
+                      Added in version 3.7.
+
+              frameonbool, default: rcParams["legend.frameon"] (default:
+                      True)
+                      Whether the legend should be drawn on a patch
+                      (frame).
+
+              fancyboxbool, default: rcParams["legend.fancybox"] (default:
+                      True)
+                      Whether round edges should be enabled around the
+                      FancyBboxPatch which makes up the legend's
+                      background.
+
+              shadowNone, bool or dict, default: rcParams["legend.shadow"]
+                      (default: False)
+                      Whether to draw a shadow behind the legend. The
+                      shadow can be configured using Patch keywords.
+                      Customization via rcParams["legend.shadow"]
+                      (default: False) is currently not supported.
+
+              framealphafloat, default: rcParams["legend.framealpha"]
+                      (default: 0.8)
+                      The alpha transparency of the legend's background.
+                      If shadow is activated and framealpha is None, the
+                      default value is ignored.
+
+              facecolor"inherit" or color, default:
+                      rcParams["legend.facecolor"] (default: 'inherit')
+                      The legend's background color. If "inherit", use
+                      rcParams["axes.facecolor"] (default: 'white').
+
+              edgecolor"inherit" or color, default:
+                      rcParams["legend.edgecolor"] (default: '0.8')
+                      The legend's background patch edge color. If
+                      "inherit", use rcParams["axes.edgecolor"] (default:
+                      'black').
+
+              mode{"expand", None}
+                      If mode is set to "expand" the legend will be
+                      horizontally expanded to fill the Axes area (or
+                      bbox_to_anchor if defines the legend's size).
+
+              bbox_transformNone or Transform
+                      The transform for the bounding box (bbox_to_anchor).
+                      For a value of None (default) the Axes' transAxes
+                      transform will be used.
+
+              titlestr or None
+                      The legend's title. Default is no title (None).
+
+              title_fontpropertiesNone or FontProperties or dict
+                      The font properties of the legend's title. If None
+                      (default), the title_fontsize argument will be used
+                      if present; if title_fontsize is also None, the
+                      current rcParams["legend.title_fontsize"] (default:
+                      None) will be used.
+
+              title_fontsizeint or {'xx-small', 'x-small', 'small',
+                      'medium', 'large', 'x-large', 'xx-large'}, default:
+                      rcParams["legend.title_fontsize"] (default: None)
+                      The font size of the legend's title. Note: This
+                      cannot be combined with title_fontproperties. If you
+                      want to set the fontsize alongside other font
+                      properties, use the size parameter in
+                      title_fontproperties.
+
+              alignment{'center', 'left', 'right'}, default: 'center'
+                      The alignment of the legend title and the box of
+                      entries. The entries are aligned as a single block,
+                      so that markers always lined up.
+
+              borderpadfloat, default: rcParams["legend.borderpad"]
+                      (default: 0.4)
+                      The fractional whitespace inside the legend border,
+                      in font-size units.
+
+              labelspacingfloat, default: rcParams["legend.labelspacing"]
+                      (default: 0.5)
+                      The vertical space between the legend entries, in
+                      font-size units.
+
+              handlelengthfloat, default: rcParams["legend.handlelength"]
+                      (default: 2.0)
+                      The length of the legend handles, in font-size
+                      units.
+
+              handleheightfloat, default: rcParams["legend.handleheight"]
+                      (default: 0.7)
+                      The height of the legend handles, in font-size
+                      units.
+
+              handletextpadfloat, default:
+                      rcParams["legend.handletextpad"] (default: 0.8)
+                      The pad between the legend handle and text, in
+                      font-size units.
+
+              borderaxespadfloat, default:
+                      rcParams["legend.borderaxespad"] (default: 0.5)
+                      The pad between the Axes and legend border, in
+                      font-size units.
+
+              columnspacingfloat, default:
+                      rcParams["legend.columnspacing"] (default: 2.0)
+                      The spacing between columns, in font-size units.
+
+              handler_mapdict or None
+                      The custom dictionary mapping instances or types to
+                      a legend handler. This handler_map updates the
+                      default handler map found at
+                      matplotlib.legend.Legend.get_legend_handler_map.
+
+              draggablebool, default: False
+                      Whether the legend can be dragged with the mouse.
+
+        codes = {'best': 0, 'center': 10, 'center left': 6, 'center
+                right': 7, 'lower center': 8, 'lower left': 3, 'lower
+                right': 4, 'right': 5, 'upper center': 9, 'upper left': 2,
+                'upper right': 1}#
+
+        contains(mouseevent)[source]#
+                Test whether the artist contains the mouse event.
+
+              Parameters:
+
+                    mouseeventMouseEvent
+
+              Returns:
+
+                    containsbool
+                            Whether any values are within the radius.
+
+                    detailsdict
+                            An artist-specific dictionary of details of
+                            the event context, such as which points are
+                            contained in the pick radius. See the
+                            individual Artist subclasses for details.
+
+        draw(renderer)[source]#
+                Draw the Artist (and its children) using the given
+                renderer.
+
+                This has no effect if the artist is not visible
+                (Artist.get_visible returns False).
+
+              Parameters:
+
+                    rendererRendererBase subclass.
+
+                Notes
+
+                This method is overridden in the Artist subclasses.
+
+        draw_frame(b)[source]#
+                Set whether the legend box patch is drawn.
+
+              Parameters:
+
+                    bbool
+
+        get_alignment()[source]#
+                Get the alignment value of the legend box
+
+        get_bbox_to_anchor()[source]#
+                Return the bbox that the legend will be anchored to.
+
+        get_children()[source]#
+                Return a list of the child Artists of this Artist.
+
+        classmethod get_default_handler_map()[source]#
+                Return the global default handler map, shared by all
+                legends.
+
+        get_draggable()[source]#
+                Return True if the legend is draggable, False otherwise.
+
+        get_frame()[source]#
+                Return the Rectangle used to frame the legend.
+
+        get_frame_on()[source]#
+                Get whether the legend box patch is drawn.
+
+        static get_legend_handler(legend_handler_map,
+                orig_handle)[source]#
+                Return a legend handler from legend_handler_map that
+                corresponds to orig_handler.
+
+                legend_handler_map should be a dictionary object (that is
+                returned by the get_legend_handler_map method).
+
+                It first checks if the orig_handle itself is a key in the
+                legend_handler_map and return the associated value.
+                Otherwise, it checks for each of the classes in its
+                method-resolution-order. If no matching key is found, it
+                returns None.
+
+        get_legend_handler_map()[source]#
+                Return this legend instance's handler map.
+
+        get_lines()[source]#
+                Return the list of Line2Ds in the legend.
+
+        get_patches()[source]#
+                Return the list of Patchs in the legend.
+
+        get_texts()[source]#
+                Return the list of Texts in the legend.
+
+        get_tightbbox(renderer=None)[source]#
+                Like Artist.get_window_extent, but includes any clipping.
+
+              Parameters:
+
+                    rendererRendererBase subclass, optional
+                            renderer that will be used to draw the figures
+                            (i.e. fig.canvas.get_renderer())
+
+              Returns:
+
+                    Bbox or None
+                            The enclosing bounding box (in figure pixel
+                            coordinates). Returns None if clipping results
+                            in no intersection.
+
+        get_title()[source]#
+                Return the Text instance for the legend title.
+
+        get_window_extent(renderer=None)[source]#
+                Get the artist's bounding box in display space.
+
+                The bounding box' width and height are nonnegative.
+
+                Subclasses should override for inclusion in the bounding
+                box "tight" calculation. Default is to return an empty
+                bounding box at 0, 0.
+
+                Be careful when using this function, the results will not
+                update if the artist window extent of the artist changes.
+                The extent can change due to any changes in the transform
+                stack, such as changing the Axes limits, the figure size,
+                or the canvas used (as is done when saving a figure). This
+                can lead to unexpected behavior where interactive figures
+                will look fine on the screen, but will save incorrectly.
+
+        set(*, agg_filter=<UNSET>, alignment=<UNSET>, alpha=<UNSET>,
+                animated=<UNSET>, bbox_to_anchor=<UNSET>,
+                clip_box=<UNSET>, clip_on=<UNSET>, clip_path=<UNSET>,
+                draggable=<UNSET>, frame_on=<UNSET>, gid=<UNSET>,
+                in_layout=<UNSET>, label=<UNSET>, loc=<UNSET>,
+                mouseover=<UNSET>, ncols=<UNSET>, path_effects=<UNSET>,
+                picker=<UNSET>, rasterized=<UNSET>, sketch_params=<UNSET>,
+                snap=<UNSET>, title=<UNSET>, transform=<UNSET>,
+                url=<UNSET>, visible=<UNSET>, zorder=<UNSET>)[source]#
+                Set multiple properties at once.
+
+                Supported properties are
+
+                                    Property
+                                   Description
+     agg_filter
+   a filter function, which takes a (m, n, 3) float array and a dpi value,
+   and returns a (m, n, 3) array and two offsets from the bottom left
+   corner of the image
+     alignment
+     {'center', 'left', 'right'}.
+     alpha
+     scalar or None
+     animated
+     bool
+     bbox_to_anchor
+     BboxBase or tuple
+     clip_box
+     BboxBase or None
+     clip_on
+     bool
+     clip_path
+     Patch or (Path, Transform) or None
+     draggable
+     bool
+     figure
+     Figure or SubFigure
+     frame_on
+     bool
+     gid
+     str
+     in_layout
+     bool
+     label
+     object
+     loc
+   str or pair of floats, default: rcParams["legend.loc"] (default:
+   'best') for Axes, 'upper right' for Figure
+     mouseover
+     bool
+     ncols
+     unknown
+     path_effects
+     list of AbstractPathEffect
+     picker
+     None or bool or float or callable
+     rasterized
+     bool
+     sketch_params
+     (scale: float, length: float, randomness: float)
+     snap
+     bool or None
+     title
+     str
+     transform
+     Transform
+     url
+     str
+     visible
+     bool
+     zorder
+     float
+
+        set_alignment(alignment)[source]#
+                Set the alignment of the legend title and the box of
+                entries.
+
+                The entries are aligned as a single block, so that markers
+                always lined up.
+
+              Parameters:
+
+                    alignment{'center', 'left', 'right'}.
+
+        set_bbox_to_anchor(bbox, transform=None)[source]#
+                Set the bbox that the legend will be anchored to.
+
+              Parameters:
+
+                    bboxBboxBase or tuple
+                            The bounding box can be specified in the
+                            following ways:
+
+                         @ A BboxBase instance
+                         @ A tuple of (left, bottom, width, height) in the
+                           given transform (normalized axes coordinate if
+                           None)
+                         @ A tuple of (left, bottom) where the width and
+                           height will be assumed to be zero.
+                         @ None, to remove the bbox anchoring, and use the
+                           parent bbox.
+
+                    transformTransform, optional
+                            A transform to apply to the bounding box. If
+                            not specified, this will use a transform to
+                            the bounding box of the parent.
+
+        classmethod set_default_handler_map(handler_map)[source]#
+                Set the global default handler map, shared by all legends.
+
+        set_draggable(state, use_blit=False, update='loc')[source]#
+                Enable or disable mouse dragging support of the legend.
+
+              Parameters:
+
+                    statebool
+                            Whether mouse dragging is enabled.
+
+                    use_blitbool, optional
+                            Use blitting for faster image composition. For
+                            details see FuncAnimation.
+
+                    update{'loc', 'bbox'}, optional
+                            The legend parameter to be changed when
+                            dragged:
+
+                         @ 'loc': update the loc parameter of the legend
+                         @ 'bbox': update the bbox_to_anchor parameter of
+                           the legend
+
+              Returns:
+
+                    DraggableLegend or None
+                            If state is True this returns the
+                            DraggableLegend helper instance. Otherwise
+                            this returns None.
+
+        set_frame_on(b)[source]#
+                Set whether the legend box patch is drawn.
+
+              Parameters:
+
+                    bbool
+
+        set_loc(loc=None)[source]#
+                Set the location of the legend.
+
+                Added in version 3.8.
+
+              Parameters:
+
+                    locstr or pair of floats, default:
+                            rcParams["legend.loc"] (default: 'best') for
+                            Axes, 'upper right' for Figure
+                            The location of the legend.
+
+                            The strings 'upper left', 'upper right',
+                            'lower left', 'lower right' place the legend
+                            at the corresponding corner of the
+                            axes/figure.
+
+                            The strings 'upper center', 'lower center',
+                            'center left', 'center right' place the legend
+                            at the center of the corresponding edge of the
+                            axes/figure.
+
+                            The string 'center' places the legend at the
+                            center of the axes/figure.
+
+                            The string 'best' places the legend at the
+                            location, among the nine locations defined so
+                            far, with the minimum overlap with other drawn
+                            artists. This option can be quite slow for
+                            plots with large amounts of data; your
+                            plotting speed may benefit from providing a
+                            specific location.
+
+                            The location can also be a 2-tuple giving the
+                            coordinates of the lower-left corner of the
+                            legend in axes/figure coordinates (in which
+                            case bbox_to_anchor will be ignored).
+
+                            For back-compatibility, 'center right' (but no
+                            other location) can also be spelled 'right',
+                            and each "string" location can also be given
+                            as a numeric value:
+
+                             Location String
+                              Location Code
+                            'best' (Axes only)
+                            0
+                            'upper right'
+                            1
+                            'upper left'
+                            2
+                            'lower left'
+                            3
+                            'lower right'
+                            4
+                            'right'
+                            5
+                            'center left'
+                            6
+                            'center right'
+                            7
+                            'lower center'
+                            8
+                            'upper center'
+                            9
+                            'center'
+                            10
+
+                            If a figure is using the constrained layout
+                            manager, the string codes of the loc keyword
+                            argument can get better layout behaviour using
+                            the prefix 'outside'. There is ambiguity at
+                            the corners, so 'outside upper right' will
+                            make space for the legend above the rest of
+                            the axes in the layout, and 'outside right
+                            upper' will make space on the right side of
+                            the layout. In addition to the values of loc
+                            listed above, we have 'outside right upper',
+                            'outside right lower', 'outside left upper',
+                            and 'outside left lower'. See Legend guide for
+                            more details.
+
+        set_ncols(ncols)[source]#
+                Set the number of columns.
+
+        set_title(title, prop=None)[source]#
+                Set legend title and title style.
+
+              Parameters:
+
+                    titlestr
+                            The legend title.
+
+                    propfont_manager.FontProperties or str or pathlib.Path
+                            The font properties of the legend title. If a
+                            str, it is interpreted as a fontconfig pattern
+                            parsed by FontProperties. If a pathlib.Path,
+                            it is interpreted as the absolute path to a
+                            font file.
+
+        classmethod update_default_handler_map(handler_map)[source]#
+                Update the global default handler map, shared by all
+                legends.
+
+        zorder = 5#
+
+   On this page
+
+     * DraggableLegend
+          + DraggableLegend.finalize_offset()
+     * Legend
+          + Legend.codes
+          + Legend.contains()
+          + Legend.draw()
+          + Legend.draw_frame()
+          + Legend.get_alignment()
+          + Legend.get_bbox_to_anchor()
+          + Legend.get_children()
+          + Legend.get_default_handler_map()
+          + Legend.get_draggable()
+          + Legend.get_frame()
+          + Legend.get_frame_on()
+          + Legend.get_legend_handler()
+          + Legend.get_legend_handler_map()
+          + Legend.get_lines()
+          + Legend.get_patches()
+          + Legend.get_texts()
+          + Legend.get_tightbbox()
+          + Legend.get_title()
+          + Legend.get_window_extent()
+          + Legend.set()
+          + Legend.set_alignment()
+          + Legend.set_bbox_to_anchor()
+          + Legend.set_default_handler_map()
+          + Legend.set_draggable()
+          + Legend.set_frame_on()
+          + Legend.set_loc()
+          + Legend.set_ncols()
+          + Legend.set_title()
+          + Legend.update_default_handler_map()
+          + Legend.zorder
+
+   © Copyright 2002–2012 John Hunter, Darren Dale, Eric Firing, Michael
+   Droettboom and the Matplotlib development team; 2012–2024 The
+   Matplotlib development team.
+
+   Created using Sphinx 8.1.3.
+
+   Built from v3.10.0-8-g90ca931035.
+
+   Built with the PyData Sphinx Theme 0.15.4.

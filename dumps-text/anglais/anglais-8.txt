@@ -29,7 +29,7 @@ Seven scary movies that play on our biggest fears about maybe-true stories
 
    Remarkist Editors
    Oct 15, 2024
-   1
+   2
    (BUTTON)
 
 Share this post
@@ -267,7 +267,7 @@ Share this post
    ____________________
    (BUTTON) Subscribe
 
-   1
+   2
    (BUTTON)
 
 Share this post
@@ -286,21 +286,13 @@ Share this post
 
 Discussion about this post
 
-   (BUTTON)
-   Comments
-   (BUTTON)
-   Restacks
+   (BUTTON) Comments (BUTTON) Restacks
 
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   (BUTTON)
-   Top
-   (BUTTON)
-   Latest
-   (BUTTON)
-   Discussions
+   (BUTTON) Top (BUTTON) Latest (BUTTON) Discussions
    (BUTTON)
 
    No posts
@@ -308,7 +300,7 @@ Discussion about this post
    Ready for more?
    ____________________
    (BUTTON) Subscribe
-   © 2024 Remarkist, Inc.
+   © 2025 Remarkist, Inc.
    Privacy ∙ Terms ∙ Collection notice
    Start WritingGet the app
    Substack is the home for great culture

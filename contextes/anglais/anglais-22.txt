@@ -1,0 +1,14 @@
+
+   Legend Forum
+
+--
+     * Read this first
+     * Highlighting bug in Legend native Windows
+     * Legend Not Currently Listed on Google Play
+     * Questions About Major Calendar Updates
+     * Legend, where are we?
+     * Joins LegendSate Supabase
+--
+     * Global search, list results in new pane
+     * Windows native Legend positon & size not persisting....
+     * Cursor Out of Synch With Where Characters are Being Typed

@@ -1,0 +1,36 @@
+   #next
+
+   Legend Forum
+
+   Loading...
+   This site is best viewed in a modern browser with JavaScript enabled.
+   Something went wrong while trying to load the full version of this
+   site. Try hard-refreshing this page to fix the error.
+
+All Discussions
+
+     * Top bugs/features we want addressed
+     * Beta Updates
+     * New sync system
+     * Read this first
+     * Highlighting bug in Legend native Windows
+     * Legend Not Currently Listed on Google Play
+     * Questions About Major Calendar Updates
+     * Legend, where are we?
+     * Joins LegendSate Supabase
+     * Christmas in less than 3 weeks
+     * Global Search and Replace Function
+     * email outlook
+     * Title alignment in columns of UI....
+     * iOS connection/sync issue....
+     * Global search, list results in new pane
+     * Windows native Legend positon & size not persisting....
+     * Cursor Out of Synch With Where Characters are Being Typed
+     * Removing Backups; Removing Old Moo.do Folder
+     * Anybody running multiple windows of the desktop app (windows 10)?
+     * Create a "Workspace" (Feature request?)
+
+   Next Page »
+
+   Powered by: FreeFlarum.
+   (remove this footer)

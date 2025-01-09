@@ -1,64 +1,106 @@
      * Début
-     * 1 >>>légende<<< et mythe
+     * 1 Légende et mythe
      * 2 Origines des légendes
+     * 3 Notes et références
 --
 
->>>légende<<<
+Légende
 
 --
 
-   Pour les articles homonymes, voir >>>légende<<< (homonymie).
+   Pour les articles homonymes, voir Légende (homonymie).
    Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
 --
    sources ?
-   [220px-Reynard-the-fox.jpg] La >>>légende<<< médiévale de Renard.
-   [220px-Leighton-Alain_Chartier-1903.jpg] La >>>légende<<< d'Alain Chartier
+   [220px-Reynard-the-fox.jpg] La légende médiévale de Renard.
+   [220px-Leighton-Alain_Chartier-1903.jpg] La légende d'Alain Chartier
    (1903).
 
-   Une >>>légende<<< (de l'adjectif verbal latin legenda, « qui doit être lue »)
+   Une légende (de l'adjectif verbal latin legenda, « qui doit être lue »)
    est, à l’origine, un récit mis par écrit pour être lu publiquement :
 --
    lors de la fête d’un saint. Au XVI^e siècle s'opère un glissement de
-   sens, la >>>légende<<< devenant un récit à caractère merveilleux où les faits
+   sens, la légende devenant un récit à caractère merveilleux où les faits
    historiques sont transformés par l'imagination populaire ou l'invention
 --
 
->>>légende<<< et mythe
+   Le légendaire désigne l'auteur, le compilateur de légendes mais aussi
+   le recueil de légendes.
+
+   Le légendier est un recueil de vies de saints sous forme de légendes
+   hagiographiques qui ont plus un rôle liturgique et commémoratif que
+--
+
+Légende et mythe
 
 --
 
-   La >>>légende<<< diffère du mythe en ce qu'une >>>légende<<< tient de faits réels ;
+   La légende diffère du mythe en ce qu'une légende tient de faits réels ;
    une histoire est racontée puis est transmise par oral d'où les
 --
+
    Le récit fictif dans les légendes, mythes, contes et fables, est le
-   plus souvent d'origine orale et fait appel au merveilleux. Une >>>légende<<<
+   plus souvent d'origine orale et fait appel au merveilleux. Une légende
    est fortement liée à un élément clé, ceci est précisé et se concentre
    sur un lieu, un objet, un personnage, une histoire, etc. Au fil du
-   temps, la >>>légende<<< peut évoluer en mythe pour les sociétés futures, car
+   temps, la légende peut évoluer en mythe pour les sociétés futures, car
    elle perd en précision et gagne en fantaisie et en amplification, et
-   s'oriente vers du mystique. Ainsi, dans une >>>légende<<<, il peut y avoir
+   s'oriente vers du mystique. Ainsi, dans une légende, il peut y avoir
    une partie mythe, comme pour ce qui est d'Héraclès, le héros Grec,
 --
 
-   Dans le langage courant, les notions de mythe, de >>>légende<<<, de conte et
+   Dans le langage courant, les notions de mythe, de légende, de conte et
    de fable sont souvent confondues^[4]. Néanmoins, le mythe renvoie à une
 --
+
+Origines des légendes
+
+--
+
+   Jean-Pierre Bayard, dans son Histoire des légendes, énumère une dizaine
+   de théories relatives aux origines des légendes. La théorie
+   anthropologique, soutenue par Henri Gaidoz, Wilhelm Mannhardt et Edward
+   Tylor, postule que les légendes proviendraient de pensées humaines
+   primitives, de restes de religions et cultures élémentaires. La théorie
+   astrale ou naturaliste considère les contes et les légendes
+   étiologiques comme divinisant les grandes manifestations de la nature.
+--
+   Gubernatis, à un naturalisme enfantin, Schelling, à la conscience
+   individuelle du peuple qui ajoute aux légendes créées une signification
+   religieuse. La théorie linguistique considère que les légendes sont
+   issues de la transmission de récits entre plusieurs peuples qui
+--
+   [modifier | modifier le code]
+    1. ↑ Bernard Merdrignac, Les saints bretons entre légendes et
+       histoire, Presses universitaires de Rennes, 2015, p. 11.
+--
+       Éditions, 2012, p. 84.
+    5. ↑ Jean-Pierre Bayard, Histoire des légendes, PUF, 1970, p. 22-28.
+
+--
    Sur les autres projets Wikimedia :
-     * >>>légende<<<, sur le Wiktionnaire
+     * légende, sur le Wiktionnaire
 
 --
    [modifier | modifier le code]
-   Une catégorie est consacrée à ce sujet : >>>légende<<<.
+   Une catégorie est consacrée à ce sujet : Légende.
      * Liste de créatures légendaires
 --
+     * Hagiographie
      * Légendes au sujet des Templiers
-          + >>>légende<<< dorée
-          + >>>légende<<< noire
-     * >>>légende<<< urbaine : la >>>légende<<< urbaine est la nouvelle >>>légende<<<. Les
+          + Légende dorée
+          + Légende noire
+     * Légende urbaine : la légende urbaine est la nouvelle légende. Les
        lieux publics et la technologie en sont les meilleurs sujets.
 --
+          + Tchéquie
+     * Une exposition itinérante sur les mythes et légendes
+     * La Bibliothèque d'Ygora
+     * Centre des Légendes et d'Elficologie
+
+--
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=>>>légende<<<&oldid=220880816 ».
+   « https://fr.wikipedia.org/w/index.php?title=Légende&oldid=220880816 ».
    Catégories :
-     * >>>légende<<<
+     * Légende
      * Genre et forme littéraire

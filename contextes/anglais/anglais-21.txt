@@ -1,0 +1,56 @@
+   #topic Wrap Legend in Stacked Charts in Desktop (lia-link-navigation
+   hidden live-links)
+--
+     *
+     * Wrap Legend in Stacked Charts
+
+--
+
+   Wrap Legend in Stacked Charts
+
+--
+
+   Is there any way to wrap the legend on a stacked chart? I need it at
+   the bottom center (left or right doesn't work so much for me).
+--
+
+   Here is one work with legend text getting cut off or when you have long
+   legend values:
+
+   1. Turn off legends on the various visuals you want to display
+
+   2. Create a Treemap visual with same data columns. Place its legend on
+   "Top Left ". Reduce height of the Tree Map visual so that only the
+   Legend displays. I set it to 60px and only the legend was showing. I
+   set the width of the tree map visual as wide as possible to accomodate
+   long values in my Legend's data category.
+
+--
+
+   If you go to the legends options you can set the position of the
+   legend:
+
+--
+   That's right, buddy @MFelix . Though I am asking for something such as
+   a legend wrap since I have quite a few categories and can't go about
+   expanding the graph size. The other obvious way around it is placing
+   the legend to the left or right, though I need it at the bottom
+   center.
+--
+
+   In Excel, for example, the legend can be fit in two/three parallel
+   lines. Don't see that happening here.
+--
+
+   There is no such option for legend wrap in Power BI now . I suggest you
+   create an idea for it in
+--
+
+   As a workaround, you can create a custom legend by column chart. For
+   detailed steps, you can refer to the
+--
+
+   There is no option on the legends for wraping values, one option can be
+   to make some sort of a table or matrix visualization and used it as
+   your legend if you group the two together the final user won't realize
+   they are looking at different visuals however this depends on the data.

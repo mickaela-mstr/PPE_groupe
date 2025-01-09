@@ -1,0 +1,153 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   [01HZH8NSQF6GW1PHJQ6Z8PFSCH]
+   (BUTTON)
+
+   English (US) Deutsch Español (España) Español (México) Français
+   Italiano 日本語 Nederlands Português Português do Brasil Русский 简体中文 繁體中文
+   Sign in
+   Strava Support Center
+   ____________________ Search
+
+    1. Strava Support
+    2. Help & Support
+    3. Strava Segments
+
+   ____________________ Search
+
+Articles in this section
+
+     * Why Doesn't My Segment Effort Appear on the Leaderboard?
+     * Segment Matching Issues
+     * Strava Live Segments on Coros Devices
+     * Segment Updates: Verified Segments, Decluttering and Leaderboard.
+     * Strava Verified Segments
+     * Strava Live Segments on ActiveLook
+     * Strava Live Segments on Suunto
+     * Strava Live Segments on Rouvy
+     * Queen/King of the Day
+     * Excluded Segment Efforts
+
+   See more
+
+Local Legends
+
+   Avatar
+   Meg
+   Updated September 26, 2024 19:52
+   Follow
+
+   The Local Legend (LCL) achievement is awarded to the athlete who
+   completes a given segment the most over a rolling 90-day period
+   regardless of pace or speed. The LCL achievement will be awarded on
+   run, ride, walk, hike, alpine/backcountry/nordic ski, and snowboard
+   segments.
+
+How it Works
+
+   The segment details page will display a Local Legend section listing
+   the leading athlete. Strava subscribers can tap on this section to see
+   how your efforts compare to the current LCL, overall efforts, women’s
+   efforts, and your mutual follower’s efforts.
+
+   To earn the Local Legend achievement, you must match to the segment
+   more times than any other athlete in the past 90 days.
+     * Efforts older than 90 days will be removed from the overall effort
+       count.
+     * You can become the LCL regardless of your pace or speed recorded on
+       the segment.
+     * Only activities visible to “Everyone” will count towards your
+       efforts. Learn more about activity privacy controls here.
+
+   You will receive a Local Legends "Laurel" crown icon next to the
+   segment on your activity page as well as on the segment details page.
+   To view all your local legends' achievements, from the mobile app, open
+   the You tab and tap your profile picture from the top navigation bar.
+   Select Segments > Local Legends on the next page. From the Strava
+   website, hover over your profile picture in the upper right and select
+   My Profile > Local Legends.
+
+   Segment efforts completed before the day the segment was created will
+   not count towards Local Legends. This means that you may see less than
+   90 days of activity on segments that were recently created.
+
+Opting Out of Local Legends
+
+   Activities will only count towards the Local Legends feature if their
+   privacy settings are adjusted to "Everyone". You can opt out of all
+   Local Legends competitions from the Local Legends section of any
+   eligible segment or from your privacy settings page. Once you’ve left
+   Local Legends, your activities will not be counted towards a Local
+   Legends achievement on any segment. If you’d like to rejoin again in
+   the future, only activities from the day you rejoin and on will be
+   counted.
+     * From the mobile app:
+          + On the mobile app, open your settings from the Settings
+            Icon.jpg icon in the upper right corner of the You tab.
+               o Tap Privacy Controls > Local Legends > select No One
+          + To open a segment page, select Maps > Segments.
+               o Tap on the segment name from the map to open the segment
+                 details page, and then tap on See Details.
+               o Scroll down and then tap on Most Efforts under “Segment
+                 Competitions.”
+               o Tap on the ellipsis or "i" icon in the upper right-hand
+                 corner then select Leave Local Legends and follow the
+                 prompt to confirm your choice.
+                 EN_English2.jpeg EN_English3.jpeg
+     * From the website:
+          + To open your privacy settings, go to your settings page by
+            hovering over your profile picture in the top right and
+            selecting Settings.
+               o Select Privacy Controls from the left-hand navigation
+                 menu and choose No One under Local Legends.
+          + To open a segment page, select Maps from the top navigation
+            bar and Segments from the map page.
+               o Click on a segment from the map > View Details.
+               o Select View Local Legends Stats from the bottom
+                 right-hand side of the page.
+               o Select the ellipsis icon from the next page to view the
+                 option to Leave Local Legends.
+                 EN_English1.png
+
+Local Legends on Zwift Segments
+
+   As of October 2021, select segments from Zwift are eligible for Local
+   Legends achievements. Email notifications about LCL achievements on
+   Zwift segments will not be sent initially. In the future, notifications
+   can be controlled from the email notifications page on the Strava
+   website.
+
+   Currently, Local Legends is only available for select Zwift segments.
+   There’s no way to add Local Legends to a segment that doesn’t already
+   have it, depending on popularity and engagement segments may be added
+   over time as we continue to improve this feature.
+
+FAQs
+
+Can I unsubscribe from emails about the Local Legends' achievements?
+
+   Yes, you can unsubscribe from these communications from the email
+   notifications page on the website.
+
+   Was this article helpful?
+   25 out of 60 found this helpful
+
+Comments
+
+   0 comments
+
+   Article is closed for comments.
+
+Related articles
+
+     * Activity Privacy Controls
+     * Create a Segment
+     * Queen/King of the Day
+     * Finding Segments on the Strava App
+     * Excluded Segment Efforts
+
+   Return to Strava.com
+   Submit a request
+   Follow @stravasupport on Twitter

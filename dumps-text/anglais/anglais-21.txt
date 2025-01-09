@@ -1,0 +1,485 @@
+   #topic Wrap Legend in Stacked Charts in Desktop (lia-link-navigation
+   hidden live-links)
+
+   skip to main content
+
+Join us at the 2025 Microsoft Fabric Community Conference
+
+   March 31 - April 2, 2025, in Las Vegas, Nevada. Use code MSCUST for a
+   $150 discount! Early bird discount ends December 31.
+   Register Now
+   (BUTTON______________) close button
+   Skip to main content
+
+   Navigate to Microsoft.com
+   Fabric Community
+     * (BUTTON) Forums
+          + Power BI
+          + Data Engineering
+          + Data Warehouse
+          + Data Science
+          + Data Factory
+          + Real-Time Intelligence
+          + Databases
+          + Fabric platform
+     * (BUTTON) Galleries
+          + Power BI
+          + Data Engineering
+          + Data Warehouse
+          + Data Science
+          + Data Factory
+          + Real-Time Intelligence
+          + Databases
+          + Community news
+     * Ideas
+     * User groups
+     * (BUTTON) Blogs
+          + Power BI updates blog
+          + Fabric updates blog
+          + Fabric community blogs
+     * (BUTTON) Learning
+          + Career Hub
+          + Career & Learning Discussion
+          + Learn Modules
+          + Tutorials
+          + Documentation
+     * (BUTTON) Resources
+          + Events
+          + Community support
+          + Product support
+          + Azure Data Community
+     * (BUTTON) More
+
+     * (BUTTON)
+
+     * Register
+     * ·
+     * Sign in
+     * ·
+     * Help
+
+   Go To
+     * Power BI forums
+     * Get Help with Power BI
+     * Desktop
+     * Service
+     * Report Server
+     * Power Query
+     * Mobile Apps
+     * Developer
+     * DAX Commands and Tips
+     * Custom Visuals Development Discussion
+     * Health and Life Sciences
+     * Power BI Spanish forums
+     * Translated Spanish Desktop
+     * Training and Consulting
+     * Instructor Led Training
+     * Dashboard in a Day for Women, by Women
+     * Galleries
+     * Community Connections & How-To Videos
+     * COVID-19 Data Stories Gallery
+     * Themes Gallery
+     * Data Stories Gallery
+     * R Script Showcase
+     * Webinars and Video Gallery
+     * Quick Measures Gallery
+     * 2021 MSBizAppsSummit Gallery
+     * 2020 MSBizAppsSummit Gallery
+     * 2019 MSBizAppsSummit Gallery
+     * Events
+     * Ideas
+     * Custom Visuals Ideas
+     * Issues
+     * Issues
+     * Events
+     * Upcoming Events
+
+   [This board____] Search ____________________ ____________________
+   ____________________ ____________________ ____________________ cancel
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+   Showing results for
+   Search instead for
+   Did you mean:
+
+   Be one of the first to start using Fabric Databases. View on-demand
+   sessions with database experts and the Microsoft product team to learn
+   just how easy it is to get started. Watch now
+     * Power BI forums
+     *
+     * Forums
+     *
+     * Get Help with Power BI
+     *
+     * Desktop
+     *
+     * Wrap Legend in Stacked Charts
+
+   Reply
+   Topic Options
+     * Subscribe to RSS Feed
+     *
+     * Mark Topic as New
+     * Mark Topic as Read
+     *
+     * Float this Topic for Current User
+     * Bookmark
+     * Subscribe
+     *
+     * Printer Friendly Page
+
+     * All forum topics
+     * Previous Topic
+     * Next Topic
+
+   Anonymous
+   Not applicable
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   Wrap Legend in Stacked Charts
+
+   09-25-2020 02:49 AM
+
+   Hi,
+
+
+   Is there any way to wrap the legend on a stacked chart? I need it at
+   the bottom center (left or right doesn't work so much for me).
+
+
+   Thanks in advance!
+   Labels:
+     * Labels:
+     * Tips and Tricks
+
+   Message 1 of 7
+   19,762 Views
+   1
+   Reply
+     * All forum topics
+     * Previous Topic
+     * Next Topic
+
+   6 REPLIES 6
+   kv
+   kv Advocate I
+   Advocate I
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   09-26-2024 09:17 AM
+
+   Here is one work with legend text getting cut off or when you have long
+   legend values:
+
+   1. Turn off legends on the various visuals you want to display
+
+   2. Create a Treemap visual with same data columns. Place its legend on
+   "Top Left ". Reduce height of the Tree Map visual so that only the
+   Legend displays. I set it to 60px and only the legend was showing. I
+   set the width of the tree map visual as wide as possible to accomodate
+   long values in my Legend's data category.
+
+
+   Hope this helps.
+
+
+
+   Message 7 of 7
+   2,118 Views
+   0
+   Reply
+   MFelix
+   Super User MFelix
+   Super User
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   09-25-2020 04:07 AM
+
+   Hi @Anonymous
+    ,
+
+
+   If you go to the legends options you can set the position of the
+   legend:
+
+   MFelix_0-1601032042325.png
+
+
+   Regards
+
+   Miguel Félix
+   Did I answer your question? Mark my post as a solution!
+
+   Proud to be a Super User!
+   Check out my blog: Power BI em Português
+   Message 2 of 7
+   19,730 Views
+   0
+   Reply
+   Anonymous
+   Not applicable
+   In response to MFelix
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   09-25-2020 04:17 AM
+
+   That's right, buddy @MFelix . Though I am asking for something such as
+   a legend wrap since I have quite a few categories and can't go about
+   expanding the graph size. The other obvious way around it is placing
+   the legend to the left or right, though I need it at the bottom
+   center.
+
+
+   In Excel, for example, the legend can be fit in two/three parallel
+   lines. Don't see that happening here.
+   Message 3 of 7
+   19,727 Views
+   0
+   Reply
+   v-deddai1-msft
+   Community Support v-deddai1-msft
+   Community Support
+   In response to Anonymous
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   09-28-2020 08:05 PM
+
+   Hi @Anonymous
+    ,
+
+
+   There is no such option for legend wrap in Power BI now . I suggest you
+   create an idea for it in
+   https://ideas.powerbi.com/forums/265200-power-bi-ideas to improve the
+   Power BI.
+
+
+   As a workaround, you can create a custom legend by column chart. For
+   detailed steps, you can refer to the
+   video: https://community.powerbi.com/t5/forums/replypage/board-id/power
+   -bi-designer/message-id/592887
+
+
+   If this post helps, then please consider Accept it as the solution to
+   help the other members find it more quickly.
+
+
+   Best Regards,
+
+   Dedmon Dai
+   Message 5 of 7
+   19,691 Views
+   0
+   Reply
+   Anonymous
+   Not applicable
+   In response to v-deddai1-msft
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   05-05-2022 10:32 PM
+
+   Hi Community Support, the vedio URL you have posted seems not a vedio
+   link. Can you please re-post it?
+   Message 6 of 7
+   16,213 Views
+   1
+   Reply
+   MFelix
+   Super User MFelix
+   Super User
+   In response to Anonymous
+     * Mark as New
+     * Bookmark
+     * Subscribe
+     * Mute
+     *
+     * Subscribe to RSS Feed
+     *
+     * Permalink
+     * Print
+     *
+     * Report Inappropriate Content
+
+   09-25-2020 04:36 AM
+
+   Hi @Anonymous
+    ,
+
+
+   There is no option on the legends for wraping values, one option can be
+   to make some sort of a table or matrix visualization and used it as
+   your legend if you group the two together the final user won't realize
+   they are looking at different visuals however this depends on the data.
+
+   Regards
+
+   Miguel Félix
+   Did I answer your question? Mark my post as a solution!
+
+   Proud to be a Super User!
+   Check out my blog: Power BI em Português
+   Message 4 of 7
+   19,716 Views
+   0
+   Reply
+   ____________________ ____________________
+   (BUTTON) Post Reply
+
+Helpful resources
+
+   Announcements
+   Las Vegas 2025
+
+Join us at the Microsoft Fabric Community Conference
+
+   March 31 - April 2, 2025, in Las Vegas, Nevada. Use code MSCUST for a
+   $150 discount!
+   Register now
+   ArunFabCon
+
+Microsoft Fabric Community Conference 2025
+
+   Arun Ulag shares exciting details about the Microsoft Fabric Conference
+   2025, which will be held in Las Vegas, NV.
+   Watch now
+   December 2024
+
+A Year in Review - December 2024
+
+   Find out what content was popular in the Fabric community during 2024.
+   Read More
+   spinner
+   View All
+   Featured Topics
+
+How to Get Your Question Answered Quickly
+
+   Greg_Deckler
+   Top Solution Authors
+        User      Count
+   danextian
+   Super User danextian
+   127
+   Ritaf1983
+   Super User Ritaf1983
+   81
+   lbendlin
+   Super User lbendlin
+   59
+   Bibiano_Geraldo
+   Bibiano_Geraldo Community Champion
+   59
+   rajendraongole1
+   Super User rajendraongole1
+   44
+   View All
+   Top Kudoed Authors
+        User      Count
+   danextian
+   Super User danextian
+   182
+   lbendlin
+   Super User lbendlin
+   119
+   Bibiano_Geraldo
+   Bibiano_Geraldo Community Champion
+   82
+   Ritaf1983
+   Super User Ritaf1983
+   68
+   rajendraongole1
+   Super User rajendraongole1
+   53
+   View All
+   Users online (3,411)
+     * Omid_Motamedise
+     * v-junyant-msft
+     * OwenAuger
+     * leesukjun
+     * thuexeoto29cho
+     * emmatovar
+     * Ritaf1983
+     * AlexisOlson
+     * tendna
+     * ashleyfelts
+     * wdx223_Daniel
+     * TomN
+     * klinejordan
+     * Tesy
+     * SamGordon
+     * AntonioSP_BI
+     * 4008040
+     * MoncheFigue
+     * brunakopik
+     * msft-cap
+     * anair
+
+     * © 2024 Microsoft
+
+     * Manage Cookies
+     * Privacy & cookies
+     * Terms of use
+     * Trademarks
+
+   Your Privacy Choices Consumer Health Privacy

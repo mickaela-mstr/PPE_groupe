@@ -1,0 +1,158 @@
+          + Layout
+          + Legend
+          + Locale
+--
+
+# Legend
+
+   The chart legend displays data about the datasets that are appearing on
+   the chart.
+--
+
+   Namespace: options.plugins.legend, the global options for the chart
+   legend is defined in Chart.defaults.plugins.legend.
+
+--
+
+   The doughnut, pie, and polar area charts override the legend defaults.
+   To change the overrides for those chart types, the options are defined
+   in Chart.overrides[type].plugins.legend.
+   Name Type Default Description
+   display boolean true Is the legend shown?
+   position string 'top' Position of the legend. more...
+   align string 'center' Alignment of the legend. more...
+   maxHeight number Maximum height of the legend, in pixels
+   maxWidth number Maximum width of the legend, in pixels
+   fullSize boolean true Marks that this box should take the full
+--
+   onClick function A callback that is called when a click event is
+   registered on a label item. Arguments: [event, legendItem, legend].
+   onHover function A callback that is called when a 'mousemove' event is
+   registered on top of a label item. Arguments: [event, legendItem,
+   legend].
+   onLeave function A callback that is called when a 'mousemove' event is
+   registered outside of a previously hovered label item. Arguments:
+   [event, legendItem, legend].
+   reverse boolean false Legend will show datasets in reverse order.
+   labels object See the Legend Label Configuration section below.
+   rtl boolean true for rendering the legends from right to left.
+   textDirection string canvas' default This will force the text direction
+   'rtl' or 'ltr' on the canvas for rendering the legend, regardless of
+   the css specified on the canvas
+   title object See the Legend Title Configuration section below.
+
+--
+
+   If you need more visual customizations, please use an HTML legend.
+
+--
+
+   Position of the legend. Options are:
+     * 'top'
+--
+
+   When using the 'chartArea' option the legend position is at the moment
+   not configurable, it will always be on the left side of the chart in
+--
+
+   Alignment of the legend. Options are:
+     * 'start'
+--
+
+# Legend Label Configuration
+
+   Namespace: options.plugins.legend.labels
+   Name Type Default Description
+--
+   padding number 10 Padding between rows of colored boxes.
+   generateLabels function Generates legend items for each thing in the
+   legend. Default implementation returns the text + styling for the color
+   box. See Legend Item for details.
+   filter function null Filters legend items out of the legend. Receives 2
+   parameters, a Legend Item and the chart data.
+   sort function null Sorts legend items. Type is : sort(a: LegendItem, b:
+   LegendItem, data: ChartData): number;. Receives 3 parameters, two
+   Legend Items and the chart data. The return value of the function is a
+   number that indicates the order of the two legend item parameters. The
+   ordering matches the return value (opens new window) of
+--
+   pointStyle pointStyle 'circle' If specified, this style of point is
+   used for the legend. Only used if usePointStyle is true.
+   textAlign string 'center' Horizontal alignment of the label text.
+--
+   pointStyleWidth number null If usePointStyle is true, the width of the
+   point style used for the legend.
+   useBorderRadius boolean false Label borderRadius will match
+--
+
+# Legend Title Configuration
+
+   Namespace: options.plugins.legend.title
+    Name    Type         Default                 Description
+   color   Color   Chart.defaults.color Color of text.
+   display boolean false                Is the legend title displayed.
+   font    Font    Chart.defaults.font  See Fonts
+--
+
+# Legend Item Interface
+
+   Items passed to the legend onClick function are the ones returned from
+   labels.generateLabels. These items must implement the following
+--
+    text: string,
+    // Border radius of the legend item.
+    // Introduced in 3.1.0
+--
+    datasetIndex: number,
+    // Fill style of the legend box
+    fillStyle: Color,
+--
+    lineWidth: number,
+    // Stroke style of the legend box
+    strokeStyle: Color,
+    // Point style of the legend box (only used if usePointStyle is true)
+    pointStyle: string | Image | HTMLCanvasElement,
+--
+
+   The following example will create a chart with the legend enabled and
+   turn all the text red in color.
+--
+        plugins: {
+            legend: {
+                display: true,
+--
+   It can be common to want to trigger different behaviour when clicking
+   an item in the legend. This can be easily achieved using a callback in
+   the config object.
+
+   The default legend click handler is:
+function(e, legendItem, legend) {
+    const index = legendItem.datasetIndex;
+    const ci = legend.chart;
+    if (ci.isDatasetVisible(index)) {
+--
+   datasets. We could change the click handler accordingly.
+const defaultLegendClickHandler = Chart.defaults.plugins.legend.onClick;
+const pieDoughnutLegendClickHandler = Chart.controllers.doughnut.overrides.plugi
+ns.legend.onClick;
+const newLegendClickHandler = function (e, legendItem, legend) {
+    const index = legendItem.datasetIndex;
+    const type = legend.chart.config.type;
+    if (index > 1) {
+--
+        if (type === 'pie' || type === 'doughnut') {
+            pieDoughnutLegendClickHandler(e, legendItem, legend)
+        } else {
+            defaultLegendClickHandler(e, legendItem, legend);
+        }
+    } else {
+        let ci = legend.chart;
+        [
+--
+        plugins: {
+            legend: {
+                onClick: newLegendClickHandler
+--
+
+   Now when you click the legend in this chart, the visibility of the
+   first two datasets will be linked together.
