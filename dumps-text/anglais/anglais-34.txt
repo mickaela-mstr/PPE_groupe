@@ -55,26 +55,23 @@ English Heritage
      * About us
           +
                o About Us
-               o Our places
-               o Our vision & values
                o Our people
-               o Our priorities
-               o Our history
-               o Information for suppliers
+               o Our policies and reports
+               o Annual reports
                o Contact Us
                o General enquiries
+               o Visit FAQs
                o Group visits
                o Film & TV locations
-               o Jobs
+               o Information for Suppliers
+               o Careers with us
                o Search jobs
-               o Working at our historic places
                o Our benefits
                o Modern slavery statement
                o News
                o Twitter
                o Facebook
                o Press office
-               o Annual reports
      * Support us
           +
                o Support Us
@@ -196,25 +193,23 @@ English Heritage
           + About Us
                o About us • About Us
                o ABOUT US
-               o Our places
-               o Our vision & values
                o Our people
-               o Our priorities
-               o Our history
-               o Information for suppliers
+               o Our policies and reports
+               o Annual reports
                o ____________________
           + Contact Us
                o About us • Contact Us
                o CONTACT US
                o General enquiries
+               o Visit FAQs
                o Group visits
                o Film & TV locations
+               o Information for Suppliers
                o ____________________
-          + Jobs
-               o About us • Jobs
-               o JOBS
+          + Careers with us
+               o About us • Careers with us
+               o CAREERS WITH US
                o Search jobs
-               o Working at our historic places
                o Our benefits
                o Modern slavery statement
                o ____________________
@@ -224,7 +219,6 @@ English Heritage
                o Twitter
                o Facebook
                o Press office
-               o Annual reports
                o ____________________
           + ____________________
      * Support us
@@ -519,7 +513,7 @@ What's On
      * Meet our experts
 
      * Contact us
-     * Jobs
+     * Careers with us
      * Press office
 
 Visit
@@ -553,7 +547,7 @@ Learn
 About us
 
      * Contact us
-     * Jobs
+     * Careers with us
      * Press office
 
    Registered Charity 1140351

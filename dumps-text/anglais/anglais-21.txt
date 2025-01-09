@@ -164,7 +164,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
      * Tips and Tricks
 
    Message 1 of 7
-   19,762 Views
+   19,806 Views
    1
    Reply
      * All forum topics
@@ -206,7 +206,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
 
 
    Message 7 of 7
-   2,118 Views
+   2,162 Views
    0
    Reply
    MFelix
@@ -244,7 +244,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Proud to be a Super User!
    Check out my blog: Power BI em Português
    Message 2 of 7
-   19,730 Views
+   19,774 Views
    0
    Reply
    Anonymous
@@ -274,7 +274,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    In Excel, for example, the legend can be fit in two/three parallel
    lines. Don't see that happening here.
    Message 3 of 7
-   19,727 Views
+   19,771 Views
    0
    Reply
    v-deddai1-msft
@@ -319,7 +319,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
 
    Dedmon Dai
    Message 5 of 7
-   19,691 Views
+   19,735 Views
    0
    Reply
    Anonymous
@@ -342,7 +342,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Hi Community Support, the vedio URL you have posted seems not a vedio
    link. Can you please re-post it?
    Message 6 of 7
-   16,213 Views
+   16,257 Views
    1
    Reply
    MFelix
@@ -380,7 +380,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Proud to be a Super User!
    Check out my blog: Power BI em Português
    Message 4 of 7
-   19,716 Views
+   19,760 Views
    0
    Reply
    ____________________ ____________________
@@ -420,10 +420,10 @@ How to Get Your Question Answered Quickly
         User      Count
    danextian
    Super User danextian
-   127
+   125
    Ritaf1983
    Super User Ritaf1983
-   81
+   84
    lbendlin
    Super User lbendlin
    59
@@ -438,7 +438,7 @@ How to Get Your Question Answered Quickly
         User      Count
    danextian
    Super User danextian
-   182
+   180
    lbendlin
    Super User lbendlin
    119
@@ -447,33 +447,33 @@ How to Get Your Question Answered Quickly
    82
    Ritaf1983
    Super User Ritaf1983
-   68
+   70
    rajendraongole1
    Super User rajendraongole1
-   53
+   54
    View All
-   Users online (3,411)
-     * Omid_Motamedise
-     * v-junyant-msft
-     * OwenAuger
-     * leesukjun
-     * thuexeoto29cho
-     * emmatovar
+   Users online (6,238)
+     * AlexTheGreat
+     * Neka
+     * moalnorrk
+     * johncpratt
+     * rr88pizza
+     * MFelix
+     * dianaschnuth
+     * DataInsights
+     * xifeng_L
+     * AilleryO
+     * Deelip
+     * KatarinaV
+     * anmolmalviya05
+     * Chewdata
+     * rsbin
+     * Expiscornovus
+     * stefanjt
      * Ritaf1983
-     * AlexisOlson
-     * tendna
-     * ashleyfelts
-     * wdx223_Daniel
-     * TomN
-     * klinejordan
-     * Tesy
-     * SamGordon
-     * AntonioSP_BI
-     * 4008040
-     * MoncheFigue
-     * brunakopik
-     * msft-cap
-     * anair
+     * RomainCasteres
+     * Muniz_Felipe
+     * TheBishopEmpire
 
      * © 2024 Microsoft
 

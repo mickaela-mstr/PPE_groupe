@@ -5,19 +5,19 @@
 
 Recherches récentes
 
-     * ut quos
-     * dignissimos hic
-     * dolor sapiente
-     * facilis repellat
-     * laborum laboriosam
+     * omnis iste
+     * culpa maxime
+     * laudantium eligendi
+     * error iusto
+     * odit ut
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   sed nostrum veniam ut reprehenderit id
+   necessitatibus asperiores cumque possimus odio explicabo
    (BUTTON)
-   sed nostrum veniam ut reprehenderit id
+   necessitatibus asperiores cumque possimus odio explicabo
 
    Aucune suggestion trouvée
    (BUTTON)
@@ -60,19 +60,19 @@ Accès institutions
 
 Recherches récentes
 
-     * iure laboriosam
-     * quia eaque
-     * facere asperiores
-     * illum est
-     * rerum adipisci
+     * et minima
+     * at sapiente
+     * autem quasi
+     * omnis incidunt
+     * voluptatem vel
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   repellendus quis dolores totam illum aut
+   odio sed occaecati nesciunt asperiores autem
    (BUTTON)
-   repellendus quis dolores totam illum aut
+   odio sed occaecati nesciunt asperiores autem
 
    Aucune suggestion trouvée
    (BUTTON)

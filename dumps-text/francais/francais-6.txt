@@ -5,19 +5,19 @@
 
 Recherches récentes
 
-     * ipsa molestiae
-     * inventore commodi
-     * officiis aut
-     * omnis quas
-     * labore maiores
+     * dolor qui
+     * aut inventore
+     * in aspernatur
+     * sunt quibusdam
+     * molestias omnis
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   et et ea quibusdam corporis vel
+   doloribus nemo molestiae dolorem vero et
    (BUTTON)
-   et et ea quibusdam corporis vel
+   doloribus nemo molestiae dolorem vero et
 
    Aucune suggestion trouvée
    (BUTTON)
@@ -60,19 +60,19 @@ Accès institutions
 
 Recherches récentes
 
-     * voluptatum eveniet
-     * a dolores
-     * commodi incidunt
-     * illum velit
-     * qui dicta
+     * qui reiciendis
+     * omnis dolores
+     * nihil fuga
+     * ducimus autem
+     * quia voluptatem
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   magnam voluptate molestiae recusandae tenetur fugiat
+   quas expedita qui blanditiis nihil nesciunt
    (BUTTON)
-   magnam voluptate molestiae recusandae tenetur fugiat
+   quas expedita qui blanditiis nihil nesciunt
 
    Aucune suggestion trouvée
    (BUTTON)

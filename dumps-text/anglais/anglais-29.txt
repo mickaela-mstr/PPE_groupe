@@ -84,10 +84,10 @@ Is there a minimum vertical spacing for legend keys? [closed]
    Ask Question
    Asked today
    Modified today
-   Viewed 48 times
+   Viewed 52 times
    Part of R Language Collective
    (BUTTON)
-   0
+   -1
    (BUTTON) (BUTTON)
 
    Closed. This question needs details or clarity. It is not currently
@@ -97,9 +97,9 @@ Is there a minimum vertical spacing for legend keys? [closed]
    Want to improve this question? Add details and clarify the problem by
    editing this post.
 
-   Closed 4 hours ago.
+   Closed 18 hours ago.
 
-   The community is reviewing whether to reopen this question as of 3
+   The community is reviewing whether to reopen this question as of 17
    hours ago.
    Improve this question
 
@@ -123,15 +123,15 @@ ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
    Share
    Improve this question
    (BUTTON) Follow
-   edited 5 hours ago
+   edited 18 hours ago
    M--'s user avatar
    M--
    28.7k1010 gold badges6969 silver badges106106 bronze badges
    Recognized by R Language Collective
-   asked 9 hours ago
+   asked 23 hours ago
    spindoctor's user avatar
    spindoctorspindoctor
-   1,88711 gold badge2424 silver badges5050 bronze badges
+   1,88511 gold badge2424 silver badges5050 bronze badges
    3
      * 2
        Could you clarify what's the issue? Also be aware that
@@ -139,16 +139,16 @@ ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
        legend.**key**.spacing.y sets the spacing between the keys or
        items.
        – stefan
-       Commented 9 hours ago
+       Commented 23 hours ago
      * 1
        Yes, I get the difference between legend.spacing.y and
        legend.key.spacing.y. The publisher wants less space between the
        key items.
        – spindoctor
-       Commented 9 hours ago
+       Commented 22 hours ago
      * @Mrflick why is this unclear?
        – M--
-       Commented 3 hours ago
+       Commented 17 hours ago
 
    Add a comment  |
 
@@ -169,16 +169,14 @@ ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
    Share
    Improve this answer
    (BUTTON) Follow
-   answered 8 hours ago
-   M--'s user avatar
-   M--M--
-   28.7k1010 gold badges6969 silver badges106106 bronze badges
-   Recognized by R Language Collective
+   answered 22 hours ago
+   community wiki
+   M--
    1
      * The negative point thing worked like a charm. But jesus, It would
        be nice for that to be described somewhere.
        – spindoctor
-       Commented 5 hours ago
+       Commented 18 hours ago
 
    Add a comment  |
    (BUTTON)
@@ -195,12 +193,12 @@ ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
    Share
    Improve this answer
    (BUTTON) Follow
-   edited 8 hours ago
+   edited 22 hours ago
    M--'s user avatar
    M--
    28.7k1010 gold badges6969 silver badges106106 bronze badges
    Recognized by R Language Collective
-   answered 8 hours ago
+   answered 22 hours ago
    Susan Switzer's user avatar
    Susan SwitzerSusan Switzer
    1,9071111 silver badges3737 bronze badges
@@ -222,6 +220,8 @@ ggplot(mtcars, aes(x = hp, y = mpg, col = as.factor(cyl))) +
      * The December 2024 Community Asks Sprint has been moved to March
        2025 (and...
      * Voting experiment to encourage people who rarely vote to upvote
+
+   Visit chat
 
 Related
 
@@ -246,33 +246,40 @@ Related
 
 Hot Network Questions
 
-     * Pancakes: Avoiding the "spider batch"
-     * Merge two (saved) Apple II BASIC programs in memory
-     * Is it necessary to report a researcher if you are sure of academic
-       misconduct?
-     * Is sales tax determined by the state in which the SELLER is
-       located, or the state in which the PURCHASER is located?
-     * Calculator in 24.04 has a conversion problem
-     * Is 1/2" pipe adequate for supplies inside a home?
-     * Understanding the benefit of non principal repayment loan
-     * Why does Walter Dene so detest Perpendicularity?
-     * Arena/Region allocator in C++
-     * When do the splitting fields of two cubic polynomials coincide?
-     * Computing π(x): the combinatorial method
-     * Flyback capacitor charger
-     * What to do when one gets a decimal value as degrees of freedom?
-     * Keeping meat frozen outside in 20 degree weather
-     * Computing the exponential form of a unitary operator
+     * Project Hail Mary - Why does a return trip to another star require
+       10x the fuel compared to a one-way trip?
+     * What sense does it make to use a Vault?
+     * Trying to identify a scary thriller movie from the 90s
+     * Must a US citizen pay import taxes on an engagement ring taken on a
+       plane to a foreign girlfriend?
+     * How is a camera/observer vector calculated in PGFPlots
+     * SSH server status shows disabled
+     * Do scaled-down integer lattice points serve as unbiased sample
+       points in the probability simplex?
+     * How to understand structure of sentences in probability
+     * How are countries' militaries responding to inflammatory statements
+       made by incoming US leadership?
+     * Heaven and earth have not passed away, so how are Christians no
+       longer under the law, but under grace?
+     * Willow quantum chip
+     * "The gamester calls fooles holy- day."
+     * Can I add a wood burning stove to radiant heat boiler system?
+     * How big would a bird have to be to carry a human if gravity were
+       halved?
+     * How do I get the drain plug out of the sink?
+     * Can i use put an A or D string on my violin in place of a G string?
+     * Why does Join not throw an error message when attempting to
+       concatenate a List with an Integer, using infix notation?
+     * How often are PhD defenses in France rejected?
      * SMD resistor 188 measuring 1.5k Ohm
-     * Why is "me" necessary in this line from Plautus's "Trinummus"?
-     * On continuity and topology in the kernel theorem of Schwartz
+     * Is there a closed formula for the number of integer divisors?
+     * Rectangled – a Shikaku crossword
+     * Did the term "irrational number" initially have any derogatory
+       intent?
      * Why does one have to hit enter after typing one's Windows password
        to log in, while it's not to hit enter after typing one's PIN?
-     * Which is the proper way (Just only) or (only just)?
-     * How are companies paid for offering the 'Deutschlandticket'?
-     * Is a cold roof meant to cause draughts into the living space?
-     * Jigsaw Thermometer Sudoku with no given numbers
-     * What sense does it make to use a Vault?
+     * Trying to update iLO 5 on two HPE ProLiant Gen 10 servers and
+       getting a TPM detected warning
 
    more hot questions
    lang-r

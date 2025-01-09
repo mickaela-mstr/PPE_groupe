@@ -1,1091 +1,321 @@
-   #Syndiquer tout le site
-
-   Accueil
-   Encyclopédie internationale
-   des histoires de l’anthropologie
-
-   en fr
-
-   Présentation Que veut dire Bérose ? Comité éditorial et conseil
-   scientifique Auteurs Bérose / Liste des contributions Mentions légales
-   / Licence & Soutiens Partenaires Équipes de recherche Encyclopédie
-   Ethnographes et anthropologues Institutions et revues anthropologiques
-   Concepts, objets et traditions anthropologiques Publications Les
-   Carnets de Bérose Autres publications Bérose Rencontres Interviews
-
-     * Présentation
-     * Équipes de recherche
-     * Encyclopédie
-     * Publications
-     * Rencontres
-     * Interviews
-     * Recherche
-
-   NEWSLETTER
-   S'ABONNER
-   Recherche
-
-   > Ethnographes et anthropologues  > Sébillot, Paul (1843-1918)
-
-   Legendary Places: Oral History and Folk Geography in Nineteenth-Century
-   Brittany
-   David Hopkin
-
-   Hertford College, University of Oxford
-   2010
-
-   Pour citer cet article
-
-   Hopkin, David, 2010. “Legendary Places: Oral History and Folk Geography
-   in Nineteenth-Century Brittany”, in Bérose - Encyclopédie
-   internationale des histoires de l'anthropologie, Paris.
-
-   URL Bérose : article477.html
-
-   Télécharger en pdf
-
-   Publié dans le cadre du thème de recherche «Réseaux, revues et sociétés
-   savantes en France et en Europe (1870-1920)», dirigé par Claudie
-   Voisenat (Ministère de la Culture, Héritages) et Jean-Christophe
-   Monferran (CNRS, Héritages).
-
-   Folklore and “local colour”
-
-   There is a story that when Alexandre Dumas’ play Christine was banned,
-   shortly before the 1830 Revolution, Dumas went to plead his case to the
-   académicien and censor Charles Brifaut. Brifaut suggested what seemed
-   to him minor alterations, such as the sex of the protagonist, and
-   mentioned that under the First Empire he had been obliged to do much
-   the same. A play of his set in Spain was considered too inflammatory
-   given the Emperor’s difficulties in that country, so he changed some
-   names and locations, and transformed it into Ninus II, an acceptable
-   drama of ancient Babylon. Dumas exclaimed : “But really, Monsieur
-   Brifaut, the local colour !” Brifaut smiled and replied “Monsieur, in
-   our time, for us, local colour had not yet been invented.” [1]
-
-   Brifaut’s cynicism is echoed by many contemporary historians. Dumas was
-   shocked because Brifaut had, in his opinion, sacrificed the
-   authenticity of the work : what was true of Spain could not also be
-   true of Babylon. But for post-modern historians, trained to unpick
-   “invented traditions” and “imagined communities”, the Romantics’
-   yearning for authenticity has itself become suspect. [2] The whole
-   nineteenth-century enterprise of defining cultural difference through
-   nation-building, imperial exploration and social investigation, can be
-   seen in retrospect as a fabrication in which the self-serving
-   taxonomies of elites were imposed on suspect data. The academic
-   subjects built on this concern for explaining difference _ history,
-   sociology, and anthropology _ have likewise had their credentials as
-   social sciences severely weakened. [3] But the subject which has
-   suffered most by the retreat into “reflexivity” is folklore. Pioneer
-   sociologists and anthropologists may have been keen to collect and
-   classify, but from the start folklorists saw themselves in a more
-   active role, reviving threatened traditions. The issue of authenticity
-   was always, therefore, of greater significance to folklore. [4]
-
-   For romantics like Dumas, an enthusiastic reader and translator of the
-   Grimms, folklore was all about local colour. The subject had been born
-   out of an assertion of cultural difference, in reaction to the
-   universalist ambitions of the Enlightenment. Johann Gottfried Herder
-   (1744-1803) put its case most clearly : what was true and good for
-   France was alien to Germany, for each nation had, over centuries,
-   developed its own unique traditions, ideally suited to the character of
-   its people. The essence of this unique culture, what Herder called the
-   “folk-soul”, was expressed in language and in particular in folk-song
-   and tale. No one person could claim authorship of ballads, they were
-   the communal, almost unconscious creation of the nation as a whole.
-   Every singer was connected to the collective body of the nation, and
-   simultaneously to their ancestors, from whom they had inherited this
-   traditional lore. [5]
-
-   This is a well-known story, but there is one point that I would like to
-   emphasise. Herder believed that the origins of cultural difference lay
-   in the environment : “Nature has sketched with the mountain ranges she
-   formed and with the rivers she made flow from them the rough but
-   definite outline of the entire history of man… Oceans, mountain chains,
-   and rivers are the most natural boundaries not only of lands, but also
-   of peoples, customs, languages, and empires.” [6] The customs of each
-   nation had been shaped by the landscape in which they lived. Folklore
-   was not just the expression of a people and its history, but of the
-   land itself. Thus the Grimms were able to describe the tales collected
-   from their their principal informants, Dorothea Viehmann (the so-called
-   Märchenfrau of Niederzwehren) and “Old Marie”, as “authentically
-   Hessian” and “originally Hessian”. [7] Emile Souvestre (1806-1854), a
-   romantic poet and one of the earliest imitators of the Grimms in
-   France, expressed this connection between story and geography in an
-   environmental cliché when introducing his 1844 collection Le Foyer
-   breton : “we have only published those [folktales] which exhale that
-   smell of the land which cannot be imitated.” [8] More than a hundred
-   years later, the compiler of the French folktale index, Paul Delarue,
-   echoed this sentiment : “in France as in the other countries
-   [folktales] have through the course of the centuries been subjected to
-   the influence of the physical and human environment, of the particular
-   genius of the race ; and they have acquired characteristics that are
-   unique.” [9]
-
-   These unique characteristics might be obvious to collectors, able to
-   compare and contrast the narrative tradition of many communities, but
-   it is questionable whether they could have been identified by the
-   narrators of folktales. Folklorists seldom asked their informants where
-   they thought their stories originated but Ariane de Félice, who
-   conducted fieldwork in the marshland of the Loire estuary after the
-   Second World War, was the exception. She was told “They must have been
-   more intelligent than most, the guys who invented this… You won’t find
-   that here. They come perhaps from the depths of England, or I don’t
-   know where.” [10] Their exotic quality was indeed part of the tales’
-   attraction. None of her narrators, who all came from the one village,
-   suggested that there was anything particularly Breton about their
-   tales, and yet Félice’s book was entitled Contes de Haute-Bretagne. To
-   this day it is almost impossible to find a folktale collection which
-   does not claim to be in some way expressive of a region or nation. The
-   primacy of collective identities, be they ethnic, cultural or
-   geographic, is the legacy bequeathed by romantic nationalism to
-   folklore.
-
-   Folk wisdom, however, recognised the ease with which songs and stories
-   were diffused around the globe, and this has been understood at a
-   scholarly level also. Delarue catalogued the French folktales according
-   to the international index of tale-types. The tale of Cinderella is
-   tale-type 510, and one can go to the folktale catalogue of any country
-   from China to the Caribbean and find examples of tales that fit this
-   typology. [11] The story was popular in France, but not specific to
-   France. The same is true of other genres of folklore : whether we are
-   talking of riddles, proverbs, legends, or folksongs, it is difficult to
-   find examples limited to just one region or one nation. They all have
-   analogues in other countries. Delarue knew this, his argument was that
-   the way Cinderella was told in France was characteristically French.
-   For example, it lacked the cruelty and overt moralising that he
-   associated with German tales. [12] And it is true that while Cinderella
-   was moreorless universally known, the tale was never told exactly the
-   same way in different places. But was this variation a reflection of
-   national or regional cultural difference, or did it have more to do
-   with the sex of the narrators, their occupations and personalities, or
-   the personalities of the collectors ?
-
-   This last is the most serious charge for it threatens not only to deny
-   folklore’s claims to reveal specific cultures, but to undermine the
-   entire collecting project. What if folklorists, as collectors and
-   editors, shaped the final work to fit ideological agendas of their
-   own ? This is indeed the accusation levelled at Emile Souvestre, and
-   even more so at his contemporary, Théodore Hersart de la Villemarqué
-   (1815-1895). The publication in 1839 of Villemarqué’s Barzaz-Breiz _
-   Breton Ballads _ had an impact in France akin to MacPherson’s Ossian.
-   Unfortunately there were other parallels. Villemarqué was a Breton
-   patriot who wanted to endow his homeland with an epic literature to
-   rival that of any nation. He was also an aristocrat, a conservative and
-   a Catholic, and the Breton nation he envisioned was pious, deferential,
-   and static, preserved by its language and traditions from the taint of
-   revolutionary modernity. The ballads he “discovered” suited all these
-   purposes admirably. Although he styled himself as the “collector and
-   translator” of the Breton ballads, the suspicion arose that he was in
-   fact their author. [13]
-   The Querelle over the authenticity of the Barzaz-Breiz, which irrupted
-   in 1867, continues to rumble on, but a prevailing, albeit erroneous,
-   judgement in academic circles is that Villemarqué’s ballads, like
-   MacPherson’s fragments, were forgeries. [14]
-
-   Villemarqué is not the only nineteenth-century folklorist to fall under
-   the critical spot-light not least because many French folklorists were
-   likewise aligned with the Catholic, Royalist right. Their desire to
-   establish a connection between the land and its people through its
-   folklore has been seen as a defensive ploy by traditional elites,
-   landowners and clerics, in the face of rural depopulation, social
-   mobility and radical political upheaval. It is not just that
-   folklorists were local patriots with regionalist or autonomist
-   objectives, though many were, but it is also a question of the kind of
-   country or region they were patriotic about. Why in France, for
-   example, did practically every folklorist reject the administrative
-   boundaries created by the Revolution, _ the departments _ in favour of
-   collecting the folklore of the Old Regime provinces, such as Lorraine,
-   Franche-Comté, Normandy… ? The implicit or explicit explanation is that
-   the provinces represented genuine cultural units, but there is
-   sometimes at least the hint of counter-revolutionary nostalgia. [15]
-   Folklorists at the end of the nineteenth century claimed that theirs
-   was an objective science with its own vigorous methodology. But the
-   suspicion among academics today is that folklore was less the creation
-   of the “folk” than the imposition derived from political and aesthetic
-   movements among déraciné intellectuals.
-
-   The implications of such revisionism are not limited to folklore. With
-   the development of social history since the 1960s, historians have
-   mined folklore collections to uncover the hidden lives of the popular
-   classes, developing such explanatory schemas as popular religion,
-   popular medicine, and popular culture. [16] Yet recently all these
-   categories have been dismissed as constructions derived from the
-   discourses of nineteenth-century elites. Even the very concept of
-   “peasant” has been called into question. [17] What, for the last
-   quarter of a century, has been the most influential approach to
-   nineteenth-century rural France _ Eugen Weber’s history of the
-   acculturation of regional and traditional societies in the process of
-   transforming Peasants into Frenchmen _ crumbles, if the very categories
-   of peasant, tradition and region were nothing more than the ideological
-   projections of nation-builders. [18] As a consequence the peasants who
-   seemed to speak to us from the pages of folklore collections have been
-   once more condemned to historical marginality, for their voices will
-   always be hidden behind the discourses of the dominant.
-
-   I am unwilling to accept this conclusion, and the remainder of this
-   paper will attempt to show that nineteenth-century folklorists were
-   basically correct in proposing a connection between cultural traditions
-   and a particular community, and that the relationship between the land
-   and the lore was suggested to them by their informants, rather than
-   imposed on them. This does not mean that I think folklorists always
-   correctly identified what that connection was, and in the case of
-   France the largely unreflecting use of pre-revolutionary provincial
-   titles is unhelpful. But mislabelling should not prevent us realising
-   what folklorists intuitively grasped, that there was a link between the
-   stories they heard and the landscapes in which they were told. To
-   demonstrate this I will call on the collection made by Paul Sébillot
-   (1843-1918) between 1879 and 1885 in and around the village of
-   Saint-Cast, near to Saint-Malo on the north Breton coast.
-
-   Paul Sébillot and the storytellers of Saint-Cast
-
-   Although Paul Sébillot was the dominant figure in French folklore
-   studies at the end the nineteenth century, he did not conform to the
-   stereotype of the Breton traditionalist. He was certainly no pious
-   aristocrat like Villemarqué, and it is worth mentioning that, despite
-   the supposed inherent conservatism of folklorists, in Brittany at least
-   it was as much an enthusiasm of the left. Emile Souvestre had stood as
-   a Republican candidate in 1849, while leading contemporaries of
-   Sébillot included François-Marie Luzel and Adolphe Orain, both editors
-   of Republican newspapers. [19] Sébillot was born at Matignon
-   (Côtes-du-Nord) in 1843, the son of a doctor and a Republican
-   activist. [20] He inherited his father’s politics, writing a popular
-   pamphlet in 1875 entitled La République, c’est la tranquilité, which
-   Luzel translated into Breton. [21] He married the sister of the
-   economist and Republican politician Yves Guyot, who as editor of Le
-   Siècle was a well-known advocate of radical causes from Dreyfus to
-   feminism. Yet despite his Republican and anticlerical affiliations, in
-   other ways Sébillot was true to the folklorist type. He was a member of
-   a well-educated and well connected bourgeois family ; a rival
-   folklorist would later accuse him of abusing his position as
-   “châtelain” to make his collections. [22] He was also a déraciné,
-   having settled in Paris, first as a law student, and then as an artist
-   and writer. Folklore, at least initially, had been the exiled
-   Sébillot’s tribute to his homeland. His local patriotism had been fired
-   by a borrowed copy of Souvestre’s Le Foyer breton while a homesick
-   schoolboy in 1860. In his memoirs Sébillot recalled that “the idea came
-   to me to discover… if there were in my native land, marvellous or
-   fantastic stories worthy of inclusion in a Gallo Hearth.” [23] But what
-   attracted Sébillot most about Souvestre’s book were the illustrations,
-   for he was already nursing artistic ambitions. From 1867 to 1880 he
-   pursued a career as a painter. As the art critic for various Republican
-   journals in the 1870s, and a visitor to Pont-Aven, Sébillot presumably
-   knew of the impressionists, but he did not follow their lead. Nor,
-   despite his interest in the “marvellous” is there anything fey, let
-   alone symbolist, about his paintings. Sébillot’s artistic allegiances
-   were with the realism of Amédée Guérard and Alexandre Antigna. [24] He
-   specialised in landscapes of the Breton coast, and in particular the
-   strange scenery of low tide (his first salon piece in 1870 was entitled
-   Rocks at Low Tide). This is not a minor genre along Brittany’s côte
-   d’emeraude where the sea-level falls several metres daily, revealing
-   the rocks that made this coast so dangerous for shipping. [25]
-
-   There is an unexplored connection between the practice of landscape
-   painting and folklore collecting in the nineteenth century. Souvestre
-   had been a painter before he turned to writing, while artists like
-   Jules Bastien-Lepage occasionally dabbled in folklore. [26] In
-   Sébillot’s case the meticulousness and commitment to accuracy apparent
-   in his paintings would also resurface in his work as a folklorist, for
-   although he acknowledged a debt to predecessors like Villemarqué he
-   considered himself the leader of a new generation of scientific
-   investigators. Sébillot’s conversion from brush to pen was particularly
-   fruitful. In 1877 the artist Léonce Petit asked Sébillot if he could
-   contribute some stories to a book of fairy-tales that his friend hoped
-   to illustrate. Sébillot promised to see what he could unearth the
-   following summer while on a painting trip to Brittany. But the weather
-   that year was dismal, and while sheltering with peasant families,
-   Sébillot asked his hosts if they knew any tales. The more than six
-   hundred narratives he collected over the following years were the basis
-   for Sébillot’s brilliant career as a folklorist. [27] They provided the
-   matter for more than a dozen major publications, starting in 1880 with
-   the first volume of Contes populaires de la Haute-Bretagne. [28]
-
-   The title implied that these were characteristically Breton tales.
-   Sébillot, like other folklorists, placed his collection within the
-   framework of a geographically specific culture (a trend he would help
-   propagate as editor of the major collection Les Littératures populaires
-   de toutes les nations). But Sébillot was ahead of his time in
-   recognising that his informants’ occupations were as significant to the
-   kind of stories they told as the places they lived. More than half the
-   tales were collected in and around the fishing village of Saint-Cast,
-   not far from his hometown of Matignon. Hence the third volume of the
-   Contes populaires de la Haute-Bretagne was subtitled Contes des marins.
-   Sébillot had come to Saint-Cast in 1879 to paint, but the storytelling
-   talent of his landlady Rose Renault set him on a different tack. Her
-   house became the centre of Sébillot’s collecting activities as her
-   visitors were invited to contribute a tale. Among them was the story in
-   the appendix, told in 1880 by an elderly widow named Jeanne le Hérissé.
-   It concerns one of those watery rock formations Sébillot painted so
-   often _ the Bourdineaux.
-
-   Oral history and folk geography
-
-   The Bourdineaux (or Bourdinots as they now appear on maps) are a group
-   of rocks off the tip of the Saint-Cast peninsular, close to the spot
-   marked 29 on Sébillot’s map of the legendary geography of the
-   area. [29] For fishermen, the virtue of these offshore rocks was that
-   they were a haven for marine wild-life, and, in the case of the
-   Bourdineaux, for skate in particular. Le Herissé’s story tells of a
-   battle for control of the rocks between the Câtins of Saint-Cast and
-   the Jaguens of the rival fishing village of Saint-Jacut which faced
-   them across the Arguenon estuary. There are numerous stories about
-   conflicts between these two villages, several of which focus on this
-   same group of rocks. For example, in another tale the Jaguens drop a
-   dead donkey in the sea in order to claim all the land it touched, but
-   unfortunately for them it by-passed the Bourdineaux. [30]
-
-   The donkey story was probably intended as a joke, but the Jeanne le
-   Hérissé told her tale as a matter of history. She had learnt it from
-   her grandfather, and according to him the battle had taken place two
-   centuries before. It is quite likely that the story has some basis in
-   history. Ownership, or use rights, over land was a dominant issue in
-   village politics throughout France from the Middle Ages onwards. Most
-   communities were, at one time or another, engaged in protracted
-   conflicts with their neighbours about their precise boundaries, access
-   to water, the use of the woods and pastures between them. These kinds
-   of resources were either communal property or at least considered as
-   communal property, and so any dispute would involve the community as a
-   whole. The court records of both old regime and post-revolutionary
-   France abound in such cases, but conflict was not restricted to legal
-   argument, it was carried into the fields. [31]. Conscription rallies,
-   fairs and even Breton pardons were all occasions for collective
-   violence, because at these events rival villagers were bound to meet,
-   and therefore argue with one another. In some parts of France, even in
-   the nineteenth-century, such riots frequently led to fatalities. [32]
-   These village wars tended to have a history. Even if boundaries were
-   finally agreed, the vendetta between them left legacies of triumphs to
-   be boasted, humiliations to be avenged, events to be memorised and
-   retold at communal gatherings. The economic issue might be settled, but
-   the conflict was perpetuated through the village’s oral culture, which
-   enshrined its code of honour.
-
-   Although the Bourdineaux were at sea, their case was not essentially
-   different from any landlocked dispute. They were a collective economic
-   resource to which two communities laid claim. Looking at the map it
-   would seem as if the Câtins were in the right. There were, as they say
-   in story, fishing right in front of their homes. And yet other tales,
-   even those told in Saint-Cast, acknowledged some historic relationship
-   between the Jaguens and the Bourdineaux. [33] There are two possible
-   explanations for this. Firstly, the Jaguens specialised in the fishing
-   of skate. This is still apparent in the architecture of the village,
-   which is arranged in house-rows with a south-facing façade where the
-   skate were hung to dry. The smell was, to judge by the frequent
-   comments in the tales, appalling. [34] As the Bourdineaux abounded in
-   skate the Jaguens may have felt a proprietorial interest in them.
-   Secondly, fishing rights in the estuary of the Arguenon river had been
-   the seigneurial property of the Abbey of Saint-Jacut, so fish caught in
-   these waters had to be landed at Saint-Jacut. At a pinch the
-   Bourdineaux might be included within this seigneurial domain, although
-   they were at boundary of the open sea. [35] As a consequence there
-   were, in the sixteenth century, numerous stands-off between the fishing
-   fleets of the two villages, leading to insults and even injuries. From
-   the seventeenth-century onwards the men of both communities found
-   employment in deep-sea fishing, in-shore fishing declined and with it
-   the economic importance of the Bourdineaux. But the dispute was not
-   forgotten, and references to it were sure to enliven encounters between
-   the inhabitants of the two peninsulas. Indeed the history was still
-   being related in the 1970s, according to Hervé Collet, who audio-taped
-   the same tale as told an old sailor of Saint-Jacut. Unfortunately this
-   Jaguen version of events probably owes more to a Sébillot reprint than
-   to any autochthon tradition, even though there are telling differences
-   between the two. [36]
-
-   However, it was not to history that each group appealed during their
-   confrontation, but to legend, in particular to divergent legends of
-   Gargantua. The story also alludes to several other religious, comic and
-   aetiological legends which would help listeners make sense of their
-   local geography. Nineteenth-century folklorists were more interested in
-   the text than the context, and seldom asked themselves why particular
-   stories were being told at particular moments. But in Le Hérissé’s tale
-   it is clear that legends were not just amusing pastimes, they had a
-   function : it is this functional aspect that provides the link between
-   a particular landscape and the stories told within it. Legends were
-   mobilized as charters of ownership by the communities that told them.
-   According to the Jaguens the Bourdineaux belonged to them because the
-   rocks were thrown from their village by the giant Gargantua. The Câtins
-   agreed that Gargantua deposited the rocks, but not for the Jaguens,
-   rather in disgust at them.
-
-   There is a whole cycle of Gargantua legends concerning this coastline,
-   often associated with particular features such as Gargantua’s tooth
-   near Saint-Suliac, or his finger at Fort La Latte (both prehistoric
-   standing stones). Sébillot collected several Gargantua legends in
-   Saint-Cast. [37] They did not concur in every detail, but it is
-   nonetheless possible to compile an outline biography for the giant that
-   might have been recognised by Câtins. To summarize, Gargantua was born
-   at Plévenon. He liked to travel, and visited Dinan, Saint-Malo, Paris
-   and Jersey. In each place he terrorised the inhabitants with his
-   enormous appetite and marked the landscape in some permanent way. His
-   leap from Fort La Latte to Saint-Malo (or, in another version, to
-   Jersey), for instance, is commemorated by the indent of the giant’s
-   shoe on the cliff-top. Practically all the rocks off the coast were
-   ascribed to Gargantua’s actions. According to François Marquer, the
-   Câtin cabinboy who was Sébillot’s most forthcoming informant, the
-   Becrond (or Bec rond, s it now appears on maps), where the Câtin fleet
-   waited to attack the Jaguens, was the result of a Gargantuan bout of
-   diarrhoea. The Bourdineaux were created shortly after by the giant’s
-   attempts to kill a barnacle goose flying out to sea by throwing stones
-   taken from the headland. [38] Presumably the Jaguens were referring to
-   a similar story, localised in their own village, during their
-   confrontation on the Bourdineaux.
-
-   The Câtins’ response was that Gargantua felt too much disgust for the
-   Jaguens to provide for them in this way. The story, as told in
-   Saint-Cast, was that Gargantua had been coming home to Plévenon when he
-   came across a Jaguen boat loaded with skate caught on the Bourdineaux.
-   He gobbled down the boat, crew and catch, but as his journey took him
-   past Saint-Jacut, the smell of rotting fish made him throw up his meal.
-   The ballast stones from the boat were projected out to sea and formed
-   various islands towards Saint-Briac and Saint-Lunaire (in the opposite
-   direction to Saint-Cast, and therefore undisputed territory as far as
-   Câtins were concerned). [39] In other stories Gargantua did not eat the
-   Jaguen boat, simply the smell of its cargo was enough to make him vomit
-   up various rocks and islands. In some tales Gargantua then quit the
-   country with the words “I don’t want to see the Jaguens any more ; they
-   will kill me with their obnoxiousness” ; in others he really was
-   overcome with disgust and died. [40]
-
-   Câtins and Jaguens told two contradictory legends about Gargantua and
-   the Bourdineaux, but to what extent were either believed ? Belief used
-   to be the test that folklorists applied to distinguish a folktale from
-   a legend, the former being told as a fiction, and the latter as a true
-   account. [41] However, it is difficult to see how anyone could
-   countenance that a handful of ballast stones provided the basis for
-   several islands. All we can say is that the story (just like Le
-   Hérissé’s) was told as if it might be true, and so could be cited as
-   fact in disputes between the two villages. But belief was not as
-   essential as agreement among the community as to which was the right
-   story (or rather, which was the right story for a particular occasion).
-   Which story you knew, and told, about Gargantua, the Bourdineaux and
-   the Jaguens, would indicate where your loyalties lay. Thus the shared
-   story became the basis for communal solidarity.
-
-   Le Hérissé’s tale draws on many other distinctions between the two
-   villages. The two fleets even arrive on the scene in different kinds of
-   boat : those of the Jaguens are called simply “boats”, but the Câtins
-   had “dinghies”. Canot, or dinghy, was the term used for the small,
-   stubby, but manoeuvrable boats that fishermen of both villages adopted
-   during the nineteenth century. [42] The implication of the story,
-   however, is that the Câtins had them first, they were therefore more
-   up-to-date and civilised than their neighbours.
-
-   This claim to cultural superiority was confirmed whenever the Jaguens
-   opened their mouths. By-and-large Sébillot’s fishermen-storytellers
-   spoke good French when telling tales, and were proud of it. Patois was,
-   for them, the language of peasants who had never learnt anything of the
-   world. [43] Yet, according to Sébillot, whenever one of his
-   storytellers adopted the voice of a Jaguen, he or she would put on a
-   distinct accent, and lace their speech with characteristic swearing _
-   “Dieu me danse” or “Dieu me gagne”, a change Sébillot indicated on the
-   written page with italics. He went on to point out, however, that the
-   level of education (and therefore presumably correct French usage) was
-   higher in Saint-Jacut than in nearby villages. [44] But for the
-   storyteller it was not necessary that Jaguens actually spoke like this,
-   but that her audience (and the other inhabitants of the region
-   generally) understood that this was how Jaguens were supposed to speak.
-   Storytellers from all over France used similar tactics to denigrate
-   their despised neighbours. [45]
-
-   A further distinction between the villages is offered by the collective
-   nicknames, the blason populaire, exchanged between the fishermen. The
-   Câtins, apparently because of the colour of their water-proofs, were
-   called “petits Jaunes” by the Jaguens, while the latter were termed
-   “Houohaous”. According to Sébillot most Câtins thought this was an
-   insult, implying that the Jaguens howled like dogs, but it may have
-   derived from Saint Houohaou, the name given by the fishermen to a rock
-   at the end of the Saint-Jacut peninsular. As they passed the rock
-   Jaguens would offer up a prayer “Saint Houohaou, give us
-   mackerel”. [46] Every village in France seems to have had at least one
-   such collective sobriquet, picking up on some distinguishing aspect of
-   dress, economic activity, character or history. [47] However, the
-   blason was not used by the villagers themselves, only by their
-   neighbours who were also their enemies. They were commonly exchanged
-   during disputes over territories. The origins of many nicknames are
-   obscure, but where they can be traced they often relate to places or
-   events on these disputed frontiers. The rock of Saint Houohaou, for
-   example, is at the edge of the commune of Saint-Jacut and the open sea.
-   It is, in a sense, a boundary marker. Geography and cultural identity
-   are once more brought together.
-
-   The people of Saint-Cast held the Jaguens in low esteem : “Daft as a
-   Jaguen” went the local proverb. [48] This reputation was widely known
-   on the coast. Sébillot collected stories about Jaguens at Dinard,
-   Matignon, and even one from an inhabitant of Saint-Jacut. At Dinan
-   stories about idiots, whatever their origin, were termed a
-   “Jaguensétés”. [49] An example of such a tale is the “Jaguens’
-   Journey”. Because they were so backward and had never left their
-   village before, they mistook a field of flax for the sea, and a
-   partridge for a feathered fish. [50] On another occasion they thought a
-   lobster was the devil. [51] Similar, if less maritime, stories were
-   told about dozens of other villages in France and further afield, such
-   as the famous “Wise Men of Gotham” in Nottinghamshire, just one of at
-   least forty-five places in England described as the “village of
-   fools”. [52] “Numskull-tales”, as these kind of tales are listed in the
-   international type index, prove once more that folklore knows no
-   boundaries. One can find nearly identical stories in the literature of
-   ancient India, Turkey and China. [53] But while they were known all
-   over the world, they were not told as universally valid, but rather
-   only as true for particular villages. It was not the folklorist who
-   located them in the landscape, it was the narrators.
-
-   We get a hint of the Jaguens’ reputation near the beginning of this
-   story, when they demand that no guns be used, as no one in Saint-Jacut
-   knew how to fire one. But the full depth of their stupidity is saved
-   until the end, when, disgusted at Jesus for not helping them, even
-   though they had taken the trouble to bring him along on his cross, they
-   drag the crucifix through the streets and finally burn it. Despite (or
-   more probably because of) the presence of an abbey in the village,
-   several Jaguen tales turn on their misunderstanding of, or contempt
-   for, both the symbols of the Church and its personnel. Hence the
-   proverbial phrase, “It’s like the old Jaguens, who no more believed in
-   God than in his saints”. [54] Câtins could also be anticlerical, even
-   sceptical on occasions, and yet still look down on their neighbours,
-   not so much for their lack of belief but because they did not know how
-   to behave. Given Sébillot’s politics he probably rather enjoyed these
-   stories, although he got into a bit of trouble with local Catholics
-   when he published the story of the “Le Bon Dieu de Saint-Jacut” in a
-   local newspaper. [55] In this story the Jaguens realise they are the
-   only village without such an asset, which may account for a series of
-   poor barley harvests. But even when they have erected their own
-   crucifix, the harvest are no better, so they beat and even shoot the
-   figure of Jesus. (This may be a deliberately ironic counter-comment to
-   the common legend of Breton piety in which a peasant refuses to strike
-   a crucifix despite threats from Republican troops, and dies a martyr’s
-   death.) [56] The Jaguens finally decide to kill their God, but unsure
-   how this might be done safely, they carry him over to the Isle Agot in
-   the bay and leave him there. [57] Le Hérissé’s tale picks up on both
-   the Jaguens’ anticlerical reputation and their mistreatment of the
-   crucifix. It is also has aetiological aspects because the crucifix has
-   since disappeared from the Isle Agot, yet one can still see the base
-   where it stood.
-
-   What Freud called the “narcissism of minor differences” mattered a lot
-   in these small, face-to-face communities. The untutored eye might have
-   found little to separate the villages of Saint-Cast and Saint-Jacut at
-   the end of the nineteenth-century, but Câtins would have been insulted
-   by any such comparison. It would have sullied their reputation, and
-   reputation was vital to their well-being. The advancement of credit,
-   getting the best berths on ship, the chances to make a good marriage,
-   all depended on the good name of one’s family and community. Yet
-   reputation is a strange thing in that one can only increase one’s own
-   by diminishing one’s rivals. Telling numskull stories emphasises the
-   superior reputation of one’s own community by denigrating another’s,
-   and this helps reunite one’s village in a sense of its own worth.
-   Otherwise it was in danger of being torn apart by its own internal
-   honour disputes between families and colleagues.
-
-   A fishing community like Saint-Cast may have had particular need of the
-   balm of storytelling (which perhaps accounts for why Sébillot found it
-   such a fertile source). Fishermen liked to create for themselves a
-   persona of aggressive individualism, so unlike the servile peasants
-   they despised. In folktales this persona took shape as the hero
-   “Tribord Amures”, the sailor who gave way to no man. [58] Such
-   attitudes helped the men to cope with the grinding misery of their work
-   on the Newfoundland banks, and the ruthless competition fostered
-   between them by the trawler captains. Much of Sébillot’s collection was
-   told by boys _ apprentice fishermen _ whose tales evinced
-   characteristics of devil-may-care heroism and a refusal ever to bow
-   one’s head. Thus they demonstrated they had acquired the fishermen’s
-   morality and were ready to enter the world of men. But fishermen also
-   needed the community : their work was dangerous and their relied on
-   warnings and help given by their colleagues ; if they died at sea they
-   needed to know that their loved ones would be cared for ; and if they
-   were denied access to their fishing grounds they needed the community
-   to come to their support, as in the case of the Bourdineaux.
-   Storytelling was one mechanism through which that community reconnected
-   with itself.
-
-   This one story of the “Battle of the Bourdineaux” has led us on quite a
-   tour of the region around Saint-Cast, from Plévenon to the Isle Agot.
-   For a storyteller like Jeanne Le Hérissé the landscape oozed
-   narratives. Stories endowed space with meanings. Guided by her tale, Le
-   Hérissé’s audience could orientate themselves in the landscape :
-   aetiological legends like that of Gargantua’s finger, and lieux-dits
-   such as the Becrond, contained descriptions of landmarks which together
-   formed a working map of the area. Legends were an informal education in
-   significant geography : one learnt the boundaries of one’s community
-   with one’s neighbours and, just as importantly, with the supernatural.
-   Legends connected the vital history of the community to its
-   environment. No Câtin fisherman could forget that his ancestors had
-   fought and won their claim to the Bourdineaux, for the rocks themselves
-   were a daily, visual mnemonic. During Rogationtide ceremonies in
-   England, boys accompanying the procession around the perimeter of the
-   parish would be beaten at each boundary marker, to help them more
-   vividly their exact location. [59] Legends served a similar, if less
-   painful function. They were the collective memory of the community.
-
-   Storytelling also gave Jeanne Le Hérissé a continuing role in the
-   village. The Le Hérissé family had lived in Saint-Cast since at least
-   the fifteenth century, and although they had lost their letters of
-   nobility in 1670, Jeanne’s great-grandfather still styled himself
-   “noble écuyer” when he built the manor of Sainte Blanche in 1775. But
-   since the revolution the family’s social status and fortune had
-   declined markedly. Jeanne’s grandfather had been a substantial
-   landowner, but Jeanne had married a simple fisherman, Marc Renault.
-   Like so many of his compatriots he had died at sea leaving her with at
-   least five children to bring up. [60] A widow in her late fifties with
-   three daughters still living at home, Jeanne was in danger of becoming
-   a marginal figure even in a matriarchal community like Saint-Cast. Yet
-   she retained some cultural capital : she knew things that might be
-   important to future generations of Câtins, like why the Bourdineaux
-   belonged to them. In her story both Câtins and Jaguens turn to their
-   oldest inhabitants in this crisis because, as Jeanne puts it, “among
-   the old there is always one cleverer than the others”. She was, in an
-   oblique fashion, talking about herself. [61] The lessons she gave in
-   folk geography staked her claim to full membership in the community.
-
-Appendix
-
-‘La Bataille des Bourdineaux’
-
-   From Paul Sébillot, Contes Populaires de la Haute-Bretagne III : Contes
-   des Marins , (Paris, 1883).
-
-   Au temps jadis, les Jaguens s’étaient mis dans l’idée que le rocher des
-   Bourdineaux leur appartenait et qu’eux seuls avaient le droit d’y
-   pêcher.
-   Un jour, trois bateaux jaguens arrivèrent près des Bourdineaux, et deux
-   canots de Saint-Cast qui vinrent ensuite mouillèrent trop près des
-   Jaguens, presque dans leur affare.
-   _ Dieu me danse, mon fu, s’écrièrent les Jaguens, rehale vitement ton
-   aussière ; tu viens mouiller dans nos lignes, et païcher su’ not’
-   terrain.
-   _Est-ce que vous voudriez nous engarder de pêcher devant sez nous ?
-   répondirent les Câtins.
-   _Le rochier est à ma, riposta le patron des Jaguens, entends-tu, petit
-   Jaune ?
-   _Non fait, Ouohau, i n’est pas à ta.
-   _Si fait, c’est un rocher que Gargantua nous a volé ; il l’a prins sez
-   nous et l’a jeté ici en passant.
-   _N’est pas pour ta que Gargantua l’a jeté ici, répondirent les Câtins,
-   ‘était pour nous ; il avait trop dangier des Jaguens pour voulaï le
-   lous donner.
-   Voilà la bataille qui commence ; les Jaguens jetèrent des cailloux aux
-   Câtins qui ripostèrent, et finirent par sauter à l’abordage des bateaux
-   ennemis : il y eut deux Jaguens qui furent très maltraités ce jour-là,
-   et leur patron dit aux Câtins :
-   _Dieu me danse, mon fu, fau’ra mettre la partie a demain ; j’amenerons
-   do nous tous les chefs des bas, et v’amenerez les vôtres ; les p’us
-   forts aront les Bourdiniaux. Mais n’ fau’ra point s’ batt’e à coups de
-   fusi’, mon petit fu, n’y en a pas iun dans Saint-Jégu qui saige tirer ;
-   je nous battrons do des sabres et do des baïonnettes, do des pierres et
-   do des bâtons.
-   _C’est bien, répondirent les Câtins, demain j’amènerons nos patrons et
-   vous les vôtres.
-   Voilà les Câtins et les Jaguens partis chacun de son côté pour se
-   préparer à la bataille du lendemain.
-   Quand les gens de Saint-Cast furent de retour, ils racontèrent aux
-   autres pêcheurs la dispute et le rendez-vous pour le lendemain. Les
-   anciens s’assemblèrent, et comme parmi les vieux, il y en a toujours
-   qui sont plus rusés que les autres, l’un des anciens dit :
-   _Il faudra laisser les Jaguens mouiller les premiers, puis vous vous
-   mettrez du bord du vent pour leur envoyer de la poussière dans les
-   yeux. Dites aux femmes et aux enfants de prendre des sacs et de les
-   remplir avec la poussière des routes et la cendre des foyers ; ce
-   seront les munitions dont vous chargerez vos bateaux.
-   Aussitôt les femmes et les enfants se mirent à balayer les routes et à
-   ramasser la poussière dans les sacs et les vieilles femmes y mettaient
-   la cendre de leur foyer.
-   Le lendemain dès le matin, on vit sortir tous les bateaux de
-   Saint-Jacut. Les Jaguens avaient chargé leurs embarcations avec des
-   cailloux, et ils s’étaient armés de sabres, de baïonnettes et de
-   bâtons. Ils amenaient avec eux, pour juger la bataille, le plus ancien
-   homme de la paroisse, le bonhomme Mateur, qui avait cent treize ans.
-   Quand ils furent à moitié route, ils se dirent :
-   _Mon petit fu, quand j’arons battu les petits Jaunes, fau’ra qu’i’s
-   lèvent la main et promègent de ne jamais retourner ès Bourdiniaux.
-   _Vère, mais devant qui qu’i’s lèveront la main ?
-   _Faut aller queri’un bon Dieu.
-   Deux bateaux virèrent de bord et allèrent à Saint-Jacut : ils
-   déplantèrent une grande croix et la mirent sur un des ‘carrés’ pour
-   faire jurer les petits Jaunes.
-   Les Câtins étaient mouillés à Becrond, et ils attendaient pour lever
-   l’ancre que la flotte des Jaguens fût arrivée aux Bourdineaux. Alors
-   ils mirent à la voile, et passèrent au vent des Jaguens. Ils voyaient
-   un des carrés qui avait un calvaire attaché à son mât, et le bonhomme
-   Mateur qui se tenait au pied.
-   _Vaïci l’bon Dieu, dirent les Jaguens, v’allez jurer devant li et
-   l’bonhomme Mateur qu’a cent treize ans, de ne p’us retourner ès
-   Bourdiniaux, ou bien le combat va commencer.
-   _Quand vous voudrez, répondirent les Câtins.
-   Et ils se mirent à affarer et à tendre leurs lignes.
-   _Le rochier-là est à nous, dirent les Jaguens, faut lever l’ancre,
-   j’allons compter di qu’à tras, et si vêtes cor mouillés, j’allons nous
-   battre : au p’us fort la pouche.
-   Voilà les Jaguens qui commencent à jeter des cailloux sur leurs
-   ennemis ; mais les Câtins, qui étaient au vent, délièrent leurs sacs,
-   et la brise qui était fraîche envoyait la poussière et la cendre sur
-   les Jaguens qui en recevaient sur les yeux, sur le nez, dans la bouche,
-   dans les oreilles, et ne savaient où se fourrer. On les entendait
-   éternuer comme s’ils avaient eu du tabac plein le nez. Les Câtins, en
-   continuant à lancer de la poussière, sautèrent à l’abordage, et furent
-   bientôt vainqueurs ; ce jour-là il y eut deux Jaguens qui furent
-   blessés, et un Câtin perdit l’oeil d’un coup de pierre. Alors les
-   Jaguens abattirent le calvaire, et le bonhomme Mateur leur dit :
-   _Par ma fa, mon fu, faut abandonner les Bourdiniaux, les petits Jaunes
-   sont les p’us forts.
-   Les Jaguens levèrent l’ancre ; comme ils s’en allaient on les entendait
-   qui se disputaient entre eux, et ils faisaient des reproches au bon
-   Dieu.
-   _Je l’avions amené do nous, disaient-ils, pour nous servi’ d’avocat, i’
-   n’a ren dit : ‘est le bon Dieu sans pitié, i’ n’a pas tant sieurement
-   fait tourner le vent.
-   Et en débarquant à Saint-Jacut, ils attachèrent une corde à la croix,
-   la traînèrent par les chemins et allèrent ensuite la brûler.
-
-   This article first appeared in Soil and Stone: Impresssionism,
-   Urbanism, Environment, Frances Fowle and Richard Thomson (eds).
-   Aldershot: Ashgate, 2003. It is available on this site by permission of
-   the author, editors and publisher.
-
-   [1] “Mais cependant, monsieur Briffaut [sic], la couleur locale  !”
-   M. Briffaut sourit, de ce charmant sourire moitié protecteur moitié
-   dédaigneux, et qui n’appartient qu’à des lèvres académiques :
-   “Monsieur, dit-il, de notre temps, à nous autres, la couleur locale
-   n’était pas encore inventéé.” This story is told, to make much the same
-   point, in Patrice Boussel, Veillées du pays normand, Paris, 1970, p.7.
-   Dumas recalled his conversations with Brifaut at some length in his
-   memoirs, but according to his recollection what shocked him was
-   Brifaut’s casual attitude to historical accuracy, rather than local
-   colour.
-
-   [2] Eric Hobsbawm and Terence Ranger (eds.), The Invention of
-   Tradition, Cambridge, 1983  ; Benedict Anderson, Imagined Communities :
-   Reflections on the Origin and Spread of Nationalism, London, 1983.
-   These two works have been very influential on historical scholarship.
-   Both concepts, at least in common usage among historians, concern the
-   mobilisation of collective identities supposedly based on historical
-   continuities, but which have in fact been constructed by elites (or
-   would-be elites) to meet the needs of current political ideologies.
-
-   [3] Anthropology, in particular, has been forced onto the defensive.
-   While preparing this paper I chanced on this pithy challenge : “almost
-   every generation of anthropologists has condemned previous researchers
-   for faulty studies, imperialistic or colonialist arrogance, or plain
-   doctoring of the material. The idea of the participant observer has
-   little credibility in academic circles, and the standing of much
-   ethnographic research is these days roughly on a par with reality TV.”
-   Jenny Diski, review of David Gilmour Misogyny : The Male Malady in
-   London Review of Books, 6 September, 2001. I do not associate myself
-   with these remarks, I quote them merely to demonstrate that such
-   attitudes have become part of the academic mainstream.
-
-   [4] Regina Bendix, In Search of Authenticity : The Formation of
-   Folklore Studies, Madison WI, 1997, pp.45-67.
-
-   [5] Peter Burke, Popular Culture in Early Modern Europe, Aldershot,
-   1978, pp.3-22.
-
-   [6] Herder quoted in William A.Wilson, “Herder, Folklore and Romantic
-   Nationalism”, Journal of Popular Culture, 6, 1972-3, pp.821-2.
-
-   [7] John M. Ellis, One Fairy Story too Many : The Brothers Grimm and
-   their Tales, Chicago, 1983, p.25  ; Hermann Rebel, “Why not ‘Old
-   Marie’… or someone very much like her  ? A Reassessment of the question
-   about the Grimms’ contributors from a social historical perspective’,
-   Social History, 13, 1988, p.1.
-
-   [8] “nous nous sommes borné à publier… ceux desquels s’exhalait cette
-   senteur du pays qui ne peut tromper.” Emile Souvestre, Le Foyer
-   breton : Contes et récits populaires, Paris, n.d. (first edition 1844),
-   p.18.
-
-   [9] Paul Delarue, The Borzoi Book of French Folktales, New York, 1956,
-   p.xvi.
-
-   [10] “Ils devaient être plus intelligents que bien d’autres,les gars
-   qui ont inventé ça. C’était pas du monde de Mayun : c’est pas ici que
-   vous trouverez ça. Ils venaient peut-être du fond de l’Angleterre, de
-   je sais pas où…” : Arien de Félice, Contes de Haute-Bretagne, Paris,
-   1954, p.xiv.
-
-   [11] Stith Thompson, The Folktale, New York, 1946, pp.126-9.
-
-   [12] Paul Delarue, Le Conte populaire français : catalogue raisonné,
-   Paris, 1957, vol.1 p.44.
-
-   [13] The case against Villemarqué is made by Francis Gourvil,
-   Théodore-Claude-Henri Hersart de la Villemarqué (1815-1895) et le
-   “Barzaz-Breiz” (1839-1845-1867), Rennes, 1960. For a less harsh
-   judgement see Mary-Ann Constantine, Breton Ballads, Aberystwyth, 1996,
-   10-16.
-
-   [14] Malcolm Chapman, The Celts : The Construction of a Myth,
-   Basingstoke, 1992, pp. 123-4, 138, 208. Donatien Laurent, who
-   discovered and published the field notebooks in which Villemarqué
-   recorded the ballads he heard, is justly annoyed that a quarter of
-   century later even specialists in the field should still be repeating
-   this calumny : “La Villemarqué et les premiers collecteurs en
-   Bretagne”, in Fanch Postic (ed.), La Bretagne et la littérature orale
-   en Europe, Brest, 1999, p.165.
-
-   [15] David Hopkin, ‘Identity in a Divided Province : The Folklorists of
-   Lorraine, 1860-1960’, French Historical Studies 23 (2000), 639-82.
-
-   [16] Peter Burke, Popular Culture in Early Modern Europe, Aldershot,
-   1978, pp.270-86.
-
-   [17] “‘The peasant’ as a type, whether stigmatized or idealized, was a
-   creation of non-peasants” : Robert Tombs, France, 1814-1914, London,
-   1996, p. 289. Tombs uses Anderson’s phrase “imagined community” to
-   describe the peasantry.
-
-   [18] Eugen Weber, Peasants into Frenchmen : The Modernization of Rural
-   France, 1870-1914, Stanford, 1976. For a view of the peasant influenced
-   by post-modernism see James R. Lehning, Peasant and French : Cultural
-   Contact in Rural France during the Nineteenth Century, Cambridge, 1995,
-   pp.11-34.
-
-   [19] Françoise Morvan, François-Marie Luzel, Rennes, 1999, pp.80, 114,
-   221-30.
-
-   [20] For details of Sébillot’s family background see : Léon Séché,
-   Figures bretonnes et angevinnes : Paul Sébillot (notice biographique et
-   bibliographique), Vannes, 1890.
-
-   [21] Paul Sébillot, “Notes pour servir à l’histoire du folk-lore en
-   France”, Revue des traditions populaires 28 (1913), p.56.
-
-   [22] Henri Gaidoz, “Eugène Rolland et son oeuvre littéraire”, Mélusine
-   11 (1912), 417-40. The sarcastic comments Gaidoz made about Sébillot in
-   this obituary for their mutual friend led to an extremely bitter row
-   between the two men which overshadowed French folklore studies at the
-   beginning of the twentieth century. See Richard Dorson’s foreword to
-   Geneviève Massignon (ed.) Folktales of France, London, 1968, xiv-xxvii.
-
-   [23] “l’idée me vint de rechercher, lors des prochaines vacances, s’il
-   y avait dans mon pays natal des histoires merveilleuses ou fantastiques
-   dignes de figurer dans un Foyer gallo.” Sébillot, “Notes pour servir…”,
-   pp.51-2.
-
-   [24] Denise Delouche, Peintres de la Bretagne : Découverte d’une
-   province, Paris, 1977, pp.337-8.
-
-   [25] Some of Sébillot’s paintings can be seen on an excellent website
-   produced by the pupils of the Collège Paul Sébillot in Matignon. See :
-   http://www.bretagne-racines.ac-rennes.fr/
-
-   [26] Adrien Oudin, ‘La Basse-Bretagne conteuse et légendaire’, Revue
-   britannique, (1891), reprinted in Contes et légendes de Basse-Bretagne,
-   Spézet, 1995, p.159. On their walking holidays in the Meuse Jules
-   Bastien-Lepage and his friend the poet André Theuriet collected
-   folklore which Theuriet contributed to Henri Labourasse, Anciens us,
-   coutumes, légendes, superstitions, préjugés, etc. du département de la
-   Meuse, Bar-le-Duc 1903. Bastien-Lepage’s unfinished painting
-   L’Enterrement d’un jeune fille is a pictorial representation of an
-   event described by Labourasse. Two other important folklorists, Victor
-   Smith and Achillle Millien, were significant patrons of landscape
-   artists.
-
-   [27] Sébillot, “Notes pour servir…” p.57.
-
-   [28] These include : Contes populaires de la Haute-Bretagne : Contes
-   merveilleux, Paris, 1880  ; La Littérature orale de la Haute-Bretagne,
-   Paris, 1881  ; Contes populaires de la Haute-Bretagne : Contes des
-   paysans et des pêcheurs, Paris, 1881  ; Contes populaires de la
-   Haute-Bretagne : Contes des marins, Paris, 1882  ; Les Traditions et
-   superstitions de la Haute-Bretagne, Paris, 1882, 2 vols.  ; Gargantua
-   dans les traditions populaires, Paris, 1883  ; Contes de terre et de
-   mer, Paris, 1883 (a selection from the previous volumes illustrated by
-   Léonce Petit, among others)  ; Coutumes populaires de la
-   Haute-Bretagne, Paris, 1886  ; Légendes chrétiennes de la
-   Haute-Bretagne, Nantes, 1886-92, 2 vols.  ; Petite légende dorée de la
-   Haute-Bretagne, Nantes, 1897  ; Légendes locales de la Haute-Bretagne,
-   Nantes, 1899-1900, 2 vols.  ; Contes des landes et des grèves, Paris,
-   1900  ; Les joyeuses histoires de Bretagne, Paris, 1910. Sébillot was
-   also author of numerous more general works on the folklore of the sea,
-   of fishermen and various other occupations such as bakers, as well as
-   studies of paganism, of mines and public works (a product of his
-   connection to Guyot, who was Minister of Public Works), culminating in
-   a four volume encyclopaedia of the Folklore de France, Paris, 1904-7.
-   Most of these works have been republished, and the Presses
-   universitaires de Rennes is currently engaged in bringing out an edited
-   version of Sébillot’s collection.
-
-   [29] “Carte de la géographie légendaire du canton de Matignon” in Paul
-   Sébillot, “Petites légendes locales CCCCXXXIII : Géographie légendaire
-   d’un canton”, Revue des traditions populaires, 16, 1901, p.4.
-
-   [30] “L’âne des Jaguens”, told by Françoise Guinel of Saint-Cast : Paul
-   Sébillot, Contes populaires de la Haute-Bretagne III : Contes des
-   marins, Rennes, 2000, pp.281-2. The Jaguens’ donkey turns up in other
-   tales.
-
-   [31] Inter-village rivalries, and the violence that accompanied them,
-   have been studied by several historians. See, among others : Robert
-   Muchembled, La Violence au village (XV^e-XVII^e siècle), Turnhout,
-   1989, pp.86-105  ; Peter Sahlins, “The Nation in the Village : State
-   Building and Communal Struggles in the Catalan Borderland during the
-   18th and 19th Centuries”, Journal of Modern History 60, 1988, 234-63  ;
-   Stephen Wilson, Feuding, Conflict and Banditry in Nineteenth-Century
-   Corsica, Cambridge, 1988, pp.158-76.
-
-   [32] François Ploux, “Rixes intervillageoises en Quercy (1815-1850)”,
-   Ethnologie française 21, 1991, 269-75.
-
-   [33] For example, “Le Minard du Jaguen” told by Françoise Guinel of
-   Saint-Cast in 1882 : Paul Sébillot, Contes des landes et grèves,
-   Rennes, 1997, pp.207-12  ; and “Gargantua et les Jaguens”, told by
-   François Marquer, cabin-boy of Saint-Cast, in 1882 : Paul Sébillot,
-   Gargantua dans les traditions populaires, Paris, 1883, p.71. Guinel, a
-   forty-three year old fisherman’s wife, specialised in Jaguen stories,
-   or “couyonades” as they were known in Saint-Cast. Nine out of the ten
-   stories she told Sébillot concerned their antics.
-
-   [34] Paul Sébillot, Contes comiques des Bretons, [reprint of the
-   Joyeuses histoires de Bretagne] Paris, 1983, p.16.
-
-   [35] J.-C. Menes, “Les Pêcheries et l’abbaye”, Les Amis du vieux
-   Saint-Jacut, sauvegarde du patrimoine archéologique et historique du
-   pays jaguen, 27, 1995, pp, 24-30.
-
-   [36] Hervé Collet, ‘La bataille des Bourdineaux’, Les Amis du vieux
-   Saint Jacut 1 (1982), pp. 16-26.
-
-   [37] Sébillot, Gargantua, pp.19-91. This collection also includes the
-   tale of “Le dent de Gargantua”, collected by Elvire de Cerny, at
-   Saint-Suliac.
-
-   [38] “Gargantua filleul des fées”, told by François Marqauer :
-   Sébillot, Gargantua, pp. 40-1.
-
-   [39] “Gargantua et les Jaguens” : Sébillot, Gargantua, p.72.
-
-   [40] “Je ne veux plus voir les Jaguens  ; ils me feraient mourir de
-   donger” : Sébillot, Gargantua, pp.32, 72.
-
-   [41] Linda Dégh and Andrew Vázsonyi, “Legend and Belief”, in Dan
-   Ben-Amos, Folklore Genres, Austin TX, 1976, pp.93-123.
-
-   [42] Pierre Amiot, Histoire de Saint-Cast-Le Guildo, Carrien, 1990,
-   p.560.
-
-   [43] Folktale narrators in most parts of France often preferred to tell
-   their tales in French (or what they understood to be French), even if
-   their daily language of communication was patois. The use of French
-   emphasised the artistic nature of the act of storytelling. See, for
-   example, Ariane de Félice, Contes de Haute-Bretagne, Paris, 1954,
-   p.xii.
-
-   [44] Sébillot, Contes comiques, p.17. Not only Saint-Jacut but all
-   their surrounding villages had distinctive ways of speaking, according
-   to Sébillot’s Câtin informants : Blason Populaire de la Haute-Bretagne,
-   Paris, 1888, (extract from Revue de Linguistique), p.12.
-
-   [45] Charles and Alice Joisten, Contes populaires de Savoie, Grenoble,
-   1999, pp.139-91.
-
-   [46] “Saint Houohaou, Donnez-nous du maquériau” : Sébillot, Contes
-   comiques, 48-9.
-
-   [47] In the days before their falling out Sébillot and Henri Gaidoz had
-   worked together on a guide to Le Blason populaire de la France, Paris,
-   1884. For a more recent study see Jean Vartier, Le Blason populaire de
-   France, Paris, 1992.
-
-   [48] “Bête comme un Jaguen” : Sébillot, Contes comiques, p.56.
-
-   [49] Sébillot, Contes comiques, p.16.
-
-   [50] This was a particularly popular story, told to Sébillot by at
-   least five people Contes comiques, pp.18, 27, 50, 56.
-
-   [51] Sébillot, Contes comiques, p.60.
-
-   [52] Including Austwick, Bolliton, Borrowdale, Coggeshall, Darlaston,
-   Folkstone, Pevensey, and Yabberton.
-
-   [53] Thompson, The Folktale, pp.190-6. Not all folktale fools come from
-   “villages of idiots”, but any numskull tale can be readily adapted to
-   fit the needs of village rivalries.
-
-   [54] “C’est comme les vieux Jaguens, Qui n’croient pas p’us dans l’bon
-   Dieu qu’dans les saints” : Sébillot, Contes comiques, p.41.
-
-   [55] Sébillot, Contes comiques, p.11.
-
-   [56] Musée départemental breton, L’Imagerie populaire bretonne,
-   Quimper, 1992, p.159.
-
-   [57] “Le Bon Dieu de Saint-Jacut”, told by Françoise Guinel of
-   Saint-Cast : Paul Sébillot, Contes populaires de la Haute-Bretagne
-   III : Contes des marins, Rennes, 2000, pp.259-63.
-
-   [58] “Tribord Amures”, told by Auguste Macé in 1880, eighteen-year-old
-   sailor of Saint-Cast : Sébillot, Contes des marins, pp.62-66  ;
-   “Tribord Amures”, told by François Marquer in 1880 : Paul Sébillot
-   ‘Contes de marins recueillis en Haute-Bretagne’, Archivio per le studio
-   delle tradizioni popolari, 10, 1891, pp.109-11. “Tribord Amures” is an
-   nautical term meaning that a ship is on starboard tack. All other
-   vessels are supposed to give way, hence the phrase “Tribord Amures, roi
-   des mers”.
-
-   [59] Adam Fox, Oral and Literate Culture in England 1500-1700, Oxford,
-   2000. pp.268-71.
-
-   [60] Genealogical details are taken from François Le Hérissé, Histoire
-   généalogique de la famille Le Hérissé de la Mare (Hénon
-   [Côtes-du-Nord]), Saint-Cast, 1988. In the Etat Civil and other
-   documents, such as the Inscription maritime, Marc Renault’s wife’s name
-   is given as Françoise Hérissé rather than Jeanne. However, as the only
-   Le Hérissé married to Renault living in Saint-Cast there can be no
-   doubt as to her identity.
-
-   [61] Jacqueline Simpson, “Beyond Etiology : Interpreting Local
-   Legends”, Fabula 24, 1983, pp. 227-8.
-
-     * > Ethnographes et anthropologues
-     * > Institutions et revues anthropologiques
-     * > Concepts, objets et traditions anthropologiques
-
-     * « Paul Sébillot, vie et œuvre d’un ‘prince du folklore’ »
-       , Claudie Voisenat, 2008
-     * “Legendary Places: Oral History and Folk Geography in
-       Nineteenth-Century Brittany”
-       , David Hopkin, 2010
-     * « Paul Sébillot à la revue L’Homme »
-       , Claudie Voisenat, 2010
-     * « Paul Sébillot à la Société d’anthropologie de Paris »
-       , Claudie Voisenat, 2010
-     * « Paul Sébillot et l’invention du folklore matérialiste »
-       , Claudie Voisenat, 2010
-     * « Paul Sébillot et les légendes locales : des sources pour une
-       histoire ‘démocratique’ ? »
-       , David Hopkin, 2010
-
-   Sources primaires
-     * « Ce que m’a dit La Villemarqué »
-       , Paul Sébillot, 1912
-     * Contes des marins de la Haute-Bretagne, Harrap’s
-       , Paul Sébillot, 1913
-     * Le folk-lore de France
-       , Paul Sébillot, 1904-1907
-     * « Mémoires d’un Breton de Paris »
-       , Paul Sébillot, 1913-1914
-
-   Notes et instruments de recherche
-     * Bibliographie de Paul Sébillot
-       , 2008
-     * Bibliographie sur Paul Sébillot
-       , 2008
-     * Notes sur le dossier de demande d’adhésion de P. Sébillot à la
-       Société des gens de lettres
-     * Notes sur les Annuaires de la Pomme (1887 et 1906)
-
-   Rencontres
-     * De la Bretagne à Paris. Paul Sébillot (1843-1918). Un républicain
-       promoteur des traditions populaires
-       , 2008
-
-   Dossiers documentaires associés
-     * Annuaire des traditions populaires (1886-1894)
-     * Revue des traditions populaires (1886-1919)
-     * Dîners celtiques (1879-1902)
-     * Dîners de Ma Mère l’Oye (1882-1914)
-     * Gaidoz, Henri (1842-1832) et Sébillot, Paul 1843-1918)
-     * Gaidoz, Henri (1842-1932)
-     * Machado y Álvarez, Antonio (1846-1893)
-     * Pitrè, Giuseppe (1841/48-1916)
-     * Rolland, Eugène (1846-1909)
-     * Van Gennep, Arnold (1873-1957)
+   #Zelda Universe » Hyrule: A Geography and Cartography Comments Feed
+   JSON oEmbed (JSON) oEmbed (XML) Podcast RSS feed
+
+   [ ]
+     * [zu-logo-horizontal.svg]
+     * Media
+     * Features
+     * Games
+     * Forums
+     * Zelda Maps
+     * Zelda Wiki
+
+   [ ]
+   Login or register
+   ____________________
+   [ ]
+     * Facebook Facebook
+     * Instagram Instagram
+     * Tiktok Tiktok
+     * Twitter Twitter
+     * Threads Threads
+     * BlueSky BlueSky
+     * Tumblr Tumblr
+     * YouTube YouTube
+     * Twitch Twitch
+     * Discord Discord
+     * Patreon Patreon
+
+   Latest Articles
+
+Hyrule: A Geography and Cartography
+
+   By Bastian on May 8, 2010
+
+                a part of The Missing Link series of articles
+                             Article By Bastian
+
+   In nearly every The Legend of Zelda video game we explore a vast
+   landscape, usually called “Hyrule”, and yet no two Hyrules are ever
+   identical.
+
+   Are we meant to believe that Hyrule is constantly suffering cataclysmic
+   natural disasters which are dramatically changing its features? Or are
+   we to assume that there are many different lands all called Hyrule
+   within the same world? Or possibly worlds? Or should we believe that
+   somehow all of these lands called Hyrule are in fact one in the same?
+
+   I fancy the latter, myself, and my aim is to show how this can be
+   possible, despite the contrasting popular opinion.
+
+In the Beginning…
+
+   Let’s travel back in time to the beginning, to the earliest
+   documentation of this magical land. In the instruction manual for The
+   Legend of Zelda, it indicates that this game takes place “in a little
+   kingdom in the land of Hyrule.” As we discover in the direct sequel,
+   Zelda II: The Adventure of Link, such a description couldn’t be more
+   accurate. In this sequel we are presented with a tiny representation of
+   the vast landscape we traversed in the first game. Clearly we are to
+   believe that Hyrule as we knew it in The Legend of Zelda is but one
+   tiny piece of a grand land.
+
+   Comparing LoZ Hyrule to AoL Hyrule
+
+   I assert that nearly every video game that takes place within “Hyrule”
+   actually takes place within the same vague area of Hyrule seen in The
+   Legend of Zelda.
+
+A Story and a Map
+
+   In each Zelda video game we are provided with two important documents:
+   a legend regarding the history preceding the story of the game, usually
+   entitled “Story,” and a rough map of the geography that Link will
+   discover in that particular adventure.
+
+   Sometimes these two artifacts are very accurate and detailed in
+   accordance with the particular adventure at hand, but more often than
+   not these documents are so vague that they border on impressionistic.
+
+   Take, for instance, the original The Legend of Zelda: in the
+   instruction manual we are presented with a highly detailed clay
+   representation of the landscape matching almost identically the
+   geography we see in the 8-bit game.
+
+   The Legend of Zelda's Hyrule
+
+   Now consider the map provided in Ocarina of Time: while it
+   unquestionably gives an accurate notion of the geography, it is by no
+   means one-to-one indentical.
+
+   Ocarina of Time's Map
+
+   Are we then to believe that The Legend of Zelda’s blocky clay map of
+   Hyrule is more accurate than Ocarina’s merely because it better matches
+   the in-game landscape of its game? Certainly not. It would be absurd to
+   believe that geometric series of square features could ever naturally
+   exist as a landscape. We must then assume that “Hyrule” as depicted in
+   The Legend of Zelda is an impression, only. If we take both the
+   instruction manual map and in-game landscape as impressionistic for The
+   Legend of Zelda, why then should we take any other representation of
+   Hyrule any more literally?
+
+   In The Adventure of Link we are presented with two seperate maps, both
+   rather vague when it comes to comparing the landscape with that
+   presented in the videogame, and yet very different each from the other.
+
+   The two maps in the instruction manual for AoL
+
+   I take this varying degree of vagueness in the hand-drawn cartography,
+   along with the “legendary” verbage of the prehistory provided as
+   “story” (but that’s another topic for another time) as the key to this
+   controversial approach to the accuracy of Hyrule’s geography in
+   comparison to its cartographies.
+
+   Many insist that all of these Hyrules cannot possibly be the same
+   Hyrule because the geography is wildly changing and transforming
+   between games. I assert that the geography is not changing at all (or,
+   at least not all that dramatically). The actual problem instead stems
+   from the degree of accuracy of the cartography presented both in-game
+   and via the map provided.
+
+Ancient Maps of Earth
+
+   When we consider antique maps of our own world, we are often surprised
+   at the shapes and sizes of the continents. We wonder at the seemingly
+   arbitrary position of the major geographic features we are all so
+   familiar with. How can they have thought North America was so tiny? Why
+   is China shaped like a boomerang? Where is Greenland?
+
+   Antique Earth Maps
+
+   These antique maps display vastly different shapes and sizes of
+   landmasses than we know today. Why the dramatic difference? We know, of
+   course, that these continents and their features have not radically
+   transformed since that era. The true transformation is found in the
+   improved accuracy of cartography tools and theories. When we look at
+   these antique maps and see the shapes and proportions and
+   complete juxtaposition of features we do not assume we are looking at a
+   different Earth. No, we understand that these are simply archaic
+   understandings of what Earth was thought to look like at that time.
+
+All Hyrules Are One Hyrule
+
+   The notion that each game takes place in a different Hyrule is as
+   absurd to me as the Columbus-era idea that the Americas were actually
+   the Orient. Clearly each videogame deals with the same continents
+   collectively known as “Hyrule.”
+
+   The majority of the Zelda games take place in the region I term
+   “Southern Hyrule.” Beginning with the original The Legend of Zelda,
+   then A Link to the Past, Ocarina of Time, The Wind Waker, The Minish
+   Cap, Four Swords/Adventures, and Twilight Princess. Even The Adventure
+   of Link utilizes “Southern Hyrule,” albeit limitedly in a miniturized
+   rendition to give scope to the vastness of what I term “Northern
+   Hyrule” (the land just north of Death Mountains) and “Eastern Hyrule”
+   (the continent to the east of North/South Hyrule). It is my belief that
+   Phantom Hourglass also takes place in a flooded Northern and Eastern
+   Hyrule.
+
+   Three Continents of Hyrule
+
+   So how can all these different landscapes be one and the same when
+   their geographies are so extremely different? It is because we are
+   intended to take these cartographies with a grain of salt. Sometimes it
+   is as simple as “up is NOT north, north is to the right” (as is the
+   case in The Minish Cap).
+
+   Similarly: with Ocarina of Time we find north to have shifted about 45
+   degrees counter-clockwise. As long as we orient Death Mountain at the
+   top of the map, we find the basic major features orient themselves in
+   roughly the same areas.
+
+   A Link to the Past vs. Ocarina of Time
+
+   The only thing changing in the geographies is the cartographer’s
+   understanding or impression of it. It is then unsuprising when we take
+   a simplified snapshot of a portion of Southern Hyrule in each of these
+   cartographies that we always find the Death Mountain(s) to the north,
+   Hyrule Castle just south of that, an enormous lake to the east, and an
+   equally large desert to the west.
+
+   Comparing the Hyrules
+
+The Moving Village and Castle
+
+   What of Kakariko Village? It seems to be leaping about the landscape
+   wildly. If the other major geographic features are fairly static
+   map-to-map why then does it seem as if Kakariko and Hyrule Castle can
+   never stay in the same place in each game? This can be explained in two
+   very different ways:
+    1. As these maps are highly impressionistic, the village remains in
+       the same place throughout history, but each cartographer’s notion
+       of where it existed is different (consider legendary Camelot and
+       the debate concerning the three different argued locations of
+       Cadbury, Camelford, and Caerleon).
+    2. The Kakariko Village presented in Ocarina of Time has been
+       destroyed/deserted (and thus is the “hidden town” found in Twilight
+       Princess) with a New Kakariko having been built further west.
+
+   Along that same line: could it also be possible that an earlier Hyrule
+   Castle (presented in Ocarina of Time) has been destroyed at some point
+   prior to Twilight Princess, with a new Hyrule Castle having been built
+   farther east, closer to where Lon Lon Ranch once stood? If so, this
+   could explain the ruins found all throughout Twilight Princess‘ Lost
+   Woods, including the ruins of the Temple of Time. Later, then, we would
+   find that these are the same Lost Woods found in A Link to the Past and
+   that the only thing left of the ruins of the Temple of Time is the dias
+   and pedestal where Link discovers the Master Sword. In this A Link to
+   the Past-era Hyrule, Kakariko now stands just south of the ruins of the
+   Temple of Time/Lost Woods… precicely where the ancient Hyrule Castle
+   from Ocarina-era stood.
+
+   Then again, perhaps these are all simply misinterpretations or slightly
+   different notions according to each cartographer.
+
+The True Map
+
+   So which of all the maps is the most accurate? That remains to be seen.
+   Perhaps they are each equally accurate/inaccurate. Or maybe it stands
+   to reason that the most recent telling (Twilight Princess) is the most
+   accurate; as our Nintendo staff cartographers’ tools (advancement of
+   realism of graphics) improve, so too does the accuracy of the
+   geography. If the rumors of Eiji Aonuma’s desire to release a 3D A Link
+   to the Past ever comes to fruition, it will be exciting to see how this
+   cartography compares to that of it’s 16-bit predecesor.
+
+   One thing remains certain, however: regardless of its geography, Hyrule
+   never ceases to prove full of fun and adventure. And, really, that’s
+   all that matters in the end.
+
+Bastian
+
+     * More articles by Bastian
+     *
+     *
+     *
+
+   Continue the discussion with other Zelda fans on social media!
+     * Forums
+     * Discord
+     * Facebook
+     * Twitter
+
+Recent Articles
+
+     * Blue underdog finally wins race after almost 25 years
+     * Tetra’s Treasures: The 2025 ‘Zelda’ Calendar
+     * AGDQ speedrunners will play several Zelda games next week to help
+       prevent cancer
+     * Theophany surprises Tears of the Kingdom fans with a new Colgera
+       remix!
+     * Nintendo celebrates the New Year with fresh Echoes of Wisdom art
+
+Zelda-themed Enamel Pins
+
+   Use code ZU at checkout for a discount! Your discount helps support
+   Zelda Universe.
+
+Related Articles
+
+     * Skelux_LoZMinusWorld_Screenshot_2 "Minus World" discovered in the
+       original Legend of Zelda
+     * guides-cadence-of-hyrule Cadence of Hyrule
+     * Classic LoZ The original Zelda takes place on Death Mountain,
+       confirms Zelda Encyclopedia
+     * 2022031116112100_s Tingle's Maps: Islands at the edge of the world
+     * hyrule warriors We're celebrating 5 years of Hyrule Warriors with
+       related articles this week
+
+   [INS: :INS]
+
+   Zelda Universe
+
+   Site Links
+     * About
+     * Contact Us
+     * Team
+     * Volunteer
+     * Merchandise
+     * Spoiler Policy
+     * Privacy Policy
+
+   More by ZU
+     * Zelda Maps
+     * Zelda Wiki
+
+   Social Media
+     * YouTube
+     * Twitch
+     * Discord
+     * Facebook
+     * Instagram
+     * TikTok
+     * Threads
+     * BlueSky
+     * Twitter
+     * Tumblr
+     * Patreon
+
+   © 2001-2025 Zelda Universe
+
+   Login Close
+
+   Conversations
+   Display All
+   Notifications
+   Display All
+   Moderation
+
+   [avatar-default.svg]
+
+Forum Post Title
+
+   Username - 1 hour ago - Post
+   Display All
+   Friends Online
+   Display All
+
+   Quantcast
+
+   [p?c1=2&c2=6036161&cv=2.0&cj=1]

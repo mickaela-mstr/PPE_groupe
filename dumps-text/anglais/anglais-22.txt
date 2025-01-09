@@ -13,10 +13,10 @@ All Discussions
      * Beta Updates
      * New sync system
      * Read this first
+     * Legend, where are we?
      * Highlighting bug in Legend native Windows
      * Legend Not Currently Listed on Google Play
      * Questions About Major Calendar Updates
-     * Legend, where are we?
      * Joins LegendSate Supabase
      * Christmas in less than 3 weeks
      * Global Search and Replace Function
