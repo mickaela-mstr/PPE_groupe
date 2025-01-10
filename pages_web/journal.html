@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet Légende</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
+    <style>
+        body {
+            display: flex;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
+            color: #4a4a4a;
+            font-family: 'Georgia', serif;
+        }
+
+        .sidebar {
+            width: 250px;
+            background-color: #f3c5b3;
+            padding: 1rem;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar a {
+            display: block;
+            padding: 0.8rem 1rem;
+            margin-bottom: 1rem;
+            background-color: #e8d6c3;
+            color: #6b4226;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        .sidebar a:hover {
+            background-color: #e2a68a;
+            color: white;
+        }
+
+        .content {
+            flex: 1;
+            padding: 2rem;
+        }
+
+        .hero {
+            background: url('./images/banner.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            padding: 4rem 1rem;
+            position: relative;
+            text-align: center;
+        }
+
+        .hero .hero-content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 2rem;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 0 auto;
+        }
+
+        .title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #e8e8e8;
+        }
+
+        .section-title {
+            color: #6b4226 !important;
+            font-weight: bold;
+            font-size: 2.5rem;
+        }
+
+        footer {
+            background: #e8d6c3;
+            padding: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #6b4226;
+        }
+
+        .links {
+            margin-top: 1rem;
+        }
+
+        .links a {
+            color: #6b4226;
+            font-weight: bold;
+            text-decoration: none;
+            margin-right: 1rem;
+        }
+
+        .links a:hover {
+            text-decoration: underline;
+            color: #e2a68a;
+        }
+
+        .has-submenu {
+            position: relative;
+        }
+
+        .submenu {
+            display: none;
+            margin-top: 0.5rem;
+            margin-left: 1rem;
+        }
+
+        .has-submenu:hover .submenu {
+            display: block;
+        }
+
+        .submenu a {
+            background-color: #f5e8df;
+            margin-bottom: 0.5rem;
+            display: block;
+            padding: 0.8rem;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+
+        .submenu a:hover {
+            background-color: #e2a68a;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <aside class="sidebar">
+        <a href="#accueil">Accueil</a>
+        <div class="has-submenu">
+            <a href="#tableaux">Tableaux</a>
+            <div class="submenu">
+                <a href="../tableaux/anglais.html">Anglais</a>
+                <a href="../tableaux/francais.html">Français</a>
+                <a href="../tableaux/arabe.html">Arabe</a>
+            </div>
+        </div>
+        <div class="has-submenu">
+            <a href="#linguistique">Analyse Linguistique</a>
+            <div class="submenu">
+                <a href="analyse_linguistique_en.html">Anglais</a>
+                <a href="linguistique/francais.html">Français</a>
+                <a href="linguistique/arabe.html">Arabe</a>
+            </div>
+        </div>
+         <a href="Journal.html">Journal</a>
+        <a href="a_propos.html">À propos</a>
+    </aside>
+
+       <div class="content">
+        <section id="linguistique" class="section">
+            <div class="section-title-container">
+                <h1 class="section-title">Journal</h1>
+            </div>
+                <p><h2 class="section-title">Journal de bord du projet en groupe Intro : Comment se sont déroulées les séances en cours</h2>
+
+                <h3 class="section-title">(Mickaëla)</h3> Fin novembre, début décembre nous avons commencé à nous pencher sérieusement sur le projet de fin de semestre en cours. Le choix des mots et des langues a été la première étape. Nous avons décidé de nous concentrer sur le mot “légende” en français, donc “legend” en anglais et pour l'arabe=... Ce mot nous a paru être un choix adéquat pour l'analyser, car il porte plusieurs sens dans chacune des langues. Que ce soit en français, en anglais ou en arabe, il évoque des récits, des mythes, mais aussi un sens en géographie ou a un sens figuré ou selon les contextes. Le choix de ces trois langues était assez simple pour notre groupe. J'ai étuidé l'anglais pendant 3 ans en licence donc je pense être assez à l'aise pour pouvoir travailler dessus. En plus, c'est une langue internationale, ce qui je pense peut faciliter pour les recherches d'URLs car la langue la plus commune pour le contenu sur le web c'est l'anglais. Le français, c'est la langue obligatoire pour le projet donc pas le choix de l'avoir ^^. Mais c'est aussi un avantage car ça nous offre un terrain familier pour aborder les différents sens du mot. Enfin, l'arabe, c'est une langue que Zeineb et Oumaya maîtrisent ce qui élargit notre perspective et nous confronte à d'autres manières d'analyser le concept de “légende”. On peut dire que nos choix reflètent aussi nos parcours variés en tant qu'étudiantes. La préparation de ce projet a commencé par une phase de recherche et d'organisation. Grâce à la fiche 8, on a pu tructurer les données que nous allions recueillir dans des dossiers suivant l'arborescence donnée. Une angoisse qui m'est tout de suite venue est la gestion des conflts sur git qui est quelque chose que je n'arrive pas toujours à maîtriser :(. Mais nous savions dès le départ que cela nécessiterait une approche méthodique et des échanges constants entre nous pour éviter le plus possible ces situations. On a un groupe sur Whatsapp où on se prévient à chaque fois que quelqu'un push des changements ce qui est super pratique. Personnellement, la période avant les vacances a été assez rude en termes de travail personnel et de révisions pour les partiels, ce qui m'a empêchée de me mettre sérieusement sur le projet en PPE (pardoon :( ). J'ai pu démarrer les exercices sur les scripts d'aspiration et de dump textuel en cours en m'aidant de ce qu'on avait déjà vu en cours par le passé, notamment avec la commande lynx et curl. J'ai aussi conservé le script crée lors du miniprojet individuel pour le traitement des urls invalides avec leur code HTTP. Mais je me suis mise de manière assidue sur le projet après les fêtes de noël.
+
+                (Zeineb) (Oumaya)
+                <h3 class="section-title">Le 27/12/2024 (Mickaëla)</h3> En pleine nuit parce que je stressais, Après les fêtes je ne me rappelais d'absolument plus rien de ce que j'avais fait en cours donc j'ai stressé. Et après quand j'avais fini de stresser, j'ai récupéré quelques urls en anglais pour pouvoir tester les scripts que j'avais fait auparavant. Ils fonctionnaient! Après je suis partie dormir. Oui c'est pas grand chose mais voilà :)
+                <h3 class="section-title">Le 28/12/2024 (Mickaëla)</h3> J'étais moins stressée du coup plus apte à travailler plus longtemps cette fois :) Pour éviter de me mélanger les pinceaux, j'ai décidé de d'abord faire un script par langue pour les aspirations et les dumps, même si c'était la même chose à chaque fois je trouvais qu'au début c'était plus clair. J'ai enchaîné avec le script pour les contextes et là ça commençait à faire beaucoup dans le dossier programmes et c'était plus très clair... Dans l'optique de rendre quelque chose de propre, j'ai décidé de rassembler chaque scripts pour qu'ils traitent chaque langue à chaque fois. Le problème pour moi à été de faire un script pour toutes les langues en même temps pour les contextes. En effet les aspirations et les dumps étaient assez simples à rassembler avec des boucles for et while sur chaque fichiers de chaque langue car les scripts d'aspiration et de dump suivent une logique assez similaire... Ils utilisent une boucle for pour parcourir les langues. Et à l'intérieur de chaque langue, une boucle while lit chaque ligne du fichier d'URLs correspondant à cette langue. Et au début, c'est ce que j'ai fait aussi pour les contextes et je suis partie me coucher comme ça...
+
+                <h3 class="section-title">Le 29/12/2024 (Mickaëla)</h3> Assez sereine je me réveille et je teste mon script pour les contextes, et là: c'est le drame!!!!! J'ai le fichier qui a été correctement généré en français, puis je vois absolument rien en arabe et en anglais... Et c'est là que les neurones se connectent, le mot légende s'écrit pas pareil en fonction de la langue... Et oui c'est évident dit comme ça mais fallait y penser! Du coup, je ne savais pas trop comment m'y prendre pour faire que le script reconnaisse les trois mots pour chaque langue. J'ai pensé à faire une expression régulière, ce qui pourrait fonctionner avec l'anglais et le français mais je savais vraiment pas comment faire pour le mot en arabe... J'étais bloquée, du coup j'avoue, j'ai utilisé ChatGPT... Et j'ai découvert qu'on pouvait faire un dictionnaire en bash comme en Python!!! Du coup c'est ce que j'ai utilisé pour reconnaître les mots pour chaque langue. Donc le dictionnaire associe chaque langue à son mot clé correspondant ce qui adapte automatiquement le mot recherché en fonction de la langue traitée. Et après pour chaque langue je récupère le dump et j'applique grep dessus avec PLEIN d'options parce que sinon y'avait toujours un soucis... -a qui force à traiter les fichiers comme du texte brut. -i (le classique) qui ignore la casse. -C 1 qui affiche une ligne de contexte avant et après chaque occurrence trouvée. Au début comme je traitais chaque url dans le même fichier on y voyait rien car tous les urls étaient à la suite du coup j'ai mis sed pour mettre en évidence avec des chevron chaque occurence du mot légende dans chaque langue.
+
+                <h3 class="section-title">Le 30/12/2024 (Mickaëla)</h3> La mission de ce jour a été de faire qu'il y ait un fichier par URL pour chaque script, car comme la fiche d'exercicel'indiquait, après avoir crée les scripts il fallait mettre les résultats dans une nouvelle colonne dans le tableau. Et dans cette colonne il devait yavoir un lien pour chaque fichier résultat (la page aspirée, son dump, son contexte etc...). Alors je trouvais ça bizarre d'avoir 50 fois le même lien vers le même fichier et de devoir scroller à l'infini pour voir l'url correspondant... Il fallait donc créer un fichier distinct pour chaque URL, en utilisant un index numérique pour les identifier. On établit donc un compteur dans la boucle qui s'incrémente de 1 pour chaque URls traitée. Après il fallait générer les tableaux donc j'ai gardé la structure initiale de l'exercice du miniprojet individuel avec les codes http, l'encodage etc, et j'airajouté les colonnes nécessaires. Une question qui m'est venue concernait l'affichage des fichiers .txt tels que les dumps et les contextes dans un navigateur web. Je pensais qu'il fallait les convertir en html mais je n'étais pas sûre que ce soit la bonne chose à faire. Puis j'ai demandé à une M2 de m'expliquer comment elle s'y était prise l'an dernier et en fait les fichiers textes s'affichent aussi dans le web... Donc oui je me prenais la tête pour rien :)
+
+<h3 class="section-title">Le 31/12/2024 (Mickaëla)</h3> REGEX PROBLEM</p>
+        </section>
+
+
+        <footer>
+            <p>Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.<br>
+                <a href="https://github.com/mickaela-mstr/PPE_groupe" target="_blank">Voir le projet sur GitHub</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
+

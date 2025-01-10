@@ -158,20 +158,56 @@
     <section id="linguistique" class="section">
             <div class="section-title-container">
                 <h1 class="section-title">Analyse linguistique</h2>
-                    <img src="../images/cooccurrent_contxt.png">
+
             </div>
-            <p>Découvrez l'analyse approfondie des utilisations et significations du mot "légende", cette section regroupe les analyses linguistiques PALS et nuages de mots de chacune de nos langues.Le tableau semble analyser les cooccurrences de termes avec "legend" ou "legends" en anglais. Voici un aperçu des colonnes : 1. **`token`** : Le mot associé à "legend"/"legends". 2. **`corpus size`** : Taille totale du corpus analysé (constant : 253,116). 3. **`all contexts size`** : Taille totale des contextes pertinents (20236). 4. **`frequency`** : Fréquence absolue du token dans le corpus. 5. **`co-frequency`** : Fréquence de cooccurrence du token avec "legend"/"legends". 6. **`specificity`** : Mesure statistique évaluant l'association entre le token et "legend"/"legends". ### Exploration initiale : - **Taille du corpus** : 253,116 occurrences (semblable à la taille totale d'un corpus textuel de grande ampleur). - **Taille des contextes analysés** : 20,236 contextes autour du terme principal. - **Co-fréquences élevées** : Les mots comme "the", "of", et "legend" lui-même montrent de fortes co-fréquences, mais cela pourrait indiquer leur nature fonctionnelle ou descriptive. ### Étapes suggérées :
+            <p>Le corpus analysé repose sur un ensemble de 50 URLs sélectionnées pour explorer le mot legend(s) dans différents contextes en anglais. Ces sites couvrent plusieurs thèmes et permettent de dégager des catégories d’usage principales qui reflètent la polysémie du mot. Ce n’est cependant pas un corpus objectivement représentatif de tous ses usages car j’ai voulu étudier des sujets qui me parlent aussi d’où la présence fréquente de lien en rapport avec la pop culture.
 
-            1. **Analyse des tokens les plus spécifiques** :
-            Identifier les tokens ayant une spécificité élevée (> seuil arbitraire, comme 100).
-            2. **Visualisation des données** :
-            Créer des graphiques pour mettre en évidence les associations les plus pertinentes.
-            3. **Clusters lexicaux** :
-            Grouper les mots selon leurs relations avec "legend"/"legends" (par exemple, thèmes historiques, culturels, jeux vidéo).
-            4. **Nettoyage des mots fonctionnels** :
-            Filtrer les tokens comme "the", "of", qui biaisent les résultats. </p>
+            On peut donc établir une première hypothèse avant d’entrer dans l’analyse, c’est que le mot legend(s) sera utilisé fréquemment dans un contexte de divertissement, associé à des éléments de jeux ou de films. Ce qui en ferait ici un de ses sens premier. </p>
 
-             <head><td><img src="../images/cooccurrent_dump.png"></td></head>
+             <p>Tout d'abord, analysons le résultat du script cooccurrent. Pour cela, j'ai utilisé la commande python cooccurrents.py ../../pals/cooccurrent/dumps-text/anglais.txt --target "legends?" --match-mode regex -N50  --case-sensitivity insensitive</p>
+
+             <td><img src="../images/cooccurrent_dump.png"></td>
+
+<p> En regardant les cooccurrences du mot dans notre corpus, nous remarquons premièrement la présence de deux mots à fonction grammaticale “of” (de) et “the” (le,la,les) qui ne nous intéresseront ici pas pour notre analyse. Il en va de même pour "is" (est) et "that" (pronom relatif).</p>
+
+<p>Voyons la fréquence globale et la distribution des variantes. J’ai ciblé legend avec sa variante au pluriel legends avec une regex «legends?». La fréquence totale dans le corpus est de 1646 occurrences. Le mot au singulier legend comptabilise 1294 occurrences (78,6%) et 352 occurrences (21,4%) au pluriel. Cette dominance du singulier peut refléter une utilisation préférentielle pour désigner un concept unique, comme dans "The Legend of Zelda".</p>
+
+<p>Analysons maintenant les cooccurrents les plus spécifiques. La colonne specificity quantifie la force de l'association entre l’objet de l’étude et ses cooccurrents. Le terme urban (specificity = 284.14) est fortement associé à "legends" dans le contexte des légendes urbaines, un thème populaire dans la culture anglophone. Pour le mot zelda on a un résultat de specificity = 180.91. La forte association souligne l'influence culturelle de "The Legend of Zelda" dans le choix des URLs. C’est une franchise iconique de jeux vidéo, souvent citée dans le corpus. Les mots folklore (specificity = 42.27) et arthurian sont des cooccurrences qui mettent en lumière le lien entre les "legends" et les récits folkloriques, montrant une connexion thématique forte avec les traditions narratives et les récits mythiques européens classiques. Des mots comme default (specificity = 52.22) sortent du contexte narratif et pourrait indiquer une occurrence technique dans des descriptions ou des légendes graphiques. En outre, il y a aussi "reviews", "source", et "map" suggèrant que certains "legends" sont liés à des analyses, des cartes ou des contextes critiques.</p>
+
+<p> L'analyse des contextes permet de valider ou d’affiner nos observations précédemment effectuées sur les dumps. En examinant si les cooccurrents identifiés dans les dumps textuels se retrouvent dans ces contextes. Cela permettra également d’éclairer des usages plus subtils ou des nuances qui échappent à l’analyse basée sur les dumps uniquement. Voici la commande utilisée pour cela: ../../pals/cooccurrent/contextes/anglais.txt --target "legends?" --match-mode regex -N50  --case-sensitivity insensitive</p>
+
+
+            <td><img src="../images/cooccurrent_contxt.png"></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     <iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/tool/Cirrus/?visible=100&corpus=93f8a24698cb972bbbebb0684bfb76ac'></iframe>
     </section>
 

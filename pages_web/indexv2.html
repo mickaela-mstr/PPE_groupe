@@ -54,14 +54,6 @@
             text-align: center;
         }
 
-        .hero .hero-content {
-            background: rgba(0, 0, 0, 0.6);
-            padding: 2rem;
-            border-radius: 10px;
-            display: inline-block;
-            margin: 0 auto;
-        }
-
         .title {
             font-family: 'Playfair Display', serif;
             font-size: 2.5rem;
@@ -69,22 +61,13 @@
 
         .subtitle {
             font-size: 1.2rem;
-            color: #e8e8e8;
-        }
-
-        .section-title-container {
-            background: rgba(0, 0, 0, 0.6);
-            padding: 1rem;
-            border-radius: 10px;
-            display: inline-block;
-            color: white;
-            text-align: center;
-            margin-bottom: 1rem;
+            color: #6b4226 !important;
         }
 
         .section-title {
-            color: white;
+            color:#6b4226 !important;
             font-weight: bold;
+            font-size: 2.5rem;
         }
 
         footer {
@@ -166,23 +149,27 @@
     <div class="content">
         <section id="accueil" class="hero">
             <div class="hero-content">
-                <h1 class="title">Projet Légende</h1>
-                <p class="subtitle">Exploration des différents sens du mot "légende" en anglais, français, et arabe.</p>
+                <div class="section-title-container">
+                    <h1 class="section-title">Projet Légende</h1>
+                        <p class="subtitle">Exploration des différents sens du mot "légende" en anglais, français, et arabe.</p>
+                </div>
             </div>
         </section>
 
         <section class="section">
             <div class="section-title-container">
-                <h2 class="section-title">Qu'est ce que le projet Légende?</h2>
+                <h2 class="section-title">Qu'est ce que le projet Légende et pourquoi ce mot?</h2>
             </div>
-            <p> Ce projet réalisé dans le cadre du cours PPE1 du master 1 traitement automatique des langues consiste en choisir un mot à étudier, à collecter plusieurs urls en relation avec ce dernier, et à manipuler chaque page web pour obtenir des données utilisables dans le cadre d’une analyse linguistique. Sur ce site, on explore les différents sens du mot "légende" à travers plusieurs langues. Découvrez nos analyses dans les tableaux ci-dessous.</p>
+            <p> Ce projet réalisé dans le cadre du cours PPE1 du master 1 traitement automatique des langues consiste en choisir un mot à étudier, à collecter plusieurs urls en relation avec ce dernier, et à manipuler chaque page web pour obtenir des données utilisables dans le cadre d’une analyse linguistique. Sur ce site, on explore les différents sens du mot "légende" à travers plusieurs langues.
+
+            Pourquoi le mot légende : Du latin legenda (« ce qui doit être lu »). Ce sens originel très précis a donné en français deux sens dérivés : « inscription explicative » et « récit magnifiant un personnage célèbre ». Ainsi, le mot légende est intéressant à étudier parce qu'il porte en lui plusieurs sens dans les trois langues, ce qui reflète la diversité des récits et des façons dont les humains les transmettent. Comme nous le verrons dans nos analyses, il évoque à la fois des histoires anciennes mais aussi une explication d’une carte ou d'un graphique. Le terme est également utilisé pour qualifier des personnes ou des événements exceptionnels. Cette pluralité de ses définitions montre comment ce mot oscille entre aspects culturel, techniques et métaphorique. </p>
         </section>
 
         <section id="tableaux" class="section">
             <div class="section-title-container">
                 <h2 class="section-title">Tableaux</h2>
             </div>
-            <p>Voici les tableaux répertoriant plusieurs données sur le mot "légende" dans les langues sélectionnées. Les colonnes de nos tableaux sont les suivantes : Code HTTP qui extrait le code HTTP de chaque page. Lorsqu’on utilise des outils qui requêtent des pages web (par exemple : un navigateur), le code HTTP permet d’avoir une idée du résultat d’une requête. Chaque code correspond à une réponse (1xx : information, 200 : réussite, 3xx : redirection, 4xx : erreur du client, 5xx : erreur du serveur). URL : cette colonne contient l’URL de chacun de nos liens. Encodage : cette colonne contient l’encodage de chaque page web. Si une cellule de cette colonne est vide, cela veut dire que la page web va utiliser l’encodage par défaut du navigateur. Aspirations : cette colonne sauvegarde chaque page web dans un fichier texte. Dumps : cette colonne sauvegarde uniquement le contenu textuel de chaque page web dans un fichier texte. compte : cette colonne affiche le nombre d’occurrences des mots pris en compte par chacune de nos expressions régulières. Contexte : cette colonne isole chaque occurrence entourée d’une ligne de texte au dessus et en dessous. Ces contextes sont ensuite sauvegardés dans des fichiers textes (un fichier par lien). Et enfin concordances : cette colonne renvoie à une page représentant chaque occurrence entourée de mots à gauche et à droite. </p>
+            <p> Les tableaux présentent différentes informations sur le mot "légende" dans les langues choisies. Chaque tableau contient plusieurs colonnes. La colonne Code HTTP indique le résultat d’une requête web, comme si la page a été trouvée avec succès (200) ou s’il y a eu une erreur (4xx ou 5xx). La colonne URL liste les adresses web correspondantes. La colonne Encodage montre quel format est utilisé pour afficher les pages. Si aucune information n’est indiquée, le navigateur utilise un encodage par défaut. La colonne **Aspirations** sauvegarde une copie complète de chaque page dans un fichier texte, tandis que la colonne Dumps enregistre uniquement le contenu textuel des pages. La colonne Compte affiche combien de fois certains mots apparaissent, selon des expressions régulières. La colonne Contexte extrait chaque occurrence de ces mots avec une ligne de texte avant et après, puis sauvegarde ces extraits dans des fichiers texte. Enfin, la colonne Concordances montre chaque occurrence accompagnée des mots situés immédiatement à gauche et à droite. </p>
 
            <div class="links">
                 <a href="../tableaux/anglais.html">Anglais</a>
@@ -195,7 +182,7 @@
             <div class="section-title-container">
                 <h2 class="section-title">Analyse Linguistique</h2>
             </div>
-            <p>Découvrez l'analyse approfondie des utilisations et significations du mot "légende", cette section regroupe les analyses linguistiques PALS et nuages de mots de chacune de nos langues.</p>
+            <p>Cette section s'appuie sur des outils d'analyse linguistique développés en Python, appelés PALS (Python Automated Linguistic Scripts). Ces scripts nous permettent de traiter et d'explorer les données textuelles de manière plus approfondie. En complément, des nuages de mots sont générés pour représenter visuellement les termes qui apparaissent le plus souvent autour du mot "légende". Ces analyses combinées offrent une perspective à la fois quantitative et qualitative.</p>
 
             <div class="links">
                 <a href="analyse_linguistique_en.html">Anglais</a>
