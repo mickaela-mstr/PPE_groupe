@@ -4,7 +4,6 @@
 scripts=(
     "aspiration_all.sh"
     "dump_all.sh"
-    "comptelegende.sh"
     "contextes_all.sh"
     "concordancier.sh"
     "tableau_all.sh"
