@@ -5,7 +5,7 @@ export LC_ALL=C.UTF-8
 
 if [ $# -ne 1 ] #verifier si le script a un argument
 then
-	echo "ce programme demande un argument: un argument pour la langue"
+    echo "ce programme demande un argument: un argument pour la langue"
 fi
 
 langue=$1
