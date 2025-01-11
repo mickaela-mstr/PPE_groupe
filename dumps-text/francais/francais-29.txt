@@ -1,0 +1,456 @@
+   Réserver une Démo
+
+   Home
+
+     *
+     * Produits >
+       Enterprise Architect
+       Quoi de neuf dans v17.0 Quoi de neuf dans v16.1 Quoi de neuf dans
+       v16.0 Quoi de neuf dans v15.2 Quoi de neuf dans v15.1 Quoi de neuf
+       dans v15 Aperçu Professional Corporate Unified Ultimate Comparez
+       Éditions SaaS Essai Gratuit Téléchargements Enregistrés
+       Info Additionnelle
+       Historique des Versions Infos de Licence Licences flottantes
+       Tarification Universitaire Exigences du Système EULA MDG Extensions
+       3rd Party Extensions
+       Pro Cloud Server
+       Quoi de neuf dans v6.0Quoi de neuf dans v5.1Quoi de neuf dans
+       v5.0Quoi de neuf dans v4.2 Aperçu WebEA Intégrations Serveur de
+       Licence Flottant Comparez Éditions Essai Gratuit Téléchargements
+       Info Additionnelle
+       Tour de 30 minutes Historique des Versions Exigences du Système
+       EULA
+       Prolaborate
+       Quoi de neuf dans 5.3 Aperçu Introduction Ressources Articles
+       Documentation Historique des Versions FAQ Événements Vidéos Essai
+       Gratuit
+       Info Additionnelle
+       Demander une Démo Preuve de Concept Prolaborate SaaS EULA
+         ______________________________________________________________
+
+     * Tarification >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * Support >
+       Forum
+       Guide d’Utilisateur/Aide
+       Contactez Nous
+       Signalez un bug
+       Demandez de fonctionnalité
+       Changez votre adresse Émail
+       Rapport de Bug prioritaire
+       Émail de Support
+       Émail de Ventes
+       FAQ
+       Support
+       Ventes
+       Détails de la Société
+       Salle de Press
+       Revendeurs
+       Afrique
+       Europe
+       Amérique du Nord
+       Sparx Services
+       Amérique du Nord
+       Australia
+       Europe Centrale
+       Royaume-Uni
+       Sociétés Sœurs
+       Argentine
+       Chine
+       Inde
+       Japon
+       Consultants et Mentors
+       Afrique
+       Amérique du Nord
+       Europe
+       En Ligne
+         ______________________________________________________________
+
+     * Ressources >
+       Webinaires
+       Prochaine Bibliothèque S'inscrire
+       Vidéos
+       Vidéos Démo Cours Vidéo
+       PDF Bibliothèque
+       Fondamentaux Modélisation Collaboration Publication Simulation
+       Gestion de Projet Voyez Bibliothèque Entiére
+       Autre
+       Livres Blancs Tutoriels Études de Cas Centre d'Apprentissage
+       Brochures
+       Utilisateurs enregistrés
+       Enterprise Architect Pro Cloud Server
+       Tous Utilisateurs
+       Téléchargements Gratuit DBMS Scripts Référentiel Clé Sécurité
+       d'utilisateur
+       Tous Ressources >
+         ______________________________________________________________
+
+     * UML Tutoriel
+     * Solutions >
+       Accueil
+       Commencer
+       Réserver une Démo
+       Accélérateurs
+       Cas d’Utilisation
+         ______________________________________________________________
+
+     * Communauté
+     * Télécharger >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * register users Connectez
+     *
+
+       ____________________ Search
+
+     * Index
+     * [ ]
+          + Fondamentaux de Modélisation
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Clé de légende
+
+   Search User Guide___ Go
+
+SVP notez : Cette page d’aide n’est pas pour la dernière version d’Enterprise
+Architect. La dernière aide peut être trouvée ici.
+
+   Pré. Proc.
+
+Clé de légende
+
+   Un élément Légende sur un diagramme fournit une clé des conventions
+   d'apparence des éléments et des connecteurs utilisées sur ce diagramme
+   . Chaque convention d'élément ou de connecteur est définie séparément
+   dans l'élément Légende, à l'aide de la boîte de dialogue « Légende » et
+   des onglets « Élément » et « Connecteur ». Si vous souhaitez présenter
+   les éléments de légende dans un ordre spécifique, vous pouvez ajuster
+   l'ordre dans lequel les éléments sont répertoriés sur l'élément.
+
+   Vous pouvez créer plusieurs légendes sur un diagramme , pour
+   représenter des combinaisons particulières de conditions.
+
+Accéder
+
+   La boîte de dialogue ' Propriétés ' d'un élément Légende sélectionné
+   peut être affichée à l'aide de l'une des méthodes décrites ici.
+
+   A diagram legend is defined using the Legend dialog.
+
+   Ruban
+
+   Conception > Elément > Editeurs > Elément > Propriétés Dialogue
+
+   Conception > Elément > Editeurs > Elément > Propriétés > Légende
+
+   Menu Contexte
+
+   Cliquez-droit sur l'élément Légende | Propriétés
+
+   Autre
+
+   Double-cliquez sur l'élément Légende
+
+Ajouter une légende à un diagramme
+
+   Option
+
+   Action
+
+   Voir également
+
+   Nom
+
+   Ce champ prend par défaut le nom 'Légende' ; écrasez ou modifiez le nom
+   si nécessaire. Si vous utilisez la facilité "Appliquer la couleur
+   automatique", vous pouvez utiliser le titre Légende pour indiquer la
+   propriété d' object que vous filtrez.
+
+   Appliquer la couleur automatique
+
+   Cochez cette case si vous avez l'intention d'appliquer automatiquement
+   une convention d'apparence, selon une propriété des objets identifiée
+   dans le champ 'Filtre'.
+
+   Filtre
+
+   Cliquez sur le bouton Browse. et, dans un premier temps, sélectionnez
+   si la convention s'applique à une propriété d'élément (ou de
+   connecteur) ou à une Valeur Étiquetée .
+
+   Pour un élément ou un connecteur, une liste de propriétés s'affiche à
+   partir de laquelle vous sélectionnez le type approprié.
+
+   Pour une Valeur Étiquetée , sélectionnez si vous souhaitez utiliser une
+   étiquette personnalisée ou sélectionnez-en une standard. Dans les deux
+   cas, la boîte de dialogue 'Select Valeur Étiquetée ' s'affiche. Cette
+   boîte de dialogue comporte un champ déroulant à partir duquel vous
+   sélectionnez la balise à laquelle appliquer la convention d'apparence.
+   La liste déroulante est remplie en fonction des options que vous
+   sélectionnez :
+     * Global Valeur Étiquetés - remplit la liste déroulante avec toutes
+       les balises globales du projet, y compris le profil Valeur
+       Étiquetés ; vous pouvez donc sélectionner une balise applicable à
+       un grand nombre d'éléments
+     * Valeur Étiquetés de l'élément sélectionné - cliquez sur le bouton
+       Sélectionner l'élément et localisez et sélectionnez l'élément
+       requis ; cela remplit la liste déroulante avec la Valeur Étiquetés
+       de cet élément, de sorte que vous pouvez choisir parmi un ensemble
+       spécifique de balises
+
+   Note que la balise n'a pas besoin d'exister déjà ; vous pouvez saisir
+   le nom d'une nouvelle balise si nécessaire.
+
+   Cliquez sur le bouton OK pour appliquer votre sélection.
+
+   S'applique à
+
+   Cliquez sur la flèche déroulante et sélectionnez le type d'élément ou
+   de connecteur auquel appliquer le filtre et, par conséquent, la
+   convention d'apparence. Si vous souhaitez appliquer la convention à
+   tous les types d'éléments ou de connecteurs, sélectionnez <Tous>.
+
+   Utiliser l'évaluation numérique
+
+   Cochez cette case si l'application automatique de la convention doit
+   évaluer la valeur numérique de la propriété. Par exemple, si une
+   couleur doit être appliquée à des éléments avec une Phase de 3,0, la
+   valeur peut être simplement mise en correspondance ; aucune évaluation
+   n'est nécessaire. Si une couleur doit être appliquée à des éléments
+   avec une valeur de Phase inférieure à 4, les valeurs de Phase doivent
+   être évaluées pour voir si elles sont inférieures à 4 (et non égales à
+   4).
+
+   La case "Appliquer la couleur automatique" doit être cochée pour que
+   cette case prenne effet.
+
+   Évaluer
+
+   Type la valeur réelle de la balise ou de la propriété qui doit être
+   satisfaite pour que la convention d'apparence soit appliquée. Vous
+   pouvez utiliser n'importe lequel de ces opérateurs avec la valeur :
+     * .. (gamme inclusive) ; par exemple, 3..6 colore les objets avec la
+       propriété ayant une valeur de 3, 4, 5 ou 6
+     * < (Inférieur à); par exemple, <4 colore les objets avec la
+       propriété ayant une valeur de 1, 2 ou 3
+     * > (supérieur à); par exemple, > 4 objets de couleurs avec la
+       propriété ayant une valeur de 5 ou plus
+     * = (égal à); par exemple, =5 colore les objets avec la propriété
+       ayant une valeur de 5 et seulement 5
+     * n (nombre unique seul, identique à égal à)
+     * n:y:x:z (correspond à tout nombre égal à l'une des valeurs) ; par
+       exemple, 2:4:6:8 colore les objets avec la propriété ayant une
+       valeur de 2, 4, 6 ou 8
+
+   La valeur que vous entrez devient le nom de l'élément de convention
+   dans la légende, sauf si elle est remplacée par la valeur ' valeur ' .
+
+   Affichage
+
+   Alors que la légende fonctionnera sur la valeur de propriété que vous
+   avez spécifiée, vous préférerez peut-être qu'une string de texte
+   différente s'affiche réellement sur l'élément Legend pour fournir une
+   indication plus claire de ce qui est indiqué. Dans ce cas, saisissez la
+   string de texte à afficher sur l'élément Légende.
+
+   Par exemple, la légende coloriera automatiquement les éléments sur la
+   base d'une priorité élevée, moyenne ou faible, mais vous souhaiterez
+   peut-être placer cela dans le contexte du diagramme et utiliser un
+   texte tel que " Rapportage quotidien", " Rapportage hebdomadaire" et "
+   Rapportage mensuel'.
+
+   La couleur de remplissage
+
+   Cliquez sur la flèche vers le bas et sélectionnez la couleur standard
+   utilisée comme couleur de remplissage ou de fond des éléments qui
+   correspondent aux critères de sélection.
+
+   Si vous avez appliqué manuellement une couleur non standard sur le
+   diagramme , elle devrait être disponible en bas de la palette. Si ce
+   n'est pas le cas, cliquez sur le bouton Plus de couleurs et
+   sélectionnez-le dans la plus grande palette ou définissez-le comme une
+   couleur personnalisée.
+   Créer Couleurs Personnalisées
+
+   Appliquer le remplissage
+
+   (Sélectionné par défaut ; désactivé si "Appliquer la couleur
+   automatique" n'est pas sélectionné.)
+
+   Décochez la case si vous ne souhaitez pas que la couleur de remplissage
+   soit appliquée automatiquement (c'est-à-dire que vous souhaitez
+   uniquement appliquer automatiquement la couleur et/ou la largeur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+   Couleur de la ligne
+
+   Cliquez sur la flèche vers le bas et sélectionnez la couleur standard
+   utilisée pour la ligne de connexion ou la bordure de l'élément.
+
+   Si vous avez appliqué manuellement une couleur non standard sur le
+   diagramme , elle devrait être disponible en bas de la palette. Si ce
+   n'est pas le cas, cliquez sur le bouton Plus de couleurs et
+   sélectionnez-le dans la plus grande palette ou définissez-le comme une
+   couleur personnalisée.
+   Créer Couleurs Personnalisées
+
+   Appliquer la ligne
+
+   (Sélectionné par défaut ; désactivé si "Appliquer la couleur
+   automatique" n'est pas sélectionné.)
+
+   Décochez la case si vous ne souhaitez pas que la couleur de ligne soit
+   appliquée automatiquement (c'est-à-dire que vous souhaitez uniquement
+   appliquer automatiquement la couleur de remplissage et/ou la largeur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+   Largeur de ligne
+
+   Soit:
+     * Retapez la valeur de largeur de ligne avec une valeur différente
+       (entre 1 pour le plus fin et 5 pour le plus épais), ou
+     * Cliquez sur les flèches 'spinner' pour augmenter ou diminuer
+       l'épaisseur
+
+   Appliquer la largeur
+
+   (Sélectionné par défaut ; désactivé si "Appliquer la couleur
+   automatique" n'est pas sélectionné.)
+
+   Décochez la case si vous ne souhaitez pas que la largeur de ligne soit
+   appliquée automatiquement (c'est-à-dire que vous ne souhaitez appliquer
+   automatiquement que la couleur de remplissage et/ou la couleur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+   Nouveau
+
+   Cliquez sur ce bouton pour effacer les champs en vue de définir une
+   nouvelle convention d'apparence dans la Légende. Tenez compte des
+   points concernant les conventions multiples et les éléments de légende
+   multiples.
+   Créer des légendes
+
+   sauvegarder
+
+   Cliquez sur ce bouton pour enregistrer les modifications que vous avez
+   apportées à une convention d'apparence.
+
+   Effacer
+
+   Cliquez sur ce bouton pour supprimer la convention d'apparence que vous
+   avez sélectionnée dans la liste actuelle.
+
+   Valeur | Valeur d'affichage
+
+   Affiche les conventions d'apparence définies pour les objets dans le
+   diagramme .
+
+   Main (vers le haut)
+
+   Si plusieurs définitions sont répertoriées, cliquez sur ce bouton pour
+   rapprocher l'élément sélectionné du début de la liste.
+
+   Transmettre)
+
+   Si plusieurs définitions sont répertoriées, cliquez sur ce bouton pour
+   rapprocher l'élément sélectionné de la fin de la liste.
+
+   Options de styles
+
+   Cliquez sur ce bouton pour définir ou modifier l'apparence de l'élément
+   Légende lui-même.
+   Légende Propriétés
+
+   OK
+
+   Cliquez sur ce bouton pour enregistrer les modifications en cours et
+   fermer la le dialogue .
+
+   Annuler
+
+   Cliquez sur ce bouton pour annuler toute modification non enregistrée
+   que vous avez effectuée et fermer le dialogue .
+
+Notes
+
+     * Lorsque vous fermez le dialogue , l'élément Légende s'affiche avec
+       toutes les conventions d'apparence définies ; les conventions
+       d'élément sont répertoriées en premier avec les conventions de
+       connecteur en dessous, séparées par une ligne à travers l'élément
+       Légende
+
+   (*)
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+
+   Pré. Proc.
+
+   Sparx Systems Enterprise Architect
+   contactez
+   [ ] Produits
+     * Produits
+     * Enterprise Architect
+     * Pro Cloud Server
+     * Prolaborate
+
+   [ ] UML en un coup d’œil
+     * UML en un coup d’œil
+     * Outils d’UML
+     * Modélisation PHP UML
+     * Modélisation Processus Métier
+     * Modèle Dirigé d’Architecture
+     * Gestion des Exigences
+     * Développement de Logiciel
+
+   [ ] Solutions
+     * Solutions
+     * Corporate
+     * Gouvernement
+     * Petit Moyenne Enterprise
+     * IT Professionelles
+     * Formateurs
+     * Universitaire
+
+   [ ] Resources
+     * Ressources
+     * UML 2.0 Tutoriel
+     * Corporate Ressources
+     * Developpeur Ressources
+     * Ressources Médias
+
+   [ ] Support
+     * Support
+     * Manuel en ligne
+     * Forum d’utilisateur
+     * Signalez un bug
+     * Demander une fonctionnalite
+     * Comparez Éditions
+     * Exigences de Systeme
+
+   [ ] Partenaires Mondiaux
+     * Partenaires Mondiaux
+     * Formateurs
+     * Revendeurs
+     * Société Soeurs
+     * Partenaires Technologiques
+     * Organisations de Normes
+
+   © 2000 - 2025   Sparx Systems Pty Ltd.   Tous droits reserves.
+   Legal Privee À propos De Nous
+     *
+     *
+     *
+     *

@@ -1,5 +1,9 @@
+   #Stack Overflow Feed for question 'Is there a minimum vertical spacing
+   for legend keys?'
 
-Is there a minimum vertical spacing for legend keys? [closed]
+--
+
+Is there a minimum vertical spacing for legend keys?
 
 --
 

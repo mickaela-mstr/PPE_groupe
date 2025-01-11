@@ -1,295 +1,737 @@
-    #La Bibliomaniaque » Flux La Bibliomaniaque » Flux des commentaires La
-   Bibliomaniaque » Des genres oraux : le conte, le mythe et la légende
-   Flux des commentaires alternate alternate La Bibliomaniaque
-   WordPress.com
+   #alternate alternate Europe Is Not Dead! » Flux Europe Is Not Dead! »
+   Flux des commentaires Europe Is Not Dead! » Légendes européennes Flux
+   des commentaires JSON oEmbed (JSON) oEmbed (XML)
 
-La Bibliomaniaque
+   Skip to content
 
-Rendre la lecture accessible et agréable dans sa classe et au quotidien
+   logo-europeisnotdead VF
+   Rechercher ____________________ (BUTTON)
 
-   Menu
      * Accueil
-     * Analysons
-          + Alice au pays des merveilles
-          + Nelly Arcan
-     * Placotons
-          + La lecture
-          + Mes « tops »
-          + Pourquoi?
-          + TAG
-          + À découvrir
-          + Noël
-     * Critiquons
-          + Auteur.trice.s indépendant.e.s
-          + Essais, biographies et psychologie
-          + Littérature pour adolescent.e.s
-          + Littérature jeune adulte
-          + Littérature québécoise
-          + Littérature autochtone
-          + Littérature canadienne
-          + Littératures de l’imaginaire
-          + Recueils (nouvelles et poésie)
-          + Romans étrangers
-          + Suspense, romans policiers, horreur
-          + Théâtre, cinéma et séries télé
-     * Bibliomaniaques enseignants
-          + Lettre à l’enseignante que je serai
-          + Par niveau
-               o 1re secondaire
-               o 2e secondaire
-               o 3e secondaire
-               o 4e secondaire
-               o 5e secondaire
-          + Fiches pédagogiques
-          + Mes projets
-               o Projets à partir de la littérature
-               o Projets à partir de chansons
-               o Projets à partir de films
-          + En classe
-          + Incontournables
-          + L’éducation
-     * Écrivons
-          + Chère autofiction…
-          + Monsieur Noël
-          + Petite schtroumpfette
+     * Audio
+          + Sons européens
+          + Mélodies européennes
+          + Musiques européennes
+     * Video
+          + Images européennes
+          + Traditions européennes
+          + Films européens
+     * Disco
+          + Mots européens
+          + Expressions européennes
+          + Livres européens
+     * Gusto
+          + Ingrédients européens
+          + Plats européens
+          + Repas européens
+     * À propos
+          + A propos & Contacts
+          + Livres
+          + Radio
+          + TV
+          + Réseaux sociaux
+          + Interviews
+          + Tribunes
+          + Plus de cartes
+     * Français
+          + English
 
-Des genres oraux : le conte, le mythe et la légende
+     * Accueil
+     * Audio
+          + Sons européens
+          + Mélodies européennes
+          + Musiques européennes
+     * Video
+          + Images européennes
+          + Traditions européennes
+          + Films européens
+     * Disco
+          + Mots européens
+          + Expressions européennes
+          + Livres européens
+     * Gusto
+          + Ingrédients européens
+          + Plats européens
+          + Repas européens
+     * À propos
+          + A propos & Contacts
+          + Livres
+          + Radio
+          + TV
+          + Réseaux sociaux
+          + Interviews
+          + Tribunes
+          + Plus de cartes
+     * Français
+          + English
 
-   Le conte, le mythe et la légende ont pour caractéristique commune
-   d’être, à la base, des histoires contées oralement. Bien souvent, elles
-   sont contées avant d’être écrites. Ce sont personnellement des genres
-   que j’apprécie grandement pour leur ancrage culturel très fort vu
-   notamment leurs nombreuses adaptations selon l’époque et le lieu.
+Légendes européennes
 
-Le conte oral
+   “L’Europe, en légende, a toujours été le refuge des discussions
+   philosophiques les plus subtiles ; l’Amérique a été le théâtre d’un
+   pragmatisme des plus sordides.”
 
-   Avant tout, il importe de comprendre que le terme conte est parfois
-   utilisé sous différentes significations. En effet, nombreux‧ses
-   conteur‧euse‧s utilisent le terme conte lorsqu’ils‧elles font référence
-   à l’histoire qu’ils‧elles racontent oralement, que ce soit un mythe,
-   une légende… ou un conte! C’est au moment du passage à l’écrit, de la
-   fixation du texte, que la distinction vient plus souvent se faire. Et
-   encore, il n’est pas rare de voir le terme conte utilisé comme titre
-   d’un recueil (je pense notamment à l’album Contes du monde que j’ai
-   présenté sur le blogue Lireka, qui regroupe des contes, des mythes et
-   des légendes).
+   Daniel Bell
+   European Legends
 
-   On dit du conte oral qu’il est un genre collectif. Étant donné qu’il
-   s’agit d’une histoire faite pour être racontée, elle nécessite un
-   public. Public qui participe au spectacle, qui est interpelé par le‧la
-   conteur‧euse. Comme il s’agit avant tout d’un genre oral, on ne se
-   cache pas derrière un texte. On possède celui-ci, allant jusqu’à
-   incarner le personnage, racontant les faits en son nom.
+   Imaginez Guillaume Tell, le suisse, chevauchant le dragon polonais de
+   Cracovie dans la forêt française de Brocéliande… Imaginez un peu La
+   Befana italienne rejoignant le vol des sorcières en Autriche… Imaginez
+   le Hollandais volant naviguant sur le lac écossais du Loch Ness, à
+   proximité de la Lorelei allemande, et de sa meilleure amie Mélusina…
+   Une fois réunies, toutes ces légendes européennes nous dévoilent le
+   potentiel créatif du vieux continent. Les légendes en Europe sont au
+   cœur de notre société et de notre histoire. Elles inspirent de nombreux
+   films internationaux et attirent des milliards de touristes à travers
+   le monde, pour découvrir et rêver des origines d’un monument
+   fantastique, des croyances magiques derrière des sites touristiques
+   merveilleux, des anecdotes historiques expliquant des pratiques
+   culturelles étonnantes. Les Européens sont respectés pour leur folklore
+   riche et abondant dans le monde : la liste suivante est une première
+   tentative de rendre hommage à ce patrimoine. Découvrez les versions
+   complètes de chaque légende en cliquant sur l’image ou la suite.
 
-Petite histoire du conte au Québec
+Portugal
 
-   Alors que le conte existait déjà avant les années 70, il a vécu un
-   creux avec l’arrivée de la modernité. La télévision et la radio prenant
-   place pour divertir, les gens s’intéressaient moins aux contes qui,
-   auparavant, meublait leurs soirées. Cela dit, dans les années 1970, une
-   remise en question face à la modernité ramène ce genre oral dans les
-   veillées. Plus tard, le conte perdure dans les campagnes où la
-   modernité a moins taillé sa place.
+   Le Coq de Barcelos
 
-   Dans les années 90, le métier de conteur‧euse se démocratise grâce à
-   l’international où l’on voit qu’il est possible de faire du conte un
-   spectacle (tout en restant très sobre : le conteur n’est ni un acteur
-   ni un humoriste!). Vers la fin de la décennie, les femmes prennent plus
-   la parole et des soirées de conte arrivent au Québec.
+   Un meurtre a été commis dans la ville portugaise de Barcelos. Qui est
+   le coupable ? Comment sera-t-il jugé ? C’est le mystère que la célèbre
+   légende du coq de Barcelos tente de résoudre. Dans cette intrigue
+   médiévale digne d’un classique d’Agatha Christie, l’aide peut venir à
+   tout moment d’un ami inattendu… Un animal de la ferme par exemple. Mais
+   l’intervention miraculeuse d’un coq peut-elle sauver un homme innocent
+   ? Vous le saurez en lisant la légende dans son intégralité ici. [lire]
 
-Le conte littéraire, le mythe et la légende
+Espagne
 
-   Certes, le terme conte englobe bien des informations, bien des
-   histoires en tous genres, mais il reste possible de faire la
-   distinction entre le conte, le mythe et la légende.
+   Le Cloche de Huesca
 
-Le conte littéraire
+   Ramiro II d’Aragon n’a jamais été un roi bien magnanime. Quand douze
+   nobles lui désobéirent, il décida simplement qu’il était judicieux de
+   les punir en leur coupant la tête… Cette légende macabre fut racontée
+   pour la première fois dans les Cantar de la campana de Huesca, œuvre
+   aragonaise anonyme du XIIIe siècle. Soyez rassurés : personne n’a
+   réellement souffert en réalité, car l’histoire est totalement inventée,
+   puisque Ramiro II est arrivé sur le trône par d’autres moyens. Mais
+   l’Histoire se souvient de lui comme d’un personnage rusé dotée d’un
+   grand sens politique. La légende est si forte que l’expression « une
+   cloche de Huesca » est encore utilisée de nos jours pour désigner un
+   événement retentissant. [lire]
 
-   Le conte se définit principalement par son aspect merveilleux. On y
-   retrouve alors des éléments impossibles, mais auxquels on adhère sans
-   se poser de question (animaux adjuvants comme dans Cendrillon ou
-   opposants comme dans Le petit chaperon rouge, personnages de fées, de
-   magicien‧ne‧s…). De ce fait, les personnages accomplissent alors des
-   exploits que l’on sait impossibles, mais qui sont tout à fait normaux
-   dans l’univers du conte. Dans plusieurs contes de fées classiques
-   (comme ceux de Charles Perrault), on retrouve aussi l’univers de la
-   royauté, autant par ses personnages que ses lieux.
-   Source
+France
 
-   Généralement, le conte se base sur une forme assez simpliste, soit les
-   schémas narratif et actanciel. Le héros doit donc accomplir une quête à
-   la suite d’un basculement dans l’équilibre. La fin se trouve bien
-   souvent à être heureuse – du moins, pour le‧la protagoniste si on se
-   fie à certains contes des Frères Grimm – en plus de donner une morale.
-   Cette simplicité s’étend jusqu’aux personnages qu’il n’est pas rare de
-   voir nommés par une caractéristique qui les représente (Le petit
-   chaperon rouge, Cendrillon [d’ailleurs, bien qu’elle ait différents
-   noms selon les versions, elle tire son sobriquet de l’endroit où elle
-   passe le plus clair de son temps : dans les cendres, près du foyer!],
-   le roi…).
+   La Forêt de Brocéliande
 
-   On reconnait aussi le conte par sa formule d’ouverture classique (il
-   était une fois, dans un pays lointain, au-delà des forêts enchantées,
-   du temps où les animaux parlaient…) qui ne donne que peu d’indices sur
-   la situation spatio-temporelle de l’histoire.
+   À chaque fois que le grand sorcier Merlin veut s’éloigner des affaires
+   d’État à la cour du roi Arthur, il retourne chez sa maîtresse, Viviane,
+   dans la forêt de Brocéliande. Dans ces bois enchantés où les druides se
+   rassemblent pour exercer leur magie, le roi Arthur devra se battre
+   contre un féroce animal ressemblant à un taureau et Yvain devra
+   affronter une violente tempête après avoir versé de l’eau de source sur
+   une pierre… Cette forêt légendaire est apparue dans la littérature dans
+   le Roman de Rou – une chronique de vers écrite en 1160 par Wace. [lire]
 
-Le mythe
+Islande
 
-   Alors que le conte sert principalement à divertir ou à faire passer une
-   morale, le mythe se veut davantage explicatif. On y fait comprendre
-   l’existence de certains phénomènes de la vie (l’amour, la mort, la
-   colère…) ou de la nature (la pluie, les catastrophes naturelles, les
-   saisons…) ainsi que la création plus générale du monde (la cosmogonie),
-   d’un endroit (le mythe de fondation), de l’humain‧e (anthropogonie).
+   Huginn et Muninn
 
-   On y retrouve également des entités symboliques comme des divinités,
-   des héros‧ïnes et des créatures hybrides (les créatures
-   thérianthropiques, la gorgone, la licorne, Pégase…). Chaque mythe est
-   alors très représentatif des croyances du peuple auquel il appartient.
-   bad wolf loki GIF by Challenger
+   Je crains que Hugin ne revienne pas, mais je m’inquiète encore plus
+   pour Munin. Tous les jours à l’aube, les corbeaux Huginn (« pensé ») et
+   Muninn (« esprit ») parcourent les neuf mondes. À la fin de la journée,
+   ils se posent sur les épaules d’Odin et lui murmurent des nouvelles…
+   Mais comment réagira Odin quand, un jour, ses corbeaux bien-aimés ne se
+   le rejoignent pas ? Huginn et Muninn sont apparus dans la poésie Edda,
+   compilée au XIIIe siècle à partir de sources traditionnelles
+   islandaises antérieures. [lire]
 
-La légende
+Irlande
 
-   Plus près du réel imaginable, la légende se situe dans un cadre
-   spatio-temporel plus précis. On peut penser aux textes de Fred Pellerin
-   qui nous situent dans son petit village de Saint-Élie-de-Caxton, avec
-   des personnages emblématiques inspirés de la réalité.
+   Fionn Mac Cuhaill
 
-   Certes, la légende se colle au réel, mais elle permet aussi des
-   éléments non prouvés scientifiquement, auxquels on adhère… ou pas!
-   C’est le cas par exemple des esprits qui prennent souvent place dans
-   les légendes québécoises (La Dame blanche, entre autres) ou des
-   créatures fantastiques comme le loup-garou ou le Sasquatch.
-   Bigfoot Sasquatch GIF by MOODMAN
+   Le plus grand de tous les Irlandais n’est ni James Joyce, ni Arthur
+   Guinness, encore moins Bono. Non ! Le plus grand des Irlandais est
+   Fionn Mac Cumhaill — un guerrier célèbre aux aventures vieilles de plus
+   de mille ans. Une de ses histoires populaires est lorsqu’il parvint à
+   attraper un saumon. Pas un saumon ordinaire, mais le plus rare d’entre
+   eux : celui qui connaissait tout le savoir du monde. Comment Fionn Mac
+   Cumhaill a-t-il attrapé le saumon ? Qu’a-t-il fait de lui ? Et plus
+   important encore : comment cela l’a t-il forcé à sucer
+   régulièrement son pouce ? Découvrez les secrets de Fionn dans
+   l’histoire complète ici. [lire]
 
-   Comme le conte, la légende se veut divertissante, mais aussi
-   moralisatrice. Les histoires racontées cherchent parfois à faire peur à
-   l’auditoire, à éviter certains comportements (l’abus d’alcool, la
-   destruction de la nature [Les arbres qui saignent d’Abitibi]…). Dans
-   certains cas, comme le mythe, la légende renseigne sur des aspects du
-   mode de vie ou sur des lieux (La croix maudite de Causapscal, Le rocher
-   percé…).
-     __________________________________________________________________
+Royaume-Uni
 
-   En conclusion, le conte, le mythe et la légende sont des histoires
-   fictives issues de la tradition orale. Avec le temps, même si on couche
-   ces récits sur papier, l’essence doit rester : ce sont des histoires
-   mouvantes! Pour découvrir quelques œuvres, je vous invite à jeter un
-   coup d’œil à mon article recensant certains titres (la plupart
-   s’adressant à la jeunesse, mais pouvant tout de même plaire à un grand
-   public!).
+   Le Monstre du Loch Ness
 
-En résumé…
+   Un monstre mystérieux se cache sous la surface ondulante du Loch Ness…
+   Errant silencieusement dans les profondeurs obscures, des rumeurs
+   rapportent qu’une créature cryptique fend rapidement l’eau, révélant
+   son cou et ses bosses reconnaissables, avant de disparaître aussi vite
+   qu’apparu. L’intérêt et la croyance populaire en l’existence du monstre
+   ont varié depuis qu’il a été livré pour la première fois à l’attention
+   du monde en 1933. Les observations de Nessie ont décliné au cours des
+   dernières années et, malgré des recherches sous-marines très
+   médiatisées et des photographies très controversées, la créature semble
+   plutôt satisfaite de garder profil bas… [lire]
 
-     *
-     *
-     *
-     *
+Norvège
 
-Partager :
+   Selma
 
-     * Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
-     * Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
-     * Cliquez pour partager sur Pinterest(ouvre dans une nouvelle
-       fenêtre)
-     *
+   Un soir d’été 1918, Karl Karlsson se rendit au pont de Sandnes pour
+   pêcher. Soudain il vit une créature dans l’eau. Elle s’approchait si
+   vite, que Karl Karlsson prit peur et s’enfuit en laissant sa canne à
+   pêche… Les habitants donnèrent rapidement naissance à Selma — le
+   monstre légendaire qui vivrait sous le lac Seljordsvatnet dans la ville
+   norvégienne de Seljord. L’explorateur et cryptozoologue suédois Jan Ove
+   Sundberg tenta bien de capturer Selma durant de nombreuses années, mais
+   toujours sans succès… [lire]
 
-   Catégorie: La lecture     Étiquettes : conte, légende, mythe
-   ← Cheval Indien
-   La plume d’aigle →
+Suède
 
-1 Comments on “Des genres oraux : le conte, le mythe et la légende”
+   Sigurd
 
-    1.
-   Phil
-       17 novembre 2024, 14 h 03 min
-       Très bien vulgarisé et présenté ! Merci, le tout me sera grandement
-       utile.
-       Bonne journée,
-       Phil
-       J’aimeAimé par 1 personne
-       Réponse
+   Il ne porte pas son pantalon par-dessus ses collants, mais il le ferait
+   si son histoire était racontée de nos jours. Parce que Sigurd est une
+   sorte de super héros mythologique, ainsi que le personnage central de
+   la saga Völsunga. Il était un guerrier et un membre de la famille
+   royale du Danemark et un descendant du dieu Odin. Il a été élevé par un
+   forgeron nommé Regin, qui lui a fabriqué une épée spéciale à partir de
+   morceaux d’une épée appartenant au père de Sigurd. Vous avez peut-être
+   entendu parler de lui grâce à J.R.R. Tolkien qui en a fait une
+   adaptation en vers sous le nom de La Légende de Sigurd et Gudrún.
+   [lire]
 
-Laisser un commentaire Annuler la réponse.
+Finlande
 
-   Δ
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
+   Ukko
 
-Recherche
+   Ukko est un vieil homme, mais un vieil homme puissant. Le personnage
+   légendaire était le dieu du ciel, de la météo et des cultures. Il
+   pouvait créer des orages simplement en conduisant son char dans les
+   nuages. Le dieu le plus important de la mythologie finlandaise avait
+   aussi une arme puissante : parfois un marteau, une hache ou une épée,
+   avec laquelle il pouvait frapper la foudre. Ukko était si puissant que
+   lorsqu’il s’accouplait avec sa femme Akka, les gens pensaient qu’il y
+   avait un orage. Et cela, il faut l’admettre, n’est pas si mal pour un
+   vieil homme! [lire]
 
-   Recherche
-   Recherche___________ Go
+Danemark
 
-Articles précédents
+   Le Roi Dan
 
-   Articles précédents [Sélectionner un moiss]
+   On raconte que jadis, il y avait trois frères : Dan, Nor et Østen. Ils
+   étaient les fils du roi Ypper, qui vivait à Uppsala en Suède et qui
+   portait son nom. Les frères se sont séparés, s’installant chacun dans
+   un pays différent. Dan est allé au Danemark, Nor en Norvège, et Østen
+   est resté en Suède. Ainsi commence l’histoire du roi Dan — le
+   personnage légendaire qui imprègne l’identité nationale danoise. C’est
+   essentiellement l’histoire qui raconte la manière dont le Danemark a
+   acquis son nom. [lire]
 
-Facebook
+Pays-Bas
 
-     Facebook
+   Le Hollandais Volant
 
-Goodreads
+   Qui n’aime pas avoir la chair de poule ? Certainement pas les marins !
+   Nombre d’entre eux affirment avoir vu le Hollandais volant hanter les
+   mers. Ce légendaire navire fantôme néerlandais est connu pour ne pas
+   pouvoir accoster et être condamné à voguer sur les océans pour
+   toujours. S’il est salué par un autre navire, son équipage tentera
+   d’envoyer des messages à terre ou à des personnes décédées depuis
+   longtemps. On croit que toute personne qui voit le navire sera frappée
+   par le malheur. Cette conviction est si puissante que le roi
+   d’Angleterre George V lui-même, en tant que jeune prince de la marine,
+   prétendait l’avoir rencontrée, même si, bon, on trouve difficile
+   d’imaginer un prince frapper de malheurs. [lire]
 
-Me contacter
+Belgique
 
-   bibliomaniaque@gmail.com
+   Le Manneken Pis
 
-S'abonner au blogue
+   Son nom, littéralement, signifie « petit homme en train de pisser » ou
+   « jeune garçon en train de faire pipi ». Il a reçu des cadeaux de
+   seigneurs et de rois du monde entier et a été enlevé et retrouvé à
+   plusieurs reprises. Il montre son zizi à des milliers de touristes
+   chaque jour, au grand dam des exhibitionnistes les plus zélés. Mais qui
+   connaît vraiment l’histoire du Manneken Pis ? A-t-il vidé sa vessie
+   pour agacer des troupes allemandes ? Ou pour sauver Bruxelles des
+   flammes ? Ou peut-être pour ennuyer ses ravisseurs ? Dans tous les cas,
+   la légende du Manneken Pis est une nouvelle preuve de la créativité des
+   nos amis Belges… [lire]
 
-   Cliquez pour vous abonner et recevoir un courriel lorsqu’un nouvel
-   article est publié!
+Luxembourg
 
-   Adresse e-mail : ____________________
+   Mélusine
 
-   (BUTTON) Suivre
+   Un conseil: n’espionnez jamais, au grand jamais une femme quand elle
+   est seule dans la salle de bain ! Pourquoi ? D’abord parce que c’est
+   impoli, aussi parce que c’est pervers. Mais surtout parce que vous
+   risquez de découvrir des choses que vous ne voudriez pas savoir… C’est
+   en tout cas la bonne leçon qu’a reçue Siegfried, le fondateur du
+   Luxembourg. Lorsque Mélusine l’épousa, elle formula une demande
+   particulière : il devrait toujours la laisser seule pendant un jour
+   complet chaque mois et ne jamais demander ou essayer de savoir ce
+   qu’elle faisait. Mais un jour, la curiosité de Siegfried l’emporta. Se
+   demandant bien ce que sa femme pouvait faire seul tout ce temps, il
+   jeta un coup d’œil furtif par le trou de la serrure… [lire]
 
-Mots-clés
+Allemagne
 
-   1re secondaire 3e secondaire adolescence amitié amour deuil
-   enseignement famille intimidation lecture
+   La Lorelei
 
-Recherche
+   Une autre légende qui nous apprend à se méfier des femmes… Le Lorelei
+   est un rocher situé sur la rive orientale du Rhin en Allemagne, qui
+   s’élève à environ 120 mètres au-dessus de la ligne de flottaison. Mais
+   c’est aussi l’endroit où Lorelei, une belle jeune fille, s’est jetée
+   dans le Rhin, désespérée du comportement de son amant infidèle, et a
+   été transformée en sirène. On dit que le rocher garde encore un écho de
+   son nom. On affirme que son drame est la raison pour laquelle tant de
+   navires ont coulé sur les 65 kilomètres de la rivière entre Koblenz et
+   Bingen… [lire]
 
-   Recherche
-   Recherche___________ Go
+Autriche
 
-Les derniers articles
+   La Sorcière de Mariatrost
 
-     * 2025, c’est parti!
-     * Je suis Pompéi
-     * Retiens-moi
-     * Un Noël pour tout changer
-     * Trois albums pour s’inspirer avec la boite magique de Noël
+   Pourquoi un soldat autrichien ne pourrait-il pas avoir des chaussures
+   qui durent plus de deux jours ? Comment peut-il briser un sort jeté sur
+   lui ? La légende de la promenade de la sorcière Mariatrost ressemble à
+   un conte de fées. Son histoire a traversé les siècles grâce à un
+   tableau accroché au-dessus des escaliers menant au choeur de la grande
+   église de Mariatrost à Graz. La peinture mystérieuse représente une
+   sorcière assise au sommet d’un grand chat volant dans les airs. La
+   sorcière jette un mouchoir sur un homme en prière qui tient ses
+   chaussures à semelles de métal vers le haut… Nous avons votre attention
+   ? Alors lisez la légende ici [lire]
 
-   Un Site WordPress.com.
+Suisse
 
-     * Commentaire
-     * Souscrire Abonné
-          + La Bibliomaniaque
-            Rejoignez 325 autres abonnés
-            ____________________
-            (M’inscrire) M’inscrire
-          + Vous disposez déjà dʼun compte WordPress ? Connectez-vous
-            maintenant.
-     * Confidentialité
-     *
-          + La Bibliomaniaque
-          + Personnaliser
-          + Souscrire Abonné
-          + S’inscrire
-          + Connexion
-          + Copier shortlink
-          + Signaler ce contenu
-          + Voir l’article dans le Lecteur
-          + Gérer les abonnements
-          + Réduire cette barre
+   Guillaume Tell
+
+   Demandez à n’importe quel Suisse qui est Guillaume Tell et il vous
+   racontera probablement l’histoire du héros de l’indépendance suisse.
+   Selon la légende, Tell, un homme un peu fou mais qui ne manquait pas de
+   panache, aurait fait un doigt d’honneur au dirigeant autrichien
+   tyrannique Gessler (ou à son chapeau pour être plus précis) avant de le
+   tuer pour faire bonne mesure… La légende de Guillaume Tell se situe
+   durant la fondation de l’ancienne Confédération suisse au début du XIVe
+   siècle — et c’est probablement ce qui l’a rendue si populaire. [lire]
+
+Italie
+
+   La Befana
+
+   Elle a l’air effrayante mais est en fait très gentille. Malgré son
+   apparence, les enfants italiens se réveillent chaque année le 6 janvier
+   dans l’espoir que la Befana soit passée chez eux. C’est un jour
+   important pour les Italiens car il marque la fin de la période de Noël
+   et le jour où trois mages sont arrivés dans la crèche de l’enfant
+   Jésus. Mais comment cette vieille dame a-t-elle connu les trois sages ?
+   Comment en est-elle arrivée à distribuer des bonbons aux enfants ?
+   Découvrez-le dans la légende de la Befana [lire]
+
+Tchéquie
+
+   Le Golem de Prague
+
+   Le Golem est une figure populaire du folklore tchèque. Si vous vous
+   baladez dans les rues de Prague, vous verrez plusieurs restaurants et
+   autres entreprises avec des noms faisant référence à la créature. Nous
+   devons son histoire à Judah Loew ben Bezalel, un rabbin praguois du
+   16ème siècle, également connu sous le nom de Maharal, qui a créé un
+   golem pour défendre le ghetto de Prague contre les attaques antisémites
+   et les pogroms. Pour protéger la communauté juive, le rabbin a
+   construit le Golem avec de l’argile à partir des rives de la Vltava et
+   lui a donné vie. Malheureusement, l’histoire ne se termine pas aussi
+   heureusement qu’elle a commencé… [lire]
+
+Slovaquie
+
+   La Dame blanche de Levoca
+
+   Julia Korponayova était une femme remarquablement belle, mais aussi une
+   espionne — une sorte de James Bond Girl du Moyen Âge. Elle vivait
+   autrefois dans la ville de Levoca, qui était assiégée par l’armée de
+   Habsbourg hors de ses murs. Au cours des longs jours de siège, elle
+   devint l’amante du baron hongrois rebelle. Une nuit, elle lui vola ses
+   clés et laissa l’armée entrer, ce qui entraîna la chute de la ville.
+   Mais cela ne l’empêcha pas de connaître une fin malheureuse. [lire]
+
+Hongrie
+
+   La Biche miraculeuse
+
+   Où la chasse d’une biche miraculeuse amènera-t-elle les deux fils d’un
+   roi perse, Hunor et Magor ? Quelle est cette belle île protégée près
+   d’un lac où ils décident finalement de s’installer ? Vous ne trouverez
+   peut-être pas d’exactitude historique dans la légende hongroise de la
+   Biche miraculeuse, mais vous saisirez probablement un élément important
+   de la psyché de la nation magyare. La légende est si ancienne qu’elle
+   se retrouve sous diverses formes parmi les nations qui étaient des
+   parents ou des voisins éloignés des Hongrois, bien avant leur
+   installation en Hongrie. [lire]
+
+Pologne
+
+   Le Dragon de Cracovie
+
+   Il y a longtemps, dans une tanière au pied de la colline de Wawel,
+   vivait un terrible dragon. Chaque jour, le dragon parcourait la
+   campagne, tuant des gens, pillant leurs maisons et dévorant leur
+   bétail. Du mendiant le plus pauvre à Sa Majesté le roi Krak, aucun des
+   habitants de la ville de Cracovie ne savait d’où il venait et comment
+   il était arrivé là… Le dragon de Cracovie est une célèbre légende et un
+   conte de fées polonais. La grande grotte de 200 mètres de long à
+   Cracovie attire maintenant des milliers de visiteurs chaque année.
+   [lire]
+
+Lituanie
+
+   Le Loup de fer
+
+   Un soir, lorsque le grand-duc Gediminas était endormi, il rêva d’un
+   énorme loup de fer se tenant au sommet d’une colline et hurlant aussi
+   fort qu’une meute. Qu’est-ce que cela pouvait bien vouloir dire ? En
+   quoi cela nous renseigne sur les origines de la ville de Vilnius ? La
+   légende du Loup de Fer nous raconte tout ça. D’abord répertoriée dans
+   les Chroniques lituaniennes, cette légende reflète peut-être le désir
+   des Lituaniens de mettre en valeur leurs lien avec l’empire romain. La
+   créature est aujourd’hui l’un des symboles de Vilnius et figure sur les
+   vêtements de sport des équipes locales. [lire]
+
+Lettonie
+
+   Le Tueur d’Ours
+
+   Lāčplēsis a été choisi par les dieux pour devenir le héros de son
+   peuple. Son nom veut dire « tueur d’ours », parce que dans sa jeunesse,
+   vivant en tant que fils adoptif du seigneur de Lielvarde, il tua un
+   ours en lui déchirant la mâchoire juste avec ses mains. Au château de
+   Lord Aizkrauklis, il veille sur la sorcière Spīdala, qui est sous le
+   contrôle du diable, et du saint homme Kangars, qui est en réalité un
+   traître complotant avec des croisés pour remplacer les anciens dieux
+   par le christianisme… Le poème épique d’Andrejs Pumpurs, écrit entre
+   1872 et 1887, est basé sur des légendes locales et est considéré comme
+   l’épopée nationale lettone. [lire]
+
+Estonie
+
+   Le Vieil Homme du lac Ülemiste
+
+   Avertissement : si vous vous promenez dans Tallinn par une froide nuit
+   d’automne après la tombée de la nuit et qu’un vieil homme étrange
+   s’approche de vous, méfiez-vous, il a une question pour vous… « La
+   ville est-elle déjà finie ou y a-t-il encore du travail à faire ? »
+   Vous devez absolument répondre que non, il y a encore beaucoup de
+   travaux de construction et il faudra probablement des années avant que
+   tout soit terminé. Le vieil homme, déçu, se retournera et s’en ira vers
+   le lac en grommelant. Selon la croyance populaire, si la réponse était
+   oui, le vieil homme appellerait les eaux du lac et anéantirait la ville
+   dans une grande inondation. [lire]
+
+Biélorussie
+
+   Les Hommes-éléphant
+
+   Une légende biélorusse raconte qu’une grande guerre aurait eu lieu dans
+   le pays il y a fort longtemps, entre l’homme et les hommes-éléphants
+   qui terrorisaient les campagnes. Des années et des années passèrent
+   sans aucun espoir de résoudre ce conflit jusqu’au jour où un étudiant
+   en occultisme emprisonna l’esprit d’un de ces hommes-éléphants dans un
+   chêne. Terrifiés, le reste des hommes-éléphants se retirèrent, mais on
+   raconte que la nuit, des cris étranges résonnent encore dans les bois
+   biélorusses. [lire]
+
+Ukraine
+
+   Le Bliznitsa
+
+   “Celui d’entre vous qui m’apportera en cadeau une fleur Edelweiss,
+   alors à cette personne je donnerai mon cœur et ma main“. La légende du
+   Bliznitsa commence par un défi : gagner le cœur d’une demoiselle. Mais
+   Bliznitsa est aussi le nom d’une montagne à trois sommets appelés les
+   Jumeaux par les locaux. Quel est le rapport entre le défi et cette
+   montagne ? Qui va gagner le coeur de la demoiselle ? Quel amour secret
+   se cache au sommet de la montagne des Carpates ? Découvrez-le dans la
+   légende populaire de Bliznitsa… [lire]
+
+Moldavie
+
+   Dragoș
+
+   Dragoș, le premier dirigeant de la Moldavie, était un amoureux des
+   animaux. Il avait beaucoup de chiens de chasse, mais celui qu’il
+   préférait par dessus tout — la plus intelligente et la meilleure en
+   chasse — était Molda. Un jour de chasse au buffle, Molda sauta dans un
+   ruisseau, mais ne parvint pas à revenir sur le rivage et se noya.
+   Dragoș fut tellement attristé par la perte de son chien préféré qu’il
+   décida de donner son nom au pays qu’il fonda. Cela donna naissance à la
+   Moldavie, ou au pays de la Moldavie. [lire]
+
+Roumanie
+
+   Le Maître Bâtisseur Manole
+
+   Neuf tailleurs de pierre et leur maître Manole construisaient un
+   monastère pour le prince valachien Negru Voda. Mais pour une raison
+   inconnue, les murs du nouveau bâtiment s’effondraient chaque nuit. Dans
+   un rêve prophétique, Manole apprit qu’il devait emmurer la première
+   femme qui arriverait sur les lieux le lendemain pour conjurer le sort.
+   Mais, au petit matin, sa propre femme, Anna arriva la première…
+   L’histoire de Manole est une légende vivante prouvant l’imagination de
+   plusieurs générations de Roumains, d’anciennes pratiques et de
+   nombreuses comptines populaires… [lire]
+
+Slovénie
+
+   Le Petit Dragon de la Grotte de Postojna
+
+   Dans la grotte de Postojna vit un petit dragon appelé Jami.
+   Contrairement à ses terribles frères, Jami est un gentil dragon :
+   pacifique, amical et amoureux de la nature. Bien qu’il aimerait jouer
+   avec les enfants, tous sont terrifiés par ce qu’il pourrait devenir.
+   Mais le petit dragon a son propre secret : il garde les belles perles
+   de la grotte… Intéressé par cette belle légende ? Gardez en mémoire
+   qu’elle s’inspire de faits réels, car la grotte de Postojna est en
+   réalité la fierté de la Slovénie et le foyer d’innombrables petites
+   salamandres aveugles. [lire]
+
+Croatie
+
+   Le Reine Noire
+
+   La Reine noire est la résidente la plus redoutable de Zagreb. Elle est
+   une femme diabolique vêtue de longues robes noires, dotée d’une
+   personnalité vicieuse, capable de se métamorphoser et connaissant les
+   us et coutumes de la magie noire. Elle a été une dirigeante cruelle,
+   une sorcière, un serpent et une sombre apparition sur les sentiers
+   forestiers. La Reine noire dirigeait autrefois le château de
+   Medvedgrad, une ville médiévale qui surplombe Zagreb sur les pentes de
+   la montagne Medvednica. Les historiens croient que la source des contes
+   sur sa méchanceté réside dans le comportement des anciennes
+   propriétaires du château… [lire]
+
+Bosnie Herzégovine
+
+   La Reine Katarina
+
+   Un matin, la Reine Katarina ordonna à sa servante de seller son cheval
+   et se dirigea vers les villages autour de Bobovac. Quand elle découvrit
+   les personnes vivant dans la plus grande pauvreté, elle décida de
+   donner à chaque enfant une pièce d’or… Katarina était reine de Bosnie
+   et épouse du roi Stephen Thomas. Après la mort de son mari en 1461,
+   elle devint la reine douairière de Bosnie, mais dut fuir l’invasion
+   ottomane en 1463. Sa mémoire, cependant, reste toujours vivante à ce
+   jour. De nombreuses personnes âgées dans les villages bosniaques vous
+   raconteront encore aujourd’hui les légendes sur la Reine Katarina…
+   [lire]
+
+Serbie
+
+   Sava Savanović
+
+   Que se passe-t-il chaque nuit dans l’ancien moulin à eau du village de
+   Zarožje ? Pourquoi on y retrouve mort au matin chaque meunier qui
+   essaie d’y passer la nuit ? Et plus important encore, qui est Sava
+   Savanović, la figure mystérieuse qui vivait dans la région et qui est
+   accusée d’avoir tué autrefois une jeune fille ? Sava Savanović n’est
+   pas seulement considéré comme le premier vampire serbe, il est
+   également devenu l’emblème touristique de la ville et de toute la
+   région de Kolubara. Certains disent même qu’il est encore en vie
+   aujourd’hui et qu’il hante toujours son ancien village… [lire]
+
+Albanie
+
+   Le Château de Rozafa
+
+   Trois frères construisaient un château mais devaient sacrifier une de
+   leurs femmes pour le terminer. Ils décidèrent entre eux de choisir
+   l’épouse qui leur apporterait le déjeuner le lendemain. Ils promirent
+   de ne rien dire à leurs épouses : mais deux des frères révélèrent quand
+   même le complot de retour chez eux. Le lendemain, Rozafa, l’épouse du
+   plus jeune frère,  apporta le déjeuner sans savoir ce qui l’attendait…
+   Le Château de Rozafa se visite de nos jours dans la ville de Shkodër,
+   située dans le nord-ouest de l’Albanie. Vous pourrez y admirer la
+   sculpture de la femme qui a eu le malheur d’être murée dans les
+   fondations du château… [lire]
+
+Bulgarie
+
+   La Première Maternitsa
+
+   Les Bulgares célèbrent leur fête nationale le 1er mars depuis plus de
+   1000 ans. À cette occasion, ils portent un accessoire spécial en fil
+   rouge et blanc, appelé Martenitsa. La croyance est que si vous portez
+   une Martenitsa, Baba Marta vous aidera et le printemps viendra plus
+   rapidement. Par contre, vous ne pourrez la retirer que lorsque vous
+   verrez la première cigogne de la saison. Cette tradition vient de la
+   légende du faucon de Khan Asparuh, le premier roi bulgare, abattu par
+   un ennemi alors qu’il traversait une rivière… [lire]
+
+Macédoine du Nord
+
+   Les Trois Moires
+
+   Elles viennent par trois, la troisième nuit après la naissance d’un
+   nouveau-né, et leur visite changera sa vie, littéralement. Certains les
+   appellent les Narechnici, d’autres les Moires. Mais contrairement à la
+   petite souris qui vient aussi la nuit, elles laissent bien plus qu’une
+   pièce de monnaie sous l’oreiller : une fortune pour les plus chanceux,
+   une malédiction pour les condamnés. Vous l’aurez compris : les Trois
+   Moires ont le pouvoir de prédire le destin du bébé et elles sont loin
+   d’être bienveillantes. Sauf peut-être la plus jeune, qui a le pouvoir
+   d’annuler les malédictions diaboliques lancées par ses deux grandes
+   sœurs. [lire]
+
+Grèce
+
+   Les Douze Travaux d’Héraclès
+
+   Hercule, ou Héraclès, est le fils préféré de Zeus, le maître des dieux.
+   Sa force prodigieuse est admirée de tous. Tous ? Pas tout à fait :
+   Héraclès a une mère humaine et Héra, la femme immortelle de Zeus, est
+   clairement jalouse. Elle s’est jurée d’anéantir le héros en lâchant
+   toute sa jalousie contre lui. Pour réparer les péchés de ses parents,
+   Héraclès devra accomplir douze travaux en douze ans. Il sait que sa
+   force et sa raison ne suffiront peut-être pas pour venir à bout des
+   tâches exigeantes conçues par la déesse vengeresse… [lire]
+
+Chypre
+
+   La Montagne aux Cinq doigts
+
+   Deux garçons étaient profondément amoureux d’une belle jeune fille
+   chypriote. Le cœur d’un garçon était en or, mais l’autre pas. Un jour,
+   les deux hommes en ont eu assez d’essayer de s’opposer en permanence…
+   et décidèrent de s’affronter une dernière fois en duel. Mais perdre un
+   duel peut aboutir à des conséquences inattendues, telles que changer la
+   forme d’une montagne pour toujours… Les Chypriotes aiment beaucoup leur
+   Montagne aux Cinq doigts à Kyrenia — les raisons invoquées pour son
+   étrange apparence varient toutefois grandement d’une légende à l’autre.
+   [lire]
+
+Turquie
+
+   Le Loup gris
+
+   Les Turcs vénèrent le loup gris parce qu’il symbolise à la fois
+   l’honneur et l’amour de la patrie. Un élément clé du mythe d’origine
+   turque est la focalisation sur le loup gris en tant que mère du peuple
+   turc. La légende de ‘Boz Kurt’ voit la grande louve se réveiller et
+   engendrer l’identité et l’héritage des Turcs à travers la conquête et
+   la construction d’une grande civilisation. À la base, la légende
+   raconte l’histoire d’Asena, une louve qui a donné naissance au premier
+   peuple turc. [lire]
+
+   Si vous avez aimé cet article, vous aimerez peut-être aussi :
+
+Créatures européennes
+
+Petites souris européennes
+
+Monstres européens
+
+Contes de fées européens
+
+   Partager ce post
+
+   Articles similaires
+
+Pains européens
+
+   Chez soi est toujours là où se trouve le bon pain. Mais l’odeur douce
+   de la baguette française n’a pas grand chose à voir avec l’odeur forte
+   et sèche du Fjellbrød norvégien, ou de celle, salée et relevée de
+   la Focaccia italienne.
+
+Bon appétit européens
+
+   Il se marie à toutes les sauces. Mahlzeit! vous souhaite l’allemand,
+   Hyvää ruokahalua ! répond le Finlandais, Dobrou chuť ! surenchérit le
+   Tchèque et Bon Appétit ! conclut le Français.
+
+Surnoms des Pays européens
+
+   Vous êtes-vous déjà demandé quels sont les surnoms des pays voisins ?
+   Savez-vous quel pays européen est souvent désigné comme le “pays des
+   mille lacs“ ? D’où viennent les surnoms Albion, Hellas,
+   Magyars ou Lusitanie ?
+
+Lois européennes étranges
+
+   Qu'est-il arrivé exactement à certains pays pour qu'ils en viennent à
+   rendre illégal la possession d'un seul cochon d'Inde ? Qui a pensé
+   judicieux d'interdire de se saouler dans un pub ? Ou bien, de courir
+   "violemment", de conduire une voiture sale ou de dormir sur un banc
+   public.
+
+Peintures européennes
+
+   Quand Picasso rencontre Turner ou Delacroix, quand Rembrandt apparaît
+   aux côtés de Munch ou Bruegel, quand Klee accompagne Klimt : c'est
+   l'expression d'un héritage européen commun extrêmement vivant.
+   Découvrez les peintures européennes les plus célèbres ici.
+   (BUTTON) Load More
+
+   En librairies
+
+   Nos réseaux sociaux
+   Facebook-f Twitter Instagram Pinterest Spotify
+   Handle @europeisnotdead
+
+   Copyright © europeisnotdead, 2020
+
+   (BUTTON)
+
+     * Accueil
+     * Audio
+       ▼
+          + Sons européens
+          + Mélodies européennes
+          + Musiques européennes
+     * Video
+       ▼
+          + Images européennes
+          + Traditions européennes
+          + Films européens
+     * Disco
+       ▼
+          + Mots européens
+          + Expressions européennes
+          + Livres européens
+     * Gusto
+       ▼
+          + Ingrédients européens
+          + Plats européens
+          + Repas européens
+     * À propos
+       ▼
+          + A propos & Contacts
+          + Livres
+          + Radio
+          + TV
+          + Réseaux sociaux
+          + Interviews
+          + Tribunes
+          + Plus de cartes
+     * Français
+       ▼
+          + English
+
+   ____________________
+
+En savoir plus sur Europe Is Not Dead!
+
+   Abonnez-vous pour poursuivre la lecture et avoir accès à l’ensemble des
+   archives.
+
+   Saisissez votre adresse e-mail… ____________________
+
+   (BUTTON) Abonnez-vous
+
+   Poursuivre la lecture
 
 
    Chargement des commentaires…
@@ -307,3 +749,6 @@ Les derniers articles
    Site web ____________________
 
    Laisser un commentaire
+
+     * English (Anglais)
+     * Français

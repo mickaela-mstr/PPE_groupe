@@ -1,5 +1,921 @@
-   REFRESH(390 sec):
-   https://classe.culture-education.ca/ressources/legendes-empreintes-dun-
-   peuple/
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
-   Enable JavaScript and cookies to continue
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Définitions
+       (BUTTON) Afficher / masquer la sous-section Définitions
+          + 1.1 Un récit structuré
+          + 1.2 Des procédés d'authentification
+          + 1.3 La présence de variantes
+          + 1.4 Une histoire douteuse
+          + 1.5 Une dimension morale
+          + 1.6 Une diffusion via des canaux informels (bouche à oreille,
+            réseaux sociaux, messageries, etc.)
+          + 1.7 Durée
+          + 1.8 Différences avec les légendes traditionnelles et les
+            rumeurs
+          + 1.9 Facilité de médiatisation
+          + 1.10 Nature
+          + 1.11 Implication
+          + 1.12 Négativité
+     * 2 Études
+     * 3 Thèmes
+     * 4 Dans la culture populaire
+       (BUTTON) Afficher / masquer la sous-section Dans la culture
+       populaire
+          + 4.1 Films
+          + 4.2 Téléfilms
+          + 4.3 Séries
+          + 4.4 Théâtre
+          + 4.5 Musique
+     * 5 Notes et références
+     * 6 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 6.1 Bibliographie
+               o 6.1.1 Essais
+               o 6.1.2 Articles
+               o 6.1.3 Œuvres de fiction inspirées de légendes urbaines
+                    # 6.1.3.1 Recueils
+                    # 6.1.3.2 Romans
+                    # 6.1.3.3 Nouvelle
+                    # 6.1.3.4 Bandes dessinées
+          + 6.2 Articles connexes
+          + 6.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Légende urbaine
+
+   [ ] 56 langues
+     * العربية
+     * অসমীয়া
+     * Azərbaycanca
+     * تۆرکجه
+     * Български
+     * বাংলা
+     * Català
+     * Cebuano
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Galego
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Italiano
+     * 日本語
+     * 한국어
+     * Latina
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * മലയാളം
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * ਪੰਜਾਬੀ
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenščina
+     * Svenska
+     * ไทย
+     * Türkçe
+     * Українська
+     * Vepsän kel’
+     * Tiếng Việt
+     * 中文
+     * 閩南語 / Bân-lâm-gú
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [220px-Bunnyman_bridge_night.jpg] Colchester Overpass, lieu où est
+   censé se passer la légende urbaine des années 1970 du Bunny Man (en),
+   un homme ou un fantôme déguisé en lapin qui attaquerait les gens de la
+   région.
+
+   Une légende urbaine (de l'anglais : urban legend) est un récit bref,
+   présenté généralement comme une anecdote véridique mais qui est sans
+   fondement.
+
+   Elle se répand généralement par des moyens informels de communication,
+   soit par le bouche à oreille, soit des médias en ligne (forums,
+   messageries instantanées, réseaux sociaux, etc.).
+
+   Généralement, il s'agit de faits réels qui sont déformés et amplifiés
+   et mêlés à des éléments faux.
+
+   Contrairement aux légendes traditionnelles, les légendes urbaines
+   mettent en scène des lieux (stations de métro, fast-food, etc.), des
+   objets (automobiles, jouets « made in China », etc.) et des personnages
+   emblématiques du monde moderne et urbain (junkies, baby-sitters,
+   etc.) ; elles se déroulent par ailleurs dans un passé récent, ce qui
+   les classe parmi les légendes contemporaines.
+
+   En tant que littérature orale, et suivant sa résistance au temps, la
+   légende urbaine fait partie intégrante ou non du folklore et du
+   repro-folklore.
+
+Définitions
+
+   [modifier | modifier le code]
+
+   La légende urbaine est une histoire contemporaine extraordinaire,
+   présentée comme vraie mais qui est sans fondement, et qui se répand par
+   le bouche à oreille ou par Internet^[1].
+
+   Le plus souvent, les spécialistes attribuent le titre de manière un peu
+   exclusive à des récits qui présentent les caractères suivants :
+
+Un récit structuré
+
+   [modifier | modifier le code]
+
+   La légende urbaine se présente comme un récit court, utilisant des
+   faits réels, mais qui sont par la suite déformés ou amplifiés^[2].
+
+Des procédés d'authentification
+
+   [modifier | modifier le code]
+
+   La véracité de la légende urbaine est présentée par celui qui la
+   rapporte comme venant une source déterminée (« D'après la Police
+   nationale, un stagiaire de l'Institut Pasteur, etc. ») ou indéterminée
+   (« C'est arrivé à l'ami d'un ami », « Il paraît que »). On retrouve ces
+   mêmes procédés d'authentification pour les rumeurs^[3].
+
+La présence de variantes
+
+   [modifier | modifier le code]
+
+   L’existence de versions et variantes d’un même récit, dispersées dans
+   le temps et l’espace, est typique des récits légendaires. Les récits de
+   kidnappings en camionnette blanche circulent ainsi depuis le milieu des
+   années 1990^[4]. Si le cœur du récit ne change pas (des enfants sont
+   enlevés par une mystérieuse camionnette de couleur blanche), de
+   nombreuses variantes existent. Elles touchent à l'identité de
+   l'agresseur (des membres de la communauté Rom, un pédophile, etc.), au
+   motif de l'agression (trafic d'organes, crime sexuel), aux lieux où
+   elle se déroule, etc.^[5]
+
+Une histoire douteuse
+
+   [modifier | modifier le code]
+
+   Les légendes urbaines sont apparentées aux lieux communs et aux idées
+   reçues, en ce qu'elles sont partagées par de nombreuses personnes sans
+   être vérifiées. Elles mêlent souvent le vrai, le faux et le douteux.
+   Elles peuvent parfois être basées sur des faits réels qui auront été
+   déformés. Le sociologue Jean-Bruno Renard identifie trois types de
+   modifications de faits réels dans les légendes urbaines^[6] :
+     * les faits amplifiés : exagération, amplification de faits réels ;
+     * les faits déplacés de leur contexte ;
+     * les faits reconstruits : un ou plusieurs faits sont reconstruits
+       pour se conformer au scénario-type d'une légende urbaine.
+
+   Un exemple de faits amplifiés ayant donné naissance à une légende
+   urbaine est la fameuse histoire de l'ouvrier soudeur qui aurait perdu
+   la vue à cause de lentilles de contact ; ces dernières auraient fondu
+   sous l’action du chalumeau et seraient restées collées à sa cornée. En
+   1967, un ouvrier qui portait des lentilles de contact a effectivement
+   été blessé aux yeux par l’explosion d’un disjoncteur. Mais il a
+   retrouvé la vue en quelques jours, malgré des lésions à la cornée.
+   Entre le fait et la légende, des éléments réels ont donc été amplifiés
+   ou réduits, sans doute car l’incident, survenu à Baltimore, a
+   profondément marqué le milieu ouvrier de l’époque^[7].
+
+Une dimension morale
+
+   [modifier | modifier le code]
+
+   Le récit propose — à la lecture attentive — un déchiffrement et une
+   interprétation du monde (surtout dans ses aspects les plus perturbants,
+   confondants ou inquiétants), ainsi qu'une morale implicite^[8].
+
+Une diffusion via des canaux informels (bouche à oreille, réseaux sociaux,
+messageries, etc.)
+
+   [modifier | modifier le code]
+
+   La légende urbaine se répand via le bouche à oreille et les canaux de
+   communication informels. Sa diffusion est fortement influencée par les
+   évolutions technologiques. Elle pouvait ainsi autrefois circuler par
+   fax ou photocopie, avant que ce mode de diffusion ne soit supplanté par
+   l'apparition du mail et d'Internet. Aujourd'hui, les légendes urbaines
+   circulent fréquemment sur les forums Internet, les messageries et les
+   réseaux sociaux. On parle de hoax (mot anglais traduisible par
+   « canular ») pour certains messages propagés par Internet (canular
+   informatique) dont certains appartiennent à la catégorie des légendes
+   urbaines. Les creepypastas sont, par ailleurs, un genre voisin des
+   légendes urbaines évoluant presque exclusivement sur
+   Internet.^[réf. nécessaire]
+
+   En parallèle de ces canaux informels de communication, la légende
+   urbaine peut parfois être reprise par erreur par des médias
+   traditionnels (radio, presse écrite, etc.). La légende du gerbilling a
+   par exemple été reprise par RTL2 en 2007, un des animateurs ayant été
+   piégé par une fausse dépêche de presse^[9]. Ces erreurs contribuent
+   souvent à fortement populariser des légendes urbaines, leur apportant à
+   la fois une audience large et le crédit d'un média
+   reconnu.^[réf. nécessaire]
+
+Durée
+
+   [modifier | modifier le code]
+
+   Les légendes urbaines peuvent circuler pendant des années voire des
+   décennies^[10] (les récits d'auto-stoppeuses fantômes sont ainsi
+   attestés depuis les années 1930^[11] et continuent à circuler
+   aujourd'hui), sous différentes versions.
+
+Différences avec les légendes traditionnelles et les rumeurs
+
+   [modifier | modifier le code]
+
+   Les légendes urbaines ne font pas appel à des figures surnaturelles
+   comme dans une légende traditionnelle. Elles sont situées dans un passé
+   récent au moment où elle est racontée et font souvent référence à des
+   noms de lieux, de marques de voiture connues d'un grand nombre
+   d'individus. Ces détails rendent crédible le récit et varient d’une
+   version à l’autre, lorsque la légende apparaît dans des lieux ou à des
+   époques différentes^[12].
+
+   Ce qui la différencie, d'après Jean-Bruno Renard, de la rumeur, c'est
+   que la légende urbaine ne se limite pas à une simple information et à
+   une forme grammaticale de type sujet + prédicat (ex. : « Le Président
+   mène une double-vie »)^[6].
+
+Facilité de médiatisation
+
+   [modifier | modifier le code]
+
+   Les récits d’enlèvements sont plus « médiatisables », plus simples à
+   appréhender que des phénomènes, tels que les violences intra-familiales
+   ou le mal-logement qui bénéficient d’une couverture médiatique
+   marginale. La violence des récits d’enlèvements est plus directe et
+   palpable et le coupable est tout désigné : un maniaque urbain, un
+   individu fondamentalement mauvais et irrécupérable, extérieur au foyer
+   familial^[12].
+
+Nature
+
+   [modifier | modifier le code]
+
+   Elles peuvent emprunter à tous les genres littéraires (anecdote,
+   horreur, blague, etc.). Elles expriment, par ailleurs, des peurs et des
+   fixations, et véhiculent une morale implicite^[13]. Elles peuvent ainsi
+   jouer un rôle d'avertissement^[14], illustrant ce qu'il faut ou ne pas
+   faire ou les dangers qui nous guettent au coin de la rue et dans les
+   lieux anonymes de la vie urbaine. Pour ces raisons, leur contenu est
+   souvent négatif.
+
+Implication
+
+   [modifier | modifier le code]
+
+   Les personnes qui propagent les rumeurs sont toujours concernées par
+   les rumeurs qu'elles partagent^[3].
+
+Négativité
+
+   [modifier | modifier le code]
+
+   Les rumeurs parlent régulièrement de sujets négatifs (menaces,
+   agressions)^[3].
+
+Études
+
+   [modifier | modifier le code]
+
+   La première étude sociologique d'une légende urbaine en France est due
+   à l'équipe du sociologue français Edgar Morin^[15] sur la « rumeur
+   d'Orléans ».
+
+   Le sociologue américain Jan Harold Brunvand a, dès les années 1980,
+   appliqué aux récits populaires circulant dans le monde moderne des
+   théories et des concepts académiques établis par les folkloristes dans
+   l'étude traditionnelle des légendes associées le plus souvent à des
+   faits historiques lointains ou à des cultures rurales^[16].
+
+Thèmes
+
+   [modifier | modifier le code]
+   Article détaillé : Liste de légendes urbaines.
+
+   Certains thèmes sont récurrents dans les légendes urbaines (certaines
+   d'entre elles pouvant se référer à plusieurs de ces thématiques).
+     * la violence urbaine, sous diverses formes (meurtre, viol,
+       tortures, etc.) ;
+     * les technologies, sous leurs aspects les plus inquiétants (chimie,
+       nucléaire, génétique…) ;
+     * les animaux, et en particulier les espèces considérées comme
+       dangereuses ou effrayantes (serpents, araignées, etc.) ;
+     * les personnalités contemporaines (du show-business, de la
+       politique…) et parfois historiques ;
+     * l'antiaméricanisme : les légendes sur les États-Unis, leurs
+       entreprises (Coca-Cola, Mc Donald's…) et leurs institutions ont
+       souvent un contenu politique, doublé d'une théorie du complot ;
+     * des actes révolutionnaires, alter-mondialistes, anti-centralistes
+       (en France) ou anti-unitaristes ;
+     * le surnaturel et le paranormal ;
+     * la sexualité et l'évolution des mœurs ;
+     * les étrangers, les marginaux (hippies, junkies, etc.).
+
+   Elles ont la particularité de mettre en scène les peurs profondes
+   qu'expriment les individus face à un monde en mutation^[12]. Ces peurs
+   peuvent être reliées aux conditions de la vie urbaine et moderne :
+   anonymat des grandes villes et cohabitation de communautés différentes,
+   délégation de tâches, comme la garde des enfants, à des personnes ou
+   services extérieurs au cercle de la famille et des proches, émergence
+   des multinationales, accélération technologique … etc. Comme le
+   remarquent Anna Kirziuk et Alexandra Arkhipova, deux chercheuses russes
+   qui s’intéressent aux légendes urbaines soviétiques :
+
+     « Un citadin croise chaque jour une foule d’inconnus. Du métro à la
+     cour de récréation, il est obligé de partager l’espace public avec
+     d’autres anonymes, et d’acheter des biens et services à des
+     étrangers ». Cette vie sociale urbaine repose sur un certain degré
+     de confiance, pour ne pas dire de confiance aveugle^[12].
+
+Dans la culture populaire
+
+   [modifier | modifier le code]
+
+Films
+
+   [modifier | modifier le code]
+     * 1948 : L'Armoire volante, film français de Carlo Rim
+     * 1961 : La Belle Américaine, film français de Robert Dhéry
+     * 1979 : Terreur sur la ligne, film américain de Fred Walton / remake
+       Simon West, États-Unis, 2006)
+     * 1992 : Candyman, film américain de Bernard Rose
+     * 1998 : Urban Legend : film américain de Jamie Blanks
+     * 1999 : 8 millimètres : film américain de Joel Schumacher
+     * 2000 : Urban Legend 2 (Urban Legend 2 : Final Cut) : film américain
+       de John Ottman
+     * 2005 : Urban Legend 3 : film américain de Mary Lambert
+
+Téléfilms
+
+   [modifier | modifier le code]
+     * 1972 : François Gaillard ou la Vie des autres de Jacques Ertaud,
+       épisode 7, Joseph
+     * 1997 : Bonnes vacances, téléfilm français de Pierre Badel et
+       Chantal Rémy
+
+Séries
+
+   [modifier | modifier le code]
+     * 1997-2000 : Frissons, série télévisée canadienne
+     * 2004 : Petits Mythes urbains, série télévisée
+       franco-germano-britannique
+     * Légendes Urbaines (série québécoise) : épisodes ayant pour sujet
+       les thématiques récurrentes dans les légendes urbaines, explorées
+       et analysées par différentes personnalités, à raison d'un thème par
+       épisode
+     * 2017 : Urban Myths sur Sky Arts (en), série télévisée britannique
+       dont chaque épisode est indépendant des autres, ce qui peut faire
+       que la série ne soit qu'une collection de téléfilms d'une
+       demi-heure, chacun racontant une légende urbaine. Les histoires
+       sont vraies, totalement ou en grande partie, et présentent surtout
+       des faits incongrus sur des personnalités célèbres : l'amitié entre
+       Samuel Beckett et André The Giant, les talents artistiques
+       d'Hitler, la rencontre entre Cary Grant et Timothy Leary sous LSD,
+       Mohamed Ali qui empêche une tentative de suicide^[17]…
+
+Théâtre
+
+   [modifier | modifier le code]
+     * Bourgeade, Pierre. PZA : petite zoologie amoureuse (comédie, 1994)
+
+Musique
+
+   [modifier | modifier le code]
+     * Légende Urbaine, album d'Émily Bégin, sorti en 2004,
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ « Définition de légende urbaine | Dictionnaire français », sur La
+       langue française (consulté le 12 février 2024)
+    2. ↑ « Légende urbaine : signification et origine de l'expression »
+       Accès payant , sur www.linternaute.fr (consulté le 30 septembre
+       2023)
+    3. ↑ ^a b et c Michel-Louis Rouquette, « Le syndrome de rumeur »,
+       Communications, vol. 52, n^o 1,‎ 1990, p. 119–123
+       (DOI 10.3406/comm.1990.1786, lire en ligne, consulté le 2 juillet
+       2021)
+    4. ↑ Véronique Campion-Vincent, De source sûre : nouvelles rumeurs
+       d'aujourd'hui, Éd. Payot & Rivages, impr. 2005 (ISBN 2-228-90028-1
+       et 978-2-228-90028-7, OCLC 469993896, lire en ligne)
+    5. ↑ Fabien Leboucq, « Comment la rumeur des kidnappeurs en
+       camionnette a viré à la chasse à l'homme en Ile-de-France », sur
+       Libération (consulté le 2 juillet 2021).
+    6. ↑ ^a et b Jean-Bruno,. Renard, Rumeurs et légendes urbaines,
+       Presses universitaires de France, impr. 2013, ©1999
+       (ISBN 978-2-13-062685-5 et 2-13-062685-8, OCLC 867780749, lire en
+       ligne)
+    7. ↑ Véronique Campion-Vincent, Légendes urbaines : rumeurs
+       d'aujourd'hui, Payot et Rivages, 2002 (ISBN 2-228-89534-2 et
+       978-2-228-89534-7, OCLC 301670594, lire en ligne)
+    8. ↑ Véronique Campion-Vincent, « Complots et avertissements: légendes
+       urbaines dans la ville », Revue française de sociologie, vol. 30,
+       n^o 1,‎ 1989, p. 91–105 (ISSN 0035-2969, DOI 10.2307/3321426, lire
+       en ligne, consulté le 2 juillet 2021).
+    9. ↑ Eymeric Spokus, « Raggot le hamster », sur Spokus, 15 mars 2020
+       (consulté le 2 juillet 2021).
+   10. ↑ Jean-Bruno,. Renard, Rumeurs et légendes urbaines, Presses
+       universitaires de France, impr. 2013, ©1999 (ISBN 978-2-13-062685-5
+       et 2-13-062685-8, OCLC 867780749, lire en ligne)
+   11. ↑ Richard K. Beardsley et Rosalie Hankey, « The Vanishing
+       Hitchhiker », California Folklore Quarterly, vol. 1, n^o 4,‎ 1942,
+       p. 303–335 (ISSN 1556-1283, DOI 10.2307/1495600, lire en ligne,
+       consulté le 1^er juillet 2021)
+   12. ↑ ^a b c et d Eymeric Manzinali, « Qu’est ce qu’une légende
+       urbaine ? - Spokus », 1^er juillet 2019 (consulté le 30 septembre
+       2023)
+   13. ↑ Véronique Campion-Vincent, « Complots et avertissements :
+       légendes urbaines dans la ville », Revue française de sociologie,
+       vol. 30, n^o 1,‎ 1989, p. 91–105 (DOI 10.2307/3321426, lire en
+       ligne, consulté le 1^er juillet 2021)
+   14. ↑ Martine Roberge, L'art de faire peur : des récits légendaires aux
+       films d'horreur, Presses de l'Université Laval, 2004
+       (ISBN 2-7637-8198-5 et 978-2-7637-8198-3, OCLC 60399754, lire en
+       ligne)
+   15. ↑ Edgar Morin, La Rumeur d'Orléans, Paris, Le Seuil, 1969.
+   16. ↑ Jan Harold Brunvand, Encyclopedia of urban legends, ABC-CLIO,
+       2001 (ISBN 978-1-57607-076-5 et 978-1-57607-532-6)
+   17. ↑ (en) « Did Michael Jackson really take a road trip with Liz
+       Taylor and Marlon Brando? The truth about Sky Arts' Urban Myths
+       series », sur The Telegraph, 12 janvier 2017
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * légende urbaine, sur le Wiktionnaire
+
+Bibliographie
+
+   [modifier | modifier le code]
+
+Essais
+
+   [modifier | modifier le code]
+     * Campion-Vincent, Véronique et Jean-Bruno Renard, Légendes
+       urbaines : rumeurs d'aujourd'hui, Paris, Payot, 2002 (1^re éd.
+       1992)
+     * Campion-Vincent, Véronique et Jean-Bruno Renard, De source sûre :
+       nouvelles rumeurs d'aujourd'hui, Paris, Payot, 2005 (1^re éd. 2002)
+     * Campion-Vincent, Véronique et Jean-Bruno Renard, 100 % rumeurs.
+       Codes cachés, objets piégés, aliments contaminés… La vérité sur 50
+       légendes urbaines extravagantes, Paris, Payot, 2014
+     * Froissart, Pascal, Rumeurs. Histoire et fantasmes, Paris, Belin,
+       2010 (1^re éd. 2002)
+     * Jean-Noël Kapferer, Rumeurs, Seuil, 1987
+     * Morin, Edgar et al., La Rumeur d'Orléans, Paris, Seuil,
+       coll. « L'Histoire immédiate », 1982 (1^re éd. 1969), 240 p.
+       (ISBN 2-0-200-6280-1)
+     * Renard, Jean-Bruno, Rumeurs et légendes urbaines, Paris, Presses
+       universitaires de France, coll. « Que sais-je ? nº3445 », 2013
+       (1^re éd. 1999) (ISBN 2-0-200-6280-1)
+     * Roberge, Martine, De la rumeur à la légende urbaine, Laval, Québec,
+       Presses universitaires de Laval, 2010
+     * Martine Roberge, L’art de faire peur : des récits légendaires aux
+       films d’horreur, Laval, PU, 2004
+     * Van de Winkel, Aurore, Gérer les rumeurs, ragots et autres bruits,
+       Edipro, 2012, 320 p.
+     * Van de Winkel, Aurore, Les légendes urbaines de Belgique, Waterloo,
+       Avant-propos, 2017, 320 p.
+     * Van Gennep, Arnold, La formation des légendes, Paris, Flammarion,
+       1910
+     * Christoph Drösser et Rattelschneck, Stimmt's? das große Buch der
+       modernen Legenden, Rowohlt-Taschenbuch-Verl, coll. « rororo
+       Sachbuch », 2010 (ISBN 978-3-499-62628-9)
+     * Zofia Dąbrowska, Wielka księga PRL: dziwne zwyczaje, komiczna
+       propaganda, gwiazdy kina Polski Ludowej, legendarne seriale, ZPR
+       Media, coll. « Super Album », 2018 (ISBN 978-83-66012-23-3)
+
+Articles
+
+   [modifier | modifier le code]
+     * Rumeurs et légendes urbaines, Paris, PUF, mars 2006, 254 p.
+       (Diogène, n^o 213) (ISBN 2-1305-5631-0)
+     * Rumeurs et légendes contemporaines, Paris, Ed. du Seuil, 1990, 386
+       p. (Communications, n° 50). Disponible en ligne
+     * Jean-Bruno Renard, « Entre faits divers et mythes : les légendes
+       urbaines », Religiologiques, n^o 10, automne 1994. Disponible en
+       ligne
+     * Stephen Smith, Abdelhak Serhane et Tahar Ben Jelloun : deux
+       versions littéraires de la même légende urbaine. Francographie (New
+       York), 1997, n^o 6, p. 139-147.
+     * Jean-Pierre Quinton, Pourquoi les légendes urbaines ?, TGV
+       Magazine, mai 2008, n^o 104, p. 88.
+     * Aurore Van de Winkel, Bruxelles au cœur des légendes urbaines , in
+       Brussels Studies, n° 54, le 8 novembre 2011,
+       http://www.brusselsstudies.be/publications/index/index/id/158/lang/
+       fr.
+     * Aurore Van de Winkel, Communication, croyance et construction
+       identitaire : le cas des légendes urbaines, in Le Rendez-vous de la
+       Recherche en Communication. Actes du colloque. 16 mars 2006,
+       Département d'information et de communication, Université Laval
+       (Québec), AECCUL, 2006, p. 81-91.
+     * Aurore Van de Winkel, Construire son identité face à l'étranger :
+       le cas des légendes urbaines, in Bénédicte De Buron-Brun (dir.),
+       Altérité, Identité, Interculturalité, France, L'Harmattan, 2010,
+       p. 49-64.
+     * Aurore Van de Winkel, Légendes urbaines, construction identitaire
+       et lien social : une relation complexe… , in Jo M. Katambwe (dir.),
+       Communication et lien social, Québec, Presses de l'Université
+       Laval, 2011, p. 205-228.
+     * Aurore Van de Winkel, Quand le croire investit un phénomène de
+       communication profane: le cas des légendes urbaines , in Bruno
+       Michon, Clémentine Vivarelli et Guillaume Erckert (dir.), La
+       croyance : de la théorie au terrain. Mise en perspective des
+       approches néo-wébérienne issue de la phénoménologie et de
+       l'anthropologie existentiale, France, Éditions Hermann, Coll.
+       Société et pensées, 2012.
+     * Aurore Van de Winkel, Quand les légendes urbaines utilisent l'Autre
+       pour réaffirmer l'identité de ceux qui les diffusent… in
+       Interstudia, Des autres à soi-même. Les voies du retour, Université
+       de Bacău (Roumanie), janvier 2008, p. 79-87.
+     * Aurore Van de Winkel, Quand la légende urbaine touche
+       l'organisation, in Loneux, Catherine, Parent, Bertrand (dir.),
+       Communication des organisations : recherches récentes, Paris,
+       L'Harmattan, Tome 2, 2010, p. 140-153.
+     * Aurore Van de Winkel, « La ville mise en récit : le cas des
+       légendes urbaines », in Formules : Formes urbaines de la création
+       contemporaine, n^o 14, 2010, p. 65-77.
+     * Aurore Van de Winkel, Les légendes urbaines, en tant que discours
+       sur la société…, in Langue et Société, Discours et Pouvoir, les
+       Actes de la Conférence internationale Signes particuliers. Langue,
+       discours, société de l'Universitatea din Bacău (Roumanie) du 21 au
+       23 novembre 2008, 2009, p. 39-50.
+     * Aurore Van de Winkel, Mêlant réalité et fiction, les légendes
+       urbaines en tant que nouvelle forme de littérature orale, in Actes
+       des Rencontres autour de la littérature orale. Histoire de la
+       littérature orale francophone, Alès, CMLO, 2010.
+     * Aurore Van de Winkel, Story-telling et légendes urbaines : quand le
+       récit peut se retourner contre l'organisation, in Christiana
+       Constantopoulou (dir.), Récits et fictions dans la société
+       contemporaine, Paris, L'Harmattan, 2011.
+     * Numéro spécial « Légendes urbaines » de la Revue La Grande oreille,
+       n^o 43, octobre 2010.
+
+Œuvres de fiction inspirées de légendes urbaines
+
+   [modifier | modifier le code]
+
+Recueils
+
+   [modifier | modifier le code]
+     * Des crocodiles dans les égouts et autres légendes urbaines /
+       anthologie présentée par Elsa Marpeau. Paris : Éditions J'ai Lu,
+       2006, 73 p. (Librio : imaginaire ; 755) (ISBN 2-2903-5215-2)
+     * Rumeurs et légendes urbaines : des mygales dans le yucca / Albert
+       Jack. Paris : Hachette Pratique, 2007, 195 p. (Rendez-vous page 13)
+       (ISBN 978-2-0123-7337-2)
+     * 13 légendes urbaines / textes de Nicolas Jaillet, Olivier Lhote et
+       Alain Venisse ; ill. Martin Desbat. Champigny-sur-Marne : Lito, mai
+       2009, 232 p. (ISBN 978-2-2444-5861-8)
+
+Romans
+
+   [modifier | modifier le code]
+     * Serge Brussolo, Ceux qui dorment en ces murs, Paris : Plon, 2007,
+       344 p. (ISBN 978-2-2592-0623-5) (référence à la légende du Maître
+       d'école)
+     * Gilbert Cesbron, Notre prison est un royaume, Paris : la Jeune
+       Parque, 1948, 336 p. Rééd. Librairie générale française, 1955,
+       256 p. (Le livre de poche ; 100).
+
+Nouvelle
+
+   [modifier | modifier le code]
+     * Didier Daeninckx. Les Frères Lacoste. Le Monde diplomatique, août
+       1997, p. 19. Texte en ligne
+
+Bandes dessinées
+
+   [modifier | modifier le code]
+     * Les Véritables légendes urbaines (tome 1) / textes Éric Corbeyran,
+       Rémi Guérin ; ill. Richard Guérineau, Sébastien Damour, Alain
+       Henriet, Gil Formosa. Paris : Dargaud, 2007, 52 p.
+       (ISBN 978-2-2050-5894-9)
+     * Les Véritables légendes urbaines (tome 2) / textes Éric Corbeyran,
+       Rémi Guérin ; ill. Marcelo Frusin, Alice Picard, Djillali Defali,
+       Jean-Christophe Fournier, Melvil. Paris : Dargaud, 2008, 52 p.
+       (ISBN 978-2-2050-6031-7)
+     * Les Véritables légendes urbaines (tome 3) / textes Éric Corbeyran,
+       Rémi Guérin ; ill. Didier Tarquin, Olivier Berlion, Renaud Garreta.
+       Paris : Dargaud, 2009, 64 p. (ISBN 978-2-2050-6283-0)
+
+Articles connexes
+
+   [modifier | modifier le code]
+   Une catégorie est consacrée à ce sujet : Légende urbaine.
+     * Liste de légendes urbaines
+     * Rumeur
+     * Rumeur d'Orléans
+     * Tract de Villejuif
+     * Conte
+     * Sociologie de l'imaginaire
+     * Mythologies (Roland Barthes)
+     * Rumeur du 9-3
+     * Repro-folklore
+     * Creepypasta
+     * Thème de Lavanville
+     * The Backrooms
+     * Légende
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     * Ressource relative à la littérature Voir et modifier les données
+       sur Wikidata  :
+          + The Encyclopedia of Science Fiction
+     * Notice dans un dictionnaire ou une encyclopédie généraliste Voir et
+       modifier les données sur Wikidata  :
+          + Den Store Danske Encyklopædi
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + BnF (données)
+          + LCCN
+          + Japon
+          + Israël
+          + Tchéquie
+     * Hoaxbuster - Site vérifiant les légendes circulant par courriel
+     * Hoaxkiller.fr - Moteur de recherche anti-canulars
+     * Rumeurs et rumorologie - Site recensant les textes théoriques sur
+       la rumeur
+     * Secuser.com - Liste des faux (et vrais) virus circulant sur
+       internet
+     * Tatoufaux - Site sur les idées reçues
+     * Des légendes urbaines - Rumeurs, légendes urbaines et croyances
+       contemporaines décryptées
+     * (en) snopes.com: Urban Legends Reference Pages - Site sur les
+       principales légendes urbaines des États-Unis et d'ailleurs, qui les
+       recueille et les vérifie
+     * (en) Urban Legends - Blog de David Emery, spécialiste américain des
+       légendes urbaines
+
+   v · m
+   Légende urbaine
+   Par continent
+   Afrique
+     * Cimetière des éléphants
+     * Guegue (sirène) (en)
+     * Madame Koi Koi
+
+   Amérique du Nord
+     * Club des 27
+     * Légende du briquet blanc (en)
+     * Observations de clowns
+     * Bébé roti (en)
+     * La baby-sitter et l’homme à l’étage (en)
+     * Triangle des Bermudes
+     * Bloody Mary
+     * Dark Side of the Rainbow
+     * The Hands Resist Him
+     * Bunny Man (en)
+
+   Amérique du Sud
+     * Trésor ecclésiastique de Lima
+     * James Bartley
+
+   Asie
+     * Malédiction du Colonel
+     * Aka Manto
+     * Or de Yamashita
+     * Kunekune (légende urbaine) (ja)
+     * Hanako-san
+     * Gare de Kisaragi (ja)
+     * Nguyen Toon (vi)
+     * Légendes urbaines japonaises
+     * Tour de la corde indienne (en)
+     * Homme-singe de New Delhi
+     * Kuchisake-onna
+     * Orang Minyak
+     * John Zegrus
+
+   Europe
+     * Fantôme de Kiev
+     * Anges de Mons
+     * Kadaververwertungsanstalt
+     * Mythe des ovnis du Troisième Reich
+     * Johannes Joachim Theodor Krüger
+     * Train d'or de Wałbrzych
+     * Volga noire (ru)
+     * Monstre de Zegrze (pl)
+     * Production expérimentale de savon humain dans l'Allemagne nazie
+     * Tueur au beurre (es)
+     * Konstantínos Koukídis
+     * Réserve stratégique à vapeur (en)
+     * Alligator d'Hitler
+     * Puits vers l'Enfer
+     * Collants blancs
+     * This Man
+     * Chien noir
+     * Le Garçon qui pleure
+     * Mythe de la chambre d'hôtel disparue
+
+   Océanie
+     * Femme de Poinciana (en)
+     * Loi sur la faune et la flore
+     * Le Mahogany
+     * Triangle de Bass Strait (en)
+
+   Par thème
+     * Titanic (en)
+     * Voyages dans le temps et l'espace (en)
+     * McDonald's (en)
+     * Drogues (en)
+
+   Études
+     * Jan Harold Brunvand
+     * Hoax Slayer
+     * Snopes
+     * Patricia Turner
+     * Légendes urbaines (série télévisée)
+     * Linda Dégh
+
+   Liste de légendes urbaines
+   v · m
+   Creepypasta
+     * Slender Man
+     * Thème de Lavanville
+     * Ben Drowned
+     * Fondation SCP
+     * The Backrooms
+
+   Cinéma et télévision
+     * Always Watching: A Marble Hornets Story (2015)
+     * Channel Zero série (2016)
+     * Slender Man film (2018)
+
+    Articles connexes
+     * Légende urbaine
+     * Skin-walker
+
+   Internet sources
+     * 4chan
+     * Reddit
+     * Youtube
+
+     * icône décorative Portail de la mythologie
+     * icône décorative Portail du folklore et du légendaire
+     * icône décorative Portail de la sociologie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Légende_urbaine&oldid=2194
+   54648 ».
+   Catégorie :
+     * Légende urbaine
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Article à référence nécessaire
+     * Page utilisant P5357
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la littérature
+     * Page utilisant P8313
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Article contenant un appel à traduction en japonais
+     * Article contenant un appel à traduction en vietnamien
+     * Article contenant un appel à traduction en russe
+     * Article contenant un appel à traduction en polonais
+     * Article contenant un appel à traduction en espagnol
+     * Portail:Mythologie/Articles liés
+     * Portail:Mythes et légendes/Articles liés
+     * Portail:Religions et croyances/Articles liés
+     * Portail:Légendaire/Articles liés
+     * Portail:Culture/Articles liés
+     * Portail:Sociologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Société/Articles liés
+
+     * La dernière modification de cette page a été faite le 14 octobre
+       2024 à 17:58.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

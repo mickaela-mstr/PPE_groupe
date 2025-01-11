@@ -1,0 +1,74 @@
+     * Modèle Diagrammes
+     * Légendes Diagramme
+
+--
+
+Légendes Diagramme
+
+--
+   signification particulière. Par exemple, il est courant d'avoir une
+   légende qui indique qu'une couleur particulière représente un statut ou
+   une version d'élément particulier. Les connecteurs peuvent être colorés
+--
+
+   Les légendes ont des fonctionnalités supplémentaires, notamment la
+   possibilité de colorer automatiquement les éléments de différentes
+   manières et selon différentes règles et filtres. Les légendes sont
+   classées comme des éléments et seront répertoriées dans la fenêtre du
+--
+
+   Les rubriques d'aide Créer des légendes , Propriétés de la légende et
+   Clé de la légende détaillent les mécanismes de configuration de votre
+   légende, mais d'abord un aperçu rapide.
+
+Légende simplifiée
+
+   Les légendes simples fournissent un jeu de clés configuré manuellement
+   qui fait référence aux différents styles utilisés dans le diagramme .
+   Par exemple, un élément peut être défini manuellement pour se remplir
+   de la couleur rouge, et la légende peut être configurée pour indiquer
+   que le rouge signifie « En retard ». C'est un moyen très utile de
+--
+   les significations qu'ils représentent. Vous pouvez créer et ajouter
+   autant de légendes simples que nécessaire à votre diagramme .
+
+Légende automatique
+
+   Une légende automatique est une légende dont la case "Couleur
+   automatique" est cochée. Cela place la Légende dans un mode plus
+   "actif" et ajustera automatiquement le diagramme pour appliquer une
+--
+
+   Par exemple, il est possible de configurer une Légende qui définira
+   tous les éléments d'Exigence qui ont un Statut de 'Validé' sur un
+--
+   définie, le changement d'apparence de l'élément n'est appliqué
+   dynamiquement que sur le diagramme de légende et n'est pas un
+   changement permanent. Si vous désactivez la légende, tous les éléments
+   concernés retrouveront leur apparence de base.
+
+Légende empilée (multiple)
+
+   Ce qui est encore plus utile, c'est la possibilité d'empiler plusieurs
+   légendes de couleur automatique sur un diagramme et de laisser
+   Enterprise Architect colorer dynamiquement en fonction de l'union de
+   toutes les différentes conditions de légende. Par exemple, cette
+   approche vous permet de colorer ou d'affecter dynamiquement l'apparence
+--
+   phase, des cas d'utilisation en fonction de la version, etc. En
+   empilant plusieurs légendes, vous avez la possibilité de créer un
+   diagramme très riche et détaillé qui transmet une énorme quantité
+--
+
+Démarrage avec des légendes
+
+   Ces rubriques fournissent les informations nécessaires pour créer et
+   configurer des légendes sur des diagrammes . Gardez à l'esprit que vous
+   pouvez utiliser les légendes à n'importe quel niveau, du type simple
+   aux styles plus dynamiques de coloration automatique et empilés.
+--
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+

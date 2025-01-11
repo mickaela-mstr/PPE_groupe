@@ -1,169 +1,51 @@
-<!DOCTYPE html>
-<html lang="fr">
+<html lang='fr'>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projet Légende</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Tableau pour la langue : anglais</title>
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css'>
     <style>
         body {
-            display: flex;
-            min-height: 100vh;
-            margin: 0;
             background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
             color: #4a4a4a;
             font-family: 'Georgia', serif;
         }
-
-        .sidebar {
-            width: 250px;
-            background-color: #f3c5b3;
-            padding: 1rem;
-            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-        }
-
-        .sidebar a {
-            display: block;
-            padding: 0.8rem 1rem;
-            margin-bottom: 1rem;
-            background-color: #e8d6c3;
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
             color: #6b4226;
-            font-weight: bold;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: background-color 0.3s;
+            text-align: center;
+            margin-top: 20px;
         }
-
-        .sidebar a:hover {
-            background-color: #e2a68a;
-            color: white;
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
         }
-
-        .content {
-            flex: 1;
+        table, th, td {
+            border: 1px solid #d4b59e;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f3c5b3;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .container {
             padding: 2rem;
         }
-
-        .hero {
-            background: url('./images/banner.jpg') no-repeat center center;
-            background-size: cover;
-            color: #6b4226 !important;
-            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-            padding: 4rem 1rem;
-            position: relative;
-            text-align: center;
-        }
-
-        .title {
-            font-family: 'Playfair Display', serif;
-            font-size: 2.5rem;
-        }
-
-        .subtitle {
-            font-size: 1.2rem;
-            color: #6b4226 !important;
-        }
-
-        .section-title {
-            color:#6b4226 !important;
-            font-weight: bold;
-            font-size: 2.5rem;
-        }
-
-        footer {
-            background: #e8d6c3;
-            padding: 1rem;
-            text-align: center;
-            font-size: 0.9rem;
-            color: #6b4226;
-        }
-
-        .links {
-            margin-top: 1rem;
-        }
-
-        .links a {
-            color: #6b4226;
-            font-weight: bold;
-            text-decoration: none;
-            margin-right: 1rem;
-        }
-
-        .links a:hover {
-            text-decoration: underline;
-            color: #e2a68a;
-        }
-
-        .has-submenu {
-            position: relative;
-        }
-
-        .submenu {
-            display: none;
-            margin-top: 0.5rem;
-            margin-left: 1rem;
-        }
-
-        .has-submenu:hover .submenu {
-            display: block;
-        }
-
-        .submenu a {
-            background-color: #f5e8df;
-            margin-bottom: 0.5rem;
-            display: block;
-            padding: 0.8rem;
-            border-radius: 8px;
-            text-decoration: none;
-        }
-
-        .submenu a:hover {
-            background-color: #e2a68a;
-            color: white;
-        }
-
-        th {
-            color: #6b4226 !important;
-        }
-
     </style>
 </head>
 <body>
-    <aside class="sidebar">
-        <a href="../pages_web/indexv2.html">Accueil</a>
-        <div class="has-submenu">
-            <a href="#tableaux">Tableaux</a>
-            <div class="submenu">
-                <a href="../tableaux/anglais.html">Anglais</a>
-                <a href="../tableaux/francais.html">Français</a>
-                <a href="../tableaux/arabe.html">Arabe</a>
-            </div>
-        </div>
-        <div class="has-submenu">
-            <a href="#linguistique">Analyse Linguistique</a>
-            <div class="submenu">
-                <a href="../pages_web/analyse_linguistique_en.html">Anglais</a>
-                <a href="linguistique/francais.html">Français</a>
-                <a href="linguistique/arabe.html">Arabe</a>
-            </div>
-        </div>
-        <a href="../pages_web/journal.html">Journal</a>
-        <a href="../pages_web/a_propos.html">À propos</a>
-    </aside>
-
-    <div class="content">
-        <section id="accueil" class="hero">
-            <div class="hero-content">
-                <div class="section-title-container">
-                    <h1 class="section-title">Tableau pour l'anglais</h1>
-                        <p class="subtitle"> Quels types d'URLs ai-je choisi?</p>
-
-                      <p>J'ai essayé de montrer la polysémie du mot en choisissant un maximum de sites utilisant legend dans des contextes différents. Donc de nombreux sites mentionnent les légendes en tant que récits mythiques ou folkloriques, comme les légendes urbaines ou arthuriennes. Une part importante du corpus est liée à la culture populaire, notamment les jeux vidéo, films, séries, et franchises célèbres. Pour avoir une illustration du côté journalistique, j’ai choisi des sites utilisant ce mot pour désigner des individus exceptionnels, souvent dans les domaines sportifs, artistiques, ou historiques. Ces usages soulignent le passage du terme "legend" d’un sens narratif à un sens métaphorique. Certains sites utilisent "legend" dans un sens technique, comme les légendes de graphiques, cartes, ou annotations. Cette catégorie contraste fortement avec les usages narratifs et culturels,ce qui amène une dimension technique au mot.</p>
-                </div>
-            </div>
-        </section>
-
-    <th><div class='container'></th>
+    <h1>Tableau pour la langue : anglais</h1>
+    <div class='container'>
         <table>
             <tr>
                 <th>Ligne</th>
@@ -181,9 +63,8 @@
                 <td>1</td>
                 <td>https://en.wikipedia.org/wiki/Urban_legend</td>
                 <td>200</td>
-                <td>17431</td>
-                <td>UTF-8
-</td>
+                <td>17436</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-1.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-1.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-1.txt'>Voir dump</a></td>
@@ -194,9 +75,8 @@
                 <td>2</td>
                 <td>https://en.wikipedia.org/wiki/Legend</td>
                 <td>200</td>
-                <td>8817</td>
-                <td>UTF-8
-</td>
+                <td>8822</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-2.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-2.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-2.txt'>Voir dump</a></td>
@@ -207,7 +87,7 @@
                 <td>3</td>
                 <td>https://www.espn.com/espn/story/_/id/40446224/top-100-athletes-21st-century</td>
                 <td>200</td>
-                <td>22634</td>
+                <td>22401</td>
                 <td></td>
                 <td><a href='../aspirations/anglais/anglais-3.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-3.txt'>Voir contexte</a></td>
@@ -220,8 +100,7 @@
                 <td>https://forums.lostmediawiki.com/thread/2279/disneys-legend-ring-fire</td>
                 <td>200</td>
                 <td>8483</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-4.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-4.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-4.txt'>Voir dump</a></td>
@@ -232,9 +111,8 @@
                 <td>5</td>
                 <td>https://www.bostonteapartyship.com/thomas-jefferson-facts</td>
                 <td>200</td>
-                <td>8178</td>
-                <td>UTF-8
-</td>
+                <td>8183</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-5.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-5.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-5.txt'>Voir dump</a></td>
@@ -245,7 +123,7 @@
                 <td>6</td>
                 <td>https://www.bbc.com/news/magazine-18215048</td>
                 <td>200</td>
-                <td>10954</td>
+                <td>10870</td>
                 <td></td>
                 <td><a href='../aspirations/anglais/anglais-6.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-6.txt'>Voir contexte</a></td>
@@ -258,8 +136,7 @@
                 <td>https://www.thewildlifenews.com/2008/08/26/rural-legends-examples/</td>
                 <td>200</td>
                 <td>13404</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-7.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-7.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-7.txt'>Voir dump</a></td>
@@ -270,9 +147,8 @@
                 <td>8</td>
                 <td>https://mag.remarkist.com/p/fact-or-fiction-the-urban-legends</td>
                 <td>200</td>
-                <td>12251</td>
-                <td>utf-8
-</td>
+                <td>12261</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-8.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-8.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-8.txt'>Voir dump</a></td>
@@ -283,9 +159,8 @@
                 <td>9</td>
                 <td>https://www.messagemagazine.com/articles/bogus-st-patricks-day-legends-and-what-we-should-memorialize/</td>
                 <td>200</td>
-                <td>10134</td>
-                <td>UTF-8
-</td>
+                <td>10139</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-9.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-9.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-9.txt'>Voir dump</a></td>
@@ -297,8 +172,7 @@
                 <td>https://hudsonvalley.org/article/10-things-you-probably-didnt-know-about-washington-irving/</td>
                 <td>200</td>
                 <td>12196</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-10.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-10.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-10.txt'>Voir dump</a></td>
@@ -310,8 +184,7 @@
                 <td>https://listverse.com/2022/01/23/10-blurred-lines-around-the-reality-of-the-slender-man-legends/</td>
                 <td>200</td>
                 <td>14314</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-11.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-11.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-11.txt'>Voir dump</a></td>
@@ -335,8 +208,7 @@
                 <td>https://www.runofplay.com/2011/10/28/the-legend-of-arsene-wenger/</td>
                 <td>200</td>
                 <td>2234</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-13.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-13.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-13.txt'>Voir dump</a></td>
@@ -347,9 +219,8 @@
                 <td>14</td>
                 <td>https://www.pbs.org/wgbh/nova/article/legend-loch-ness/</td>
                 <td>200</td>
-                <td>14420</td>
-                <td>utf-8
-</td>
+                <td>13948</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-14.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-14.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-14.txt'>Voir dump</a></td>
@@ -361,8 +232,7 @@
                 <td>https://hudsonvalley.org/article/irvings-legend-the-story-behind-the-story/</td>
                 <td>200</td>
                 <td>11984</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-15.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-15.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-15.txt'>Voir dump</a></td>
@@ -373,9 +243,8 @@
                 <td>16</td>
                 <td>https://sunwayechomedia.com/2022/05/27/why-are-arthurian-legends-so-popular/</td>
                 <td>200</td>
-                <td>6552</td>
-                <td>UTF-8
-</td>
+                <td>6562</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-16.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-16.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-16.txt'>Voir dump</a></td>
@@ -387,8 +256,7 @@
                 <td>https://heroesinthenight.blogspot.com/2010/07/part-1-overview-of-master-legend.html</td>
                 <td>200</td>
                 <td>6374</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-17.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-17.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-17.txt'>Voir dump</a></td>
@@ -399,9 +267,8 @@
                 <td>18</td>
                 <td>https://en.wikipedia.org/wiki/Legend_(2015_film)</td>
                 <td>200</td>
-                <td>8748</td>
-                <td>UTF-8
-</td>
+                <td>8768</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-18.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-18.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-18.txt'>Voir dump</a></td>
@@ -413,8 +280,7 @@
                 <td>https://support.strava.com/hc/en-us/articles/360043099552-Local-Legends</td>
                 <td>403</td>
                 <td>115</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-19.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-19.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-19.txt'>Voir dump</a></td>
@@ -425,9 +291,8 @@
                 <td>20</td>
                 <td>https://www.gq-magazine.co.uk/culture/article/legend-netflix-tom-hardy</td>
                 <td>200</td>
-                <td>20368</td>
-                <td>utf-8
-</td>
+                <td>20346</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-20.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-20.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-20.txt'>Voir dump</a></td>
@@ -438,7 +303,7 @@
                 <td>21</td>
                 <td>https://community.fabric.microsoft.com/t5/Desktop/Wrap-Legend-in-Stacked-Charts/td-p/1395362</td>
                 <td>200</td>
-                <td>18681</td>
+                <td>18682</td>
                 <td></td>
                 <td><a href='../aspirations/anglais/anglais-21.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-21.txt'>Voir contexte</a></td>
@@ -451,8 +316,7 @@
                 <td>https://forum.legendapp.com/</td>
                 <td>200</td>
                 <td>4399</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-22.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-22.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-22.txt'>Voir dump</a></td>
@@ -464,8 +328,7 @@
                 <td>https://matplotlib.org/stable/api/legend_api.html</td>
                 <td>200</td>
                 <td>13513</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-23.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-23.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-23.txt'>Voir dump</a></td>
@@ -477,8 +340,7 @@
                 <td>https://www.chartjs.org/docs/latest/configuration/legend.html</td>
                 <td>200</td>
                 <td>2967</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-24.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-24.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-24.txt'>Voir dump</a></td>
@@ -489,9 +351,8 @@
                 <td>25</td>
                 <td>https://store.steampowered.com/app/289130/ENDLESS_Legend/</td>
                 <td>200</td>
-                <td>9473</td>
-                <td>UTF-8
-</td>
+                <td>9485</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-25.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-25.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-25.txt'>Voir dump</a></td>
@@ -502,9 +363,8 @@
                 <td>26</td>
                 <td>https://thekraytwins.fandom.com/wiki/Legend</td>
                 <td>200</td>
-                <td>17971</td>
-                <td>UTF-8
-</td>
+                <td>17973</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-26.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-26.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-26.txt'>Voir dump</a></td>
@@ -516,8 +376,7 @@
                 <td>https://www.goodreads.com/series/50673-legend</td>
                 <td>200</td>
                 <td>8163</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-27.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-27.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-27.txt'>Voir dump</a></td>
@@ -529,34 +388,31 @@
                 <td>https://www.fantasyflightgames.com/en/products/legend-of-the-five-rings-the-card-game/</td>
                 <td>403</td>
                 <td>115</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-28.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-28.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-28.txt'>Voir dump</a></td>
                 <td><a href='../concordances/anglais/anglais-28.html'>Voir concordance</a></td>
-                <td>1</td>
+                <td>46</td>
               </tr>
 <tr>
                 <td>29</td>
                 <td>https://stackoverflow.com/questions/79339642/is-there-a-minimum-vertical-spacing-for-legend-keys</td>
                 <td>200</td>
-                <td>9689</td>
-                <td>utf-8
-</td>
+                <td>10369</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-29.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-29.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-29.txt'>Voir dump</a></td>
                 <td><a href='../concordances/anglais/anglais-29.html'>Voir concordance</a></td>
-                <td>22</td>
+                <td>23</td>
               </tr>
 <tr>
                 <td>30</td>
                 <td>https://paisano-online.com/37110/arts-life/the-impact-of-urban-legends/</td>
                 <td>200</td>
-                <td>14113</td>
-                <td>UTF-8
-</td>
+                <td>14119</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-30.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-30.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-30.txt'>Voir dump</a></td>
@@ -567,9 +423,8 @@
                 <td>31</td>
                 <td>https://www.lakeshoregrounds.ca/history-film-urban-legend</td>
                 <td>200</td>
-                <td>10921</td>
-                <td>UTF-8
-</td>
+                <td>10922</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-31.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-31.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-31.txt'>Voir dump</a></td>
@@ -580,9 +435,8 @@
                 <td>32</td>
                 <td>https://en.wikipedia.org/wiki/List_of_urban_legends</td>
                 <td>200</td>
-                <td>19021</td>
-                <td>UTF-8
-</td>
+                <td>19023</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-32.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-32.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-32.txt'>Voir dump</a></td>
@@ -593,9 +447,8 @@
                 <td>33</td>
                 <td>https://www.reddit.com/r/AskHistorians/comments/1cfc0ws/what_exactly_is_the_difference_between_mythology/?rdt=36261</td>
                 <td>200</td>
-                <td>40857</td>
-                <td>utf-8
-</td>
+                <td>40886</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-33.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-33.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-33.txt'>Voir dump</a></td>
@@ -607,8 +460,7 @@
                 <td>https://www.english-heritage.org.uk/visit/inspire-me/tellingtales/</td>
                 <td>200</td>
                 <td>5122</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-34.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-34.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-34.txt'>Voir dump</a></td>
@@ -620,8 +472,7 @@
                 <td>https://www.islandshotel.is/explore-iceland/blog/fascinating-myths-in-iceland/</td>
                 <td>200</td>
                 <td>15470</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-35.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-35.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-35.txt'>Voir dump</a></td>
@@ -632,7 +483,7 @@
                 <td>36</td>
                 <td>https://www.quora.com/If-a-contemporary-Math-PhD-met-with-a-legendary-mathematician-like-Euler-or-Gauss-how-would-the-PhD-feel-about-knowing-more-than-a-legend-Could-said-legends-catch-up-with-todays-knowledge-and-how-fast</td>
                 <td>200</td>
-                <td>13287</td>
+                <td>14237</td>
                 <td></td>
                 <td><a href='../aspirations/anglais/anglais-36.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-36.txt'>Voir contexte</a></td>
@@ -644,7 +495,7 @@
                 <td>37</td>
                 <td>https://www.quora.com/Was-Freddie-Mercury-considered-a-legend-when-he-was-alive</td>
                 <td>200</td>
-                <td>12484</td>
+                <td>12466</td>
                 <td></td>
                 <td><a href='../aspirations/anglais/anglais-37.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-37.txt'>Voir contexte</a></td>
@@ -657,8 +508,7 @@
                 <td>https://www.lkouniv.ac.in/en/page/faculty-of-science</td>
                 <td>200</td>
                 <td>3167</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-38.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-38.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-38.txt'>Voir dump</a></td>
@@ -669,9 +519,8 @@
                 <td>39</td>
                 <td>https://www.comic-con.org/museum/</td>
                 <td>200</td>
-                <td>5789</td>
-                <td>UTF-8
-</td>
+                <td>5919</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-39.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-39.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-39.txt'>Voir dump</a></td>
@@ -682,9 +531,8 @@
                 <td>40</td>
                 <td>https://en.wikipedia.org/wiki/Michael_Jackson</td>
                 <td>200</td>
-                <td>84354</td>
-                <td>UTF-8
-</td>
+                <td>84217</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-40.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-40.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-40.txt'>Voir dump</a></td>
@@ -696,8 +544,7 @@
                 <td>https://www.berose.fr/article477.html?lang=fr</td>
                 <td>200</td>
                 <td>12649</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-41.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-41.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-41.txt'>Voir dump</a></td>
@@ -708,9 +555,8 @@
                 <td>42</td>
                 <td>https://zeldauniverse.net/2010/05/08/hyrule-a-geography-and-cartography/</td>
                 <td>200</td>
-                <td>6142</td>
-                <td>UTF-8
-</td>
+                <td>6126</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-42.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-42.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-42.txt'>Voir dump</a></td>
@@ -721,9 +567,8 @@
                 <td>43</td>
                 <td>https://en.wikipedia.org/wiki/The_Legend_of_Zelda</td>
                 <td>200</td>
-                <td>39553</td>
-                <td>UTF-8
-</td>
+                <td>39558</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-43.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-43.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-43.txt'>Voir dump</a></td>
@@ -735,8 +580,7 @@
                 <td>https://www.reddit.com/r/zelda/comments/6s7hh5/explain_the_legend_of_zelda_to_me_absolute/</td>
                 <td>302</td>
                 <td>33</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-44.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-44.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-44.txt'>Voir dump</a></td>
@@ -747,9 +591,8 @@
                 <td>45</td>
                 <td>https://gaming.stackexchange.com/questions/304819/what-is-zeldas-legend</td>
                 <td>200</td>
-                <td>12097</td>
-                <td>utf-8
-</td>
+                <td>11982</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-45.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-45.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-45.txt'>Voir dump</a></td>
@@ -760,22 +603,20 @@
                 <td>46</td>
                 <td>https://www.dualshockers.com/tell-me-a-story-the-legend-of-zelda-the-wind-waker/</td>
                 <td>200</td>
-                <td>26705</td>
-                <td>UTF-8
-</td>
+                <td>26673</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-46.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-46.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-46.txt'>Voir dump</a></td>
                 <td><a href='../concordances/anglais/anglais-46.html'>Voir concordance</a></td>
-                <td>19</td>
+                <td>14</td>
               </tr>
 <tr>
                 <td>47</td>
                 <td>https://www.reddit.com/r/loreofleague/comments/1gygw5n/so_what_is_a_legend_in_league_what_makes_them_a/</td>
                 <td>302</td>
                 <td>33</td>
-                <td>utf-8
-</td>
+                <td>utf-8</td>
                 <td><a href='../aspirations/anglais/anglais-47.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-47.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-47.txt'>Voir dump</a></td>
@@ -787,8 +628,7 @@
                 <td>https://weirdnj.com/stories/lambertville-highschool-2/</td>
                 <td>200</td>
                 <td>4665</td>
-                <td>UTF-8
-</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-48.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-48.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-48.txt'>Voir dump</a></td>
@@ -799,9 +639,8 @@
                 <td>49</td>
                 <td>https://en.wikipedia.org/wiki/Pok%C3%A9mon</td>
                 <td>200</td>
-                <td>53231</td>
-                <td>UTF-8
-</td>
+                <td>53221</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-49.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-49.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-49.txt'>Voir dump</a></td>
@@ -812,9 +651,8 @@
                 <td>50</td>
                 <td>https://en.wikipedia.org/wiki/League_of_Legends</td>
                 <td>200</td>
-                <td>23462</td>
-                <td>UTF-8
-</td>
+                <td>23467</td>
+                <td>UTF-8</td>
                 <td><a href='../aspirations/anglais/anglais-50.html'>Voir aspiration</a></td>
                 <td><a href='../contextes/anglais/anglais-50.txt'>Voir contexte</a></td>
                 <td><a href='../dumps-text/anglais/anglais-50.txt'>Voir dump</a></td>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head><meta charset='UTF-8'><title>Page Aspirée - francais-46</title></head>
+<body>
+<h1>URL : https://www.cadprofi.com/online-help/fr/cadprofi.htm#!mechanical_hydraulic.htm</h1>
+<div class='aspiration'>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title> </title>
+    <script type="text/javascript" src="js/nethelp.connect.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-75013234-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-75013234-1');
+</script>
+</head>
+<body>
+    <p id="c1noscript">The content is not shown because JavaScript is disabled.</p>
+    <script type="text/javascript">nethelpRender();</script>
+    <script type="text/javascript">
+        window.onload = function() {
+            var url = window.location.href;
+            if (url.includes("#!"))
+            {
+                url = url.replace('cadprofi.htm#!', '');
+                var req = new XMLHttpRequest();
+                req.open('GET', url, false);
+                req.send();
+                if (req.status != 200)
+                {
+                    url = url.toLowerCase();
+                    window.location.replace(url);
+                }
+            }
+        };
+    </script>
+</body>
+</html>
+</div>
+</body>
+</html>

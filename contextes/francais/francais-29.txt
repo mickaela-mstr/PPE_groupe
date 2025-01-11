@@ -1,0 +1,98 @@
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Clé de légende
+
+--
+
+Clé de légende
+
+   Un élément Légende sur un diagramme fournit une clé des conventions
+   d'apparence des éléments et des connecteurs utilisées sur ce diagramme
+   . Chaque convention d'élément ou de connecteur est définie séparément
+   dans l'élément Légende, à l'aide de la boîte de dialogue « Légende » et
+   des onglets « Élément » et « Connecteur ». Si vous souhaitez présenter
+   les éléments de légende dans un ordre spécifique, vous pouvez ajuster
+   l'ordre dans lequel les éléments sont répertoriés sur l'élément.
+
+   Vous pouvez créer plusieurs légendes sur un diagramme , pour
+   représenter des combinaisons particulières de conditions.
+--
+
+   La boîte de dialogue ' Propriétés ' d'un élément Légende sélectionné
+   peut être affichée à l'aide de l'une des méthodes décrites ici.
+--
+
+   Conception > Elément > Editeurs > Elément > Propriétés > Légende
+
+--
+
+   Cliquez-droit sur l'élément Légende | Propriétés
+
+--
+
+   Double-cliquez sur l'élément Légende
+
+Ajouter une légende à un diagramme
+
+--
+
+   Ce champ prend par défaut le nom 'Légende' ; écrasez ou modifiez le nom
+   si nécessaire. Si vous utilisez la facilité "Appliquer la couleur
+   automatique", vous pouvez utiliser le titre Légende pour indiquer la
+   propriété d' object que vous filtrez.
+--
+   La valeur que vous entrez devient le nom de l'élément de convention
+   dans la légende, sauf si elle est remplacée par la valeur ' valeur ' .
+
+--
+
+   Alors que la légende fonctionnera sur la valeur de propriété que vous
+   avez spécifiée, vous préférerez peut-être qu'une string de texte
+--
+   indication plus claire de ce qui est indiqué. Dans ce cas, saisissez la
+   string de texte à afficher sur l'élément Légende.
+
+   Par exemple, la légende coloriera automatiquement les éléments sur la
+   base d'une priorité élevée, moyenne ou faible, mais vous souhaiterez
+--
+   uniquement appliquer automatiquement la couleur et/ou la largeur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+--
+   appliquer automatiquement la couleur de remplissage et/ou la largeur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+--
+   automatiquement que la couleur de remplissage et/ou la couleur de
+   ligne). Ce paramètre s'applique à la légende dans son ensemble, pas
+   seulement à une touche de la légende.
+
+--
+   Cliquez sur ce bouton pour effacer les champs en vue de définir une
+   nouvelle convention d'apparence dans la Légende. Tenez compte des
+   points concernant les conventions multiples et les éléments de légende
+   multiples.
+   Créer des légendes
+
+--
+   Cliquez sur ce bouton pour définir ou modifier l'apparence de l'élément
+   Légende lui-même.
+   Légende Propriétés
+
+--
+
+     * Lorsque vous fermez le dialogue , l'élément Légende s'affiche avec
+       toutes les conventions d'apparence définies ; les conventions
+--
+       connecteur en dessous, séparées par une ligne à travers l'élément
+       Légende
+
+--
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+

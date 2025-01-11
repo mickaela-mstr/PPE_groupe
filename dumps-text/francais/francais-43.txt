@@ -1,0 +1,497 @@
+   #alternate alternate AcceDe Web » Flux AcceDe Web » Flux des
+   commentaires JSON oEmbed (JSON) oEmbed (XML)
+
+   Aller au contenu Aller au menu secondaire English version
+   AcceDe Web - Aller à l'accueil
+
+   (BUTTON) Menu
+   AcceDe Web (BUTTON) Fermer
+   ____________________ Rechercher
+     * Accueil
+     * Les notices
+     * Les formations
+     * Offres d’emploi
+
+   ____________________ Rechercher
+
+     * Accueil
+     * Les notices
+     * Les formations
+     * Offres d’emploi
+
+   Vous êtes dans :
+     * Accueil
+     * >Les notices AcceDe Web (version 4.1.2)
+     * >Notice d’accessibilité HTML et CSS
+     * >6. Images et icônes
+     * >6.4. Baliser les images légendées avec <figure role="figure"> et
+       <figcaption>
+
+6.4. Baliser les images légendées avec <figure role="figure"> et <figcaption>
+
+   Les images légendées doivent être balisées avec <figure role="figure">
+   et <figcaption>.
+
+   La balise <figure role="figure"> doit :
+     * Englober l’image ainsi que la légende, qui doit de son côté être
+       balisée avec <figcaption>.
+     * Posséder un attribut aria-label dont le contenu doit reprendre
+       celui de la balise <figcaption>.
+
+Remarque
+
+   Idéalement, le texte de remplacement de l’image (l’attribut alt pour la
+   balise <img />, par exemple) doit contenir une référence à la légende
+   adjacente.
+
+Exemple 1
+
+   Trois lamas dans le désert en Bolivie. Désert en Bolivie, prise de vue
+   par Audesou.
+<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+   <img src="…" alt="Trois lamas dans le désert en Bolivie." />
+   <figcaption>
+      Désert en Bolivie, prise de vue par Audesou.
+   </figcaption>
+</figure>
+
+Exemple 2
+
+   Trois lamas dans le désert. [photo 1] Photo 1 : prise de vue par
+   Audesou en Bolivie.
+<figure role="figure" aria-label="Photo 1 : prise de vue par Audesou en Bolivie.
+">
+   <img src="…" alt="Trois lamas dans le désert. [photo 1]" />
+   <figcaption>
+      Photo 1 : prise de vue par Audesou en Bolivie.
+   </figcaption>
+</figure>
+
+23 commentaires
+
+     * Par Pierre, le 8 octobre 2024 à 12h35.
+       Bonjour,
+       Quand on a un role= »figure »et un figcaption, le validateur w3c
+       génère l’erreur : « A figure element with a figcaption descendant
+       must not have a role attribute. »
+       Est-ce toujours nécessaire d’avoir cet attribut role ?
+       Répondre
+          + Par Margot Keller, le 8 octobre 2024 à 14h53.
+            Bonjour Pierre,
+            En effet le validateur w3c génère bien cette erreur, mais une
+            discussion est ouverte sur leur Github à propos du fait de
+            requalifier cette erreur plutôt en warning.
+            Toutefois, d’après le RGAA, les tests présentés dans le
+            critère 1.9 demandent à ce que « La balise figure possède un
+            attribut WAI-ARIA role="figure" ou role="group" ; ». Cette
+            demande a pour but de « pallier le manque de support actuel
+            des éléments figure par les technologies d’assistance. » (tiré
+            de la note technique du critère 1.9), la présence de cet
+            attribut est donc nécessaire pour la conformité.
+            Bien à vous,
+            Margot
+            Répondre
+     * Par Olivier, le 3 septembre 2024 à 15h41.
+       Bonjour,
+       Admettons que l’html doivent être standardisée en vue d’une édition
+       via CMS et qu’il serait trop compliquée de prévoir une intégration
+       selon les cas ‘image porteuse d’information : oui/non’.
+       Est-ce que l’usage de cette structure html avec un aria-label vide,
+       un alt vide et figcaption vide constiturait une non conformité au
+       regard du RGAA ?
+       Répondre
+          + Par Margot Keller, le 4 septembre 2024 à 10h22.
+            Bonjour Olivier,
+            Le RGAA définit une image sans légende dans les deux cas
+            suivants :
+               o Une image qui n’est pas insérée dans un élément figure ;
+               o Une image insérée dans un élément figure sans élément
+                 figcaption.
+            Selon cette définition, une image insérée dans un élément
+            figure avec l’élément figcaption vide n’est pas conforme pour
+            une image sans légende, donc cela constituerait une
+            non-conformité au regard du RGAA.
+            Cependant, nous avons effectué quelques tests, et cette
+            structure HTML est correctement ignorée par les lecteurs
+            d’écran NVDA et Jaws, nous pouvons considérer que l’impact
+            utilisateur de cette non-conformité est assez faible.
+            Bien à vous,
+            Margot
+            Répondre
+     * Par EllemK, le 15 février 2024 à 14h03.
+       Bonjour,
+       En complément de tout cela, n’est-il pas nécessaire d’également
+       ajouter le role pour l’image (« presentation » ou « img » dans la
+       balise img).
+       Le fait qu’il y ait une description dans le « aria-label » et le
+       « figcaption » permet-il de se passer de cette information ?
+       Répondre
+          + Par Romain Desjardins (Atalan), le 19 février 2024 à 16h00.
+            Bonjour EllemK,
+            La balise img a déjà un role="img" implicite, il n’y a donc
+            pas besoin de le rajouter.
+            Attention au role="presentation" (similaire au role="none")
+            qui aura pour effet de supprimer la sémantique de la balise
+            img. L’image pourrait alors ne plus être restituée au lecteur
+            d’écran.
+            J’espère avoir pu répondre à votre question.
+            Bien à vous,
+            Romain
+            Répondre
+     * Par Didier, le 13 octobre 2020 à 20h01.
+       Ce commentaire a été publié il y a plus de 2 ans. Il se peut que
+       son contenu ne soit plus d'actualité.
+       Bonjour,
+       Est-ce vraiment nécessaire de préciser le rôle « figure » de la
+       balise ?
+       La balise porte déjà cette sémantique et c’est le rôle ARIA par
+       défaut pour cette balise, non ?
+       Didier
+       Répondre
+          + Par Johan Ramon, le 14 octobre 2020 à 9h29.
+            Ce commentaire a été publié il y a plus de 2 ans. Il se peut
+            que son contenu ne soit plus d'actualité.
+            Bonjour Didier,
+            Merci pour votre commentaire.
+            Oui, il est nécessaire d’intégrer role="figure" (ou
+            role="group") pour assurer une rétrocompatibilité avec
+            d’anciennes versions de technologies d’assistance comme les
+            lecteurs d’écran (synthèse vocale et/ou plage braille), par
+            exemple.
+            À noter aussi que cela est nécessaire pour la conformité au
+            RGAA 4 (cf. critère 1.9. Chaque légende d’image est-elle, si
+            nécessaire, correctement reliée à l’image correspondante ?).
+            Johan
+            Répondre
+     * Par Steven, le 26 janvier 2018 à 16h21.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Bonjour,
+       Ne faudrait-il pas modifier l’article par rapport au commentaire de
+       Sébastien qui me parait tout à fait pertinent. En effet rien dans
+       l’image ne permet de dire que c’est spécifiquement la Bolivie.
+       Répondre
+          + Par Sébastien Delorme, le 26 janvier 2018 à 16h32.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Bonjour Steven,
+            Merci pour ta remarque.
+            Effectivement, nous avions apparemment oublié de faire la mise
+            à jour. C’est rectifié.
+            Sébastien.
+            Répondre
+     * Par goetsu, le 2 septembre 2016 à 15h22.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       A noter également l’ajout de role="group" ne sert à rien
+       actuellement d’après les tests que j’ai fais nvda et voiceover
+       n’ont aucun comportement particulier.
+       Avec jaws 17 + FF il annonce groupe + la légende quand on arrive
+       sur le bloc que ce soit avec le role ou sans car c’est la
+       combinaison figure + figcaption qui déclenche cela.
+       Si on veut que cela fonctionne dans jaws 17 + ie et dans Voiceover
+       la structure a utilisée est :
+<figure role="group" aria-labelledby="iddelalegende">
+  <img alt="mon texte alt" />
+  <figcaption id="iddelalegende">légende de mon image</figcaption>
+</figure>
+
+       Par contre NVDA restera toujours à la traine
+       Répondre
+     * Par goetsu, le 2 septembre 2016 à 14h38.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       A noter l’utilisation de l’élément figcaption est optionnel selon
+       le RGAA.
+       Répondre
+     * Par bruno, le 19 août 2016 à 10h09.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Rebonjour,
+       Merci. Du coup, nous qui misons beaucoup sur google, tient-t-il du
+       alt des images pour les indexer ?
+       On peut se retrouver avec beaucoup de fois « Photographie, voir
+       légende ci-après » et ce n’est plus pertinent pour lui.
+       De même que : « Trois lamas dans le désert en Bolivie. » Jusque là
+       ça va, mais le fait d’ajouter Photo 1, c’est du parasite pour
+       google.
+       Très difficile de faire un choix entre SEO et les utilisateurs.
+       MErci
+       Répondre
+          + Par Sébastien Delorme, le 19 août 2016 à 10h30.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Mais il faut parfois faire des choix :)
+            Oui Google analyse les alternatives des images. Mais en toute
+            honnêteté, sur une page avec probablement plusieurs milliers
+            de mots, 3 ou 4 mots dans une alternative ne devraient avoir
+            quasi-aucun impact sur le SEO.
+            La recherche sur Google de Trois lamas dans le désert donne
+            cette image comme premier résultat dans Google Images et cette
+            page arrive dans quatrième position dans la recherche
+            classique.
+            Je la cherche toujours dans les résultats de : légende
+            ci-après :).
+            Pourtant le nombre d’occurrences dans la page est
+            quasi-identique.
+            Et le nombre élevé d’apparition du terme "Photo" ne semble pas
+            vraiment déranger.
+            Plus sérieusement, il faudrait faire un vrai test, mais je
+            suis intimement persuadé que le respect de l’exemple 1 comme 2
+            dans cette fiche ne peut qu’être bénéfique pour le SEO.
+            Bien à toi,
+            Sébastien.
+            Répondre
+     * Par Bruno, le 8 août 2016 à 9h49.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Bonjour,
+       en effet dans l’exemple 2, cela me gêne de mettre « Photo 1 » en
+       visible à l’internaute
+          + pour raison esthétique
+          + cela suggère que c’est la 1ère et qu’il y a une photo 2 par
+            ex.
+          + si on suit la logique de l’accessibilité qui dit que les
+            intitulés doivent être explicites et compréhensibles quand ils
+            sont seuls, ce n’est pas correct de terminer le alt par
+            « [photo 1] »
+       je travaille sur un site de news, c’est pas pratique de se calquer
+       sur l’exemple 1 (dans le alt, terminer par un ensemble de mots et
+       débuter par ces mots dans le figcaption) ou 2.
+       Le fait que la balise img et figcaption soit englobés par figure
+       qui a en plus un role group, cela ne suffit pas à légender ?
+       Répondre
+          + Par Sébastien Delorme, le 8 août 2016 à 15h14.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Je comprends tout à fait.
+
+     Le fait que la balise img et figcaption soit englobés par figure qui
+     a en plus un role group, cela ne suffit pas à légender ?
+            Non car actuellement les aides techniques ne supportent pas
+            entièrement toutes ces balises.
+            Aussi, il est intéressant quand on consulte la liste des
+            images avec une synthèse vocale de savoir qu’on peut atteindre
+            une légende plus bas. Ou inversement quand on écoute une
+            légende de savoir à quoi elle se rattache.
+            Le plus simple est donc simplement d’utiliser « Photographie,
+            voir légende ci-après » comme alternative.
+
+     si on suit la logique de l’accessibilité qui dit que les intitulés
+     doivent être explicites et compréhensibles quand ils sont seuls, ce
+     n’est pas correct de terminer le alt par « [photo 1] »
+            Cette règle s’applique sur les liens, pas sur les alternatives
+            données aux images.
+            Bien à vous,
+            Sébastien.
+            Répondre
+     * Par Bruno, le 5 août 2016 à 15h51.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Bonjour,
+       dans le figcaption, ça m’embête de mettre « Photo 1 : ». Que
+       puis-je ?
+       Merci
+       Répondre
+          + Par Sébastien Delorme, le 5 août 2016 à 17h01.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Bonjour,
+            L’objectif étant que l’alternative de l’image fasse référence
+            à la légende, il est possible de le faire par d’autres biais.
+            L’exemple numéro 1 est une autre possibilité.
+            Une autre solution peut être de préciser simplement dans
+            l’alternative (alt) de l’image : « Voir légende ci-après »
+            (notez que « ci-après » est plus recommandé que « ci-dessous »
+            qui implique une positionnement visuel pas forcément clair
+            pour un utilisateur de lecteur d’écran).
+            Bien à vous,
+            Sébastien.
+            Répondre
+     * Par Véronique Leclerc, le 7 juillet 2016 à 20h29.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Bonjour,
+       serais-ce possible de connaitre sur référentiel est basé cette
+       norme? Surtout concernant la notion de référence dans le texte
+       alternatif et la légende de l’image?
+       Merci beaucoup
+       Répondre
+          + Par Sébastien Delorme, le 8 juillet 2016 à 10h36.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Bonjour Véronique,
+            Nous nous appuyons sur le RGAA (Référentiel Général
+            d’Accessibilité pour les Administrations).
+            Il s’agit précisément du critère 1.10 [A] Chaque légende
+            d’image est-elle, si nécessaire, correctement reliée à l’image
+            correspondante ? et le dernier point du test 1.10.1 : "Le
+            contenu de l’attribut alt de l’image contient une référence à
+            la légende adjacente.".
+            L’intérêt pour l’utilisateur d’un lecteur d’écran est assez
+            fort. Lorsqu’il lit une légende, cela lui permet de comprendre
+            qu’elle est rattachée à un visuel (en inversement). Sans cela,
+            il peut être très perturbant de lire une légende sans
+            comprendre à quoi elle est rattachée (avec le risque de
+            l’interpréter comme un texte qui vient de nulle part).
+            Bien à vous,
+            Sébastien.
+            Répondre
+     * Par Sébastien Delorme, le 20 avril 2016 à 9h23.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Suite à une discussion en formation, je propose qu’on retire la
+       mention « Bolivie » de l’alternative de l’image.
+       Cette information n’est pas déterminable en regardant l’image, et
+       par contre, a bien sa place dans la légende.
+       Cela donnerait donc :
+<figure role="group">
+   <img src="…" alt="Trois lamas dans le désert [DEL: en Bolivie :DEL] . [photo
+1]" />
+   <figcaption>
+      Photo 1 : prise de vue par Audesou en Bolivie en février 2013.
+   </figcaption>
+</figure>
+
+       À reproduire sur les deux exemples.
+       Répondre
+     * Par claire bizingre, le 21 septembre 2015 à 9h33.
+       Ce commentaire a été publié sur une ancienne version des notices
+       AcceDe Web. Il se peut que son contenu ne soit plus d'actualité.
+       Bonjour,
+       Cette notion de référence dans l’alternative à la légende m’a
+       toujours embêté !!
+       Si je ne me trompe pas, c’est pour combler la non prise en compte
+       du rôle group par certains lecteurs d’écran.
+       Si il n’y a qu’une seule image dans mon texte, je vais avoir du mal
+       à suggérer aux rédacteurs de rajouter photo 1 devant la légende.
+       Une autre solution pourrait de commencer l’alternative par le début
+       de la légende. Ici on aurait dans l’alternative : Désert de
+       Bolivie, trois lamas. et la légende : Désert de Bolivie, prise de
+       vue par Audesou ou en février 2013. Plus significatif que photo1
+       !!!
+       Qu’en pensez-vous?
+       Répondre
+          + Par Johan Ramon, le 22 septembre 2015 à 10h12.
+            Ce commentaire a été publié sur une ancienne version des
+            notices AcceDe Web. Il se peut que son contenu ne soit plus
+            d'actualité.
+            Bonjour Claire,
+            Merci pour ton commentaire et ta proposition que nous trouvons
+            très pertinente !
+            Nous avons donc ajouté ton exemple.
+            Johan
+            Répondre
+
+Ajouter un commentaire
+
+   Tous les champs sont obligatoires.
+
+   Nom ____________________
+
+   Email ____________________
+
+   Commentaire
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   [ ] Me prévenir par email dès qu'une réponse est apportée à mon
+   commentaire.
+
+   Commenter
+   Current ye@r * 7.3.4_______________
+   Leave this field empty ____________________
+
+   Haut de page
+
+     * Notice d'accessibilité fonctionnelle et graphique
+     * Notice d'accessibilité HTML et CSS
+          + 1. Structure générale
+          + 2. Titre de la page
+          + 3. Langues
+          + 4. Grammaire HTML et sémantique
+          + 5. Liens et boutons
+          + 6. Images et icônes
+               o 6.1. Gérer l'attribut alt des balises <img /> et
+                 <input type="image" />
+               o 6.2. Gérer l'alternative des SVG (images vectorielles)
+               o 6.3. Gérer l'alternative des icônes insérées via les CSS
+               o 6.4. Baliser les images légendées avec <figure
+                 role="figure"> et <figcaption>
+          + 7. Formulaires
+          + 8. Listes
+          + 9. Tableaux
+          + 10. Usage des CSS
+          + 11. Zoom et taille des textes
+          + 12. Navigation au clavier
+          + 13. Iframes
+          + 14. Règles supplémentaires pour la conformité
+          + Bonnes Pratiques
+          + Correspondance entre le RGAA 4.1.2 et AcceDe Web (version
+            4.1.2)
+     * Notice d'accessibilité des principaux composants d'interface riche
+     * Notice d'accessibilité éditoriale (modèle)
+
+Rejoignez-nous
+
+   Faites de l'accessibilité numérique votre métier !
+   Voir les offres d'emploi
+
+Contactez-nous
+
+
+    Atalan - Accessibilité numérique et sensibilisation au handicap
+    Paris (France)
+    Email : contact@atalan.fr
+    Toronto (Canada)
+    Email : contact@atalan.ca
+    Site web : www.atalan.fr
+    Atalan sur Twitter
+    Atalan sur LinkedIn
+    Pour toutes remarques, suggestions ou réclamations
+    Email : contact@atalan.fr
+
+Le projet AcceDe PDF
+
+   AcceDe PDF
+
+   En partenariat avec :
+     * Air Liquide
+     * Atos
+     * BNP Paribas
+     * Capgemini
+     * EDF
+     * Generali Group
+     * L'oréal
+     * SFR
+     * SNCF
+     * Société Générale
+     * Spie
+     * Total energies
+
+   Et le soutien de :
+     * AbilityNet
+     * AnySurfer
+     * APF France Handicap
+     * Association Valentin Haüy (AVH)
+     * CIGREF
+     * Fondation Design For All
+     * ESSEC
+     * Handirect
+     * Hanploi
+     * Sciences Po
+     * Télécom ParisTech
+
+     * Aide |
+     * Plan du site |
+     * CGV et CGU |
+     * Mentions légales |
+     * Vie privée |
+     * Connexion (formations en ligne)

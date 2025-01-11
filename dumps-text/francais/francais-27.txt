@@ -1,0 +1,265 @@
+   Réserver une Démo
+
+   Home
+
+     *
+     * Produits >
+       Enterprise Architect
+       Quoi de neuf dans v17.0 Quoi de neuf dans v16.1 Quoi de neuf dans
+       v16.0 Quoi de neuf dans v15.2 Quoi de neuf dans v15.1 Quoi de neuf
+       dans v15 Aperçu Professional Corporate Unified Ultimate Comparez
+       Éditions SaaS Essai Gratuit Téléchargements Enregistrés
+       Info Additionnelle
+       Historique des Versions Infos de Licence Licences flottantes
+       Tarification Universitaire Exigences du Système EULA MDG Extensions
+       3rd Party Extensions
+       Pro Cloud Server
+       Quoi de neuf dans v6.0Quoi de neuf dans v5.1Quoi de neuf dans
+       v5.0Quoi de neuf dans v4.2 Aperçu WebEA Intégrations Serveur de
+       Licence Flottant Comparez Éditions Essai Gratuit Téléchargements
+       Info Additionnelle
+       Tour de 30 minutes Historique des Versions Exigences du Système
+       EULA
+       Prolaborate
+       Quoi de neuf dans 5.3 Aperçu Introduction Ressources Articles
+       Documentation Historique des Versions FAQ Événements Vidéos Essai
+       Gratuit
+       Info Additionnelle
+       Demander une Démo Preuve de Concept Prolaborate SaaS EULA
+         ______________________________________________________________
+
+     * Tarification >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * Support >
+       Forum
+       Guide d’Utilisateur/Aide
+       Contactez Nous
+       Signalez un bug
+       Demandez de fonctionnalité
+       Changez votre adresse Émail
+       Rapport de Bug prioritaire
+       Émail de Support
+       Émail de Ventes
+       FAQ
+       Support
+       Ventes
+       Détails de la Société
+       Salle de Press
+       Revendeurs
+       Afrique
+       Europe
+       Amérique du Nord
+       Sparx Services
+       Amérique du Nord
+       Australia
+       Europe Centrale
+       Royaume-Uni
+       Sociétés Sœurs
+       Argentine
+       Chine
+       Inde
+       Japon
+       Consultants et Mentors
+       Afrique
+       Amérique du Nord
+       Europe
+       En Ligne
+         ______________________________________________________________
+
+     * Ressources >
+       Webinaires
+       Prochaine Bibliothèque S'inscrire
+       Vidéos
+       Vidéos Démo Cours Vidéo
+       PDF Bibliothèque
+       Fondamentaux Modélisation Collaboration Publication Simulation
+       Gestion de Projet Voyez Bibliothèque Entiére
+       Autre
+       Livres Blancs Tutoriels Études de Cas Centre d'Apprentissage
+       Brochures
+       Utilisateurs enregistrés
+       Enterprise Architect Pro Cloud Server
+       Tous Utilisateurs
+       Téléchargements Gratuit DBMS Scripts Référentiel Clé Sécurité
+       d'utilisateur
+       Tous Ressources >
+         ______________________________________________________________
+
+     * UML Tutoriel
+     * Solutions >
+       Accueil
+       Commencer
+       Réserver une Démo
+       Accélérateurs
+       Cas d’Utilisation
+         ______________________________________________________________
+
+     * Communauté
+     * Télécharger >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * register users Connectez
+     *
+
+       ____________________ Search
+
+     * Index
+     * [ ]
+          + Fondamentaux de Modélisation
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Créer des légendes
+
+   Search User Guide___ Go
+
+SVP notez : Cette page d’aide n’est pas pour la dernière version d’Enterprise
+Architect. La dernière aide peut être trouvée ici.
+
+   Pré. Proc.
+
+Créer des légendes
+
+   Un élément Légende sur un diagramme fournit une clé visuelle des
+   couleurs et des épaisseurs de ligne que vous avez utilisées pour
+   identifier les éléments et/ou les connecteurs qui ont une signification
+   particulière. La Légende peut refléter une convention simple, appliquée
+   manuellement, telle que tous les éléments concernés par un système de
+   gestion étant ombrés en bleu, ou tous les connecteurs sortants colorés
+   en rouge. Cependant, les légendes de couleur automatique peuvent
+   également appliquer automatiquement le style aux éléments ou aux
+   connecteurs ayant une propriété choisie, telle qu'une phase, un
+   stéréotype ou un type spécifique.
+
+   La légende répertorie d'abord les conventions d'apparence des éléments,
+   puis les conventions d'apparence des connecteurs en dessous.
+
+   Showing a diagram legend listing the special colors used on a diagram
+   with their meanings.
+
+   Vous travaillez sur un élément Légende en deux étapes : créez et
+   définissez d'abord l'élément Légende lui-même, puis définissez les
+   styles d'apparence tels qu'ils sont affichés sur le diagramme .
+
+Accéder
+
+   Boîte à outils
+
+   Faites glisser l'icône de légende du Legend element Diagramme de la
+   page "Commun" de la boîte à outils vers le diagramme
+
+   Barre d'outils
+
+   Cliquez sur l'icône ' Nouveau Diagramme Legend' ( Legend element ) dans
+   la barre d'outils Eléments UML
+
+Légendes multiples
+
+   Dans de nombreux cas, une seule Légende suffira à définir les styles et
+   leurs significations dans le diagramme actuel. Dans certaines
+   situations cependant, il est beaucoup plus intéressant et efficace
+   d'utiliser plusieurs légendes, surtout si les légendes sont à
+   coloration automatique. Les situations où plusieurs légendes sont
+   utiles incluent :
+     * Si vous souhaitez utiliser plusieurs styles appliqués
+       automatiquement (Stacked Legends)
+     * Si vous avez utilisé plusieurs styles appliqués manuellement et que
+       vous souhaitez les identifier en petits groupes
+     * Lorsque le diagramme est grand et que vous souhaitez reproduire la
+       même clé là où elle peut être référencée dans différentes sections
+       du diagramme
+
+   Étant donné qu'une seule légende est limitée à un seul filtre par type
+   d'élément (ou tous les types), comme une plage de valeurs de statut
+   pour Exigences , plusieurs légendes sont un bon moyen d'adresser
+   différents filtres sur différents types d'éléments. Une deuxième
+   légende, par exemple, peut indiquer que tous les composants sont
+   colorés en fonction d'un numéro de version ou de phase.
+
+   Vous pouvez avoir des conditions qui fonctionnent sur différentes
+   propriétés, en définissant ces conditions dans des éléments Legend
+   distincts. Cependant, vérifiez que les conventions dans les deux
+   Légendes fonctionnent sur des caractéristiques d'affichage différentes
+   ; par exemple, une légende définit la couleur de remplissage de la
+   classe tandis que l'autre définit la largeur de la bordure de la
+   classe. Ils ne peuvent pas agir tous les deux sur la même propriété,
+   telle que la couleur de remplissage de la classe. Si c'est le cas, la
+   légende la plus récemment créée (ou celle avec l'ordre Z le plus élevé)
+   remplace la légende précédente.
+
+Apprenez Plus
+
+     * Legend Properties
+     * Legend Key
+
+   (*)
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+
+   Pré. Proc.
+
+   Sparx Systems Enterprise Architect
+   contactez
+   [ ] Produits
+     * Produits
+     * Enterprise Architect
+     * Pro Cloud Server
+     * Prolaborate
+
+   [ ] UML en un coup d’œil
+     * UML en un coup d’œil
+     * Outils d’UML
+     * Modélisation PHP UML
+     * Modélisation Processus Métier
+     * Modèle Dirigé d’Architecture
+     * Gestion des Exigences
+     * Développement de Logiciel
+
+   [ ] Solutions
+     * Solutions
+     * Corporate
+     * Gouvernement
+     * Petit Moyenne Enterprise
+     * IT Professionelles
+     * Formateurs
+     * Universitaire
+
+   [ ] Resources
+     * Ressources
+     * UML 2.0 Tutoriel
+     * Corporate Ressources
+     * Developpeur Ressources
+     * Ressources Médias
+
+   [ ] Support
+     * Support
+     * Manuel en ligne
+     * Forum d’utilisateur
+     * Signalez un bug
+     * Demander une fonctionnalite
+     * Comparez Éditions
+     * Exigences de Systeme
+
+   [ ] Partenaires Mondiaux
+     * Partenaires Mondiaux
+     * Formateurs
+     * Revendeurs
+     * Société Soeurs
+     * Partenaires Technologiques
+     * Organisations de Normes
+
+   © 2000 - 2025   Sparx Systems Pty Ltd.   Tous droits reserves.
+   Legal Privee À propos De Nous
+     *
+     *
+     *
+     *

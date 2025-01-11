@@ -1,58 +1,122 @@
-    #La Bibliomaniaque » Flux La Bibliomaniaque » Flux des commentaires La
-   Bibliomaniaque » Des genres oraux : le conte, le mythe et la légende
-   Flux des commentaires alternate alternate La Bibliomaniaque
+   #alternate alternate Europe Is Not Dead! » Flux Europe Is Not Dead! »
+   Flux des commentaires Europe Is Not Dead! » Légendes européennes Flux
+   des commentaires JSON oEmbed (JSON) oEmbed (XML)
 --
 
-Des genres oraux : le conte, le mythe et la légende
+Légendes européennes
 
-   Le conte, le mythe et la légende ont pour caractéristique commune
-   d’être, à la base, des histoires contées oralement. Bien souvent, elles
+   “L’Europe, en légende, a toujours été le refuge des discussions
+   philosophiques les plus subtiles ; l’Amérique a été le théâtre d’un
 --
-   à l’histoire qu’ils‧elles racontent oralement, que ce soit un mythe,
-   une légende… ou un conte! C’est au moment du passage à l’écrit, de la
-   fixation du texte, que la distinction vient plus souvent se faire. Et
+   proximité de la Lorelei allemande, et de sa meilleure amie Mélusina…
+   Une fois réunies, toutes ces légendes européennes nous dévoilent le
+   potentiel créatif du vieux continent. Les légendes en Europe sont au
+   cœur de notre société et de notre histoire. Elles inspirent de nombreux
 --
-   présenté sur le blogue Lireka, qui regroupe des contes, des mythes et
-   des légendes).
-
---
-
-Le conte littéraire, le mythe et la légende
+   tentative de rendre hommage à ce patrimoine. Découvrez les versions
+   complètes de chaque légende en cliquant sur l’image ou la suite.
 
 --
-   histoires en tous genres, mais il reste possible de faire la
-   distinction entre le conte, le mythe et la légende.
+   le coupable ? Comment sera-t-il jugé ? C’est le mystère que la célèbre
+   légende du coq de Barcelos tente de résoudre. Dans cette intrigue
+   médiévale digne d’un classique d’Agatha Christie, l’aide peut venir à
+--
+   l’intervention miraculeuse d’un coq peut-elle sauver un homme innocent
+   ? Vous le saurez en lisant la légende dans son intégralité ici. [lire]
 
 --
-
-La légende
-
-   Plus près du réel imaginable, la légende se situe dans un cadre
-   spatio-temporel plus précis. On peut penser aux textes de Fred Pellerin
+   nobles lui désobéirent, il décida simplement qu’il était judicieux de
+   les punir en leur coupant la tête… Cette légende macabre fut racontée
+   pour la première fois dans les Cantar de la campana de Huesca, œuvre
+--
+   l’Histoire se souvient de lui comme d’un personnage rusé dotée d’un
+   grand sens politique. La légende est si forte que l’expression « une
+   cloche de Huesca » est encore utilisée de nos jours pour désigner un
+--
+   entendu parler de lui grâce à J.R.R. Tolkien qui en a fait une
+   adaptation en vers sous le nom de La Légende de Sigurd et Gudrún.
+   [lire]
+--
+   flammes ? Ou peut-être pour ennuyer ses ravisseurs ? Dans tous les cas,
+   la légende du Manneken Pis est une nouvelle preuve de la créativité des
+   nos amis Belges… [lire]
 --
 
-   Certes, la légende se colle au réel, mais elle permet aussi des
-   éléments non prouvés scientifiquement, auxquels on adhère… ou pas!
-   C’est le cas par exemple des esprits qui prennent souvent place dans
-   les légendes québécoises (La Dame blanche, entre autres) ou des
-   créatures fantastiques comme le loup-garou ou le Sasquatch.
+   Une autre légende qui nous apprend à se méfier des femmes… Le Lorelei
+   est un rocher situé sur la rive orientale du Rhin en Allemagne, qui
+--
+   qui durent plus de deux jours ? Comment peut-il briser un sort jeté sur
+   lui ? La légende de la promenade de la sorcière Mariatrost ressemble à
+   un conte de fées. Son histoire a traversé les siècles grâce à un
+--
+   chaussures à semelles de métal vers le haut… Nous avons votre attention
+   ? Alors lisez la légende ici [lire]
+
+--
+   racontera probablement l’histoire du héros de l’indépendance suisse.
+   Selon la légende, Tell, un homme un peu fou mais qui ne manquait pas de
+   panache, aurait fait un doigt d’honneur au dirigeant autrichien
+   tyrannique Gessler (ou à son chapeau pour être plus précis) avant de le
+   tuer pour faire bonne mesure… La légende de Guillaume Tell se situe
+   durant la fondation de l’ancienne Confédération suisse au début du XIVe
+--
+   Comment en est-elle arrivée à distribuer des bonbons aux enfants ?
+   Découvrez-le dans la légende de la Befana [lire]
+
+--
+   d’un lac où ils décident finalement de s’installer ? Vous ne trouverez
+   peut-être pas d’exactitude historique dans la légende hongroise de la
+   Biche miraculeuse, mais vous saisirez probablement un élément important
+   de la psyché de la nation magyare. La légende est si ancienne qu’elle
+   se retrouve sous diverses formes parmi les nations qui étaient des
+--
+   habitants de la ville de Cracovie ne savait d’où il venait et comment
+   il était arrivé là… Le dragon de Cracovie est une célèbre légende et un
+   conte de fées polonais. La grande grotte de 200 mètres de long à
+--
+   quoi cela nous renseigne sur les origines de la ville de Vilnius ? La
+   légende du Loup de Fer nous raconte tout ça. D’abord répertoriée dans
+   les Chroniques lituaniennes, cette légende reflète peut-être le désir
+   des Lituaniens de mettre en valeur leurs lien avec l’empire romain. La
+--
+   par le christianisme… Le poème épique d’Andrejs Pumpurs, écrit entre
+   1872 et 1887, est basé sur des légendes locales et est considéré comme
+   l’épopée nationale lettone. [lire]
 --
 
-   Comme le conte, la légende se veut divertissante, mais aussi
-   moralisatrice. Les histoires racontées cherchent parfois à faire peur à
+   Une légende biélorusse raconte qu’une grande guerre aurait eu lieu dans
+   le pays il y a fort longtemps, entre l’homme et les hommes-éléphants
 --
-   destruction de la nature [Les arbres qui saignent d’Abitibi]…). Dans
-   certains cas, comme le mythe, la légende renseigne sur des aspects du
-   mode de vie ou sur des lieux (La croix maudite de Causapscal, Le rocher
+   “Celui d’entre vous qui m’apportera en cadeau une fleur Edelweiss,
+   alors à cette personne je donnerai mon cœur et ma main“. La légende du
+   Bliznitsa commence par un défi : gagner le cœur d’une demoiselle. Mais
 --
+   se cache au sommet de la montagne des Carpates ? Découvrez-le dans la
+   légende populaire de Bliznitsa… [lire]
 
-   En conclusion, le conte, le mythe et la légende sont des histoires
-   fictives issues de la tradition orale. Avec le temps, même si on couche
 --
-
-   Catégorie: La lecture     Étiquettes : conte, légende, mythe
-   ← Cheval Indien
+   Mais, au petit matin, sa propre femme, Anna arriva la première…
+   L’histoire de Manole est une légende vivante prouvant l’imagination de
+   plusieurs générations de Roumains, d’anciennes pratiques et de
 --
-
-1 Comments on “Des genres oraux : le conte, le mythe et la légende”
-
+   Mais le petit dragon a son propre secret : il garde les belles perles
+   de la grotte… Intéressé par cette belle légende ? Gardez en mémoire
+   qu’elle s’inspire de faits réels, car la grotte de Postojna est en
+--
+   jour. De nombreuses personnes âgées dans les villages bosniaques vous
+   raconteront encore aujourd’hui les légendes sur la Reine Katarina…
+   [lire]
+--
+   verrez la première cigogne de la saison. Cette tradition vient de la
+   légende du faucon de Khan Asparuh, le premier roi bulgare, abattu par
+   un ennemi alors qu’il traversait une rivière… [lire]
+--
+   Montagne aux Cinq doigts à Kyrenia — les raisons invoquées pour son
+   étrange apparence varient toutefois grandement d’une légende à l’autre.
+   [lire]
+--
+   turque est la focalisation sur le loup gris en tant que mère du peuple
+   turc. La légende de ‘Boz Kurt’ voit la grande louve se réveiller et
+   engendrer l’identité et l’héritage des Turcs à travers la conquête et
+   la construction d’une grande civilisation. À la base, la légende
+   raconte l’histoire d’Asena, une louve qui a donné naissance au premier

@@ -1,0 +1,649 @@
+   #La Classe d'Histoire » Flux La Classe d'Histoire » Flux des
+   commentaires La Classe d'Histoire » Atelier 2 : Compléter la légende
+   d’un schéma Flux des commentaires JSON oEmbed (JSON) oEmbed (XML)
+
+   Skip to content
+
+     * 5ÈME
+          + HISTOIRE
+               o Chrétientés et Islam, des mondes en contact
+                 (VIème-XIIIème siècles)
+          + GÉOGRAPHIE
+          + EMC
+          + LEXIQUE
+     * 2NDE
+          + HISTOIRE
+               o Découper le temps
+               o La Méditerranée antique
+               o La Méditerranée médiévale
+          + GÉOGRAPHIE
+               o Sociétés et environnements : des équilibres fragiles
+          + LEXIQUE
+     * 1ERE
+          + HISTOIRE
+               o Thème 1 – L’Europe face aux révolutions
+                    # La Révolution française et l’Empire
+                    # L’Europe entre restauration et révolution
+               o Thème 2 : La France dans l’Europe des nationalités
+                 (1848-1871)
+          + GÉOGRAPHIE
+               o La métropolisation : un processus mondial différencié
+               o La métropolisation et ses effets en France
+               o Une diversification des espaces et des acteurs de la
+                 production
+          + LEXIQUE
+     * 1ERE HGGSP
+          + INTRODUCTION
+          + THÈME 1 – La démocratie
+          + THÈME 2 – Les puissances
+          + THÈME 3 – Les frontières
+          + LEXIQUE
+     * TERMINALE
+          + HISTOIRE
+               o Thème 1 – Fragilités des démocraties … (1929-1945)
+                    # L’impact de la crise de 1929 …
+                    # Les régimes totalitaires
+                    # La Seconde Guerre mondiale
+               o Thème 2 – Monde bipolaire (1945-début 1970’s)
+                    # La fin de la Seconde Guerre mondiale et les débuts …
+                    # Une nouvelle donne géopolitique : bipolarisation et
+                      émergence du tiers-monde
+          + GÉOGRAPHIE
+               o Thème 1 – Mers et océans au coeur de la mondialisation
+                    # Mers et océans au coeur de la mondialisation
+                    # La France : une puissance maritime ?
+               o Thème 2 – Dynamiques territoriales, coopérations et
+                 tensions dans la mondialisation
+          + E.M.C.
+          + LEXIQUE
+     * À PROPOS
+          + De l’Histoire-Géographie
+               o A quoi sert l’Histoire ?
+               o A quoi sert la Géographie ?
+          + De la classe
+               o Une classe inversée
+               o L’évaluation pour l’apprentissage
+               o Des ceintures de compétences
+               o Livret de badges
+               o La coopération en classe
+               o Aménagement de l’espace classe
+          + Pratiques
+               o La tâche complexe
+               o Le marché des connaissances
+               o Quoi de neuf dans le monde ?
+               o La narration de recherche
+               o Le récit de conceptualisation
+               o Les jeux coopératifs
+          + Ressources en vrac
+     * OUTILS
+          + Passeport de compétences collège
+          + Mur des consignes
+          + Le cahier en ligne
+          + Le guide d’autocorrection
+          + HG-FLIX
+     * NUMÉRIQUE
+          + OneNote en classe
+          + Sélection d’outils
+          + Quizlet
+          + Agora Quiz
+          + Réaliser une capsule vidéo
+          + Jeux sérieux
+     * ARCHIVES
+          + COLLÈGE
+               o 6ÈME
+                    # Thème 1 – L’humanité sur la Terre: hier et
+                      aujourd’hui
+                         @ CHAP 1 – Me repérer dans le temps et dans
+                           l’espace
+                         @ CHAP 2 – Les premiers humains sur la Terre
+                         @ CHAP 3 – La répartition de la population
+                           mondiale
+                         @ CHAP 4 – Les premières civilisations: premiers
+                           états et écritures
+                         @ CHAP 5 – Habiter les métropoles d’aujourd’hui
+                           et de demain
+                         @ ATELIER EMC – Se respecter et accepter les
+                           différences
+                    # Thème 2 – La Méditerranée, berceau des grandes
+                      civilisations européennes
+                         @ CHAP 6 – Aux origines des grandes civilisations
+                           méditerranéennes
+                         @ CHAP 7 – Habiter un littoral
+                         @ CHAP 8 – Rome, une cité devenue empire
+                         @ ATELIER EMC – Utiliser internet
+                         @ CONCLUSION – L’héritage greco-romain
+                           aujourd’hui
+                    # Thème 3 – Assurer l’unité dans la diversité
+                         @ CHAP 9 – La citoyenneté à Athènes
+                         @ CHAP 10 – Un Empire qui se transforme
+                         @ ATELIER EMC: Etre citoyen aujourd’hui
+                         @ CHAP 11 – Habiter un espace de faible densité
+                         @ CHAP 12 – Rome et un autre monde ancien : la
+                           Chine des Han
+                         @ CONCLUSION – Les formes d’occupation spatiale
+                           dans le monde
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 5ÈME
+                    # Histoire
+                         @ Thème 1 – Chrétienté et islam: des mondes en
+                           contact (VI-XIIIe s)
+                         @ Thème 2 – Société, Église et pouvoir politique
+                           dans l’Occident féodal (XIe-XVe s)
+                         @ Thème 3 – Les transformations de l’Europe
+                           (XVI-XVIIe s) : nouveaux mondes, nouvelles
+                           idées
+                    # Géographie
+                         @ Thème 1 – Le monde aujourd’hui: démographie et
+                           développement
+                         @ Thème 2 – Des ressources limitées, à gérer et
+                           renouveler
+                         @ Thème 3 – L’ environnement, du local au
+                           planétaire
+                    # EMC
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 4ÈME
+                    # Thème 1 – Le monde du XVIIIème au XXIème siècle:
+                      d’une mondialisation à l’autre
+                         @ CHAP 1 – L’Europe et le monde au XVIIIème
+                           siècle
+                         @ CHAP 2 – Mers et océans au XXIème siècle: un
+                           monde maritimisé
+                         @ CHAP 3 – Conquêtes et sociétés coloniales : du
+                           partage du monde à son héritage
+                         @ CHAP 4 – Espaces et paysages de l’urbanisation
+                           au XXIème siècle
+                         @ CHAP 5 – Les Etats Unis dans la mondialisation
+                         @ CHAP 6 – Les mobilités humaines transnationales
+                           au XXIème siècle
+                    # Thème 2 – L’Europe du XVIIIème au XXIème siècle: des
+                      bouleversements majeurs
+                         @ CHAP 7 – L’Europe des Lumières
+                         @ CHAP 8 – La Révolution Française : un nouvel
+                           ordre politique et social
+                         @ ATELIER EMC – Les libertés et les droits de la
+                           personne
+                         @ CHAP 9 – L’Europe à l’âge industriel
+                         @ CHAP 10 – Les villes européennes dans la
+                           mondialisation
+                    # Thème 3 – La France du XIXème siècle: société,
+                      culture et politique
+                         @ CHAP 11 – Le difficile apprentissage du vote
+                           (1815-1870)
+                         @ CHAP 12 – La Troisième république: un régime
+                           discuté et contesté
+                         @ ATELIER EMC – La justice
+                         @ CHAP 13 – La place des femmes dans la société
+                           du XIXème siècle
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 3ÈME
+                    # Partie 1 : 1914-2015, un siècle de progrès
+                         @ CHAP 1 – Des progrès scientifiques et
+                           techniques
+                         @ CHAP 2 – Des progrès dans la vie démocratique
+                    # Partie 2 – Une autre réalité: un siècle de guerre
+                         @ Thème 1 : Guerres mondiales et régimes
+                           totalitaires
+                              - CHAP 3 – La Première guerre mondiale
+                                (1914-1918)
+                              - CHAP 4 – Les régimes totalitaires dans les
+                                années 1930
+                              - CHAP 5 – La seconde guerre mondiale
+                                (1939-1945)
+                              - REVISION THEME 1- Guerres mondiales et
+                                régimes totalitaires
+                         @ Thème 2 : Une géopolitique mondiale depuis 1945
+                              - CHAP 6 – La guerre froide (1945-1991)
+                              - CHAP 7 – Des colonies aux états
+                                indépendants
+                         @ Thème 3 : Des tentatives de réponses à
+                           plusieurs échelles
+                              - CHAP 8 – Une réponse mondiale: l’ONU
+                              - CHAP 9: Une réponse continentale: l’UE
+                              - CHAP 10: Une réponse nationale
+                              - CHAP 11 – Géopolitique du monde actuel
+                    # Partie 3 – La France dans ce siècle ?
+                         @ Thème 1 : Vivre en France
+                              - CHAP 12 – Habiter la France
+                              - CHAP 13 – Profiter de valeurs et de droits
+                         @ Thème 2 : Une nation en perte de puissance ?
+                              - CHAP 14 – La République fragilisée,
+                                effondrée puis refondée
+                              - CHAP 15 – La Cinquième république à
+                                l’épreuve de la durée
+                              - CHAP 16 – Vers une nouvelle organisation
+                                du territoire français
+                              - CHAP 17 – La France et l’UE : influence
+                                mondiale, puissance incomplète
+                    # Vocabulaire
+                    # Objectif Brevet !
+                         @ Plans de révisions
+                         @ Fiches de révisions
+                         @ Capsules
+                         @ Repères
+                         @ Exercices
+                         @ Sujets du brevet
+                    # Programmes et progressions
+          + Le code des sons
+          + La classe sans cahier
+          + Le journal de classe
+          + Le brevet d’autonomie
+          + Le Conseil de Vie de classe
+          + Histoire des Arts
+          + L’aide au travail
+          + Cahier de vacances collège
+               o Entrée en 6ème
+               o Entrée en 5ème
+               o Entrée en 4ème
+          + Semaines interdisciplinaires
+          + Ateliers Interdisciplinaires
+               o Archives 2015-2019
+                    # Learning Labs
+                         @ Media Class
+                         @ Knowledge Market
+                         @ Un monde de cartes
+                         @ World War II
+                         @ Les migrations internationales
+                         @ Utopia
+                         @ La fabrique des super-héros
+                         @ Les femmes au 19ème siècle
+                    # Projets interdisciplinaires
+                    # Maxi Projets
+                    # Ateliers divers
+                         @ Définition
+                         @ Archives 2015-2018
+                              - Présenter un document en HG
+                              - Lire un reportage télévisé
+                              - Tour du monde en graphiques
+                              - Communiquer pour coopérer
+                              - Réaliser un reportage télévisé
+                              - Mon identité numérique
+                              - Une exposition photo augmentée
+     * (BUTTON) Search for: ____________________ (BUTTON) Search
+
+   (BUTTON)
+   La Classe d'Histoire
+   La Classe d'Histoire
+   Ma classe en ligne en Histoire, Géographie, EMC, Géopolitique et
+   Sciences Politiques
+   (BUTTON)
+
+     * 5ÈME
+          + HISTOIRE
+               o Chrétientés et Islam, des mondes en contact
+                 (VIème-XIIIème siècles)
+          + GÉOGRAPHIE
+          + EMC
+          + LEXIQUE
+     * 2NDE
+          + HISTOIRE
+               o Découper le temps
+               o La Méditerranée antique
+               o La Méditerranée médiévale
+          + GÉOGRAPHIE
+               o Sociétés et environnements : des équilibres fragiles
+          + LEXIQUE
+     * 1ERE
+          + HISTOIRE
+               o Thème 1 – L’Europe face aux révolutions
+                    # La Révolution française et l’Empire
+                    # L’Europe entre restauration et révolution
+               o Thème 2 : La France dans l’Europe des nationalités
+                 (1848-1871)
+          + GÉOGRAPHIE
+               o La métropolisation : un processus mondial différencié
+               o La métropolisation et ses effets en France
+               o Une diversification des espaces et des acteurs de la
+                 production
+          + LEXIQUE
+     * 1ERE HGGSP
+          + INTRODUCTION
+          + THÈME 1 – La démocratie
+          + THÈME 2 – Les puissances
+          + THÈME 3 – Les frontières
+          + LEXIQUE
+     * TERMINALE
+          + HISTOIRE
+               o Thème 1 – Fragilités des démocraties … (1929-1945)
+                    # L’impact de la crise de 1929 …
+                    # Les régimes totalitaires
+                    # La Seconde Guerre mondiale
+               o Thème 2 – Monde bipolaire (1945-début 1970’s)
+                    # La fin de la Seconde Guerre mondiale et les débuts …
+                    # Une nouvelle donne géopolitique : bipolarisation et
+                      émergence du tiers-monde
+          + GÉOGRAPHIE
+               o Thème 1 – Mers et océans au coeur de la mondialisation
+                    # Mers et océans au coeur de la mondialisation
+                    # La France : une puissance maritime ?
+               o Thème 2 – Dynamiques territoriales, coopérations et
+                 tensions dans la mondialisation
+          + E.M.C.
+          + LEXIQUE
+     * À PROPOS
+          + De l’Histoire-Géographie
+               o A quoi sert l’Histoire ?
+               o A quoi sert la Géographie ?
+          + De la classe
+               o Une classe inversée
+               o L’évaluation pour l’apprentissage
+               o Des ceintures de compétences
+               o Livret de badges
+               o La coopération en classe
+               o Aménagement de l’espace classe
+          + Pratiques
+               o La tâche complexe
+               o Le marché des connaissances
+               o Quoi de neuf dans le monde ?
+               o La narration de recherche
+               o Le récit de conceptualisation
+               o Les jeux coopératifs
+          + Ressources en vrac
+     * OUTILS
+          + Passeport de compétences collège
+          + Mur des consignes
+          + Le cahier en ligne
+          + Le guide d’autocorrection
+          + HG-FLIX
+     * NUMÉRIQUE
+          + OneNote en classe
+          + Sélection d’outils
+          + Quizlet
+          + Agora Quiz
+          + Réaliser une capsule vidéo
+          + Jeux sérieux
+     * ARCHIVES
+          + COLLÈGE
+               o 6ÈME
+                    # Thème 1 – L’humanité sur la Terre: hier et
+                      aujourd’hui
+                         @ CHAP 1 – Me repérer dans le temps et dans
+                           l’espace
+                         @ CHAP 2 – Les premiers humains sur la Terre
+                         @ CHAP 3 – La répartition de la population
+                           mondiale
+                         @ CHAP 4 – Les premières civilisations: premiers
+                           états et écritures
+                         @ CHAP 5 – Habiter les métropoles d’aujourd’hui
+                           et de demain
+                         @ ATELIER EMC – Se respecter et accepter les
+                           différences
+                    # Thème 2 – La Méditerranée, berceau des grandes
+                      civilisations européennes
+                         @ CHAP 6 – Aux origines des grandes civilisations
+                           méditerranéennes
+                         @ CHAP 7 – Habiter un littoral
+                         @ CHAP 8 – Rome, une cité devenue empire
+                         @ ATELIER EMC – Utiliser internet
+                         @ CONCLUSION – L’héritage greco-romain
+                           aujourd’hui
+                    # Thème 3 – Assurer l’unité dans la diversité
+                         @ CHAP 9 – La citoyenneté à Athènes
+                         @ CHAP 10 – Un Empire qui se transforme
+                         @ ATELIER EMC: Etre citoyen aujourd’hui
+                         @ CHAP 11 – Habiter un espace de faible densité
+                         @ CHAP 12 – Rome et un autre monde ancien : la
+                           Chine des Han
+                         @ CONCLUSION – Les formes d’occupation spatiale
+                           dans le monde
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 5ÈME
+                    # Histoire
+                         @ Thème 1 – Chrétienté et islam: des mondes en
+                           contact (VI-XIIIe s)
+                         @ Thème 2 – Société, Église et pouvoir politique
+                           dans l’Occident féodal (XIe-XVe s)
+                         @ Thème 3 – Les transformations de l’Europe
+                           (XVI-XVIIe s) : nouveaux mondes, nouvelles
+                           idées
+                    # Géographie
+                         @ Thème 1 – Le monde aujourd’hui: démographie et
+                           développement
+                         @ Thème 2 – Des ressources limitées, à gérer et
+                           renouveler
+                         @ Thème 3 – L’ environnement, du local au
+                           planétaire
+                    # EMC
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 4ÈME
+                    # Thème 1 – Le monde du XVIIIème au XXIème siècle:
+                      d’une mondialisation à l’autre
+                         @ CHAP 1 – L’Europe et le monde au XVIIIème
+                           siècle
+                         @ CHAP 2 – Mers et océans au XXIème siècle: un
+                           monde maritimisé
+                         @ CHAP 3 – Conquêtes et sociétés coloniales : du
+                           partage du monde à son héritage
+                         @ CHAP 4 – Espaces et paysages de l’urbanisation
+                           au XXIème siècle
+                         @ CHAP 5 – Les Etats Unis dans la mondialisation
+                         @ CHAP 6 – Les mobilités humaines transnationales
+                           au XXIème siècle
+                    # Thème 2 – L’Europe du XVIIIème au XXIème siècle: des
+                      bouleversements majeurs
+                         @ CHAP 7 – L’Europe des Lumières
+                         @ CHAP 8 – La Révolution Française : un nouvel
+                           ordre politique et social
+                         @ ATELIER EMC – Les libertés et les droits de la
+                           personne
+                         @ CHAP 9 – L’Europe à l’âge industriel
+                         @ CHAP 10 – Les villes européennes dans la
+                           mondialisation
+                    # Thème 3 – La France du XIXème siècle: société,
+                      culture et politique
+                         @ CHAP 11 – Le difficile apprentissage du vote
+                           (1815-1870)
+                         @ CHAP 12 – La Troisième république: un régime
+                           discuté et contesté
+                         @ ATELIER EMC – La justice
+                         @ CHAP 13 – La place des femmes dans la société
+                           du XIXème siècle
+                    # Vocabulaire
+                    # Programmes et syllabus
+               o 3ÈME
+                    # Partie 1 : 1914-2015, un siècle de progrès
+                         @ CHAP 1 – Des progrès scientifiques et
+                           techniques
+                         @ CHAP 2 – Des progrès dans la vie démocratique
+                    # Partie 2 – Une autre réalité: un siècle de guerre
+                         @ Thème 1 : Guerres mondiales et régimes
+                           totalitaires
+                              - CHAP 3 – La Première guerre mondiale
+                                (1914-1918)
+                              - CHAP 4 – Les régimes totalitaires dans les
+                                années 1930
+                              - CHAP 5 – La seconde guerre mondiale
+                                (1939-1945)
+                              - REVISION THEME 1- Guerres mondiales et
+                                régimes totalitaires
+                         @ Thème 2 : Une géopolitique mondiale depuis 1945
+                              - CHAP 6 – La guerre froide (1945-1991)
+                              - CHAP 7 – Des colonies aux états
+                                indépendants
+                         @ Thème 3 : Des tentatives de réponses à
+                           plusieurs échelles
+                              - CHAP 8 – Une réponse mondiale: l’ONU
+                              - CHAP 9: Une réponse continentale: l’UE
+                              - CHAP 10: Une réponse nationale
+                              - CHAP 11 – Géopolitique du monde actuel
+                    # Partie 3 – La France dans ce siècle ?
+                         @ Thème 1 : Vivre en France
+                              - CHAP 12 – Habiter la France
+                              - CHAP 13 – Profiter de valeurs et de droits
+                         @ Thème 2 : Une nation en perte de puissance ?
+                              - CHAP 14 – La République fragilisée,
+                                effondrée puis refondée
+                              - CHAP 15 – La Cinquième république à
+                                l’épreuve de la durée
+                              - CHAP 16 – Vers une nouvelle organisation
+                                du territoire français
+                              - CHAP 17 – La France et l’UE : influence
+                                mondiale, puissance incomplète
+                    # Vocabulaire
+                    # Objectif Brevet !
+                         @ Plans de révisions
+                         @ Fiches de révisions
+                         @ Capsules
+                         @ Repères
+                         @ Exercices
+                         @ Sujets du brevet
+                    # Programmes et progressions
+          + Le code des sons
+          + La classe sans cahier
+          + Le journal de classe
+          + Le brevet d’autonomie
+          + Le Conseil de Vie de classe
+          + Histoire des Arts
+          + L’aide au travail
+          + Cahier de vacances collège
+               o Entrée en 6ème
+               o Entrée en 5ème
+               o Entrée en 4ème
+          + Semaines interdisciplinaires
+          + Ateliers Interdisciplinaires
+               o Archives 2015-2019
+                    # Learning Labs
+                         @ Media Class
+                         @ Knowledge Market
+                         @ Un monde de cartes
+                         @ World War II
+                         @ Les migrations internationales
+                         @ Utopia
+                         @ La fabrique des super-héros
+                         @ Les femmes au 19ème siècle
+                    # Projets interdisciplinaires
+                    # Maxi Projets
+                    # Ateliers divers
+                         @ Définition
+                         @ Archives 2015-2018
+                              - Présenter un document en HG
+                              - Lire un reportage télévisé
+                              - Tour du monde en graphiques
+                              - Communiquer pour coopérer
+                              - Réaliser un reportage télévisé
+                              - Mon identité numérique
+                              - Une exposition photo augmentée
+     * (BUTTON) Search for: ____________________ (BUTTON) Search
+
+   Atelier 2 : Compléter la légende d’un schéma
+
+   Home 1ère Atelier 2 : Compléter la légende d’un schéma
+
+   Parcours : Napoléon Bonaparte, un nouvel ordre politique ?
+   Parcours 1 : Londres, une métropole de rang mondial
+
+Atelier 2 : Compléter la légende d’un schéma
+
+   1ère / Géographie
+
+   A partir du travail réalisé dans l’exploration sur Londres, métropole
+   de rang mondial, je complète la légende du schéma proposé. Pour m’aider
+   j’identifie les mots clés utilisés dans l’exploration. Je peux demander
+   de l’aide au professeur si je ne trouve pas tous les mots à placer.
+
+   SCHÉMA
+
+   LÉGENDE À COMPLÉTER
+
+    Londres / méthode / schéma
+
+RECHERCHER DANS LE SITE
+
+   Search for: ____________________ (BUTTON) Search
+
+DOCUMENTAIRES
+
+   La Revue De Presse HG Suivre
+
+   Revue des presse Histoire-Géographie-Géopolitique pour les élèves de
+   @Classedhistoire par @leprofdhistoire
+   RevueHG
+   revuehg La Revue De Presse HG @revuehg ·
+   14 Nov
+
+   L’Inde, pays le plus peuplé du monde, demande aux femmes de ses Etats
+   du Sud de faire plus d’enfants – via @lemondefr
+   Répondre sur Twitter 1856939045185818627 Retweeter sur Twitter
+   1856939045185818627 J’aime sur Twitter 1856939045185818627 Twitter
+   1856939045185818627
+   revuehg La Revue De Presse HG @revuehg ·
+   11 Nov
+
+   Répondre sur Twitter 1855998190316871750 Retweeter sur Twitter
+   1855998190316871750 J’aime sur Twitter 1855998190316871750 Twitter
+   1855998190316871750
+   revuehg La Revue De Presse HG @revuehg ·
+   10 Nov
+
+   COP29 : l’Afghanistan sera présent, une première depuis le retour des
+   talibans au pouvoir en 2021 – via @lemondefr
+   Répondre sur Twitter 1855494389990129742 Retweeter sur Twitter
+   1855494389990129742 J’aime sur Twitter 1855494389990129742 Twitter
+   1855494389990129742
+   revuehg La Revue De Presse HG @revuehg ·
+   7 Nov
+
+   Conférence Russie-Afrique : Moscou poursuit sa promotion d’un « monde
+   multipolaire » – via @lemondefr
+   Répondre sur Twitter 1854487621655007482 Retweeter sur Twitter
+   1854487621655007482 J’aime sur Twitter 1854487621655007482 Twitter
+   1854487621655007482
+   Afficher plus
+
+CRÉDITS
+
+   L’intégralité du contenu de ce site est mis en ligne sous licence CC
+   BY-NC-SA 4.0 (Attribution – Pas d’Utilisation Commerciale – Partage
+   dans les Mêmes Conditions 4.0 International). Il peut être librement
+   utilisé sans utilisation commerciale dans la mesure où chaque
+   utilisateur prend soin de citer  La Classe d’Histoire.
+
+
+   [88x31.png]
+
+META
+
+     * Connexion
+     * Flux des publications
+     * Flux des commentaires
+     * Site de WordPress-FR
+
+LIENS UTILES
+
+   LFI de Bangkok
+   AEFE
+   Chaine Youtube
+   La Revue de Presse
+   Géoconfluences
+
+AUTEUR
+
+   Alexandre Balet, professeur certifié d'Histoire-Géographie | Lycée
+   Francais International de Bangkok, Thaïlande | Linkedin
+
+   Rechercher
+   ____________________ (BUTTON) Rechercher
+
+   Powered by Kahuna & WordPress.
+   La Classe d'Histoire, 2024.
+
+   (BUTTON)
+
+   Aller au contenu principal
+
+   Ouvrir la barre d’outils
+
+   Outils d’accessibilité
+     * Augmenter le texte
+     * Diminuer le texte
+     * Niveau de gris
+     * Haut contraste
+     * Contraste négatif
+     * Arrière-plan clair
+     * Liens soulignés
+     * Police lisible
+     * Réinitialiser

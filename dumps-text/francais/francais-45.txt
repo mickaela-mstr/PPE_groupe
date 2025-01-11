@@ -1,0 +1,743 @@
+   #alternate alternate alternate alternate alternate
+
+   Rechercher : ____________________ (BUTTON)
+   Rechercher : ____________________ (BUTTON)
+
+     * Allemand
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Terminale s
+          + Tous niveaux
+     * Anglais
+          + 1ere es
+          + 1ere l
+          + 1ere s
+          + 1ere stmg
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Ce2
+          + Cm1
+          + Cm2
+          + Terminale
+          + Terminale l
+          + Terminale s
+          + Terminale stmg
+          + Tous niveaux
+     * Arts appliqués
+          + 1ere
+          + 2nde
+          + Terminale
+          + Tous niveaux
+     * Bac special revision
+          + 1ere
+          + Terminale
+          + Tous niveaux
+     * Chinois
+          + Tous niveaux
+     * Communication
+          + 1ere
+          + 1ere stmg
+          + Grande Ecole
+          + Terminale
+          + Terminale stmg
+          + Tous niveaux
+     * Droit
+          + 1ere stmg
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Cp
+          + Droit Administratif et International
+          + Terminale stmg
+          + Tous niveaux
+     * Economie gestion
+          + 1ere stmg
+          + Terminale stmg
+          + Tous niveaux
+     * Education musicale
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Tous niveaux
+     * Espagnol
+          + 1ere s
+          + 2nde
+          + 3eme
+          + 4eme
+          + 6eme
+          + Terminale s
+          + Tous niveaux
+     * Français
+          + 1ere es
+          + 1ere l
+          + 1ere s
+          + 1ere stmg
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Terminale
+          + Tous niveaux
+     * Géographie
+          + 1ere
+          + 1ere l
+          + 1ere s
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Ce2
+          + Cm1
+          + Terminale
+          + Terminale es
+          + Terminale l
+          + Terminale s
+          + Terminale stmg
+          + Tous niveaux
+     * Histoire
+          + 1ere
+          + 1ere es
+          + 1ere l
+          + 1ere s
+          + 1ere st2s
+          + 1ere sti2d
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Ce2
+          + Cm2
+          + Terminale
+          + Terminale es
+          + Terminale l
+          + Terminale s
+          + Terminale st2s
+          + Terminale stmg
+          + Tous niveaux
+     * Informatique
+          + Tous niveaux
+     * Latin
+          + 1ere
+          + 3eme
+          + 4eme
+          + 5eme
+          + Tous niveaux
+     * Management
+          + 1ere stmg
+          + Terminale stmg
+          + Tous niveaux
+     * Mathématiques
+          + 1ere es
+          + 1ere l
+          + 1ere s
+          + 1ere st2s
+          + 1ere sti2d
+          + 1ere stmg
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + annales BREVET
+          + Ce1
+          + Ce2
+          + Cm1
+          + Cm2
+          + Cp
+          + Terminale
+          + Terminale es
+          + Terminale l
+          + Terminale s
+          + Terminale stmg
+          + Tous niveaux
+     * Philosophie
+          + 2nde
+          + Terminale es
+          + Terminale l
+          + Terminale s
+          + Terminale stmg
+          + Tous niveaux
+     * Physique-Chimie
+          + 1ere
+          + 1ere es
+          + 1ere s
+          + 1ere st2s
+          + 1ere sti2d
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Cp
+          + Terminale
+          + Terminale s
+          + Terminale st2s
+          + Tous niveaux
+     * SES
+          + 1ere es
+          + 2nde
+          + Terminale es
+          + Tous niveaux
+     * Sport
+          + Tous niveaux
+     * SVT
+          + 1ere
+          + 1ere es
+          + 1ere l
+          + 1ere s
+          + 1ere st2s
+          + 2nde
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Ce1
+          + Cm1
+          + Cm2
+          + Cp
+          + Terminale es
+          + Terminale s
+          + Terminale stmg
+          + Tous niveaux
+     * Technologie
+          + 3eme
+          + 4eme
+          + 5eme
+          + 6eme
+          + Cp
+          + Tous niveaux
+
+Quelles règles faut-il absolument respecter pour avoir une bonne note à un
+croquis de géographie ?
+
+   Par Achille
+   |
+   >
+
+   Rédigé le 6 septembre 2008
+   |
+
+   3 minutes de lecture
+   [exemple-croquis-examen.png]
+   RessourcesGéographieTous niveauxMéthodologie pour le Croquis Parfait de
+   Géographie
+   (BUTTON)
+   (BUTTON) Chapters close button
+
+   Chapitres
+    1. 01. Définition
+    2. 02. Le baccalauréat
+    3. 03. Les Qualités d’une Carte
+    4. 04. La Légende
+    5. 05. Quels figurés utiliser ?
+    6. 06. Pour tracer les limites, des réseaux ( Exemples : Limite de
+       peuplement, axes fluviaux, routes, voies ferrées… ).
+
+   Superprof logo
+   Les meilleurs professeurs de Géographie disponibles
+   Thibault
+   5
+   5 (44 avis)
+   Thibault
+   198€
+   /h
+   Gift icon
+   1^er cours offert !
+   Chrys
+   5
+   5 (137 avis)
+   Chrys
+   78€
+   /h
+   Gift icon
+   1^er cours offert !
+   Julien
+   5
+   5 (32 avis)
+   Julien
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Olivier
+   5
+   5 (27 avis)
+   Olivier
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Théodore
+   4,9
+   4,9 (30 avis)
+   Théodore
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Benoit
+   5
+   5 (28 avis)
+   Benoit
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Diego
+   5
+   5 (16 avis)
+   Diego
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Sylvain
+   4,9
+   4,9 (29 avis)
+   Sylvain
+   40€
+   /h
+   Gift icon
+   1^er cours offert !
+   Thibault
+   5
+   5 (44 avis)
+   Thibault
+   198€
+   /h
+   Gift icon
+   1^er cours offert !
+   Chrys
+   5
+   5 (137 avis)
+   Chrys
+   78€
+   /h
+   Gift icon
+   1^er cours offert !
+   Julien
+   5
+   5 (32 avis)
+   Julien
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Olivier
+   5
+   5 (27 avis)
+   Olivier
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Théodore
+   4,9
+   4,9 (30 avis)
+   Théodore
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Benoit
+   5
+   5 (28 avis)
+   Benoit
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Diego
+   5
+   5 (16 avis)
+   Diego
+   50€
+   /h
+   Gift icon
+   1^er cours offert !
+   Sylvain
+   4,9
+   4,9 (29 avis)
+   Sylvain
+   40€
+   /h
+   Gift icon
+   1^er cours offert !
+   C'est parti
+
+Définition
+
+   Le Croquis ( Ou la Carte ) constitue un outil majeur pour le Géographe.
+   Il met en relation un auteur qui crée un message visuel et un lecteur
+   qui doit comprendre ce message. Le Message « passe mal »
+   quand le croquis contient de trop nombreuses informations, quand il
+   hiérarchise mal les phénomènes représentés ou lorsque la
+   qualitégraphique souffre de faiblesses évidentes. Le Croquis est une
+   image
+   dont la perception est globale et immédiate.
+
+Le baccalauréat
+
+   Les épreuves du baccalauréat général prévoient 2 types de situation
+   exigeant la réalisation d’un croquis de géographie : Soit en complément
+   d’une composition, soit comme exercice spécifique en réponse à un sujet
+   donné. Mais, dans les deux cas, la production du croquis répond aux
+   mêmes règles.
+
+Les Qualités d’une Carte
+
+   Pour être utilisable, une carte doit respecter un certain nombre de
+   critères dont voici les 6 principaux :
+
+Le Titre
+
+   Il est indispensable et doit correspondre au sujet traité. Il doit être
+   assez court et expressif.
+
+La Légende
+
+   C’est la clé de la Carte. Son absence rend votre croquis inutilisable.
+     * Elle doit être hiérarchisée, c’est-à-dire que les éléments
+       cartographiés doivent être classés par rubriques.
+     * Elle doit être ordonnée : Les Valeurs sont classées par ordre
+       croissant ou décroissant.
+     * Elle doit comporter les indications de valeur et les unités
+       choisies (Exemples : Milliers d’habitants, pourcentages… ).
+
+Les Figurés
+
+   Leur choix est capital. Ils doivent être adaptés aux types
+   d’informations ( C’est-à-dire répondre aux règles  du langage
+   cartographique : Voir Partie II ).
+
+   On utilise pas de figurine ( Exemples : Epis de blé, tête de vache…).
+   On n’écrit pas l’information directement sur la carte ( Exemple :
+   Voitures, Sidérurgie, Pommes de terre…)
+
+La Nomenclature
+
+   Elle facilite le repérage et la lecture.
+   Elle doit être complète : Doivent y figurer les noms indispensables à
+   un repérage rapide.
+   Elle doit être hiérarchisée : L’écriture et la taille des noms doivent
+   être les mêmes pour un même type d’information ( Exemple : Paris, Lyon,
+   Picardie, Aquitaine… ).
+
+   Le plus important est écrit en lettres plus épaisses ou plus grandes.
+
+   L’écriture doit être horizontale, sauf cas particulier ( Exemple :
+   Fleuves…).
+
+La lisibilité
+
+   Il faut éviter la surcharge d’informations. Il faut que les
+   informations essentielles apparaissent immédiatement.
+
+La Réalisation
+
+   Une carte doit être belle et soignée. Faite pour être regardée ( Et
+   dans le cas du Bas, notée ), elle doit attirer, séduire.
+
+   Utiliser des feutres pour les traits et des crayons de couleur pour
+   colorier les surfaces.
+
+Quels figurés utiliser ?
+
+   Le choix du Langage cartographique est une étape importante de la
+   construction d’une carte puisqu’il s’agit de définir le code, le figuré
+   qui permettra la lecture des informations de la carte que vous allez
+   réaliser.
+
+Pour localiser des phénomènes ponctuels ( Exemples : Villes, ports, centres
+industriels, gisement énergétique…)
+
+   On utilise des figurés ponctuels : Cercles, carrés, triangles… (
+   Attention, il est parfois plus difficile de dessiner des cercles. ).
+
+   Pour montrer des hiérarchies : Varier la taille des figurés et / ou la
+   couleur. ( Attention ! Ne pas mélanger les signes car on lira mal la
+   hiérarchie ! ).
+
+Pour localiser des Phénomènes de Surface ( Exemples : Reliefs, Climats,
+Région Agricoles, Densités de population… ).
+
+   On utilise des figurés de Surface : Soit des plages de Couleurs, soit
+   des hachures ( Ou des pointillés). Il faut chercher à adapter les
+   couleurs au thème. Exemple :
+
+   On peut aussi croiser les 2 informations ( Attention ! Il est difficile
+   de réaliser une carte lisible en traçant des hachures. Les plages de
+   couleurs sont préférables ).
+
+   Pour montrer des Hiérarchies : Varier le ton d’une même couleur ( Ou la
+   graduation des hachures en jouant sur l’épaisseur ou l’espacement des
+   traits. Attention, il ne faut pas changer l’orientation des
+   hachures ).
+
+   Varier les Couleurs, en respectant bien l’ordre des couleurs de l’arc
+   en ciel. ( Couleurs Froides = Valeurs Faibles ; Couleurs Chaudes =
+   Valeurs Fortes. ).
+
+   Exemple : L’organisation de l’espace.
+
+Pour tracer les limites, des réseaux ( Exemples : Limite de peuplement, axes
+fluviaux, routes, voies ferrées… ).
+
+   On utilise des figurés linéaires (Des traits ) : Noirs, de couleurs, de
+   types différents…
+
+   Pour montrer des hiérarchies : Varier l’épaisseur des traits.
+
+Pour montrer des échanges, des dynamiques ( Exemples : Flux de population, de
+pétrole, importations, exportations… ).
+
+   On utilise des flèches : Noires, de couleurs, de formes différentes…
+
+   Pour montrer des hiérarchies : Varier l’épaisseur des flèches ( Exemple
+   : Les Flux Migratoires ).
+
+   Vous avez aimé cet article ? Notez-le !
+   Aucune information ? Sérieusement ? Ok, nous tacherons de faire mieux
+   pour le prochain La moyenne, ouf ! Pas mieux ? Merci. Posez vos
+   questions dans les commentaires. Un plaisir de vous aider ! :) 4,00 (72
+   note(s))
+   [loading.gif] Loading...
+   [achille-prof-de-geo.png]
+
+   Achille
+
+   Professeur de Géographie en Île-de-France **** Pour information : "Les
+   croquis de géographie des fiches de cours proviennent de
+   https://geographie-muniga.org/ (Jacques Muniga, Docteur en Géographie)"
+
+Ces articles pourraient vous intéresser
+
+   Une grande ville au coucher du soleil.
+
+Corrigé du Brevet 2017 de Géographie – Le Sujet Zéro
+
+   Quelles sont les principales aires urbaines de la France métropolitaine
+   ? Une aire urbaine en France est un ensemble géographique constitué
+   d'une ville-centre, de ses banlieues et des communes périphériques qui
+   présentent une forte interaction sociale et économique. Elles
+   représentent des zones où la majorité de la population réside,
+   travaille et accède à un large[…]
+
+   13 février 2024 ∙ 8 minutes de lecture
+   liste des États américains
+
+Les États d’Amérique et leurs Capitales
+
+   Les États et villes majeures aux États-Unis ?? Les États-Unis
+   d'Amérique, situés en Amérique du Nord, se composent de 51 États
+   divers, chacun avec sa propre identité culturelle, géographique et
+   historique. De l'Alaska à Hawaï, ces États forment une mosaïque
+   dynamique de paysages, de traditions et d'influences. Des mégalopoles
+   urbaines aux vastes étendues naturelles, chaque[…]
+
+   27 décembre 2023 ∙ 20 minutes de lecture
+   mappemonde représentant l'Afrique
+
+Les Pays d’Afrique et leur capitale
+
+   Les villes majeures des pays d'Afrique 🌍 Avec une superficie de plus de
+   30 000 000 de km² et une population de plus d’un milliard d'habitants,
+   le continent africain a une densité plutôt faible. Pourtant, la
+   population africaine se concentre principalement dans les villes des 52
+   pays du continents, créant alors de grandes métropoles qui[…]
+
+   30 août 2023 ∙ 15 minutes de lecture
+   [synthese-histoire-geographie.jpg]
+
+Méthode de Synthèse en Histoire-Géographie
+
+   Comment procéder pour rédiger un condensé d'infos historique ou
+   géographique ? La méthode de rédaction d'une synthèse en
+   histoire-géographie La synthèse en histoire-géographie est une méthode
+   qui permet de résumer les informations importantes d'un texte ou d'un
+   ensemble de textes. Elle est utilisée pour réviser les concepts clés et
+   les événements historiques importants, ainsi que[…]
+
+   26 avril 2023 ∙ 12 minutes de lecture
+   [relations-mondialisation-territoires.jpg]
+
+Composition de géographie Les territoires dans la mondialisation : une
+inégale intégration
+
+   Quelles relations les territoires entretiennent-ils au niveau mondial ?
+   Corrigé composition de géographie – Les territoires dans la
+   mondialisation : une inégale intégration Les territoires et les hommes
+   sont inégalement intégrés dans la mondialisation. On peut remarquer que
+   la mondialisation est d’abord le fait des acteurs des territoires qui
+   forment les trois pôles majeurs sur[…]
+
+   16 décembre 2019 ∙ 3 minutes de lecture
+   [evolution-population-francaise.jpg]
+
+Composition d’histoire sur Les mutations de la population active de 1850 à
+nos jours
+
+   Comment ont évolué les français ? Sujet composition d’histoire Les
+   mutations de la population active de 1850 à nos jours Corrigé
+   composition d’histoire Les mutations de la population active de 1850 à
+   nos jours En un siècle et demi entre 1850 et aujourd’hui, la société
+   française a connu des bouleversements spectaculaires et
+   particulièrement en ce qui[…]
+
+   16 décembre 2019 ∙ 2 minutes de lecture
+   [relations-commerce-europe.jpg]
+
+Analyse de documents sur L’Union Européenne
+
+   Comment analyser les documents ? L’Union européenne dans la
+   mondialisation A partir des documents, vous montrerez la place de
+   l’Union européenne dans la mondialisation. Document de géographie 1 :
+   l’Union européenne dans le commerce mondial, les échanges de
+   marchandises en 2011 Document en géographie : la recherche et
+   l’innovation en Europe. Si la recherche et l’innovation[…]
+
+   16 décembre 2019 ∙ 4 minutes de lecture
+   [croquis-geographie-representation.jpg]
+
+Méthodologie du croquis en géographie
+
+   Comment réaliser un croquis de géographie ? Bien analyser le sujet Pour
+   réaliser un croquis de géographie, il faut regarder quelle est l’espace
+   concerné, quelle est la problématique ? tous les mots du sujet sont
+   importants. Sélectionner des informations A partir de vos
+   connaissances, attention, pour réaliser un croquis de géographie,
+   parfois il faut faire[…]
+
+   16 décembre 2019 ∙ 1 minute de lecture
+   [monde-mouvance-peuples.jpg]
+
+Flux et Mobilités Générés par la Mondialisation
+
+   L'émission et la réception de population des espaces mondialisés
+   Définition de mondialisation Le terme mondialisation vient du mot
+   anglais « globalization » apparu au cours des années 1980 pour décrire
+   l’existence d’un marché mondial où s’échangent, non plus uniquement des
+   biens, mais aussi des services et des capitaux. La mondialisation est
+   un processus mettant en relation les[…]
+
+   27 novembre 2015 ∙ 6 minutes de lecture
+
+   Si vous désirez une aide personnalisée, contactez dès maintenant l’un
+   de nos professeurs !
+   >
+   Laissez-nous un commentaire
+
+Annuler la réponse
+
+   Votre commentaire
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Envoyer
+
+   Current ye@r * 5.5_________________
+
+   Leave this field empty ____________________
+
+   bakayoko souleymane
+   Octobre 2022
+
+   le cour est vraiment waooohh
+
+   Répondre
+
+   Njiou ange
+   Septembre 2022
+
+   Bsr j’suis Gwladys, j’suis au Cameroun. j’aimerais bien savoir comment
+   est constitué une carte et comment la réalisée à la perfection
+
+   Répondre
+
+   Sam
+   Octobre 2021
+
+   Bonjour j’ai une question, j’ai une carte à colorier selon les demande
+   ( en vert les plaines, en jaune les plateaux et moyennes montagnes.
+   Puis on me demande de compléter la légende où il manque à écrire
+   montagnes( pour plateaux et moyennes…..) puis je voudrais savoir si je
+   dois colorier les hauts et hautes montagnes de la couleur de mon choix
+   où si je laisse en blanc dans la légende et la carte. Est-ce que
+   compléter la légende ça veut juste dire écrire le mot manquant dans la
+   légende ou il faut colorier aussi ce qui n’a pas été demandé dans mon
+   éxercice initaial. Cordialement je suis en 6ème.
+
+   Répondre
+
+   Chloé Galouchko
+   Chloé Galouchko
+   Avril 2022
+
+   Bonjour Sam, nous espérons que tu as trouvé réponse à tes questions
+   pour ton devoir. Si tu souhaites une aide en géographie, nos
+   professeurs sont là toute question 🙂
+
+   Répondre
+
+   Ivonne Gnangra
+   Mars 2023
+
+   Ok c’est compris
+
+   Répondre
+
+     * >
+       La plateforme qui connecte profs particuliers et élèves
+     * Ressources Superprof
+          + Allemand
+          + Anglais
+          + Arts appliqués
+          + Bac special revision
+          + Chinois
+          + Communication
+          + Droit
+          + Economie gestion
+          + Education musicale
+          + Espagnol
+          + Français
+          + Géographie
+          + Histoire
+          + Informatique
+          + Latin
+          + Management
+          + Mathématiques
+          + Philosophie
+          + Physique-Chimie
+          + SES
+          + Sport
+          + SVT
+          + Technologie
+     * À propos
+          + Trouver un prof particulier
+          + Qui sommes-nous ?
+          + Aide
+          + Ressources ES
+          + Ressources EN
+     *

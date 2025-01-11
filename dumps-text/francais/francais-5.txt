@@ -1,105 +1,259 @@
-   #Lexique pour l'expression
+   Cairn.info, Matières à réflexion Cairn.info, Matières à réflexion
 
-Lexique pour l'expression
+   ____________________
+   (BUTTON)
 
-     * contenu
-     * menu
-     * navigation
-     * outils
+Recherches récentes
+
+     * ea nemo
+     * voluptatibus temporibus
+     * magnam rerum
+     * voluptas alias
+     * voluptas dolore
+
+   (BUTTON) Effacer
+
+Des idées pour vous
+
+   soluta architecto quo dolores doloremque aut
+   (BUTTON)
+   soluta architecto quo dolores doloremque aut
+
+   Aucune suggestion trouvée
+   (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Se connecter
+
+Compte personnel
+
+   ____________________ Adresse email
+   ____________________ Mon mot de passe
+   [ ] Rester connecté(e)
+   Mot de passe oublié ?
+   (BUTTON) Se connecter
+
+   Pas encore de compte ?
+
+   Créer un compte
+
+Accès institutions
+
+   Non connecté(e)
+   Authentifiez-vous
+   (BUTTON)
+
+   Sciences Humaines et Sociales
+
+   Sciences, techniques et médecine
+
+   Droit et Administration
+   (*) Français
+   ( ) English
+   ( ) Español
+     * À propos de cairn.info
+     * Contact
+     * Aide
+
+   ____________________
+   (BUTTON)
+
+Recherches récentes
+
+     * ullam atque
+     * quibusdam veniam
+     * velit et
+     * sapiente qui
+     * quia sint
+
+   (BUTTON) Effacer
+
+Des idées pour vous
+
+   beatae omnis sequi ad molestiae architecto
+   (BUTTON)
+   beatae omnis sequi ad molestiae architecto
+
+   Aucune suggestion trouvée
+   (BUTTON)
+
+Le légendaire au XIX^e siècle 1997
+
+   Couverture de PUF_MILLE_1997_02
+
+Chapitre d’ouvrage
+
+Chapitre I - Légende et histoire
+
+     * Par Claude Millet
+
+   Pages 115 à 142
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+Citer ce chapitre
+
+   (BUTTON)
+   (BUTTON) APA (BUTTON) MLA (BUTTON) ISO 690
      __________________________________________________________________
 
-Les mots qui ont plusieurs sens : les mots polysémiques
+     * MILLET, Claude.
 
-Définition :
+   Chapitre I - Légende et histoire. In : Le légendaire au XIXe siècle.
+   Paris cedex 14, Presses Universitaires de France. Perspectives
+   littéraires, p.115-142. URL :
+   https://shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page
+   -115?lang=fr.
+   (BUTTON)
+     * Millet, Claude.
 
-   Un mot peut avoir des sens différents selon la manière dont il est
-   employé dans un texte ou un discours. On dira alors qu'il est
-   polysémique^[1]. Ce mot vient du grec polus, qui signifie « nombreux »,
-   et sêmainein, qui signifie... « signifier ».
+   « Chapitre I - Légende et histoire ». Le légendaire au XIXe siècle,
+   Presses Universitaires de France, 1997. p.115-142. CAIRN.INFO,
+   shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page-115?lan
+   g=fr.
+   (BUTTON)
+     * Millet, C.
 
-   La plupart des mots sont polysémiques, parce qu'ils peuvent être
-   employés dans des contextes très variés, et ces contextes font
-   « peser » sur les mots des contraintes qui en influencent le sens.
-
-Exemple : Légende
-
-   Le mot légende pourra, selon les contextes, désigner un court texte
-   placé sous une photographie ou une histoire merveilleuse (la légende de
-   Merlin l'enchanteur). Étymologiquement, légende vient du latin legenda,
-   qui signifie proprement « ce qui doit être lu ».
-
-Conseil :
-
-   Prenez le temps de bien lire le contexte d'un mot si vous hésitez entre
-   plusieurs acceptions^[2] de ce mot.
-
-   Pour les verbes, c'est souvent la construction qui renseigne sur leur
-   sens. Ainsi, le verbe apprécier (littéralement « déterminer le prix »),
-   selon le complément avec lequel il se construit, signifiera « trouver
-   agréable » ("« Il appréciait sa compagnie »") ou « juger, discerner »
-   ("« Il a mal apprécié le danger »").
-
-   Aux différentes constructions d'un verbe correspondent donc des sens
-   différents. Amusez-vous à expliquer la différence de sens entre :
-
-   taxer les œuvres d'art et taxer son collaborateur d'incapable
-
-   jouer des coudes et jouer une sonate ;
-
-   convenir à tout le monde et convenir de tout ;
-
-   résoudre un problème et se résoudre à partir ;
-
-   présumer l'existence des extra-terrestres et présumer de ses forces,
-   etc.
-
-Notes
-
-    1. Polysémie
-       Propriété d'un terme qui présente plusieurs sens. Les mots les plus
-       fréquemment utilisés sont le plus souvent polysémiques. En
-       revanche, la monosémie caractérise surtout les vocabulaires
-       scientifiques et techniques.
-    2. Acception
-       Sens dans lequel un mot est employé. Par exemple, on dira que le
-       mot canard a plusieurs acceptions : « volatile », « mauvais journal
-       », « couac », « sucre trempé dans un café », etc.
+   (1997) . Chapitre I - Légende et histoire. Le légendaire au
+   XIXe siècle. ( p. 115 -142 ). Presses Universitaires de France.
+   https://shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page
+   -115?lang=fr.
+   (BUTTON)
      __________________________________________________________________
 
-     * Précédent
-     * Suivant
+   (BUTTON) Zotero (.ris)
+   Article
+   Auteur(e)s
+   Sur un sujet proche
+   (BUTTON) Acheter
+
+   Depuis qu’Hérodote et Thucydide ont engagé la lutte de l’Histoire
+   contre la légende, leurs rapports sont ceux d’un couple mal assorti,
+   oscillant entre rupture et réconciliation. Ces conflits opposent à la
+   légende l’Histoire comme écriture et comme devenir, les deux ensemble
+   soudés dans le devenir des formes. « Hérodote vint, écrit Mérimée, qui
+   gâcha tout », car il brisa le monde légendaire, fit, par l’événement de
+   l’invention de l’écriture historique, du légendaire une forme
+   historiquement dépassée. Le XIXe siècle, explique le même Mérimée dans
+   son introduction aux Contes et chants de la Grèce moderne de Marino
+   Vreto, en étendant la civilisation écrite, celle de l’Histoire,
+   jusqu’aux confins de la barbarie, achève ce mouvement de destruction de
+   la légende par le devenir historique (cela s’appelle le progrès).
+   L’Histoire alors, comme écriture, a pour devoir de conserver ce qu’en
+   tant que processus elle met à mort. La dualité de l’Histoire, qui
+   désigne en français depuis le XIXe siècle à la fois un processus et une
+   écriture, aggrave son conflit avec la légende.
+   D’autre part, la question de la relation conflictuelle entre forme
+   historique et forme légendaire ne semble jamais s’être posée avec
+   autant d’acuité qu’au XIXe siècle, ce qui peut s’expliquer par quatre
+   raisons. D’abord, le XIXe siècle voit se développer la science et la
+   philosophie de l’Histoire, qui constituent celle-ci, chacune à leur
+   façon, en instance de vérité suprême, à l’aune de laquelle est jugée la
+   légende…
      __________________________________________________________________
 
-     * Objectifs
-     * Introduction
-     * Origines et formation des mots
-     * Le sens des mots
-          + Introduction
-          + Sens propre et sens figuré
-          + Testez-vous
-          + Les relations sémantiques
-               o Introduction
-               o Les synonymes
-               o Définition
-               o Terminologie
-               o Les mots polysémiques
-               o Les antonymes
-               o Les homonymes
-               o Entraînez-vous
-          + Testez-vous
-          + Les paronymes
-          + Testez-vous
-          + Ressources complémentaires
-     * Lexique, texte, discours
-     * Un vocabulaire adapté
-     * Défis lexicaux
+   Date de mise en ligne : 14/02/2020
+
+Ce chapitre est en accès conditionnel
+
+Acheter ce chapitre
+
+5,00 €
+
+   26 pages format électronique (HTML, PDF et feuilletage)
+   (BUTTON)
+
+   Ajouter au panier
+
+Acheter cet ouvrage
+
+10,99 €
+
+   310 pages, format électronique (HTML et feuilletage, par chapitre)
+   (BUTTON)
+
+   Ajouter au panier
+   Membre d'une institution cliente ?
+
+Domaines
+
+   Sciences Humaines et Sociales
+
+   Sciences, techniques et médecine
+
+   Droit et Administration
+
+   bb.footer.alt.logo.cairn
+
+   Cairn.info, plateforme de référence pour les publications scientifiques
+   francophones, vise à favoriser la découverte d’une recherche de qualité
+   tout en cultivant l’indépendance et la diversité des acteurs de
+   l’écosystème du savoir.
+
+Raccourcis
+
+     * Revues
+     * Ouvrages
+     * Que sais-je ? / Repères
+     * Magazines
+     * Rencontres
+     * Dossiers
+     * Listes de lectures
+
+Domaines
+
+     * Sciences Humaines et Sociales
+     * Sciences, techniques et médecine
+     * Droit et Administration
+
+Cairn.info
+
+     * Connexion
+     * Cairn Pro
+     * À propos
+     * Contact
+     * Aide
+
+Langues
+
+     * Français
+     * English
+     * Español
+
+Retrouvez Cairn.info sur
+
+     *
+     *
+     *
+     *
+
+Avec le soutien de
+
+     * bb.footer.alt.logo.cnl
+
+     * Conditions d’utilisation
+     * Conditions de vente
+     * Politique de confidentialité
+     * Gestion des cookies (BUTTON) Accès institutions
+
+     * Accessibilité : partiellement conforme
+
+   86.220.149.35
+
+   (BUTTON)
+
+   (BUTTON)
+
+Accès institutions
+
+   Rechercher
+   ____________________ (BUTTON) Pays, région ou institution
+
+Toutes les institutions
      __________________________________________________________________
 
-     * Accueil
-     * Module
+     *
      __________________________________________________________________
 
-   Geneviève Salvan Université Nice Sophia Antipolis - Université Côte
-   d'Azur | Paternité - Pas d'Utilisation Commerciale - Partage des
-   Conditions Initiales à l'Identique Réalisé avec Scenari (nouvelle
-   fenêtre)
+   ​

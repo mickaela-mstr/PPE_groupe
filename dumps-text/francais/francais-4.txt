@@ -1,409 +1,105 @@
-   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Lexique pour l'expression
 
-   Aller au contenu
+Lexique pour l'expression
 
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
+     * contenu
+     * menu
+     * navigation
+     * outils
+     __________________________________________________________________
+
+Les mots qui ont plusieurs sens : les mots polysémiques
+
+Définition :
+
+   Un mot peut avoir des sens différents selon la manière dont il est
+   employé dans un texte ou un discours. On dira alors qu'il est
+   polysémique^[1]. Ce mot vient du grec polus, qui signifie « nombreux »,
+   et sêmainein, qui signifie... « signifier ».
+
+   La plupart des mots sont polysémiques, parce qu'ils peuvent être
+   employés dans des contextes très variés, et ces contextes font
+   « peser » sur les mots des contraintes qui en influencent le sens.
+
+Exemple : Légende
+
+   Le mot légende pourra, selon les contextes, désigner un court texte
+   placé sous une photographie ou une histoire merveilleuse (la légende de
+   Merlin l'enchanteur). Étymologiquement, légende vient du latin legenda,
+   qui signifie proprement « ce qui doit être lu ».
+
+Conseil :
+
+   Prenez le temps de bien lire le contexte d'un mot si vous hésitez entre
+   plusieurs acceptions^[2] de ce mot.
+
+   Pour les verbes, c'est souvent la construction qui renseigne sur leur
+   sens. Ainsi, le verbe apprécier (littéralement « déterminer le prix »),
+   selon le complément avec lequel il se construit, signifiera « trouver
+   agréable » ("« Il appréciait sa compagnie »") ou « juger, discerner »
+   ("« Il a mal apprécié le danger »").
+
+   Aux différentes constructions d'un verbe correspondent donc des sens
+   différents. Amusez-vous à expliquer la différence de sens entre :
+
+   taxer les œuvres d'art et taxer son collaborateur d'incapable
+
+   jouer des coudes et jouer une sonate ;
+
+   convenir à tout le monde et convenir de tout ;
+
+   résoudre un problème et se résoudre à partir ;
+
+   présumer l'existence des extra-terrestres et présumer de ses forces,
+   etc.
+
+Notes
+
+    1. Polysémie
+       Propriété d'un terme qui présente plusieurs sens. Les mots les plus
+       fréquemment utilisés sont le plus souvent polysémiques. En
+       revanche, la monosémie caractérise surtout les vocabulaires
+       scientifiques et techniques.
+    2. Acception
+       Sens dans lequel un mot est employé. Par exemple, on dira que le
+       mot canard a plusieurs acceptions : « volatile », « mauvais journal
+       », « couac », « sucre trempé dans un café », etc.
+     __________________________________________________________________
+
+     * Précédent
+     * Suivant
+     __________________________________________________________________
+
+     * Objectifs
+     * Introduction
+     * Origines et formation des mots
+     * Le sens des mots
+          + Introduction
+          + Sens propre et sens figuré
+          + Testez-vous
+          + Les relations sémantiques
+               o Introduction
+               o Les synonymes
+               o Définition
+               o Terminologie
+               o Les mots polysémiques
+               o Les antonymes
+               o Les homonymes
+               o Entraînez-vous
+          + Testez-vous
+          + Les paronymes
+          + Testez-vous
+          + Ressources complémentaires
+     * Lexique, texte, discours
+     * Un vocabulaire adapté
+     * Défis lexicaux
+     __________________________________________________________________
+
      * Accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+     * Module
+     __________________________________________________________________
 
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
-   Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
-   [ ] Apparence
-
-     * Faire un don
-     * Créer un compte
-     * Se connecter
-
-   [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
-
-   Pages pour les contributeurs déconnectés en savoir plus
-     * Contributions
-     * Discussion
-
-Sommaire
-
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1 Légende et mythe
-     * 2 Origines des légendes
-     * 3 Notes et références
-     * 4 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 4.1 Bibliographie
-          + 4.2 Articles connexes
-          + 4.3 Liens externes
-
-   [ ] Basculer la table des matières
-
-Légende
-
-   [ ] 106 langues
-     * Afrikaans
-     * Alemannisch
-     * Aragonés
-     * العربية
-     * অসমীয়া
-     * Asturianu
-     * Aymar aru
-     * Azərbaycanca
-     * تۆرکجه
-     * Башҡортса
-     * Žemaitėška
-     * Беларуская
-     * Български
-     * বাংলা
-     * Brezhoneg
-     * Català
-     * Cebuano
-     * کوردی
-     * Čeština
-     * Чӑвашла
-     * Dansk
-     * Deutsch
-     * Dolnoserbski
-     * Ελληνικά
-     * English
-     * Esperanto
-     * Español
-     * Eesti
-     * Euskara
-     * فارسی
-     * Suomi
-     * Frysk
-     * Gàidhlig
-     * Galego
-     * עברית
-     * हिन्दी
-     * Hrvatski
-     * Magyar
-     * Հայերեն
-     * Bahasa Indonesia
-     * Ido
-     * Íslenska
-     * Italiano
-     * 日本語
-     * Patois
-     * La .lojban.
-     * Jawa
-     * ქართული
-     * Qaraqalpaqsha
-     * Қазақша
-     * ಕನ್ನಡ
-     * 한국어
-     * Коми
-     * Kernowek
-     * Кыргызча
-     * Latina
-     * Lingua Franca Nova
-     * Limburgs
-     * Ladin
-     * ລາວ
-     * Lietuvių
-     * Latviešu
-     * Мокшень
-     * Олык марий
-     * Македонски
-     * മലയാളം
-     * مازِرونی
-     * Nederlands
-     * Norsk nynorsk
-     * Norsk bokmål
-     * Occitan
-     * ਪੰਜਾਬੀ
-     * Naijá
-     * Polski
-     * پنجابی
-     * پښتو
-     * Português
-     * Rumantsch
-     * Română
-     * Русский
-     * संस्कृतम्
-     * سنڌي
-     * Srpskohrvatski / српскохрватски
-     * Taclḥit
-     * Simple English
-     * Slovenčina
-     * Slovenščina
-     * Shqip
-     * Српски / srpski
-     * Svenska
-     * తెలుగు
-     * ไทย
-     * Tagalog
-     * Türkçe
-     * Татарча / tatarça
-     * Українська
-     * اردو
-     * Tiếng Việt
-     * West-Vlams
-     * Walon
-     * Winaray
-     * 吴语
-     * ייִדיש
-     * 中文
-     * 閩南語 / Bân-lâm-gú
-     * 粵語
-
-   Modifier les liens
-
-     * Article
-     * Discussion
-
-   [ ] français
-
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Pages spéciales
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
-
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
-
-   Dans d’autres projets
-     * Wikimedia Commons
-     * Wikiquote
-     * Élément Wikidata
-
-   Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
-   Page d’aide sur l’homonymie
-
-   Pour les articles homonymes, voir Légende (homonymie).
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
-
-   Cet article ne cite pas suffisamment ses sources (septembre 2009).
-
-   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
-   connaissez des sites web de qualité traitant du thème abordé ici, merci
-   de compléter l'article en donnant les références utiles à sa
-   vérifiabilité et en les liant à la section « Notes et références ».
-
-   En pratique : Quelles sources sont attendues ? Comment ajouter mes
-   sources ?
-   [220px-Reynard-the-fox.jpg] La légende médiévale de Renard.
-   [220px-Leighton-Alain_Chartier-1903.jpg] La légende d'Alain Chartier
-   (1903).
-
-   Une légende (de l'adjectif verbal latin legenda, « qui doit être lue »)
-   est, à l’origine, un récit mis par écrit pour être lu publiquement :
-   généralement il s'agit d'une hagiographie lue dans les monastères,
-   pendant les repas ; dans les églises, pour l’édification des fidèles
-   lors de la fête d’un saint. Au XVI^e siècle s'opère un glissement de
-   sens, la légende devenant un récit à caractère merveilleux où les faits
-   historiques sont transformés par l'imagination populaire ou l'invention
-   poétique. Cette évolution « résulte de la nécessité devant laquelle se
-   sont trouvés les hagiographes de fournir la matière destinée à
-   alimenter le culte de saints personnages dont ils ignoraient à peu près
-   tout »^[1]. Dans ce genre de littérature, la précision historique passe
-   ainsi au second plan par rapport à l’intention spirituelle.
-
-   Le légendaire désigne l'auteur, le compilateur de légendes mais aussi
-   le recueil de légendes.
-
-   Le légendier est un recueil de vies de saints sous forme de légendes
-   hagiographiques qui ont plus un rôle liturgique et commémoratif que
-   biographique^[2].
-
-Légende et mythe
-
-   [modifier | modifier le code]
-
-   La légende diffère du mythe en ce qu'une légende tient de faits réels ;
-   une histoire est racontée puis est transmise par oral d'où les
-   modifications. On peut la définir comme un récit qui mêle le vrai et le
-   faux^[3].
-
-   Le récit fictif dans les légendes, mythes, contes et fables, est le
-   plus souvent d'origine orale et fait appel au merveilleux. Une légende
-   est fortement liée à un élément clé, ceci est précisé et se concentre
-   sur un lieu, un objet, un personnage, une histoire, etc. Au fil du
-   temps, la légende peut évoluer en mythe pour les sociétés futures, car
-   elle perd en précision et gagne en fantaisie et en amplification, et
-   s'oriente vers du mystique. Ainsi, dans une légende, il peut y avoir
-   une partie mythe, comme pour ce qui est d'Héraclès, le héros Grec,
-   l'Hercule des Romains.
-
-   Dans le langage courant, les notions de mythe, de légende, de conte et
-   de fable sont souvent confondues^[4]. Néanmoins, le mythe renvoie à une
-   histoire inventée pour fonder des croyances dans un monde divin.
-
-Origines des légendes
-
-   [modifier | modifier le code]
-
-   Jean-Pierre Bayard, dans son Histoire des légendes, énumère une dizaine
-   de théories relatives aux origines des légendes. La théorie
-   anthropologique, soutenue par Henri Gaidoz, Wilhelm Mannhardt et Edward
-   Tylor, postule que les légendes proviendraient de pensées humaines
-   primitives, de restes de religions et cultures élémentaires. La théorie
-   astrale ou naturaliste considère les contes et les légendes
-   étiologiques comme divinisant les grandes manifestations de la nature.
-   La théorie mythologique est avancée par Grimm qui attribue la création
-   des contes à l'enfance préhistorique de la patrie, Angelo De
-   Gubernatis, à un naturalisme enfantin, Schelling, à la conscience
-   individuelle du peuple qui ajoute aux légendes créées une signification
-   religieuse. La théorie linguistique considère que les légendes sont
-   issues de la transmission de récits entre plusieurs peuples qui
-   empruntent les mots à d'autres cultures, les déforme, ce qui obscurcit
-   le sens primitif originel et donne naissance à de nouveaux récits^[5].
-
-Notes et références
-
-   [modifier | modifier le code]
-    1. ↑ Bernard Merdrignac, Les saints bretons entre légendes et
-       histoire, Presses universitaires de Rennes, 2015, p. 11.
-    2. ↑ Cyrille Vogel, Guy Philippart, Jacques Dubois (O.S.B.), Léopold
-       Genicot, Noël Coulet, Philip Grierson, Robert Fossier, Les
-       légendiers latins et autres manuscrits hagiographiques, Brepols,
-       1977, p. 121
-    3. ↑ Jean-Bruno Renard, « Entre faits divers et mythes »,
-       Religiologiques, n^o 10,‎ automne 1994, p. 1.
-    4. ↑ Frédéric Chaberlot, La Science est-elle un conte de fées ?, CNRS
-       Éditions, 2012, p. 84.
-    5. ↑ Jean-Pierre Bayard, Histoire des légendes, PUF, 1970, p. 22-28.
-
-Voir aussi
-
-   [modifier | modifier le code]
-
-   Sur les autres projets Wikimedia :
-     * légende, sur le Wiktionnaire
-
-Bibliographie
-
-   [modifier | modifier le code]
-     * Hippolyte Delehaye, The Legends of the Saints: An Introduction to
-       Hagiography (1907), Chapter I: Preliminary Definitions, et passim
-     * Karl Kerenyi, The Heroes of the Greeks (1959)
-     * Article de l'Encyclopédie Catholique Literary or Profane Legends
-
-Articles connexes
-
-   [modifier | modifier le code]
-   Une catégorie est consacrée à ce sujet : Légende.
-     * Liste de créatures légendaires
-     * Liste d'objets légendaires et sacrés
-     * Hagiographie
-     * Légendes au sujet des Templiers
-          + Légende dorée
-          + Légende noire
-     * Légende urbaine : la légende urbaine est la nouvelle légende. Les
-       lieux publics et la technologie en sont les meilleurs sujets.
-     * Matière de Bretagne et Matière de France
-          + Historia regum Britanniae
-     * Conte
-
-Liens externes
-
-   [modifier | modifier le code]
-
-     *
-     *
-     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
-       et modifier les données sur Wikidata  :
-          + Den Store Danske Encyklopædi
-          + Gran Enciclopedia Aragonesa
-          + Gran Enciclopèdia Catalana
-          + Larousse
-     * Notices d'autorité Voir et modifier les données sur Wikidata  :
-          + BnF (données)
-          + LCCN
-          + GND
-          + Japon
-          + Espagne
-          + Israël
-          + Tchéquie
-     * Une exposition itinérante sur les mythes et légendes
-     * La Bibliothèque d'Ygora
-     * Centre des Légendes et d'Elficologie
-
-     * icône décorative Portail du folklore et du légendaire
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Légende&oldid=220880816 ».
-   Catégories :
-     * Légende
-     * Genre et forme littéraire
-     * Littérature orale
-
-   Catégories cachées :
-     * Article manquant de références depuis septembre 2009
-     * Article manquant de références/Liste complète
-     * Page utilisant un modèle Bases inactif
-     * Page utilisant P8313
-     * Page utilisant P1807
-     * Page utilisant P1296
-     * Page utilisant P6058
-     * Page pointant vers des bases externes
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
-     * Article de Wikipédia avec notice d'autorité
-     * Portail:Légendaire/Articles liés
-     * Portail:Culture/Articles liés
-
-     * La dernière modification de cette page a été faite le 5 décembre
-       2024 à 09:50.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d’autres
-       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+   Geneviève Salvan Université Nice Sophia Antipolis - Université Côte
+   d'Azur | Paternité - Pas d'Utilisation Commerciale - Partage des
+   Conditions Initiales à l'Identique Réalisé avec Scenari (nouvelle
+   fenêtre)

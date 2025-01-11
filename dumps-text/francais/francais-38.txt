@@ -1,0 +1,616 @@
+   contenu principal
+   (BUTTON) Accueil France Info
+     * Rechercher une actualité Recherche
+     *
+     * Direct TV TV
+     * Direct radio Radio
+     * Le live Live
+     *
+     * (BUTTON) Services
+          + Newsletters (Nouvelle fenêtre)
+          + Météo (Nouvelle fenêtre)
+          + Jeux (Nouvelle fenêtre)
+          + Scolarité
+     *
+     * (BUTTON) Mon franceinfo
+          + Transparence
+          + Nous contacter
+          + Se connecter
+          + S'inscrire
+
+     * Accueil
+     *
+     * (BUTTON) Menu
+     *
+     * Enquêtes
+     * Vrai ou faux
+     *
+     * Incendies en Californie
+     * Gouvernement de François Bayrou
+     * Mort de Jean-Marie Le Pen
+
+   France Info France Info (BUTTON)
+     * Accueil
+
+   En ce moment
+     * Incendies en Californie
+     * Gouvernement de François Bayrou
+     * Mort de Jean-Marie Le Pen
+
+     * Enquêtes
+     * Vrai ou faux
+
+   Rubriques
+     * L'actu pour les jeunes
+     * Une info transparente
+     * (BUTTON) Monde
+     * (BUTTON) Europe
+     * (BUTTON) Faits-divers
+     * (BUTTON) Politique
+     * (BUTTON) Société
+     * (BUTTON) Environnement
+     * (BUTTON) Sport
+     * (BUTTON) Culture
+     * (BUTTON) Éco / Conso
+     * (BUTTON) Santé
+     * (BUTTON) Sciences & technologies
+     * (BUTTON) MétéoMétéo
+     * (BUTTON) JeuxJeux
+
+     * (BUTTON) Services
+     * (BUTTON) Mon franceinfo
+
+   Recevez l'essentiel de l'actualité et restez à jour avec nos
+   newsletters
+   découvrir nos newsletters (Nouvelle fenêtre)
+   Continuez votre exploration
+     * France 3 régions (nouvelle fenêtre)France 3 régions
+     * Outremer la 1ère (nouvelle fenêtre)Outremer la 1ère
+     * (BUTTON) france TVfrance TV
+     * (BUTTON) radio franceradio france
+
+   (BUTTON) Services Services
+     * Newsletters (nouvelle fenêtre)Newsletters
+     * Météo (nouvelle fenêtre)Météo
+     * Jeux (nouvelle fenêtre)Jeux
+     * Scolarité
+
+   (BUTTON) Mon franceinfo Mon franceinfo
+     * Transparence
+     * Nous contacter
+     * Se connecter
+     * S'inscrire
+
+   (BUTTON) Monde Monde
+   voir toute l'actu Monde
+   En direct
+     * Incendies dévastateurs à Los Angeles
+
+   En ce moment
+     * Incendies en Californie
+     * Guerre au Proche-Orient
+     * Guerre en Ukraine
+     * Chute de Bachar al-Assad
+     * Syrie
+     * Liban
+     * Guerre entre le Hamas et Israël
+     * Corée du Sud
+     * Donald Trump
+     * Présidentielle américaine 2024
+     * Crise climatique
+     * Russie
+     * Voir plus de sujets monde
+
+   Rubriques
+     * Afrique
+     * Amériques
+     * Asie-Pacifique
+     * Etats Unis d'Amérique
+     * Russie
+     * Chine
+     * Proche-orient
+     * Brésil
+     * ONU
+     * Otan
+     * Story Killers
+     * Conflit dans le Haut-Karabakh
+     * Guerre entre Israël et le Hamas
+     * Inondations meurtrières en Libye
+     * Séisme au Maroc
+
+   (BUTTON) Europe Europe
+   voir toute l'actu Europe
+   En ce moment
+     * Guerre en Ukraine
+     * Voir plus de sujets europe
+
+   Rubriques
+     * Guerre en Ukraine
+     * France
+     * Allemagne
+     * Sommet de l'UE
+     * Royaume-Uni
+     * Espagne
+     * Italie
+     * Belgique
+     * Brexit
+
+   (BUTTON) Faits-divers Faits-divers
+   voir toute l'actu Faits-divers
+   En ce moment
+     * Attentats de janvier 2015
+     * Voir plus de sujets faits-divers
+
+   Rubriques
+     * Meurtres
+     * Affaires
+     * Enlèvements
+     * Accidents
+     * Police
+     * Terrorisme
+     * Justice – Procès
+     * Evasions
+     * Incendies de forêt
+     * Naufrages
+     * Mort de Nahel à Nanterre
+     * Disparition de Delphine Jubillar
+     * Attaque au couteau à Annecy
+     * Procès de l’attentat de Magnanville
+     * Disparition du petit Emile
+     * Incendie meurtrier à Wintzenheim
+
+   (BUTTON) Politique Politique
+   voir toute l'actu Politique
+   En direct
+     * Budget 2025
+
+   En ce moment
+     * Gouvernement de François Bayrou
+     * Mort de Jean-Marie Le Pen
+     * Financement de la campagne 2007 de Sarkozy
+     * Emmanuel Macron
+     * Voir plus de sujets politique
+
+   Rubriques
+     * Élections européennes 2024
+     * Gouvernement de Gabriel Attal
+     * Assemblée nationale
+     * Sénat
+     * Emmanuel Macron
+     * Réforme des retraites 2023
+     * Les Républicains
+     * Renaissance
+     * Rassemblement national
+     * Parti socialiste
+     * La France insoumise
+     * Les Ecologistes - EELV
+     * Affaires
+     * Election présidentielle
+     * Toutes les élections
+
+   (BUTTON) Société Société
+   voir toute l'actu Société
+   En ce moment
+     * Calendrier des vacances scolaires
+     * Immigration
+     * Violences sexuelles
+     * Voir plus de sujets société
+
+   Rubriques
+     * Justice
+     * Drogue
+     * Education
+     * Egalité femmes-hommes
+     * Immigration
+     * Fin de vie
+     * IVG
+     * Maltraitance dans les Ehpad
+     * Droits des femmes
+     * Violences sexuelles
+     * Féminicides
+     * Laïcité
+     * Nucléaire
+     * Prisons
+     * Prostitution
+     * PMA
+     * Scolarité
+     * Calendrier des vacances scolaires
+     * Résultats Bac
+     * Résultats Brevet
+     * Résultats Bts
+     * Résultats Cap
+     * Harcèlement scolaire
+
+   (BUTTON) Environnement Environnement
+   voir toute l'actu Environnement
+   En ce moment
+     * Crise climatique
+     * Voir plus de sujets environnement
+
+   Rubriques
+     * Crise climatique
+     * Convention citoyenne sur le climat
+     * Biodiversité
+     * Pollution de l'air
+     * Sécheresse
+     * Le tableau de bord du réchauffement climatique
+     * Nos réponses à vos questions sur le climat
+     * COP28
+     * Pesticides
+     * Empreinte carbone
+     * Montée des eaux
+     * Greta Thunberg
+     * Carte des restrictions d'eau
+     * Tableau de bord des nappes phréatiques
+     * Calculez votre empreinte carbone
+     * Calculez l'impact carbone de vos déplacements
+     * Trouvez des fruits et légumes de saison
+     * Triez mieux vos déchets
+
+   (BUTTON) Sport Sport
+   voir toute l'actu Sport
+   En ce moment
+     * Didier Deschamps
+     * Ligue 1
+     * Vendée Globe 2024
+     * Directs
+     * Voir plus de sujets sport
+
+   Rubriques
+     * Foot
+     * Cyclisme
+     * Tennis
+     * Rugby
+     * Formule 1
+     * Basket
+     * Handball
+     * Golf
+     * Paris 2024
+     * Jeux paralympiques
+     * Dakar
+     * 6 nations
+     * Roland-Garros
+     * Tour de France
+     * Coupe du monde de foot
+     * Mondiaux d'athlétisme
+     * Coupe du monde de rugby
+
+   (BUTTON) Culture Culture
+   voir toute l'actu Culture
+   En ce moment
+     * La rentrée littéraire 2025
+     * Voir plus de sujets culture
+
+   Rubriques
+     * Musique
+     * Cinéma
+     * Séries
+     * Arts-Expos
+     * Spectacles
+     * Livres
+     * BD
+     * Mode
+     * Patrimoine
+     * Jeux Vidéo
+     * Festival de Cannes 2023
+     * Oscars 2024
+     * Victoires de la musique 2024
+     * Festival du livre de Paris 2024
+     * Les Molières
+     * Fête de la musique 2024
+     * Rock en Seine 2024
+     * Festivals d'été
+
+   (BUTTON) Éco / Conso Éco / Conso
+   voir toute l'actu Éco / Conso
+   En ce moment
+     * Colère des agriculteurs
+     * Soldes d'hiver 2025
+     * Budget de la France
+     * Déficit
+     * Inflation
+     * Voir plus de sujets éco / conso
+
+   Rubriques
+     * Inflation
+     * Energie
+     * Pouvoir d'achat
+     * Réforme des retraites 2023
+     * Chômage
+     * Crise
+     * Commerce
+     * Déficit
+     * Emploi
+     * Grève
+     * Impôts - Fiscalité
+     * Entreprises
+     * Industrie
+     * Médias
+     * Ménages
+     * Retraite
+     * Auto-entrepreneurs
+     * Aéronautique
+     * Automobile
+     * Transports
+     * Bourse
+     * Budget de la France
+     * Fraude
+     * Soldes d'hiver 2024
+
+   (BUTTON) Santé Santé
+   voir toute l'actu Santé
+     * Maladie
+     * Hôpital
+     * Covid-19
+     * Vaccin contre le Covid-19
+     * Cancer
+     * La crise de l’hôpital public
+     * Biologie - Génétique
+     * Médicament
+     * Alimentation
+     * Lutte contre le tabagisme
+     * Politique de santé
+     * Psycho - Bien-être
+     * Sport et santé
+     * Professions médicales
+     * Le tabou de la santé mentale
+
+   (BUTTON) Sciences & technologies Sciences & technologies
+   voir toute l'actu Sciences & technologies
+     * Mars
+     * OGM
+     * Météorites en Russie
+     * Astéroïde 2012 DA14
+     * High Tech
+     * Steak in-vitro
+     * Boson de Higgs
+     * Astronomie
+     * Espace
+     * Solar Impulse
+     * Homo naledi
+     * Dinosaures
+
+   (BUTTON) Météo Météo
+   Météo (Nouvelle fenêtre)
+     * Tsunami
+     * Séisme
+     * Avalanche
+     * Canicule
+     * Climat
+     * Cyclone
+     * Intempéries
+     * Neige
+     * Orages
+     * Tempêtes
+     * Tornade
+     * Météo France (nouvelle fenêtre)Météo France
+     * Météo Paris (nouvelle fenêtre)Météo Paris
+     * Météo Lyon (nouvelle fenêtre)Météo Lyon
+     * Météo Marseille (nouvelle fenêtre)Météo Marseille
+     * Actualités météo
+
+   (BUTTON) Jeux Jeux
+   Jeux (Nouvelle fenêtre)
+     * Sudoku (nouvelle fenêtre)Sudoku
+     * Mots fléchés (nouvelle fenêtre)Mots fléchés
+     * Mots croisés (nouvelle fenêtre)Mots croisés
+     * Mots mystères (nouvelle fenêtre)Mots mystères
+     * Solitaire (nouvelle fenêtre)Solitaire
+     * Alphamo (nouvelle fenêtre)Alphamo
+     * 7 erreurs (nouvelle fenêtre)7 erreurs
+     * FreeCell (nouvelle fenêtre)FreeCell
+
+   (BUTTON) france TV france TV
+   france TV (Nouvelle fenêtre)
+     * France 2 (nouvelle fenêtre)France 2
+     * France 3 (nouvelle fenêtre)France 3
+     * France 4 (nouvelle fenêtre)France 4
+     * France 5 (nouvelle fenêtre)France 5
+     * Lumni (nouvelle fenêtre)Lumni
+     * Okoo (nouvelle fenêtre)Okoo
+     * France tv & vous (nouvelle fenêtre)France tv & vous
+     * France tv le club (nouvelle fenêtre)France tv le club
+     * France tv lab (nouvelle fenêtre)France tv lab
+     * Les Médiateurs (nouvelle fenêtre)Les Médiateurs
+
+   (BUTTON) radio france radio france
+   radio france (Nouvelle fenêtre)
+     * France Inter (nouvelle fenêtre)France Inter
+     * France Bleu (nouvelle fenêtre)France Bleu
+     * France Culture (nouvelle fenêtre)France Culture
+     * France Musique (nouvelle fenêtre)France Musique
+     * Fip (nouvelle fenêtre)Fip
+     * Mouv' (nouvelle fenêtre)Mouv'
+     * Maison de la Radio et de la Musique (nouvelle fenêtre)Maison de la
+       Radio et de la Musique
+     * La Médiatrice (nouvelle fenêtre)La Médiatrice
+
+   Flash info
+   (BUTTON) Fermer la notification
+
+   lire l'article
+   Cet article date de plus de sept ans.
+
+   Le sens de l'info. La légende
+   (BUTTON) écouter (5min)
+   Le sens de l'info Michel Polacco / Michel Serre Le dimanche à 13h24,
+   15h51 et 18h24
+   (BUTTON) s'abonner
+     * podcast (Nouvelle fenêtre)
+     * flux rss (Nouvelle fenêtre)
+
+   La légende, c'est le thème du décryptage du "Sens de l'info"
+   aujourd'hui. Le philosophe Michel Serres énumère les différentes
+   significations du mot légende, du cartel d'exposition aux mythes
+   anciens et contemporains.
+   Article rédigé par franceinfo, Michel Polacco - Michel Serres
+   Radio France
+   Publié le 05/11/2017 15:01
+   Temps de lecture : 3min
+   Inde, New Delhi, 28 septembre 2017. Effigies du dieu hindou King
+   Ravana. (HINDUSTAN TIMES / HINDUSTAN TIMES) Inde, New Delhi, 28
+   septembre 2017. Effigies du dieu hindou King Ravana. (HINDUSTAN TIMES /
+   HINDUSTAN TIMES)
+
+   La légende, comme le mythe, renvoie à quelque chose dont
+   l'existence n'est pas prouvée, qui ferait partie de l'Histoire, qui
+   tient de faits réels mais peut mêler le vrai et le faux.
+
+   "Il y a une différence entre mythe et légende" dit Michel Serres. Il y
+   a une différence entre les dieux et les hommes. On n'est même pas sûr
+   que Pythagore ait vraiment existé... Ce sont des légendes."
+
+La légende est utilisée dans les cartes de géographie
+
+   Elle permet de lire une carte. Selon l’échelle de la carte, on trouve
+   ou non l’intégralité des routes et sentiers. Cela va des autoroutes
+   jusqu’aux sentiers pour les randonnées pédestres en passant par les
+   pistes cyclables et autres routes étroites.
+   Partir avec une carte, c’est pouvoir trouver en cas de besoin l’hôpital
+   ou le refuge le plus proche, mais aussi découvrir de nombreux monuments
+   et points d’intérêts : chapelles, ruines, points de vue, zones de
+   baignade…
+   Les forêts sont représentées en vert avec une distinction par type
+   d’arbres, ce qui permet de se repérer au milieu de feuillus ou de
+   conifères.
+   Les cours et étendues d’eau dessinés en bleu, délimitent des zones
+   inondables, des marais, des sources, des canaux, des cascades…
+
+   La courbe de niveau est une ligne imaginaire qui relie entre eux tous
+   les points situés à une même altitude. Les courbes de niveau permettent
+   de représenter le relief sur une carte-papier en deux dimensions.
+
+La légende des anges a été publiée chez Flammarion par Michel Serres en 2007
+
+   Résumé de l'auteur
+
+   "Légende, mot magique, évoque un récit populaire traditionnel, une
+   épopée fabuleuse ou le texte qui accompagne une image. Etymologiquement
+   (LEGENDA, ce qui doit être lu), la légende invite aussi à
+   l'apprentissage, à la découverte.
+   Mais, bouleversant l'étymologie, évoquons ligare, lier, et voyons
+   d'abord dans une légende ce qui crée les liens - liens tissés, grâce à
+   l'histoire racontée, entre conteur et lecteur, entre mots et images,
+   entre différents regards posés sur le monde.
+
+   Pour les religions monothéistes comme dans les anciennes légendes,
+   l'Ange porte les messages. Or nos sciences et nos techniques produisent
+   cent métiers de communication, autant de réseaux mondiaux, une ville
+   sans limites, d'incessants déplacements qui dessinent la carte d'un
+   nouvel univers et induisent des problèmes planétaires, portés sans
+   cesse vers nous par mille messagers.
+
+   Mais cette messagerie universelle s'accompagne d'indicibles injustices,
+   d'une misère croissante, de famines et de guerres, d'une révoltante
+   inégalité. Voyons-nous, réalisée, partout, autour de nous, une nouvelle
+   Légende des Anges, avec échangeurs et annonceurs, réseaux et passages,
+   chutes et Démons, Puissances et Dominations, quête de miséricorde...?
+   Construisons-nous, sans la voir, une culture neuve qui convoque,
+   ensemble, sciences, droits et religions, c'est-à-dire notre raison, nos
+   exigences de justice et nos blessures d'amour ?"
+
+   Institut national de l'information géographique et forestière
+
+   Image d'illustration de comversation Image d'illustration de
+   comversation
+
+   Lancez la conversation
+   commenter
+
+   Partager : l’article sur les réseaux sociaux
+     * (BUTTON) Partagez sur twitter (nouvel onglet) (Nouvelle fenêtre)
+     * (BUTTON) Partagez sur whatsApp (nouvel onglet) (Nouvelle fenêtre)
+     * (BUTTON) Partagez sur facebook (nouvel onglet) (Nouvelle fenêtre)
+     * (BUTTON) Partagez par email (Nouvelle fenêtre)
+     * (BUTTON) Partagez (Nouvelle fenêtre)
+
+   les mots-clés associés à cet article
+     * Vacances
+     * La campagne à vélo
+     * Découverte
+     * Société
+     * Politique
+
+   contenus sponsorisés
+
+   Lancez la conversation
+
+   Connectez-vous à votre compte franceinfo pour commenter.
+   (BUTTON) se connecter (BUTTON) créer votre compte
+
+   Découvrez l’application France Info
+
+   Toute l’actu en direct et en continu, où et quand vous voulez.
+     * Sauvegardez vos articles à lire plus tard
+     * Recevez les alertes uniquement sur ce qui vous intéresse
+
+     * Télécharger dans l'App Store Télécharger dans l'App Store
+     * Disponible sur Google Play Disponible sur Google Play
+
+   Télécharger l'application (Nouvelle fenêtre)
+
+    1. Accueil
+    2. En direct radio
+    3. Le sens de l'info
+
+   Abonnement Newsletter
+
+   :toute l’actu dès 7h30
+
+   Votre adresse e-mail
+   ____________________
+
+   (BUTTON) s'inscrire
+
+   Merci ! Votre inscription est bien prise en compte.
+
+   France Télévisions utilise votre adresse e-mail afin de vous adresser
+   des newsletters.
+   Pour exercer vos droits, contactez-nous.
+   Notre politique de confidentialité
+
+   Suivez-nous sur les réseaux sociaux :
+     * France Info sur Facebook (Nouvelle fenêtre)
+     * France Info sur X, anciennement Twitter (Nouvelle fenêtre)
+     * France Info sur Instagram (Nouvelle fenêtre)
+     * France Info sur Youtube (Nouvelle fenêtre)
+     * France Info sur Tiktok (Nouvelle fenêtre)
+
+   Accueil France Info
+
+   Suivez l'actualité en direct :
+     * le live
+     * direct tv
+     * direct radio
+
+   Retrouvez aussi
+   La météo Les jeux
+
+     * Politique de confidentialité (Nouvelle fenêtre)
+     * CGU et mentions légales
+     * Gérer mes traceurs
+     * Plan du site
+     * Qui sommes-nous ?
+     * Nous contacter
+
+     * Charte déontologique
+     * Charte du Live
+     * Assistant vocal
+     * Devenir annonceur (Nouvelle fenêtre)
+     * Recrutement (Nouvelle fenêtre)
+
+   L’application France Info
+   (BUTTON) Fermer la notification
+
+   Tout France Info, et bien plus. Sauvegardez vos articles à lire plus
+   tard et filtrer l’actualité qui vous intéresse
+   Télécharger l’application (Nouvelle fenêtre)
+
+   (BUTTON) Fermer la fenêtre d’activation des notifications France Info
+
+   Activez les notifications franceinfo et ne manquez rien de l’actualité
+
+   Vous pouvez changer d’avis à tout moment dans les réglages de votre
+   navigateur.
+   (BUTTON) plus tard
+   (BUTTON) activer

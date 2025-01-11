@@ -1,0 +1,48 @@
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Légende Propriétés
+
+--
+
+Légende Propriétés
+
+   La boîte de dialogue ' Propriétés de la légende' définit l'apparence de
+   l'élément Légende lui-même, comme sa couleur d'arrière-plan, la couleur
+   et la taille du texte du titre et la couleur de la bordure. Si vous
+--
+
+   La boîte de dialogue "Options de style" pour un élément de légende peut
+   être affichée en utilisant l'une des méthodes décrites ici.
+--
+
+   Conception > Elément > Editeurs > Propriétés > Légende : Options de
+   style
+--
+
+   Double-cliquez sur l'élément Légende : Options de style
+
+Définir les propriétés d'une légende
+
+--
+   Soit:
+     * Remplacez la taille de la police du texte du titre de la légende
+       par une valeur différente, ou
+--
+   Cliquez sur la flèche déroulante et sélectionnez l'une des couleurs de
+   police standard pour le texte du titre de la légende.
+
+--
+   standard comme couleur de remplissage d'arrière-plan de l'élément
+   Légende.
+
+--
+   Cliquez sur la flèche vers le bas et sélectionnez l'une des couleurs
+   standard comme couleur des lignes de bordure de l'élément Légende.
+
+--
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+

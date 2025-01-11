@@ -106,7 +106,7 @@
    Mostly Positive (24) - 70% of the 24 user reviews in the last 30 days
    are positive.
    All Reviews:
-   Very Positive (13,976) - 84% of the 13,976 user reviews for this game
+   Very Positive (13,978) - 84% of the 13,978 user reviews for this game
    are positive.
    Release Date:
    18 Sep, 2014
@@ -122,7 +122,7 @@
    +
    Reviews
    All Reviews:
-   Very Positive (84% of 13,976) All Time
+   Very Positive (84% of 13,978) All Time
    Recent Reviews:
    Mostly Positive (70% of 24) Recent
    [game_highlight_image_spacer.gif]
@@ -189,15 +189,15 @@
    Age rating for: PEGI
    View Steam Achievements (139)
    Includes 139 Steam Achievements
-   Night Rider
-   The Grim Wave
-   Toe in the Water
+   Surprise!
+   I <3 Minions
+   By Any Means
    View
    all 139
    View Points Shop Items (2)
    Points Shop Items Available
-   Auriga
    Kazanji
+   Auriga
    Title: ENDLESS™ Legend
    Genre: RPG, Strategy
    Developer: AMPLITUDE Studios
@@ -446,25 +446,25 @@ System Requirements
 
 What Curators Say
 
-   413 Curators have reviewed this product. Click here to see them.
+   403 Curators have reviewed this product. Click here to see them.
 
 Customer reviews for ENDLESS™ Legend
 
    Overall Reviews:
-   Very Positive (13,976 reviews) [icon_questionmark.png]
+   Very Positive (13,978 reviews) [icon_questionmark.png]
    Recent Reviews:
    Mostly Positive (24 reviews) [icon_questionmark.png]
    Review Type
-   (*) All (18,533)
-   ( ) Positive (15,512)
-   ( ) Negative (3,021)
+   (*) All (18,536)
+   ( ) Positive (15,514)
+   ( ) Negative (3,022)
    Purchase Type
-   (*) All (18,533)
-   ( ) Steam Purchasers (13,976) [icon_questionmark_dark.png]
-   ( ) Other (4,557) [icon_questionmark_dark.png]
+   (*) All (18,536)
+   ( ) Steam Purchasers (13,978) [icon_questionmark_dark.png]
+   ( ) Other (4,558) [icon_questionmark_dark.png]
    Language
-   ( ) All Languages (18,533)
-   (*) Your Languages (11,529) [icon_questionmark_dark.png]
+   ( ) All Languages (18,536)
+   (*) Your Languages (11,531) [icon_questionmark_dark.png]
    Customize
    Date Range
    To view reviews within a date range, please click and drag a selection

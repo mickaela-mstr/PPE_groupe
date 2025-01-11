@@ -1,0 +1,118 @@
+   [USEMAP:entete1.gif]
+
+                               Page d'accueil
+
+                              Qui sommes-nous ?
+
+                            Pourquoi ce manuel ?
+
+               Un modèle de rapport pour rédacteurs pressés
+
+                           Imprimer tout le manuel
+
+                            Corrections en ligne
+
+                             Notre bibliographie
+
+                         N'avez-vous rien oublié ?
+
+   [entete2.gif]
+
+                           [prec.gif] [suite.gif]
+
+                    Les illustrations et leurs légendes
+
+     [header_menu.gif]
+     [tit_flecherouge.gif] Sommaire général
+     [ligne.gif]
+     [tit_flecherouge.gif] Remarques préliminaires
+     [ligne.gif]
+   [tit_flecherouge.gif] Module 1 : Quel type de rapport allez-vous
+   produire ?
+     [ligne.gif]
+     [tit_flecherouge.gif] Module 2 : Comment présenter votre rapport ?
+     [ligne.gif]
+   [tit_flecherouge.gif] Module 3 : Comment situer vos idées et celles des
+   autres ?
+     [ligne.gif]
+     [tit_flecherouge.gif] Module 4 : Comment structurer votre rapport ?
+     [ligne.gif]
+   [tit_flecherouge.gif] Module 5 : Comment faire pour qu'un texte soit
+   cohérent et dynamique ?
+     [ligne.gif]
+     [tit_flecherouge.gif] Module 6 : La bibliographie
+     [ligne.gif]
+   [tit_flechebas.gif] Module 7 : Table des matières, Annexes,
+   illustrations et légendes, index
+     [rien.gif] [tit_flecherouge.gif] La table des matières
+     [rien.gif] [tit_flecherouge.gif] Annexes
+     [rien.gif] [tit_carrevert.gif] Illustrations et leurs légendes
+     [rien.gif] [tit_flecherouge.gif] Index
+
+
+
+               Comment écrire la légende des illustrations ?
+
+   La légende permet d'identifier le document illustratif en indiquant sa
+   provenance et son intérêt pour une meilleure compréhension du sens du
+  texte. Elle se présente comme un titre détaillé, mais doit être courte
+    afin de ne sortir ni de la page (typographiquement), ni du sujet. Si
+   elle reprend certaines formulations du texte, elle s'y intègre d'autant
+                                   mieux.
+
+   Adoptez la forme nominale plus concentrée et percutante, et pensez à
+    des mots clés soulignant le contenu de l'illustration et son lien au
+      texte, ou insistant sur un point particulier de l'argumentation.
+
+    La légende peut être suivie d'un court commentaire explicatif si le
+   titre ne suffit pas ou si le document est tiré d'une source officielle.
+   Dans ce cas, on en précise la source (cf. ex. ci-dessous), puis, dans
+     le commentaire, ce que l'on doit savoir du contexte où le document
+                            illustratif est né.
+
+    Voici deux exemples du format normatif adopté dans la rédaction de
+   légendes. La taille des caractères est plus petite que celle du corps
+     du texte (entre 8 et 11) et peut varier à l'intérieur même de la
+  légende. La citation de l'ouvrage dont le document illustratif est tiré
+   peut être écrite en caractères encore plus petit. Tout titre - de la
+   légende ou d'un document cité dans le commentaire l'accompagnant - est
+   en italique. Pour l'usage des majuscules et des particules ajoutées aux
+             noms propres, se référer au Tableau du Module 6.
+
+    Exemples de légendes d'un tableau, d'un schéma ou graphique, d'une
+                                illustration
+
+      [puce_bleue.gif] Tableau 5 : Principales réponses obtenues à la
+  question Q4 (Enquête D) : "Quelles sont les maladies les plus répandues
+                             dans le village ?".
+
+   [puce_bleue.gif] Le monde riche : la carte montre la distribution de la
+    richesse mondiale moyenne en 1995, dans un rayon de 1000 kilomètres
+   autour de chaque point. C. GRAASLAND et alii, Population et Sociétés,
+      368, 1, 2001. Copyright Claude GRAASLAND, Malika MADELIN, projet
+                              Hypercarte 2000.
+
+    [puce_bleue.gif] LOPEZ Y. M., Portrait of the Artist as the Virgin of
+    Guadalupe, 1978 (ci-dessus à gauche). Lopez, mexicaine-américaine,
+   s'imagine en sainte patronne du Mexique (qu'on appelle la Grande mère
+       dans le panneau central du Guadalupe Triptych). Les deux autres
+                panneaux montrent sa mère et sa grand-mère.
+
+                      A éviter dans les illustrations
+
+     Les documents illustratifs sans relation au texte, utilisés comme
+                                  apartés.
+  La simple répétition dans la légende de ce qu'on voit sans en préciser
+                                la fonction.
+          Le traitement de la légende comme un document autonome.
+               Le développement d'arguments dans la légende.
+
+
+
+
+                                                 Retour en haut de la page
+
+                                About the EUI
+                          About The Language Center
+
+    14/12/02

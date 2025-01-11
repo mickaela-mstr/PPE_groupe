@@ -1,0 +1,284 @@
+   Réserver une Démo
+
+   Home
+
+     *
+     * Produits >
+       Enterprise Architect
+       Quoi de neuf dans v17.0 Quoi de neuf dans v16.1 Quoi de neuf dans
+       v16.0 Quoi de neuf dans v15.2 Quoi de neuf dans v15.1 Quoi de neuf
+       dans v15 Aperçu Professional Corporate Unified Ultimate Comparez
+       Éditions SaaS Essai Gratuit Téléchargements Enregistrés
+       Info Additionnelle
+       Historique des Versions Infos de Licence Licences flottantes
+       Tarification Universitaire Exigences du Système EULA MDG Extensions
+       3rd Party Extensions
+       Pro Cloud Server
+       Quoi de neuf dans v6.0Quoi de neuf dans v5.1Quoi de neuf dans
+       v5.0Quoi de neuf dans v4.2 Aperçu WebEA Intégrations Serveur de
+       Licence Flottant Comparez Éditions Essai Gratuit Téléchargements
+       Info Additionnelle
+       Tour de 30 minutes Historique des Versions Exigences du Système
+       EULA
+       Prolaborate
+       Quoi de neuf dans 5.3 Aperçu Introduction Ressources Articles
+       Documentation Historique des Versions FAQ Événements Vidéos Essai
+       Gratuit
+       Info Additionnelle
+       Demander une Démo Preuve de Concept Prolaborate SaaS EULA
+         ______________________________________________________________
+
+     * Tarification >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * Support >
+       Forum
+       Guide d’Utilisateur/Aide
+       Contactez Nous
+       Signalez un bug
+       Demandez de fonctionnalité
+       Changez votre adresse Émail
+       Rapport de Bug prioritaire
+       Émail de Support
+       Émail de Ventes
+       FAQ
+       Support
+       Ventes
+       Détails de la Société
+       Salle de Press
+       Revendeurs
+       Afrique
+       Europe
+       Amérique du Nord
+       Sparx Services
+       Amérique du Nord
+       Australia
+       Europe Centrale
+       Royaume-Uni
+       Sociétés Sœurs
+       Argentine
+       Chine
+       Inde
+       Japon
+       Consultants et Mentors
+       Afrique
+       Amérique du Nord
+       Europe
+       En Ligne
+         ______________________________________________________________
+
+     * Ressources >
+       Webinaires
+       Prochaine Bibliothèque S'inscrire
+       Vidéos
+       Vidéos Démo Cours Vidéo
+       PDF Bibliothèque
+       Fondamentaux Modélisation Collaboration Publication Simulation
+       Gestion de Projet Voyez Bibliothèque Entiére
+       Autre
+       Livres Blancs Tutoriels Études de Cas Centre d'Apprentissage
+       Brochures
+       Utilisateurs enregistrés
+       Enterprise Architect Pro Cloud Server
+       Tous Utilisateurs
+       Téléchargements Gratuit DBMS Scripts Référentiel Clé Sécurité
+       d'utilisateur
+       Tous Ressources >
+         ______________________________________________________________
+
+     * UML Tutoriel
+     * Solutions >
+       Accueil
+       Commencer
+       Réserver une Démo
+       Accélérateurs
+       Cas d’Utilisation
+         ______________________________________________________________
+
+     * Communauté
+     * Télécharger >
+       Enterprise Architect
+       Pro Cloud Server
+       Prolaborate
+         ______________________________________________________________
+
+     * register users Connectez
+     *
+
+       ____________________ Search
+
+     * Index
+     * [ ]
+          + Fondamentaux de Modélisation
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Légende Propriétés
+
+   Search User Guide___ Go
+
+SVP notez : Cette page d’aide n’est pas pour la dernière version d’Enterprise
+Architect. La dernière aide peut être trouvée ici.
+
+   Pré. Proc.
+
+Légende Propriétés
+
+   La boîte de dialogue ' Propriétés de la légende' définit l'apparence de
+   l'élément Légende lui-même, comme sa couleur d'arrière-plan, la couleur
+   et la taille du texte du titre et la couleur de la bordure. Si vous
+   choisissez d'utiliser des couleurs par défaut, celles-ci sont issues de
+   la boîte de dialogue 'Préférences', page ' Couleurs Standard '.
+
+Accéder
+
+   La boîte de dialogue "Options de style" pour un élément de légende peut
+   être affichée en utilisant l'une des méthodes décrites ici.
+
+   Ruban
+
+   Conception > Elément > Éditeurs > Boîte de Dialogue Propriétés :
+   Options de style
+
+   Conception > Elément > Editeurs > Propriétés > Légende : Options de
+   style
+
+   Autre
+
+   Double-cliquez sur l'élément Légende : Options de style
+
+Définir les propriétés d'une légende
+
+               Option
+
+   Action
+
+   Voir également
+
+   Taille du titre
+
+   Soit:
+     * Remplacez la taille de la police du texte du titre de la légende
+       par une valeur différente, ou
+     * Cliquez sur les flèches 'spinner' pour augmenter ou diminuer la
+       taille de la police
+
+   Couleur Police
+
+   Cliquez sur la flèche déroulante et sélectionnez l'une des couleurs de
+   police standard pour le texte du titre de la légende.
+
+   Si vous souhaitez utiliser une couleur non standard, cliquez sur le
+   bouton Plus de couleurs et sélectionnez-la dans la palette plus grande
+   ou définissez une couleur personnalisée.
+   Créer Couleurs Personnalisées
+
+   Arrière plan
+
+   Cliquez sur la flèche vers le bas et sélectionnez l'une des couleurs
+   standard comme couleur de remplissage d'arrière-plan de l'élément
+   Légende.
+
+   Si vous souhaitez utiliser une couleur non standard, cliquez sur le
+   bouton Plus de couleurs et sélectionnez-la dans la palette plus grande
+   ou définissez une couleur personnalisée.
+   Créer Couleurs Personnalisées
+
+   Couleur de la bordure
+
+   Cliquez sur la flèche vers le bas et sélectionnez l'une des couleurs
+   standard comme couleur des lignes de bordure de l'élément Légende.
+
+   Si vous souhaitez utiliser une couleur non standard, cliquez sur le
+   bouton Plus de couleurs et sélectionnez-la dans la palette plus grande
+   ou définissez une couleur personnalisée.
+   Créer Couleurs Personnalisées
+
+   OK bouton
+
+   Cliquez sur ce bouton pour enregistrer vos modifications et fermer le
+   dialogue .
+
+   Bouton Annuler
+
+   Cliquez sur ce bouton pour abandonner toute modification et fermer le
+   dialogue .
+
+Notes
+
+     * Lorsque vous définissez les propriétés de l'élément, les
+       modifications sont reflétées dans la fenêtre d'aperçu à droite des
+       champs de valeur
+
+Apprenez Plus
+
+     * Create Legends
+     * Legend Key
+
+   (*)
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+
+   Pré. Proc.
+
+   Sparx Systems Enterprise Architect
+   contactez
+   [ ] Produits
+     * Produits
+     * Enterprise Architect
+     * Pro Cloud Server
+     * Prolaborate
+
+   [ ] UML en un coup d’œil
+     * UML en un coup d’œil
+     * Outils d’UML
+     * Modélisation PHP UML
+     * Modélisation Processus Métier
+     * Modèle Dirigé d’Architecture
+     * Gestion des Exigences
+     * Développement de Logiciel
+
+   [ ] Solutions
+     * Solutions
+     * Corporate
+     * Gouvernement
+     * Petit Moyenne Enterprise
+     * IT Professionelles
+     * Formateurs
+     * Universitaire
+
+   [ ] Resources
+     * Ressources
+     * UML 2.0 Tutoriel
+     * Corporate Ressources
+     * Developpeur Ressources
+     * Ressources Médias
+
+   [ ] Support
+     * Support
+     * Manuel en ligne
+     * Forum d’utilisateur
+     * Signalez un bug
+     * Demander une fonctionnalite
+     * Comparez Éditions
+     * Exigences de Systeme
+
+   [ ] Partenaires Mondiaux
+     * Partenaires Mondiaux
+     * Formateurs
+     * Revendeurs
+     * Société Soeurs
+     * Partenaires Technologiques
+     * Organisations de Normes
+
+   © 2000 - 2025   Sparx Systems Pty Ltd.   Tous droits reserves.
+   Legal Privee À propos De Nous
+     *
+     *
+     *
+     *

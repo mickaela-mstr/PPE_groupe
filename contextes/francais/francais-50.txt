@@ -1,0 +1,39 @@
+
+                    Les illustrations et leurs légendes
+
+--
+   [tit_flechebas.gif] Module 7 : Table des matières, Annexes,
+   illustrations et légendes, index
+     [rien.gif] [tit_flecherouge.gif] La table des matières
+     [rien.gif] [tit_flecherouge.gif] Annexes
+     [rien.gif] [tit_carrevert.gif] Illustrations et leurs légendes
+     [rien.gif] [tit_flecherouge.gif] Index
+--
+
+               Comment écrire la légende des illustrations ?
+
+   La légende permet d'identifier le document illustratif en indiquant sa
+   provenance et son intérêt pour une meilleure compréhension du sens du
+--
+
+    La légende peut être suivie d'un court commentaire explicatif si le
+   titre ne suffit pas ou si le document est tiré d'une source officielle.
+--
+    Voici deux exemples du format normatif adopté dans la rédaction de
+   légendes. La taille des caractères est plus petite que celle du corps
+     du texte (entre 8 et 11) et peut varier à l'intérieur même de la
+  légende. La citation de l'ouvrage dont le document illustratif est tiré
+   peut être écrite en caractères encore plus petit. Tout titre - de la
+   légende ou d'un document cité dans le commentaire l'accompagnant - est
+   en italique. Pour l'usage des majuscules et des particules ajoutées aux
+--
+
+    Exemples de légendes d'un tableau, d'un schéma ou graphique, d'une
+                                illustration
+--
+                                  apartés.
+  La simple répétition dans la légende de ce qu'on voit sans en préciser
+                                la fonction.
+          Le traitement de la légende comme un document autonome.
+               Le développement d'arguments dans la légende.
+

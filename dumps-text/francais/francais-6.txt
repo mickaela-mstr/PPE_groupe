@@ -5,19 +5,19 @@
 
 Recherches récentes
 
-     * dolor qui
-     * aut inventore
-     * in aspernatur
-     * sunt quibusdam
-     * molestias omnis
+     * tempora vero
+     * perspiciatis cum
+     * dolorum fugiat
+     * molestias minima
+     * laborum est
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   doloribus nemo molestiae dolorem vero et
+   est ut omnis sunt sit nihil
    (BUTTON)
-   doloribus nemo molestiae dolorem vero et
+   est ut omnis sunt sit nihil
 
    Aucune suggestion trouvée
    (BUTTON)
@@ -60,34 +60,34 @@ Accès institutions
 
 Recherches récentes
 
-     * qui reiciendis
-     * omnis dolores
-     * nihil fuga
-     * ducimus autem
-     * quia voluptatem
+     * ratione veritatis
+     * facere id
+     * perspiciatis minima
+     * occaecati autem
+     * minima iusto
 
    (BUTTON) Effacer
 
 Des idées pour vous
 
-   quas expedita qui blanditiis nihil nesciunt
+   commodi molestias eos non est neque
    (BUTTON)
-   quas expedita qui blanditiis nihil nesciunt
+   commodi molestias eos non est neque
 
    Aucune suggestion trouvée
    (BUTTON)
 
-Le légendaire au XIX^e siècle 1997
+Rumeurs et légendes urbaines 2022
 
-   Couverture de PUF_MILLE_1997_02
+   Couverture de PUF_RENAR_2022_01
 
-Chapitre d’ouvrage
+Chapitre de Que sais-je ? / Repères
 
-Chapitre I - Légende et histoire
+Chapitre IV. L’analyse externe des légendes urbaines
 
-     * Par Claude Millet
+     * Par Jean-Bruno Renard
 
-   Pages 115 à 142
+   Pages 69 à 83
    (BUTTON)
    (BUTTON)
    (BUTTON)
@@ -98,27 +98,28 @@ Citer ce chapitre
    (BUTTON) APA (BUTTON) MLA (BUTTON) ISO 690
      __________________________________________________________________
 
-     * MILLET, Claude.
+     * RENARD, Jean-Bruno.
 
-   Chapitre I - Légende et histoire. In : Le légendaire au XIXe siècle.
-   Paris cedex 14, Presses Universitaires de France. Perspectives
-   littéraires, p.115-142. URL :
-   https://shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page
-   -115?lang=fr.
+   Chapitre IV. L’analyse externe des légendes urbaines. In : Rumeurs et
+   légendes urbaines. Paris cedex 14, Presses Universitaires de France.
+   Que sais-je ? p.69-83. URL :
+   https://shs.cairn.info/rumeurs-et-legendes-urbaines--9782715409613-page
+   -69?lang=fr.
    (BUTTON)
-     * Millet, Claude.
+     * Renard, Jean-Bruno.
 
-   « Chapitre I - Légende et histoire ». Le légendaire au XIXe siècle,
-   Presses Universitaires de France, 1997. p.115-142. CAIRN.INFO,
-   shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page-115?lan
-   g=fr.
+   « Chapitre IV. L’analyse externe des légendes urbaines ». Rumeurs et
+   légendes urbaines, Presses Universitaires de France, 2022. p.69-83.
+   CAIRN.INFO,
+   shs.cairn.info/rumeurs-et-legendes-urbaines--9782715409613-page-69?lang
+   =fr.
    (BUTTON)
-     * Millet, C.
+     * Renard, J.
 
-   (1997) . Chapitre I - Légende et histoire. Le légendaire au
-   XIXe siècle. ( p. 115 -142 ). Presses Universitaires de France.
-   https://shs.cairn.info/le-legendaire-au-xixe-siecle--9782130481577-page
-   -115?lang=fr.
+   (2022) . Chapitre IV. L’analyse externe des légendes urbaines. Rumeurs
+   et légendes urbaines. ( p. 69 -83 ). Presses Universitaires de France.
+   https://shs.cairn.info/rumeurs-et-legendes-urbaines--9782715409613-page
+   -69?lang=fr.
    (BUTTON)
      __________________________________________________________________
 
@@ -128,49 +129,53 @@ Citer ce chapitre
    Sur un sujet proche
    (BUTTON) Acheter
 
-   Depuis qu’Hérodote et Thucydide ont engagé la lutte de l’Histoire
-   contre la légende, leurs rapports sont ceux d’un couple mal assorti,
-   oscillant entre rupture et réconciliation. Ces conflits opposent à la
-   légende l’Histoire comme écriture et comme devenir, les deux ensemble
-   soudés dans le devenir des formes. « Hérodote vint, écrit Mérimée, qui
-   gâcha tout », car il brisa le monde légendaire, fit, par l’événement de
-   l’invention de l’écriture historique, du légendaire une forme
-   historiquement dépassée. Le XIXe siècle, explique le même Mérimée dans
-   son introduction aux Contes et chants de la Grèce moderne de Marino
-   Vreto, en étendant la civilisation écrite, celle de l’Histoire,
-   jusqu’aux confins de la barbarie, achève ce mouvement de destruction de
-   la légende par le devenir historique (cela s’appelle le progrès).
-   L’Histoire alors, comme écriture, a pour devoir de conserver ce qu’en
-   tant que processus elle met à mort. La dualité de l’Histoire, qui
-   désigne en français depuis le XIXe siècle à la fois un processus et une
-   écriture, aggrave son conflit avec la légende.
-   D’autre part, la question de la relation conflictuelle entre forme
-   historique et forme légendaire ne semble jamais s’être posée avec
-   autant d’acuité qu’au XIXe siècle, ce qui peut s’expliquer par quatre
-   raisons. D’abord, le XIXe siècle voit se développer la science et la
-   philosophie de l’Histoire, qui constituent celle-ci, chacune à leur
-   façon, en instance de vérité suprême, à l’aune de laquelle est jugée la
-   légende…
+   L’étude des légendes urbaines nécessite le recours à deux types de
+   méthodes complémentaires. D’une part, les récits seront étudiés de
+   manière externe, en tant qu’objets situés dans un contexte d’espace, de
+   temps et de réalité : c’est-à-dire qu’on s’intéressera à leur
+   émergence, à leur diffusion, à leurs variantes, à leur véracité
+   (chap. iv). D’autre part, les récits seront analysés de manière
+   interne, en tant que texte ayant une structure narrative et des
+   contenus, explicites et implicites (chap. v). Le but recherché est
+   d’ajuster les deux approches afin de comprendre pourquoi une légende
+   circule.
+   L’analyse externe comporte trois aspects :
+   la collecte du récit et de ses variantes ;
+   l’étude du contexte de diffusion ;
+   l’étude du degré de véracité.
+   Un des premiers critères qui font pressentir la nature légendaire d’un
+   récit est l’existence de variantes racontant la même histoire avec des
+   différences plus ou moins sensibles. Lévi-Strauss a bien montré qu’un
+   mythe n’était pas un récit isolé, mais la somme de ses variantes. Il en
+   est de même pour la légende moderne. Une seule occurrence est
+   insuffisante, car, d’une part, elle ne permet pas de dégager les traits
+   invariants du récit, et, d’autre part, comme en ethnologie, un seul
+   informateur n’est pas probant.
+   Les variations peuvent être superficielles : ce sont les différences
+   stylistiques, propres au narrateur. Le récit est raconté de manière
+   plus ou moins vivante, plus ou moins détaillée. On peut observer ce
+   phénomène lorsqu’on a entendu la même histoire drôle racontée par deux
+   personnes différentes…
      __________________________________________________________________
 
-   Date de mise en ligne : 14/02/2020
+   Date de mise en ligne : 02/03/2022
 
 Ce chapitre est en accès conditionnel
 
 Acheter ce chapitre
 
-5,00 €
+2,00 €
 
-   26 pages format électronique (HTML, PDF et feuilletage)
+   15 pages format électronique (HTML et feuilletage)
    (BUTTON)
 
    Ajouter au panier
 
 Acheter cet ouvrage
 
-10,99 €
+10,00 €
 
-   310 pages, format électronique (HTML et feuilletage, par chapitre)
+   128 pages, format électronique (HTML et feuilletage, par chapitre)
    (BUTTON)
 
    Ajouter au panier

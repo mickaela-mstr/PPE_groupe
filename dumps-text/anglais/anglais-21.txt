@@ -164,7 +164,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
      * Tips and Tricks
 
    Message 1 of 7
-   19,806 Views
+   19,917 Views
    1
    Reply
      * All forum topics
@@ -206,7 +206,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
 
 
    Message 7 of 7
-   2,162 Views
+   2,273 Views
    0
    Reply
    MFelix
@@ -244,7 +244,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Proud to be a Super User!
    Check out my blog: Power BI em Português
    Message 2 of 7
-   19,774 Views
+   19,885 Views
    0
    Reply
    Anonymous
@@ -274,7 +274,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    In Excel, for example, the legend can be fit in two/three parallel
    lines. Don't see that happening here.
    Message 3 of 7
-   19,771 Views
+   19,882 Views
    0
    Reply
    v-deddai1-msft
@@ -319,7 +319,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
 
    Dedmon Dai
    Message 5 of 7
-   19,735 Views
+   19,846 Views
    0
    Reply
    Anonymous
@@ -342,7 +342,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Hi Community Support, the vedio URL you have posted seems not a vedio
    link. Can you please re-post it?
    Message 6 of 7
-   16,257 Views
+   16,368 Views
    1
    Reply
    MFelix
@@ -380,7 +380,7 @@ Join us at the 2025 Microsoft Fabric Community Conference
    Proud to be a Super User!
    Check out my blog: Power BI em Português
    Message 4 of 7
-   19,760 Views
+   19,871 Views
    0
    Reply
    ____________________ ____________________
@@ -420,16 +420,16 @@ How to Get Your Question Answered Quickly
         User      Count
    danextian
    Super User danextian
-   125
+   113
    Ritaf1983
    Super User Ritaf1983
-   84
+   80
    lbendlin
    Super User lbendlin
-   59
+   55
    Bibiano_Geraldo
    Bibiano_Geraldo Community Champion
-   59
+   54
    rajendraongole1
    Super User rajendraongole1
    44
@@ -438,42 +438,42 @@ How to Get Your Question Answered Quickly
         User      Count
    danextian
    Super User danextian
-   180
+   168
    lbendlin
    Super User lbendlin
-   119
+   114
    Bibiano_Geraldo
    Bibiano_Geraldo Community Champion
-   82
+   74
    Ritaf1983
    Super User Ritaf1983
-   70
+   61
    rajendraongole1
    Super User rajendraongole1
-   54
+   53
    View All
-   Users online (6,238)
-     * AlexTheGreat
-     * Neka
-     * moalnorrk
-     * johncpratt
-     * rr88pizza
-     * MFelix
-     * dianaschnuth
-     * DataInsights
-     * xifeng_L
-     * AilleryO
-     * Deelip
-     * KatarinaV
-     * anmolmalviya05
-     * Chewdata
-     * rsbin
-     * Expiscornovus
-     * stefanjt
+   Users online (2,797)
+     * DaTaxanVN
+     * abc8plcom
+     * BernatAgulloMVP
+     * hoangquanluck8
      * Ritaf1983
-     * RomainCasteres
-     * Muniz_Felipe
-     * TheBishopEmpire
+     * PijushRoy
+     * olgad
+     * charlyS
+     * uzuntasgokberk
+     * theothaodientu
+     * MedievalRose
+     * ke_sha_b
+     * dalvadev
+     * ics_sys_usr
+     * JBal86
+     * iBusinessBI
+     * Ahmeddkhalid
+     * rob_vander2
+     * dalvaCloud
+     * Sofienmeftahi
+     * octavioben
 
      * © 2024 Microsoft
 

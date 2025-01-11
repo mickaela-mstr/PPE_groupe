@@ -1,0 +1,400 @@
+
+   Le Wikisource français sur les mythologies, mythes, légendes et
+   religions
+--
+     * Europe
+          + Mythes et Légendes Anatoliens
+               o Mythologie Carienne
+--
+               o Mythologie Troyenne
+          + Mythes et Légendes des Balkans
+          + Mythes et Légendes Baltes
+          + Mythes et Légendes Celtiques
+               o Mythologie Bretonne
+--
+               o Mythologie Mannoise
+          + Mythes et Légendes Fenniques
+          + Mythes et Légendes Germaniques
+          + Mythes et Légendes Grecques
+               o Mythologie Achéenne
+--
+               o Mythologie Pélasges-Eolien
+          + Mythes et Légendes Romanes
+               o Mythologie Basque
+--
+               o Mythologie Sarde
+          + Mythes et Légendes Slaves
+     * Amérique du Nord
+          + Mythes et Légendes Algiques
+               o Mythologie Anichinabé
+--
+               o Mythologie Wabanaki
+          + Mythes et Légendes Athabaskans
+               o Mythologie Ahtna-Tanaima
+--
+               o Mythologie Tsetsaut-Babine-Carrier-Chilcotin
+          + Mythes et Légendes Eskimo-Aleut
+               o Mythologie Aleut-Inuit
+               o Mythologie Alutiiq-Yupik
+          + Mythes et Légendes Hokanes
+               o Mythologie Chumash-Salinan
+--
+               o Mythologie Wintu-Yana
+          + Mythes et Légendes Iroquois
+               o Mythologie Iroquoise
+          + Mythes et Légendes Muskogéens
+               o Mythologie Caddo
+--
+               o Mythologie Pawnee-Kitsai
+          + Mythes et Légendes Pénutiens
+               o Mythologie Chinook-Kalapuya-Takelma
+--
+               o Mythologie Wintu-Yana
+          + Mythes et Légendes Salishes
+               o Mythologie Salish
+--
+               o Mythologie Wakashan
+          + Mythes et Légendes Siouans
+               o Mythologie Crow-Hidatsa-Mandan
+--
+               o Mythologie Winnebago
+          + Mythes et Légendes Ute-Aztèques
+               o Mythologie Kiowa-Comanche
+--
+     * Amérique du Sud
+          + Mythes et Légendes des Andes
+               o Mythologie Aymara-Inca
+          + Mythes et Légendes Chibchans
+               o Mythologie Bribri
+--
+               o Mythologie Paez
+          + Mythes et Légendes Chonans
+          + Mythes et Légendes Macro-Carib
+               o Mythologie de Amapa-Para Carib centrale
+--
+               o Mythologie Karib-Warao
+          + Mythes et Légendes Macro-Jê
+          + Mythes et Légendes Macro-Panoans
+          + Mythes et Légendes Macro-Tucanoans
+          + Mythes et Légendes Maya
+          + Mythes et Légendes Paez
+               o Mythologie Barbacoane
+--
+               o Mythologie Paez
+          + Mythes et Légendes Tupians
+     * Afrique
+          + Mythes et Légendes Afroasiatique
+          + Mythes et Légendes Bantus
+               o Mythologie Kuba
+          + Mythes et Légendes Khoi-San
+          + Mythes et Légendes Niger-Congo
+               o Mythologie Akan
+--
+               o Mythologie Sérère
+          + Mythes et Légendes du Sahara
+          + Mythes et Légendes Sémites
+               o Mythologie Araméenne
+--
+     * Orient
+          + Mythes et Légendes Dravidiens
+          + Mythes et Légendes du Caucase-Perse
+               o Mythologie Arménienne
+--
+               o Mythologie Zoroastre
+          + Mythes et Légendes Indo-Ariens
+          + Mythes et Légendes de Mésopotamie
+          + Mythes et Légendes Turques
+               o Mythologie Azeri
+--
+     * Extrême-Orient
+          + Mythes et Légendes Chinois
+               o Mythologie Ouïghour-Ouzbek
+          + Mythes et Légendes Coréens
+          + Mythes et Légendes Japonais
+          + Mythes et Légendes Mongoles
+          + Mythes et Légendes Tibétains
+          + Mythes et Légendes Toungouses
+     * Océanie
+          + Mythes et Légendes Aborigènes
+          + Mythes et Légendes Austro-Asiatiques
+          + Mythes et Légendes Austronésiens
+          + Mythes et Légendes Océaniques
+               o Mythologie Cook
+--
+               o Mythologie Tokelau
+          + Mythes et Légendes Taï-Kadaï
+     * Bibliothèques / livres
+--
+
+   Le Wikisource français sur les mythologies, mythes, légendes et
+   religions
+--
+     * Europe
+          + Mythes et Légendes Anatoliens
+               o Mythologie Carienne
+--
+               o Mythologie Troyenne
+          + Mythes et Légendes des Balkans
+          + Mythes et Légendes Baltes
+          + Mythes et Légendes Celtiques
+               o Mythologie Bretonne
+--
+               o Mythologie Mannoise
+          + Mythes et Légendes Fenniques
+          + Mythes et Légendes Germaniques
+          + Mythes et Légendes Grecques
+               o Mythologie Achéenne
+--
+               o Mythologie Pélasges-Eolien
+          + Mythes et Légendes Romanes
+               o Mythologie Basque
+--
+               o Mythologie Sarde
+          + Mythes et Légendes Slaves
+     * Amérique du Nord
+          + Mythes et Légendes Algiques
+               o Mythologie Anichinabé
+--
+               o Mythologie Wabanaki
+          + Mythes et Légendes Athabaskans
+               o Mythologie Ahtna-Tanaima
+--
+               o Mythologie Tsetsaut-Babine-Carrier-Chilcotin
+          + Mythes et Légendes Eskimo-Aleut
+               o Mythologie Aleut-Inuit
+               o Mythologie Alutiiq-Yupik
+          + Mythes et Légendes Hokanes
+               o Mythologie Chumash-Salinan
+--
+               o Mythologie Wintu-Yana
+          + Mythes et Légendes Iroquois
+               o Mythologie Iroquoise
+          + Mythes et Légendes Muskogéens
+               o Mythologie Caddo
+--
+               o Mythologie Pawnee-Kitsai
+          + Mythes et Légendes Pénutiens
+               o Mythologie Chinook-Kalapuya-Takelma
+--
+               o Mythologie Wintu-Yana
+          + Mythes et Légendes Salishes
+               o Mythologie Salish
+--
+               o Mythologie Wakashan
+          + Mythes et Légendes Siouans
+               o Mythologie Crow-Hidatsa-Mandan
+--
+               o Mythologie Winnebago
+          + Mythes et Légendes Ute-Aztèques
+               o Mythologie Kiowa-Comanche
+--
+     * Amérique du Sud
+          + Mythes et Légendes des Andes
+               o Mythologie Aymara-Inca
+          + Mythes et Légendes Chibchans
+               o Mythologie Bribri
+--
+               o Mythologie Paez
+          + Mythes et Légendes Chonans
+          + Mythes et Légendes Macro-Carib
+               o Mythologie de Amapa-Para Carib centrale
+--
+               o Mythologie Karib-Warao
+          + Mythes et Légendes Macro-Jê
+          + Mythes et Légendes Macro-Panoans
+          + Mythes et Légendes Macro-Tucanoans
+          + Mythes et Légendes Maya
+          + Mythes et Légendes Paez
+               o Mythologie Barbacoane
+--
+               o Mythologie Paez
+          + Mythes et Légendes Tupians
+     * Afrique
+          + Mythes et Légendes Afroasiatique
+          + Mythes et Légendes Bantus
+               o Mythologie Kuba
+          + Mythes et Légendes Khoi-San
+          + Mythes et Légendes Niger-Congo
+               o Mythologie Akan
+--
+               o Mythologie Sérère
+          + Mythes et Légendes du Sahara
+          + Mythes et Légendes Sémites
+               o Mythologie Araméenne
+--
+     * Orient
+          + Mythes et Légendes Dravidiens
+          + Mythes et Légendes du Caucase-Perse
+               o Mythologie Arménienne
+--
+               o Mythologie Zoroastre
+          + Mythes et Légendes Indo-Ariens
+          + Mythes et Légendes de Mésopotamie
+          + Mythes et Légendes Turques
+               o Mythologie Azeri
+--
+     * Extrême-Orient
+          + Mythes et Légendes Chinois
+               o Mythologie Ouïghour-Ouzbek
+          + Mythes et Légendes Coréens
+          + Mythes et Légendes Japonais
+          + Mythes et Légendes Mongoles
+          + Mythes et Légendes Tibétains
+          + Mythes et Légendes Toungouses
+     * Océanie
+          + Mythes et Légendes Aborigènes
+          + Mythes et Légendes Austro-Asiatiques
+          + Mythes et Légendes Austronésiens
+          + Mythes et Légendes Océaniques
+               o Mythologie Cook
+--
+               o Mythologie Tokelau
+          + Mythes et Légendes Taï-Kadaï
+     * Bibliothèques / livres
+--
+
+Mythologies, mythes et légendes du monde
+
+   Découvrez la culture, les contes, mythes, légendes, mythologies et le
+   folklore des civilisations et empires à travers les âges.
+--
+
+   mythes et légendes mythologie
+
+--
+   péjoratives à tout récit sacré. On peut aussi parler de folklore ou de
+   tradition écrite. Ces textes ainsi que les légendes sont considérés
+   comme de véritables récits de leur passé lointain, souvent romancé.
+--
+   de dirigeants d’un certain type, sont généralement contenues dans des
+   légendes. Le site contient les deux types de textes.
+
+   Une légende est un genre de folklore qui consiste en un récit mettant
+   en scène des actions humaines, considérées ou perçues, à la fois par le
+--
+   mais aussi n’étant jamais résolument mises en doute. Les frères Grimm
+   ont défini la légende comme  » un conte populaire historiquement ancré
+   « . Un sous-produit de la  » préoccupation pour les êtres humains  »
+   est la longue liste de créatures légendaires, ne laissant aucun  »
+   doute résolu  » sur le fait que les légendes sont  » historiquement
+   ancrées « .
+--
+   culture, sous-culture ou groupe. Cela inclut les traditions orales
+   telles que les contes, les légendes, les proverbes et les blagues.
+
+--
+     * Le Livre extraordinaire des créatures fantastiques
+     * Le petit Larousse illustré des légendes et mythes
+
+--
+     * L’ancien royaume du Dahomey, moeurs, religion, histoire
+     * Contes et légendes du Bénin
+     * Children of the Benin Kingdom
+--
+     * The Lost History of the Little People
+     * Contes et légendes en pays sérère
+
+--
+     * Contes des sages berbères
+     * Contes et légendes de Tunisie
+     * The Last Storytellers: Tales from the Heart of Morocco
+--
+   Uniquement en anglais :
+     * Contes et légendes des nomades du Sahara
+     * African Genesis: Folk Tales and Myths of Africa
+--
+     * Histoire militaire des guerres puniques
+     * La Légende de Carthage
+     * Mesopotamia: A Captivating Guide to Ancient Mesopotamian History
+--
+       Europe du Sud-Est
+     * Légendes du Balkan
+     * Les Vénètes
+--
+     * Contes integrales – Mes plus belles legendes du Moyen-Âge
+     * Légendes médiévales: Arthur – Perceval – Tristan & Iseult –
+       Mélusine
+     * Histoires celtiques – Légendes et contes merveilleux d’Irlande,
+       Écosse, Bretagne et Pays de Galles
+     * La légende du roi Arthur illustrée
+     * Contes et légendes d’Irlande
+
+   En français :
+     * Keltoï – Les légendes des premiers Celtes
+     * La mythologie du monde celte
+     * Contes et légendes des pays celtes
+     * Les mythes celtes: La Déesse blanche
+     * Sur la route des plus belles légendes celtes
+     * La Légende du Roi Arthur – Version Intégrale
+     * Les Quatre Branches du «Mabinogi» et autres contes gallois du Moyen
+       Âge
+     * La Légende de la Ville d’Ys: (d’après les anciens textes)
+     * Quatre Contes Populaires Ecossais: Four Scottish Folk Tales
+     * Les Gaulois: Mythes et Légendes
+     * Contes et légendes d’Irlande
+     * Le Cycle mythologique irlandais et la mythologie celtique
+--
+     * Le Kalevala, tome 2
+     * Mangazeïa: légende du Nord
+
+--
+       préhistoire à l’avenir
+     * Contes et légendes : Les Héros de la Grèce antique
+     * Les douze travaux d’Hercule
+     * Les plus beaux récits de la mythologie grecques
+     * Contes et légendes de la mythologie grecque
+
+--
+     * Mythologie viking
+     * Les 100 légendes de la mythologie nordique
+     * Mythologie Nordique: Des Origines de l’Univers à Ragnarok
+     * Mythologie Nordique: Le meilleur livre sur la Mythologie Viking
+     * Contes et Légendes : Les Vikings
+     * L’Edda: Récits de mythologie nordique
+--
+     * Histoire des Etrusques
+     * Contes et Légendes de la naissance de Rome
+     * Contes et Légendes : Les métamorphoses d’Ovide
+     * Contes et légendes : Les héros de la Rome antique
+     * Contes et Légendes : La naissance de Rome
+     * Une journée dans la Rome antique: Sur les pas d’un Romain, dans la
+--
+     * Mythes romains
+     * Romulus, jumeau et roi: Réalités d’une légende
+     * A la découverte de la mythologie basque
+--
+     * Fiabe italiane – Contes italiens, édition bilingue
+     * Contes et Légendes : Légendes de Corse
+     * Les contes de Provence
+     * Légendes et contes de Provence
+     * Etres Fantastiques en Provence : Fees, Sorcières, Lutins
+--
+     * Les plus beaux contes des Pyrénées
+     * CONTES ET LÉGENDES D’OCCITANIE
+     * Contes, récits et légendes de des pays de France
+     * Croyances, mythes et légendes des pays de France
+     * Contes et légendes des régions de France
+     * Contes et légendes d’Espagne
+     * Légendes et récits du Portugal
+     * Les contes du Portugal
+--
+     * Mythologie et religion des slaves païens
+     * Collection de Contes et Légendes Slaves: Histoires, Folklore,
+       Contes de fées, Démons, Monstres, Dieux, Mythologie, Chasse
+--
+   En français :
+     * Contes et Légendes : Les Samouraïs
+     * Contes Japonais
+     * Contes et légendes du Japon
+     * Dictionnaire des Yôkai
+     * Fables et légendes Japonaises
+     * Histoires de fantômes du Japon
+--
+     * La mythologie tahitienne pour tous: Maui, Hiro, Hina et compagnie
+     * Hiro et Hina: Balades au coeur des légendes de Bora-Bora et des
+       autres îles
+--
+     * 15 contes d’Arménie
+     * Contes d’Arménie : Epopée, récits et légendes populaires
+     * La légende arménienne de David de Sassoun
+

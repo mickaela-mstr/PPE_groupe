@@ -1,0 +1,30 @@
+
+   Un schéma doit constamment avoir un titre et une légende. Il est même
+   conseillé de les souligner ou de les encadrer. Cela permet de les
+--
+
+La légende
+
+--
+   les figurés avec une explication de ce qu’ils représentent. Le mot
+   légende doit apparaître clairement sous le schéma. La légende d’un
+   schéma doit être concise, une ou deux parties suffisent en général.
+--
+   L’orientation doit être mentionnée et la source aussi, si ce n’est pas
+   une création. Évidemment, la légende doit apparaître clairement.
+
+Les rubriques de la légende
+
+--
+   Tu peux ensuite passer aux sous-parties, sans oublier que tu réalises
+   une légende et pas une dissertation. Les parties constituées
+   correspondent à celles de la légende que tu vas faire, idem pour les
+   sous-parties.
+--
+
+   Quand les parties et sous-parties de la légende sont décidées, il ne
+   reste plus qu’à choisir les couleurs. Une fois de plus, il faut faire
+--
+   doivent être tirés à la règle et les cercles faits au compas. De la
+   même façon, le titre et les titres de la légende doivent être
+   soulignés. Il est nécessaire de ne pas abuser du correcteur dans les

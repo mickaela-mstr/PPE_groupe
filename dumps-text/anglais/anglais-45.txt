@@ -448,8 +448,6 @@ Post as a guest
    Exodus by Joachim
    Submit your photo Hall of fame
      * Featured on Meta
-     * The December 2024 Community Asks Sprint has been moved to March
-       2025 (and...
      * Submissions closed, vote now! | Screenshot of the Week #132
 
 Linked
@@ -479,40 +477,40 @@ Related
 
 Hot Network Questions
 
-     * Is sales tax determined by the state in which the SELLER is
-       located, or the state in which the PURCHASER is located?
-     * Fine-structure constant, coupling strength and their experimental
-       manifestation in the field of light-matter interaction
-     * Trying to update iLO 5 on two HPE ProLiant Gen 10 servers and
-       getting a TPM detected warning
-     * Heaven and earth have not passed away, so how are Christians no
-       longer under the law, but under grace?
-     * Can i use put an A or D string on my violin in place of a G string?
-     * How will capacitors C1 and C2 charge in this circuit?
-     * When to use which formula for sample variance?
-     * Is the derived category of inverse systems the inverse systems of
-       the derived category?
-     * How is a camera/observer vector calculated in PGFPlots
-     * Project Hail Mary - Why does a return trip to another star require
-       10x the fuel compared to a one-way trip?
+     * Profit share after burglary?
+     * How to access the calligraphed letters from the calligra package?
+     * Securely storing a password for matching against its substrings
+     * How many grids can you make?
+     * Can a rational decision ever be regretted?
+     * Why does a = a * (x + i) / i; and a *= (x + i) / i; return two
+       different results in C#?
+     * Can aging characters lose feats and prestige classes if their stats
+       drop below the prerequisites?
+     * How can I create an asterisk with eight spokes?
+     * Do I really need to keep the username for a shared user in HTTP
+       Basic auth private?
+     * My SD card files disappeared after mounting to a different phone
      * Should I REALLY keep all my credit cards totally paid off every
        month?
-     * How can I control LED brightness from an MCU without using PWM
-     * How big would a bird have to be to carry a human if gravity were
-       halved?
-     * Merge two (saved) Apple II BASIC programs in memory
-     * Trying to identify a scary thriller movie from the 90s
-     * When do the splitting fields of two cubic polynomials coincide?
-     * White ran out of time. Result?
-     * Why is a specific polygon being rejected by SQL Server as invalid?
-     * Can I add a wood burning stove to radiant heat boiler system?
-     * Movie where crime solvers enter into criminal's mind
-     * Please help with identify SF movie from 80's with cyborgs
-     * Why do the A-4 Skyhawk and T-38 Talon have high roll rates?
-     * Arena/Region allocator in C++
-     * YA sci-fi book about a girl who is brought back by her parents
-       after a severe car accident via some underground scientific stuff
-       with stem cells
+     * Do I understand my home's main breaker box?
+     * How to eliminate variables in ODE system?
+     * referencing specific sections in other chapters of a document?
+     * How can I apply an array formula to each value returned by another
+       array formula?
+     * Can pine wood saw dust work the same as pine needle?
+     * Which strategy should I use in reading German-language books?
+     * Derive the equation of the graph from its pictorial representation
+     * Would Canada be one of the poorer states if inducted into the
+       United States?
+     * Lucas Human Capital with Average Human Capital
+     * What it’s like to be supervised by an professor with other
+       priorities
+     * Languages that don't differentiate between "want" and "must"/"have
+       to"
+     * How is "no self" (Anatta) supposed to be a good outcome from the
+       practice?
+     * lettrine - Some font shapes were not available, defaults
+       substituted
 
    more hot questions
    Question feed

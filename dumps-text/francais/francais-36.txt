@@ -1,0 +1,777 @@
+   #Luxury Place Magazine » Flux Luxury Place Magazine » Flux des
+   commentaires JSON oEmbed (JSON) oEmbed (XML)
+
+   Luxury Place Magazine Luxury Place Magazine
+     * ACCUEIL
+          + France Marie Myriam Larriere, Editeur de Luxury Place Magazine
+     * LE MAG LUXURY PLACE
+          + LE MAGAZINE
+          + LUXURY STYLE
+               o Lifestyle by Patricia Gloria Contreras
+               o Patricia Gloria Contreras
+               o Fashion & Beauty par Audrey Férin !
+               o LEADER SECRET’S MARKETING By Esthefany Guillermo
+               o Mannequin, beauté et microblading: ILONA LAVSKI
+               o A la découverte des piercings chics : Une aventure
+                 passionnante avec Esthefany Guillermo
+     * FASHION STYLE
+          + L’incroyable renaissance des chaussures Birkenstock : de
+            l’obscurité à la Fashion Week de Paris
+          + “Pas de luxe ordinaire” Philippe Alexandre Dupont
+          + Les chaussettes de luxe : un pas de mode à ne pas sous-estimer
+          + Une fusion audacieuse de l’art et de la mode par Louis Vuitton
+          + Élégance au poignet et raffinement au cou, les boutons de
+            manchette et les cravates de luxe, les marques emblématiques
+            de distinction et de sophistication
+          + LANA VOLKOV l’empreinte suggestive,
+          + VIYARA, la noblesse divine des étoles
+          + LGNC, l’intemporel insaisissable
+          + Brioni, une histoire d’élégance
+          + La maroquinerie s’offre l’univers du luxe
+          + DANNY NGUYEN COUTURE
+          + FLORA MIRANDA
+          + Theunissen FW23 show
+          + Hany El Behairy une étoile qui illumine la scène parisienne
+          + Le show de la Fashion Week de Paris
+          + L’empowerment de la liberté c’est la femme THEUNISSEN.
+          + WAYEBI
+          + La mode Azerbaïdjanaise défile à Paris
+          +  “Coumbiss”, une marque Franco-Africaine multiculturelle &
+            éco-responsable
+          + ZUHAIR MURAD, la mouvance des corps !
+          + MARIE LINKER
+          + NEHERA, la marque de l’esprit libre!
+          + Human collective culture for Jan-Jan Van Essche!
+          + La Fashion Week Shengze 2022 « Digital Pulse Digital Pulse »
+            Xingfengqiang
+          + ZUHAIR MURAD Couture
+          + VAISHALI COUTURE SHOW FW22
+          + Hany El Behairy présente sa nouvelle collection à Paris lors
+            de l’Oriental Fashion Show
+          + DO TRINH HOAI NAM
+          + Les cabas ANN’AH de Nadia Chellaoui, un « must have » de l’été
+          + Bienvenue dans le monde de ZILIOX.
+          + Seyit Ares, a German designer of Turkish descent whose
+            eye-catching
+          + Jeanne Friot, The cutting edge style of fashion with Jeanne
+            Friot
+          + Pietu Couture, From Hair Stylism to Couture Cut
+          + Event Luxury Place
+          + Chanel, une vision intemporelle
+          + Events Luxury Place Paris
+          + Oriental Fashion Show
+          + Juana Martin FW23 : Quand la couture rencontre l’audace
+            “FAUVES”
+          + « Les beautés de la flânerie parisienne »
+     * HAUTE COUTURE
+          + “Jean Paul GAULTIER Haute Couture : Julien Dossena, un souffle
+            de renouveau”
+          + GOLDEN WHISPERS ZUHAIR MURAD
+          + Balenciaga Winter 23 Collection
+          + Juana Martin, l’irrésistible attraction..
+          + Carla Bruni, l’élégance à la française emporte EENK lors de la
+            Fashion Week de Paris !
+          + Hermès & Luxury Bags
+          + L’histoire de la Maison Chanel
+          + Juana Martin, un nom dans l’histoire de la Haute Couture !
+          + Serkan Cura, Créateur Haute Couture
+     * JOAILLERIE
+          + Boucheron Illumine le Dîner Kering for Women avec Dakota
+            Johnson
+          + Salma Hayek-Pinault éblouit au Toronto International Film
+            Festival avec Boucheron
+          + Boucheron brille sur le tapis rouge du diner “Caring for
+            Women”
+          + Le Charms : La star romantique de la rentrée chez Pandora
+          + Maison Boucheron : Une soirée éblouissante à New York
+          + La nouvelle collection printemps-été 2024 de Lalique
+          + Wallace Chan, Mozart de la joaillerie
+          + La Maison Gisel B.
+          + Audemars Piguet Code 11.59 by Audemars Piguet, circa 2020
+          + A l’origine de Courbet, deux entrepreneurs Manuel Mallen et
+            Marie-Ann Wachtmeister
+          + La Maison Cartier, symbole de la haute joaillerie
+          + Le Made in France par excellence !
+          + MARIA LA BIYUX
+     * VOYAGE ET DECOUVERTE
+          + Wuhan, renaît de ses cendres
+          + L’Inde, un pays de diversité et de densité
+          + La Croisière la Plus Prestigieuse du Monde
+          + Le Musée du Louvre, trésor culturel au cœur de Paris
+          + La Joconde, un chef-d’œuvre énigmatique
+          + Yes We Camps Agafay : découvrez la tradition marocaine
+          + Mazagan Beach Resort : Une perle marocaine alliant luxe et
+            diversité
+          + Shanxi, le musée de l’architecture
+          + Passalacqua, la villa de luxe en Italie
+          + Shaoxing la ville du Royaumes des Combattants.
+          + Bangkok la « Cité des anges »
+          + Bangkok la « Cité des anges »
+          + Dubaï, une ville unique et inoubliable !
+          + Hainan le Nouvel Eldorado !
+          + Da Nang, Vietnam “Un petit coin de Paradis”
+          + A l’honneur l’Inde
+     * HOTELLERIE
+          + Christophe Leroy : Un déjeuner de célébrités parfaitement
+            orchestré pour la Saint-Valentin
+          + Le Serras Andorra, experts en luxe et relaxation
+          + L’Hôtel de Sers, un havre de luxe aux Champs-Élysées pour une
+            expérience parisienne inoubliable
+          + Vallon de Valrugues : Un Éden de Luxe au Cœur de la Provence
+          + Le Riad Monceau : au cœur de Marrakech
+          + Es Saadi : hôtel 5 étoiles à Marrakech
+          + Four Seasons Georges V Paris
+          + Les Fabuleuses Suites du Majestic à Cannes
+          + Mövenpick : hôtel cinq étoiles à Marrakech
+          + HÔTEL METROPOLE GENÈVE
+          + Le Meurice, L’hôtel des artistes et des esprits libres!
+          + Le Spa au Ritz, vivez l’expérience de la quintessence du luxe
+            de la Place Vendôme!
+          + L’hôtel Napoléon
+          + L’HÔTEL LANCASTER, UNE DES PLUS BELLE TERRASSE DE PARIS !
+          + Hôtel de Berri Champs-Elysées, la Luxury Collection Hotel
+          + La Suite Présidentielle au Fives Seas !
+          + ARMANI CASA
+          + LE DESIGN BRÉSILIEN
+          + Auguste Escoffier, pionnier de la gastronomie moderne
+          + La Maison Ladurée délice sucrée de macarons
+          + “Byakuya” : la glace dessert la plus chère au monde, une
+            expérience culinaire unique signée Cellato
+          + Lionel Messi et Hard Rock Cafe Paris, le Duo Gagnant du
+            Nouveau Messi Chicken Sandwich
+          + Kirane’s, le joyau culinaire des amateurs avertis de la
+            cuisine indienne authentique
+          + Aux cocottes d’esprit d’antan ! C’est à Paris.
+          + Le Pavillon Ledoyen
+          + Mado à Paris
+     * HOMME DE CARACTERE
+          + Fabien Gaillard : L’Avocat émérite au service de vos droits
+          + Farid Khider : Un virtuose aux multiples talents
+          + Farid Khider, la légende vivante qui transcende tous les défis
+            !
+          + JAWED ASHRAF, Ambassador of India in France
+          + Dr. Bu Abdullah
+          + Changement à Dubaï, le renouveau des family offices : Al
+            Khalifa
+          +  “Le Roi Charles III, un nouveau chapitre pour la Monarchie
+            Britannique”
+          + Ouassini Embarek transcende dans « Athena » sur Netflix
+          + FEMI : Le transporteur de bonheur qui enflamme les rues de
+            Paris
+          + Keanu Reeves l’humanisme renaissance,
+          + Francis Szpiner, avocat, Maire du XVIe arrondissement de
+            Paris, Conseiller de Paris.
+          + Farid Khider, un homme debout
+          + Stéphane TIKI, Je rêve ma vie et je vis mes rêves !
+          + Champion du monde de boxe pour la 7 fois ! Farid Khider entre
+            dans la légende..
+          + Le prince héritier de Dubaï, préside un Comité pour investir
+            dans les métavers et stimuler l’économie numérique.
+          + Benjamin BERTRAND, Conseiller en Gestion de Patrimoine!
+          + JEAN-NOEL DE GALZAIN
+          + Benjamin Castaldi
+          + Dominique Lemoine, Avocat de renom et acteur estimé de la
+            communauté franco-américaine d’Atlanta
+          + Maître Georgy ARAYO, Avocat au barreau de Paris
+          + Jeff, le Jetsetter particulier !
+     * PORTRAIT DE FEMMES
+          + Nada in Paris : L’étoile Parisienne
+          + “Quand la Bienveillance et l’Entreprenariat se Rencontrent :
+            Un Échange Émouvant entre Deux Figures Éminentes”
+          + Armelle Poulou nouvelle Directrice financière de Kering
+          + Kering et le Festival de Cannes remettront le Prix Women in
+            Motion 2023 à l’actrice Michelle Yeoh
+          + Brooke Major, la pureté de l’artiste
+          + Kering et Les Rencontres d’Arles remettront le Prix Women In
+            Motion 2023 pour la photographie à Rosângela Rennó
+          + La nouvelle Directrice générale de Kering Beauté, Raffaella
+            Cornaggia
+          + Le 11 novembre 2022, une date doublement historique marquée
+            par le lancement officiel de WUnite !
+          + Paris accueille la cérémonie des Oscars des Femmes
+            Influentes, le 11 novembre 2022 à la très chic galerie
+            Bourbon..
+          + ÂME SOLEIL, ELOÏSE VALLI
+          + Audrey Férin, une actrice née !
+          + Schéhérazade Benarfa, Femme d’affaire & Femme d’influence
+          + Un joyau de l’Océan Indien avec l’authenticité de l’ile de la
+            Réunion !
+          + Vanina une étoile éclatante !
+     * FESTIVAL DE CANNES
+          + Festival de Cannes 2024: la sélection dévoilée
+          + Sophie Marceau, enchante le Monde du Cinéma
+          + Dian Fossey, “Gorilles dans la brume”
+          + Laurent Amar a représenté la jet-set au dernier Festival de
+            Cannes
+          + Brad Pitt en tête d’affiche d’un nouveau film sur la Formule
+            1: des scènes à Silverstone lors du Grand Prix
+          + “Avatar 2” avec 6,87 millions d’entrées ! Un record en France.
+          + 76ème Festival du Film de Cannes, la culture Congolaise
+            illumine la Croisette …
+          + ANNA PHAN THI HIEU, Illuminant de mille feux le tapis rouge
+          + PALME D’OR, le succès de Justine Triet avec « Anatomie d’une
+            chute »
+          + JEFFOUPARIS, l’énigmatique homme de l’ombre qui illumine le
+            Festival de Cannes
+          + « Retour à Pondichéry » le succès du long métrage du Dr.
+            Raghunath Manet,
+          + L’engagement WUnite en amont du Festival de Cannes
+          + RAGHUNATH MANET, Retour à Pondichéry
+          + CEDRIC BISCAY
+          + RAGHUNATH MANET
+          + L’incroyable succès du magazine sur l’art de vivre “Luxury
+            Place” lors du Festival de Cannes 2022 !
+          + FESTIVAL DE CANNES
+          + Mireille BARCLAIS
+     * CULTURE : PARIS ET LE RESTE DU MONDE
+          + Kering ouvre ses portes aux journées du patrimoine : Un voyage
+            au cœur de la création
+          + Réflexions sur le mobilier urbain : La bibliothèque historique
+            de la Ville de Paris accueille un festival d’innovation
+          + DX Glow : La puissance de la nature pour protéger votre Peau
+          + WIBA Awards 2024 : Tatiana Soubbotina, Influenceuse
+            d’Excellence
+          + Lamborghini : l’incarnation ultime de l’exclusivité et de la
+            puissance
+          +  “Mbappé, l’étoile du football français”
+          + Lionel Messi : Une légende du football
+          + Le Prince Albert II entre l’empreinte carbone et les JO 2024
+          + Le monde du golf, l’équipement essentiel pour les passionnés
+            de ce sport noble
+          + Le prestigieux Gala annuel “BRIDGE THE GAP” célèbre la
+            diversité culturelle et le partage des valeurs
+          + Docteur Alain Telandro
+          + Bugatti Chiron, la quintessence du luxe et de la performance à
+            la française
+          + Le Gala annuel « BRIDGE THE GAP »  célébrera son 20ème
+            anniversaire – The annual “BRIDGE THE GAP” Gala will celebrate
+            its 20th anniversary
+          + Hard Rock Heals Foundation s’associe à Jordin Sparks et à
+            Women Who Rock pour “faire bouger la santé des femmes” tout au
+            long du mois de mars,
+          + Hard rock Cafe
+          + La Parole de l’homme de la république
+          + Hard Rock Café offre un « Noël pour tous »
+          + De Broadway à Paris, Les Producteurs nous font rire et rêver
+          + Ousmane Toure
+          + Saty Djelass
+          + Hard Rock Cafe Paris offre encore un « Noël pour tous »
+          + La WDCC– 2022 World Design Cities Conférence, un évènement
+            majeur à Paris !
+          + WHO’S NEXT LEAGUE EDITION 2022 :
+            Who’s Next, IMPACT, Bijorhca et Riviera
+            2-5 septembre 2022
+          + Bam Graffeur, l’artiste qui apporte de la joie dans les
+            hôpitaux
+          + “Travail de Diable” une histoire de Chine
+          + Franz Kafka
+          + Joakim Richard, Architecte Visionnaire de la Créativité
+            Architecturale
+          + Docteur RICHTER, spécialiste en médecine générale, en
+            micronutrition et médecine esthétique
+          + Evasion spirituelle
+          + TRANOÏ PARIS le 22- 25 juin 2023
+          + « Dessine-moi les plages sauvages du Jiangsu, refuge des
+            espèces protégées et paradis des oiseaux »
+          + Le Rouge Français
+          + Fayz La Vedette,
+          + Rodolphe Oppenheimer-Faure
+          + PAT Mc MURPHY
+          + JULY OF ST BARTH
+          + Salima HASHMI
+          + Adélaïde Leferme
+          + Cai Pingpei, Artiste peintre passionné dans l’âme !
+          + FASHION WEEK CHINA AND PRIVATE SHOWROOM
+
+Pandora : Célébrer l’amour pour la Saint-Valentin
+
+   11 janvier 2025
+
+   Continue Reading
+
+Michelle Yeoh éblouit au Gala des National Board of Review Awards
+
+   10 janvier 2025
+
+   Continue Reading
+
+Kering invite l’artiste contemporain chinois de renom Jiang Miao à célébrer
+le Nouvel An
+
+   9 janvier 2025
+
+   Continue Reading
+
+LULL Paris : L’innovation au service de la beauté
+
+   8 janvier 2025
+
+   Continue Reading
+
+La Maison Boucheron brille aux Golden Globes 2025
+
+   7 janvier 2025
+
+   Continue Reading
+     *
+     *
+     *
+     *
+
+   Luxury Place Magazine Luxury Place Magazine
+     * ACCUEIL
+          + France Marie Myriam Larriere, Editeur de Luxury Place Magazine
+     * LE MAG LUXURY PLACE
+          + LE MAGAZINE
+          + LUXURY STYLE
+               o Lifestyle by Patricia Gloria Contreras
+               o Patricia Gloria Contreras
+               o Fashion & Beauty par Audrey Férin !
+               o LEADER SECRET’S MARKETING By Esthefany Guillermo
+               o Mannequin, beauté et microblading: ILONA LAVSKI
+               o A la découverte des piercings chics : Une aventure
+                 passionnante avec Esthefany Guillermo
+     * FASHION STYLE
+          + L’incroyable renaissance des chaussures Birkenstock : de
+            l’obscurité à la Fashion Week de Paris
+          + “Pas de luxe ordinaire” Philippe Alexandre Dupont
+          + Les chaussettes de luxe : un pas de mode à ne pas sous-estimer
+          + Une fusion audacieuse de l’art et de la mode par Louis Vuitton
+          + Élégance au poignet et raffinement au cou, les boutons de
+            manchette et les cravates de luxe, les marques emblématiques
+            de distinction et de sophistication
+          + LANA VOLKOV l’empreinte suggestive,
+          + VIYARA, la noblesse divine des étoles
+          + LGNC, l’intemporel insaisissable
+          + Brioni, une histoire d’élégance
+          + La maroquinerie s’offre l’univers du luxe
+          + DANNY NGUYEN COUTURE
+          + FLORA MIRANDA
+          + Theunissen FW23 show
+          + Hany El Behairy une étoile qui illumine la scène parisienne
+          + Le show de la Fashion Week de Paris
+          + L’empowerment de la liberté c’est la femme THEUNISSEN.
+          + WAYEBI
+          + La mode Azerbaïdjanaise défile à Paris
+          +  “Coumbiss”, une marque Franco-Africaine multiculturelle &
+            éco-responsable
+          + ZUHAIR MURAD, la mouvance des corps !
+          + MARIE LINKER
+          + NEHERA, la marque de l’esprit libre!
+          + Human collective culture for Jan-Jan Van Essche!
+          + La Fashion Week Shengze 2022 « Digital Pulse Digital Pulse »
+            Xingfengqiang
+          + ZUHAIR MURAD Couture
+          + VAISHALI COUTURE SHOW FW22
+          + Hany El Behairy présente sa nouvelle collection à Paris lors
+            de l’Oriental Fashion Show
+          + DO TRINH HOAI NAM
+          + Les cabas ANN’AH de Nadia Chellaoui, un « must have » de l’été
+          + Bienvenue dans le monde de ZILIOX.
+          + Seyit Ares, a German designer of Turkish descent whose
+            eye-catching
+          + Jeanne Friot, The cutting edge style of fashion with Jeanne
+            Friot
+          + Pietu Couture, From Hair Stylism to Couture Cut
+          + Event Luxury Place
+          + Chanel, une vision intemporelle
+          + Events Luxury Place Paris
+          + Oriental Fashion Show
+          + Juana Martin FW23 : Quand la couture rencontre l’audace
+            “FAUVES”
+          + « Les beautés de la flânerie parisienne »
+     * HAUTE COUTURE
+          + “Jean Paul GAULTIER Haute Couture : Julien Dossena, un souffle
+            de renouveau”
+          + GOLDEN WHISPERS ZUHAIR MURAD
+          + Balenciaga Winter 23 Collection
+          + Juana Martin, l’irrésistible attraction..
+          + Carla Bruni, l’élégance à la française emporte EENK lors de la
+            Fashion Week de Paris !
+          + Hermès & Luxury Bags
+          + L’histoire de la Maison Chanel
+          + Juana Martin, un nom dans l’histoire de la Haute Couture !
+          + Serkan Cura, Créateur Haute Couture
+     * JOAILLERIE
+          + Boucheron Illumine le Dîner Kering for Women avec Dakota
+            Johnson
+          + Salma Hayek-Pinault éblouit au Toronto International Film
+            Festival avec Boucheron
+          + Boucheron brille sur le tapis rouge du diner “Caring for
+            Women”
+          + Le Charms : La star romantique de la rentrée chez Pandora
+          + Maison Boucheron : Une soirée éblouissante à New York
+          + La nouvelle collection printemps-été 2024 de Lalique
+          + Wallace Chan, Mozart de la joaillerie
+          + La Maison Gisel B.
+          + Audemars Piguet Code 11.59 by Audemars Piguet, circa 2020
+          + A l’origine de Courbet, deux entrepreneurs Manuel Mallen et
+            Marie-Ann Wachtmeister
+          + La Maison Cartier, symbole de la haute joaillerie
+          + Le Made in France par excellence !
+          + MARIA LA BIYUX
+     * VOYAGE ET DECOUVERTE
+          + Wuhan, renaît de ses cendres
+          + L’Inde, un pays de diversité et de densité
+          + La Croisière la Plus Prestigieuse du Monde
+          + Le Musée du Louvre, trésor culturel au cœur de Paris
+          + La Joconde, un chef-d’œuvre énigmatique
+          + Yes We Camps Agafay : découvrez la tradition marocaine
+          + Mazagan Beach Resort : Une perle marocaine alliant luxe et
+            diversité
+          + Shanxi, le musée de l’architecture
+          + Passalacqua, la villa de luxe en Italie
+          + Shaoxing la ville du Royaumes des Combattants.
+          + Bangkok la « Cité des anges »
+          + Bangkok la « Cité des anges »
+          + Dubaï, une ville unique et inoubliable !
+          + Hainan le Nouvel Eldorado !
+          + Da Nang, Vietnam “Un petit coin de Paradis”
+          + A l’honneur l’Inde
+     * HOTELLERIE
+          + Christophe Leroy : Un déjeuner de célébrités parfaitement
+            orchestré pour la Saint-Valentin
+          + Le Serras Andorra, experts en luxe et relaxation
+          + L’Hôtel de Sers, un havre de luxe aux Champs-Élysées pour une
+            expérience parisienne inoubliable
+          + Vallon de Valrugues : Un Éden de Luxe au Cœur de la Provence
+          + Le Riad Monceau : au cœur de Marrakech
+          + Es Saadi : hôtel 5 étoiles à Marrakech
+          + Four Seasons Georges V Paris
+          + Les Fabuleuses Suites du Majestic à Cannes
+          + Mövenpick : hôtel cinq étoiles à Marrakech
+          + HÔTEL METROPOLE GENÈVE
+          + Le Meurice, L’hôtel des artistes et des esprits libres!
+          + Le Spa au Ritz, vivez l’expérience de la quintessence du luxe
+            de la Place Vendôme!
+          + L’hôtel Napoléon
+          + L’HÔTEL LANCASTER, UNE DES PLUS BELLE TERRASSE DE PARIS !
+          + Hôtel de Berri Champs-Elysées, la Luxury Collection Hotel
+          + La Suite Présidentielle au Fives Seas !
+          + ARMANI CASA
+          + LE DESIGN BRÉSILIEN
+          + Auguste Escoffier, pionnier de la gastronomie moderne
+          + La Maison Ladurée délice sucrée de macarons
+          + “Byakuya” : la glace dessert la plus chère au monde, une
+            expérience culinaire unique signée Cellato
+          + Lionel Messi et Hard Rock Cafe Paris, le Duo Gagnant du
+            Nouveau Messi Chicken Sandwich
+          + Kirane’s, le joyau culinaire des amateurs avertis de la
+            cuisine indienne authentique
+          + Aux cocottes d’esprit d’antan ! C’est à Paris.
+          + Le Pavillon Ledoyen
+          + Mado à Paris
+     * HOMME DE CARACTERE
+          + Fabien Gaillard : L’Avocat émérite au service de vos droits
+          + Farid Khider : Un virtuose aux multiples talents
+          + Farid Khider, la légende vivante qui transcende tous les défis
+            !
+          + JAWED ASHRAF, Ambassador of India in France
+          + Dr. Bu Abdullah
+          + Changement à Dubaï, le renouveau des family offices : Al
+            Khalifa
+          +  “Le Roi Charles III, un nouveau chapitre pour la Monarchie
+            Britannique”
+          + Ouassini Embarek transcende dans « Athena » sur Netflix
+          + FEMI : Le transporteur de bonheur qui enflamme les rues de
+            Paris
+          + Keanu Reeves l’humanisme renaissance,
+          + Francis Szpiner, avocat, Maire du XVIe arrondissement de
+            Paris, Conseiller de Paris.
+          + Farid Khider, un homme debout
+          + Stéphane TIKI, Je rêve ma vie et je vis mes rêves !
+          + Champion du monde de boxe pour la 7 fois ! Farid Khider entre
+            dans la légende..
+          + Le prince héritier de Dubaï, préside un Comité pour investir
+            dans les métavers et stimuler l’économie numérique.
+          + Benjamin BERTRAND, Conseiller en Gestion de Patrimoine!
+          + JEAN-NOEL DE GALZAIN
+          + Benjamin Castaldi
+          + Dominique Lemoine, Avocat de renom et acteur estimé de la
+            communauté franco-américaine d’Atlanta
+          + Maître Georgy ARAYO, Avocat au barreau de Paris
+          + Jeff, le Jetsetter particulier !
+     * PORTRAIT DE FEMMES
+          + Nada in Paris : L’étoile Parisienne
+          + “Quand la Bienveillance et l’Entreprenariat se Rencontrent :
+            Un Échange Émouvant entre Deux Figures Éminentes”
+          + Armelle Poulou nouvelle Directrice financière de Kering
+          + Kering et le Festival de Cannes remettront le Prix Women in
+            Motion 2023 à l’actrice Michelle Yeoh
+          + Brooke Major, la pureté de l’artiste
+          + Kering et Les Rencontres d’Arles remettront le Prix Women In
+            Motion 2023 pour la photographie à Rosângela Rennó
+          + La nouvelle Directrice générale de Kering Beauté, Raffaella
+            Cornaggia
+          + Le 11 novembre 2022, une date doublement historique marquée
+            par le lancement officiel de WUnite !
+          + Paris accueille la cérémonie des Oscars des Femmes
+            Influentes, le 11 novembre 2022 à la très chic galerie
+            Bourbon..
+          + ÂME SOLEIL, ELOÏSE VALLI
+          + Audrey Férin, une actrice née !
+          + Schéhérazade Benarfa, Femme d’affaire & Femme d’influence
+          + Un joyau de l’Océan Indien avec l’authenticité de l’ile de la
+            Réunion !
+          + Vanina une étoile éclatante !
+     * FESTIVAL DE CANNES
+          + Festival de Cannes 2024: la sélection dévoilée
+          + Sophie Marceau, enchante le Monde du Cinéma
+          + Dian Fossey, “Gorilles dans la brume”
+          + Laurent Amar a représenté la jet-set au dernier Festival de
+            Cannes
+          + Brad Pitt en tête d’affiche d’un nouveau film sur la Formule
+            1: des scènes à Silverstone lors du Grand Prix
+          + “Avatar 2” avec 6,87 millions d’entrées ! Un record en France.
+          + 76ème Festival du Film de Cannes, la culture Congolaise
+            illumine la Croisette …
+          + ANNA PHAN THI HIEU, Illuminant de mille feux le tapis rouge
+          + PALME D’OR, le succès de Justine Triet avec « Anatomie d’une
+            chute »
+          + JEFFOUPARIS, l’énigmatique homme de l’ombre qui illumine le
+            Festival de Cannes
+          + « Retour à Pondichéry » le succès du long métrage du Dr.
+            Raghunath Manet,
+          + L’engagement WUnite en amont du Festival de Cannes
+          + RAGHUNATH MANET, Retour à Pondichéry
+          + CEDRIC BISCAY
+          + RAGHUNATH MANET
+          + L’incroyable succès du magazine sur l’art de vivre “Luxury
+            Place” lors du Festival de Cannes 2022 !
+          + FESTIVAL DE CANNES
+          + Mireille BARCLAIS
+     * CULTURE : PARIS ET LE RESTE DU MONDE
+          + Kering ouvre ses portes aux journées du patrimoine : Un voyage
+            au cœur de la création
+          + Réflexions sur le mobilier urbain : La bibliothèque historique
+            de la Ville de Paris accueille un festival d’innovation
+          + DX Glow : La puissance de la nature pour protéger votre Peau
+          + WIBA Awards 2024 : Tatiana Soubbotina, Influenceuse
+            d’Excellence
+          + Lamborghini : l’incarnation ultime de l’exclusivité et de la
+            puissance
+          +  “Mbappé, l’étoile du football français”
+          + Lionel Messi : Une légende du football
+          + Le Prince Albert II entre l’empreinte carbone et les JO 2024
+          + Le monde du golf, l’équipement essentiel pour les passionnés
+            de ce sport noble
+          + Le prestigieux Gala annuel “BRIDGE THE GAP” célèbre la
+            diversité culturelle et le partage des valeurs
+          + Docteur Alain Telandro
+          + Bugatti Chiron, la quintessence du luxe et de la performance à
+            la française
+          + Le Gala annuel « BRIDGE THE GAP »  célébrera son 20ème
+            anniversaire – The annual “BRIDGE THE GAP” Gala will celebrate
+            its 20th anniversary
+          + Hard Rock Heals Foundation s’associe à Jordin Sparks et à
+            Women Who Rock pour “faire bouger la santé des femmes” tout au
+            long du mois de mars,
+          + Hard rock Cafe
+          + La Parole de l’homme de la république
+          + Hard Rock Café offre un « Noël pour tous »
+          + De Broadway à Paris, Les Producteurs nous font rire et rêver
+          + Ousmane Toure
+          + Saty Djelass
+          + Hard Rock Cafe Paris offre encore un « Noël pour tous »
+          + La WDCC– 2022 World Design Cities Conférence, un évènement
+            majeur à Paris !
+          + WHO’S NEXT LEAGUE EDITION 2022 :
+            Who’s Next, IMPACT, Bijorhca et Riviera
+            2-5 septembre 2022
+          + Bam Graffeur, l’artiste qui apporte de la joie dans les
+            hôpitaux
+          + “Travail de Diable” une histoire de Chine
+          + Franz Kafka
+          + Joakim Richard, Architecte Visionnaire de la Créativité
+            Architecturale
+          + Docteur RICHTER, spécialiste en médecine générale, en
+            micronutrition et médecine esthétique
+          + Evasion spirituelle
+          + TRANOÏ PARIS le 22- 25 juin 2023
+          + « Dessine-moi les plages sauvages du Jiangsu, refuge des
+            espèces protégées et paradis des oiseaux »
+          + Le Rouge Français
+          + Fayz La Vedette,
+          + Rodolphe Oppenheimer-Faure
+          + PAT Mc MURPHY
+          + JULY OF ST BARTH
+          + Salima HASHMI
+          + Adélaïde Leferme
+          + Cai Pingpei, Artiste peintre passionné dans l’âme !
+          + FASHION WEEK CHINA AND PRIVATE SHOWROOM
+
+   ____________________ Input your search keywords and press Enter.
+   Subscribe & Follow:
+
+   CULTURE HOMME DE CARACTERE SPORT/ 3 septembre 2023/
+   ♥106
+
+Lionel Messi : Une légende du football
+
+   Lionel Messi, considéré par beaucoup comme l’un des plus grands
+   footballeurs de tous les temps, a marqué l’histoire du sport avec son
+   talent exceptionnel et ses performances remarquables sur le terrain.
+   Originaire d’Argentine, Messi a conquis le monde du football grâce à sa
+   technique inégalée, sa vision du jeu et sa capacité à marquer des buts
+   spectaculaires. Dans cet article, nous allons explorer la carrière de
+   Messi, ses réalisations et son impact sur le football mondial.
+
+   Parcours professionnel
+
+   Né le 24 juin 1987 à Rosario, en Argentine, Lionel Messi a commencé sa
+   carrière de footballeur professionnel à un jeune âge. Il a rejoint le
+   FC Barcelone à l’âge de 13 ans et a rapidement gravi les échelons au
+   sein du club. Messi a fait ses débuts en équipe première en 2004 et a
+   depuis lors remporté de nombreux titres avec le club catalan, dont
+   plusieurs Ligues des champions de l’UEFA et championnats nationaux.
+
+   Réalisations
+
+   Au cours de sa carrière, Messi a accumulé un nombre impressionnant de
+   records et de distinctions individuelles. Il a remporté le Ballon d’Or
+   à plusieurs reprises, ce qui récompense le meilleur joueur de football
+   du monde. Messi détient également le record du plus grand nombre de
+   buts marqués en une seule année civile, avec 91 buts en 2012. Sa
+   capacité à dribbler les défenseurs et à marquer des buts incroyables
+   lui a valu une renommée mondiale.
+
+   Impact sur le football
+
+   L’impact de Messi sur le football mondial ne peut être surestimé. Sa
+   carrière exceptionnelle a inspiré des millions de jeunes joueurs à
+   travers le monde et a redéfini les normes de ce qui est possible sur un
+   terrain de football. Son style de jeu unique, sa vitesse et sa
+   précision ont influencé une génération de footballeurs. De plus, Messi
+   a été un ambassadeur du sport, utilisant sa notoriété pour soutenir des
+   causes humanitaires et promouvoir le fair-play.
+
+   Transfert au Paris Saint-Germain
+
+   En août 2021, Lionel Messi a quitté le FC Barcelone, son club de
+   toujours, en raison de problèmes financiers du club. Il a ensuite
+   rejoint le Paris Saint-Germain (PSG) en tant que joueur vedette. Ce
+   transfert a été un événement majeur dans le monde du football, attirant
+   une attention considérable et suscitant des attentes élevées pour la
+   saison à venir.
+
+     Lionel Messi restera à jamais une légende du football. Son talent,
+     sa détermination et son humilité ont fait de lui un modèle pour de
+     nombreux joueurs et amateurs de football à travers le monde. Que ce
+     soit avec le FC Barcelone ou le Paris Saint-Germain, Messi
+     continuera à écrire l’histoire du football et à inspirer les
+     générations futures.
+     Luxury Place Mag
+
+     * Jean Anthelme Brillat-Savarin : Le gourmet philosophe
+     * François Vatel, maître de la gastronomie et de l’art de recevoir
+
+You Might Also Like
+
+Es Saadi : hôtel 5 étoiles à Marrakech
+
+   14 juin 2023
+
+Rayonnante ascension pour Laurent Claquin au sein du prestigieux groupe
+Kering
+
+   10 juin 2024
+
+Éloise Valli Éblouit le Tapis Rouge du Festival de Cannes 2024
+
+   18 mai 2024
+
+   ARTICLES RECENTS
+     *
+
+Pandora : Célébrer l’amour pour...
+       À l’occasion de la Saint-Valentin,…
+       11 janvier 2025
+     *
+
+Michelle Yeoh éblouit au Gala...
+       Lors du gala annuel des…
+       10 janvier 2025
+     *
+
+Kering invite l’artiste contemporain chinois...
+       À l’approche du Nouvel An…
+       9 janvier 2025
+     *
+
+LULL Paris : L’innovation au...
+       Dans un monde où le…
+       8 janvier 2025
+     *
+
+La Maison Boucheron brille aux...
+       À l’occasion de la 82ème…
+       7 janvier 2025
+     *
+
+Billy Obam et Leee John...
+       Deux légendes de la musique,…
+       4 janvier 2025
+     *
+
+Vanina Aronica : Une voix...
+       De la cathédrale aux plus…
+       3 janvier 2025
+     *
+
+Emile Garcin : L’héritage d’une...
+       Né en 1939 à Saint-Rémy-de-Provence,…
+       2 janvier 2025
+     *
+
+Jerem Rassch, un artiste multi-talents...
+       Dans le monde du spectacle,…
+       31 décembre 2024
+     *
+
+Brigitte Skiavi Blanc : Une...
+       Manager, conseillère artistique, chargée de…
+       30 décembre 2024
+
+   Wallace Chan, considéré comme le plus grand créateur de joaillerie au
+   monde Wallace Chan United Nude & Bao Tranchi Jimmy Fairly Col&MacArthur
+   Boucheron - Serpent bangle Boucheron Private collection
+
+Inscription Newsletter
+
+   ________________________________________
+   Send
+
+Articles récents
+
+     * Pandora : Célébrer l’amour pour la Saint-Valentin
+     * Michelle Yeoh éblouit au Gala des National Board of Review Awards
+     * Kering invite l’artiste contemporain chinois de renom Jiang Miao à
+       célébrer le Nouvel An
+     * LULL Paris : L’innovation au service de la beauté
+     * La Maison Boucheron brille aux Golden Globes 2025
+
+LUXURY PLACE NEWS
+
+   ____________________ ACTUALITE LUXE
+
+Luxury Place
+
+   Paris, Cannes, Genève, New-York, Chine
+   Mail : contact@luxury-place.fr
+   Tel : +33 (0)652 176 878
+
+Réseaux Sociaux
+
+     *
+     *
+     *
+     *
+
+Facebook
+
+   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.c
+   om/Luxury-PLACE-108783400717963&width=300&colorscheme=light&show_faces=
+   false&border_color&stream=false&header=true&height=70&show_border=false
+
+   ©2022 - LUXURY PLACE MAGAZINE - www.luxury-place.fr

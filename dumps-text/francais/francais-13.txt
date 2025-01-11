@@ -1,127 +1,760 @@
-   [logo-0e387e301313c659c0f519fbf67d4f02e3bc1d70e16df447bef174dbf312f3cf.
-   svg]
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
      * Se connecter
-     * S'inscrire
 
-   Se connecter S'inscrire
-     * Concept
-          + Le Concept
-          + Qui sommes-nous ?
-          + FAQ
-     * Nos albums photo
-          + Le Pix
-          + Les Albums Carrés
-          + Les Albums Paysages
-          + Les Albums Portraits
-     * Pour quelle occasion ?
-          + Mariage
-          + Anniversaire
-          + Voyage
-          + Erasmus
-          + EVG
-          + EVJF
-          + Naissance
-     * Blog
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
 
-   left
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
 
-   L’importance des légendes et annotations dans vos albums photos
+Sommaire
 
-   Les légendes préservent la mémoire en fournissant un contexte et en
-   reliant les événements aux histoires personnelles. Elles renforcent
-   l'émotion en ajoutant une profondeur et une nuance aux images. En
-   annotant les photos, on transmet l'histoire familiale, permettant aux
-   générations futures de se connecter à leurs racines. De plus, les
-   légendes offrent une occasion de réflexion et d'introspection, en
-   permettant de revisiter le passé et d'en tirer des leçons de vie
-   précieuses.
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Origine espagnole
+     * 2 Une origine française ?
+       (BUTTON) Afficher / masquer la sous-section Une origine française ?
+          + 2.1 Interprétations critiques de la légende noire espagnole
+     * 3 Utilisation postérieure du terme
+       (BUTTON) Afficher / masquer la sous-section Utilisation postérieure
+       du terme
+          + 3.1 Légende noire napoléonienne
+               o 3.1.1 La légende noire de Napoléon I^er
+               o 3.1.2 La légende noire de Napoléon III
+     * 4 Notes et références
+     * 5 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 5.1 Articles connexes
+          + 5.2 Bibliographie
+               o 5.2.1 En français
+               o 5.2.2 Autres langues
+          + 5.3 Liens externes
+               o 5.3.1 Premier et Second Empire
+               o 5.3.2 Louis XIV
 
-   [IMG_0692.png]
+   [ ] Basculer la table des matières
 
-   L’importance des légendes et annotations dans vos albums photos
+Légende noire
 
-   Préservation de la mémoire 🧠
+   [ ] 7 langues
+     * العربية
+     * Български
+     * Español
+     * Português
+     * Русский
+     * Українська
+     * Oʻzbekcha / ўзбекча
 
-   Les photos figent des instants, mais sans contexte, ces instants
-   peuvent perdre leur signification avec le temps. Une légende bien
-   rédigée apporte du contexte, permettant aux générations futures de
-   comprendre le qui, le quoi, le quand et le pourquoi de chaque image.
-   C'est une façon de préserver la mémoire, de relier les histoires
-   personnelles aux événements historiques et de garantir que chaque photo
-   ne soit pas simplement vue, mais également comprise.
+   Modifier les liens
 
-   Renforcer l'émotion 🥰
+     * Article
+     * Discussion
 
-   Les légendes et annotations peuvent évoquer des émotions qui vont
-   au-delà de ce qui est visible sur la photo elle-même. Elles capturent
-   l'humeur, les sentiments et les nuances qui ne peuvent être exprimés à
-   travers une image statique. Qu'il s'agisse d'une citation, d'une
-   anecdote ou d'une simple description, ces éléments ajoutent une
-   profondeur émotionnelle, transformant une simple image en une
-   expérience sensorielle complète.
+   [ ] français
 
-   Transmettre l'histoire familiale👨‍👩‍👧‍👦
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
 
-   Chaque famille a ses propres histoires, ses traditions et ses souvenirs
-   uniques. Les albums photos sont souvent le lieu de convergence de ces
-   histoires. En annotant ces photos, vous créez un héritage familial
-   tangible. Vous permettez aux plus jeunes générations de se connecter à
-   leurs racines, d'apprendre sur leurs ancêtres et de comprendre
-   l'évolution de leur famille au fil du temps.
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
 
-   Réflexion et introspection📶
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
 
-   Revenir sur un album photo enrichi de légendes et d'annotations peut
-   être une expérience profondément réfléchissante. Ces notes offrent une
-   opportunité de se replonger dans le passé, d'évaluer la croissance
-   personnelle, les réussites et les défis. Elles servent de rappels
-   précieux, offrant des leçons de vie, des moments de gratitude et
-   parfois même des occasions de guérison.
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
 
-     * [appstore.png]
-     * [playstore.png]
+   Dans d’autres projets
+     * Élément Wikidata
 
-   Retrouvez-nous aussi sur :
-   [insta-f847294fabc81eab417a3eb18dff985c8e5f96ade8c52391ac84bece30b53078
-   .png]
-   [tiktok-3a7b7767ec69f3a1d2d916a373f39b87e5a19ce68cb79f32a24b0bafd636237
-   4.png]
-   [fb-441fe4d4d3a143b59ccdbcc7c2c66557ed3465d134d11e0dcb2123a655b29b07.pn
-   g]
-   [pint-0799871b1589a3c7211e528016bd41349c947c8895edaf86d87599bda122812e.
-   png]
-   [linkedin-75de36543abfc609c09947ae42403cbf5807c846b0031e60721f60466a6e4
-   2fd.png]
-     * contact@wememberz.com
-     * Contactez-nous
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
 
-     * Mentions Légales & CGU
+   Cet article doit être recyclé (janvier 2023).
+
+   Motif : Absence de synthèse existante. Nombreux manques. Cherry picking
+   aboutissant à une synthèse inédite.
+   Améliorez-le, discutez des points à améliorer ou précisez les sections
+   à recycler en utilisant {{section à recycler}}.
+
+   Une légende noire est la perception négative d'un personnage, d'une
+   organisation ou d'un événement, résultant de l'accumulation de rumeurs
+   négatives et souvent infondées. Une légende noire ne saurait se
+   confondre avec la vérité historique.
+
+   Le biais inverse correspond à un ensemble de stéréotypes flatteurs,
+   parfois entourés de mystères et de préjugés, qui nourrissent une
+   « légende rose » ou « légende dorée » à caractère hagiographique.
+   Légende noire et légende rose s'expriment dans des médias
+   sensationnalistes ou dans des historiographies orientées^[1]^,^[2].
+
+Origine espagnole
+
+   [modifier | modifier le code]
+   Article détaillé : Légende noire espagnole.
+
+   L'expression fut introduite à propos de l'Espagne, de son histoire et
+   du peuple espagnol en 1914 par l'historien Julián
+   Juderías^[source insuffisante] qui voulait dénoncer les « récits
+   fantastiques » colportés sur son pays à l'étranger, « les descriptions
+   grotesques », les accusations, la négation voire « l'ignorance
+   systématique de tout ce qui est favorable dans les divers domaines de
+   la culture et de l'art » et enfin les accusations proférées « à partir
+   de faits exagérés, mal interprétés ou totalement faux ». Juderias
+   entendait en particulier dénoncer ce qu’il estimait être exagéré et
+   injuste dans les reproches concernant l’extermination par les Espagnols
+   des populations amérindiennes, l’obscurantisme religieux, le règne de
+   Philippe II d'Espagne (accusé notamment de bigamie, d'inceste et de
+   meurtre par Guillaume I^er d'Orange-Nassau) et les méthodes de
+   l’Inquisition.
+
+   Même si Emilia Pardo Bazán et Vicente Blasco Ibáñez ont utilisé le
+   terme dans le sens moderne, avant Juderías^[3], il serait son large
+   diffuseur, et celui qui décrit le concept en 1914 dans son livre La
+   Légende noire :
+
+     « […] l'environnement créé par les histoires fantastiques sur notre
+     pays qui sont nées dans tous les pays, les descriptions grotesques
+     qui ont toujours profilé le caractère espagnol en tant qu'individus
+     et collectivement, le déni, ou au moins l'ignorance systématique de
+     tout ce qui est favorable dans les diverses formes de culture et
+     d'art, les accusations en tout temps, ont été proférées sur
+     l'Espagne sur les motifs de faits exagérés, mal interprétés ou
+     faussés dans leur intégralité, et, enfin, l'affirmation contenues
+     dans des livres qui semblent respectables et vrais et souvent
+     reproduite, discutée et prolongée dans la presse étrangère, que
+     notre pays est, du point de vue de la tolérance, la culture et le
+     progrès politique, une exception lamentable dans le groupe des
+     nations européennes. »^[4]
+
+   — Julián Juderías, La Légende noire
+
+   La seconde œuvre est L'Histoire de la légende noire de
+   l'hispano-américaine Romulo D. Carbia. Si Juderías met davantage
+   l'accent sur le côté européen de la légende, l'argentin Carbia se
+   concentre sur le côté américain.
+
+   En 1944, l'American Council on Education, préoccupé par les préjugés
+   anti-hispaniques du matériel éducatif aux États-Unis, a défini le
+   concept dans un long rapport disant que :
+
+     « La Légende Noire est un terme utilisé par les écrivains espagnols
+     pour désigner la vieille propagande contre les pays ibériques, qui a
+     commencé au XVIe siècle en Angleterre et a depuis été une arme pour
+     les adversaires de l'Espagne et du Portugal dans les guerres de
+     religion, maritimes et coloniales de ces quatre siècles. »^[5]
+
+   Philip Wayne Powell dans son livre de Tree of Hate (1971) définit
+   essentiellement la légende noire comme la croyance que :
+
+     « [La prémisse de base de la Légende noire est que] les Espagnols se
+     sont toujours montrés comme exceptionnellement cruels, intolérants,
+     tyranniques, obscurantistes, paresseux, sectaires, avides et
+     perfides, c'est-à-dire qu'ils sont si différents d'autres peuples à
+     cet égard que les Espagnols et l'histoire de l'Espagne devraient
+     être vus et compris en des termes qu'on n'emploie pas d'habitude
+     pour décrire et interpréter les autres. »^[6]
+
+   — P.W. Powell, Tree of Hate
+
+Une origine française ?
+
+   [modifier | modifier le code]
+
+   Le biographe de Julián Juderías dans son introduction à l'édition du
+   centenaire de La leyenda negra insiste sur le fait que l'origine de
+   l'expression « légende noire » comme pendant de « légende dorée » est
+   peut-être française^[7]. En effet, Arthur Lévy, auteur de l'ouvrage
+   Napoléon intime (1893) a écrit :
+
+     « Napoléon, durant sa vie, a été tour à tour l'objet du culte et du
+     mépris de ses sujets. Aujourd'hui, — quoique l'influence de son
+     action individuelle sur les destinées de la France et de l'Europe ne
+     puisse encore être exactement définie, — sa mémoire nous partage
+     toujours en deux camps, les admirateurs et les détracteurs,
+     également zélés pour dénaturer, en bien comme en mal, la
+     personnalité de l'Empereur. […] Toutefois, en étudiant la vie de
+     l'Empereur avec droiture, on voit bientôt la réalité se dégager de
+     la légende dorée et de ce qu'il est permis d'appeler la légende
+     noire napoléonienne. Cette réalité la voici : Napoléon ne fut ni un
+     dieu ni un monstre, mais, simplement, — selon la célèbre formule
+     classique qu'on peut lui appliquer — il était homme, et rien
+     d'humain ne lui était étranger. Le haut sentiment familial, en
+     effet, la bonté, la gratitude, la cordialité, furent ses qualités
+     essentielles. »
+
+   — A. Levy, Napoléon intime
+
+   Ainsi, toujours selon Luis Español, l'expression lancée par Lévy à
+   propos de Napoléon I^er aurait été traduite par les auteurs espagnols
+   Cayetano Soler et Emilia Pardo Bazán dans leurs ouvrages respectifs de
+   1899, reproduite par des journalistes et pris de l'importance à partir
+   du classique de Juderías, puis finalement serait retournée en France où
+   elle sera notamment réutilisée dans des ouvrages sur la légende noire
+   de Napoléon I^er (cf. infra).
+
+Interprétations critiques de la légende noire espagnole
+
+   [modifier | modifier le code]
+   Article principal : Légende noire espagnole.
+
+   Les dernières années, il s'est formé un groupe d'historiens, parmi
+   lesquels Alfredo Alvar, Ricardo Garcia Carcel, Lourdes Mateo Bretos et
+   Carmen Iglesias, qui ne croient pas en l'existence objective de la
+   légende, mais considèrent que la légende noire est la perception par
+   les Espagnols de leur image à l'étranger.
+
+     « La "légende noire" est pour ainsi dire, la façon dont l'Espagne
+     perçoit son image hors de l'Espagne […] La légende noire est, par
+     conséquent, formée des traits négatifs — qui sont objectivement les
+     plus répétés — que la conscience espagnole découvre dans l'image
+     d'elle-même. »^[8]
+
+   — V. de Osma, El Imperio y la leyenda negra
+
+   Garcia Carcel nie même l'existence de la légende noire dans son livre
+   La Leyenda Negra :
+
+     « Ni leyenda, en tanto en cuanto el conjunto de opiniones negativas
+     de España tuvieran no pocos fundamentos históricos, ni negra, dado
+     que el tono nunca fue constante ni uniforme. Abundan los grises,
+     pero la coloración de estas opiniones estuvo siempre determinada por
+     los colores contrapuestos de lo que aquí hemos llamado leyenda
+     rosa. »
+
+   — G. Carcel, La Leyenda Negra
+
+   Selon l'historien et hispaniste Henry Kamen^[9], le concept de la
+   légende noire a cessé d'exister dans le monde anglophone depuis de
+   nombreuses années, mais persiste en Espagne pour des raisons de
+   politique intérieure. La position de Kamen et son livre Empire ont été
+   vivement critiqués par Arturo Perez-Reverte^[10] et José Antonio Vaca
+   de Osma. L'historien Jose Pérez estime également que le légende noire a
+   disparu, mais qu'il en reste toujours des traces, car les préjugés sur
+   l'Espagne ne sont pas différents de ceux qui existent sur d'autres
+   pays.
+
+   L'écrivain argentin Ernesto Sábato, dans son article Ni leyenda blanca
+   ni negra (« Ni légende blanche ni noire »), publié dans le journal El
+   País en 1991 avant la fin du 500^e anniversaire de la découverte de
+   l'Amérique, propose de pallier le « faux dilemme » entre les deux
+   légendes pour présenter une approche qui, « sans nier les atrocités
+   perpétrés par les agresseurs », soit capable de justifier la culture,
+   la langue espagnole et le métissage, qui a créé une société dans les
+   Amériques.
+
+Utilisation postérieure du terme
+
+   [modifier | modifier le code]
+
+   Le terme fut ensuite vulgarisé par les historiens pour d'autres objets
+   de recherche. Ainsi, en France, les Templiers, Louis XIV, Napoléon I^er
+   (« l'ogre corse » qui tyrannise l'Europe selon la légende noire
+   distillée par les pamphlétaires britanniques est cependant aussi
+   l'objet d'une légende dorée de la part de ses partisans et des divers
+   régimes politiques qui se succèdent en France^[11]) ainsi que Napoléon
+   III (« Le 2 décembre a donné naissance à une légende noire qui a
+   rejailli rétrospectivement sur le 18 Brumaire »^[12]) ont selon
+   plusieurs historiens été sujets à des « légendes noires ».
+
+Légende noire napoléonienne
+
+   [modifier | modifier le code]
+   Article connexe : Légende napoléonienne.
+
+   Les deux Napoléon ont été l'objet de fortes critiques dès leur arrivée
+   au pouvoir mais alors que « la légende noire de Napoléon I^er, très
+   vivante après sa chute, laissait place progressivement sans
+   disparaitre, à une légende dorée devenue prédominante, du côté de
+   Napoléon III, le rejet allait longtemps s'imposer »^[13]. La mémoire
+   républicaine ne manquera pas de noter que « les deux Empires se sont
+   imposés par la force, au terme de coups d'État »^[14] et que, dans le
+   cas de Napoléon III, celui-ci devra avant même son élection à la
+   présidence de la République, être l'objet de très vives caricatures
+   (Honoré Daumier dans Le Charivari) avant d'être pour la postérité
+   qualifié de Napoléon le petit par Victor Hugo^[13].
+
+La légende noire de Napoléon I^er
+
+   [modifier | modifier le code]
+
+   Selon Luis Español, l'expression même légende noire est peut-être née
+   de l'ouvrage d'Arthur Lévy Napoléon intime (1893) ce qui souligne
+   l'importance de la propagande négative à ce sujet (cf. supra).
+
+   Les conquêtes napoléoniennes déclenchent tantôt l'admiration, comme
+   celle du poète allemand Goethe qui reçoit la Légion d'honneur par
+   décret du 12 octobre 1808 de Napoléon ou du philosophe Hegel, tantôt la
+   haine, comme celle des Espagnols lorsque l'empereur envahit leur pays,
+   ce qui développe une légende noire avec le premier pamphlet diffusé
+   dans toute l'Europe^[15], le Catéchisme espagnol, préparant les
+   explosions nationales qui mettront fin au Grand Empire^[16].
+
+   Sous le Consulat puis le Premier Empire, la caricature, arme
+   privilégiée des opposants, était d'abord du fait des Anglais
+   puisqu'elle ne pouvait beaucoup se développer en France à cause de la
+   censure^[13], puis celle des royalistes le qualifiant
+   d'usurpateur^[17], de même que les républicains^[18]. Elle explose en
+   France en 1814, à la première chute de l'Empereur. Les pamphlets alors
+   les plus cinglants sont De Buonaparte et des Bourbons, écrit par le
+   royaliste François-René de Chateaubriand et De l'esprit de conquête et
+   de l'usurpation par le libéral Benjamin Constant^[19]. Les critiques
+   sont aussi reprises avec talent par le graveur Louis-François Charon.
+   Concrètement, elles mettent en cause l'Empereur pour avoir « enflammé
+   l'Europe et provoqué des centaines de milliers de morts », avançant des
+   chiffres gonflés comme celui de 1,7 million de Français victimes des
+   guerres napoléoniennes (« chiffre deux fois supérieur au total
+   communément admis »)^[13]. Napoléon I^er est qualifié d'ogre ou de
+   cannibale et son pouvoir est présenté comme assis sur un « trône de
+   cadavres », fondé sur une « série de crimes » (l'exécution du duc
+   d'Enghien et des principaux chefs de la conspiration Cadoudal)^[13].
+   Lors de la période des Cent-Jours ou de la Restauration, les avis se
+   retournent (une quinzaine de personnalités sont toujours restées
+   fidèles à l'empereur^[20]), oscillant entre la légende dorée et la
+   légende noire, les plus grands adeptes du retournement politique étant
+   Charles-Louis Huguet de Sémonville, Joseph Fouché et Talleyrand^[21].
+   Sous la Restauration, sa politique religieuse, celle à l'égard de la
+   papauté, est aussi mise en cause alors que l'idée que Bonaparte ne soit
+   même pas français de naissance est avancée par Chateaubriand.
+   Cependant, dans le contexte de l'époque, cette légende noire ne
+   parvient pas à éclipser le « mythe du grand homme », ce qui aboutira au
+   retour de ses cendres sous le règne de Louis-Philippe I^er^[22].
+
+   Alors que la légende noire est réactivée par celle de son neveu
+   Napoléon III dont la politique (et surtout la perte de l'Alsace et la
+   Lorraine) est vivement critiquée par Victor Hugo, Henri Rochefort ou
+   Maurice Joly, des hommes politiques comme Maurice Barrès se retournent
+   vers Napoléon, ses conquêtes victorieuses devant inspirer le sentiment
+   de revanchisme. Au début du régime de Vichy, cette légende noire
+   réapparaît sous la plume du royaliste Charles Maurras avant une
+   nouvelle fois de se retourner après la bataille de Mers el-Kébir qui
+   voit croître l'hostilité française contre le Royaume-Uni^[22]. En 1968,
+   au cours d'une série de conférences télévisuelles de la Télévision
+   suisse romande^[23], l'historien Henri Guillemin propose une vision
+   documentée et critique d'un Napoléon arriviste et intéressé, uniquement
+   préoccupé de sa réussite personnelle et de celle de sa famille^[24]. En
+   2005, Claude Ribbe écrit Le Crime de Napoléon, un pamphlet contre ce
+   dictateur « misogyne, homophobe, antisémite, raciste, fasciste,
+   antirépublicain » qui a rétabli l'esclavage^[25].
+
+La légende noire de Napoléon III
+
+   [modifier | modifier le code]
+   [220px-Napoleon_III_masque_mortuaire.jpg] Masque mortuaire de Napoléon
+   III.
+   Article détaillé : Napoléon III.
+
+   « Napoléon III a longtemps été victime d'une légende noire, d'une
+   caricature forgée par ses nombreux ennemis politiques, les
+   républicains, les royalistes, les libéraux... » pour reprendre les mots
+   du professeur d'histoire contemporaine Guy Antonetti^[26]. Selon les
+   détracteurs et opposants du dernier empereur des Français, il est à la
+   fois un « crétin » (Thiers), « Napoléon le petit » ou « Césarion »
+   (Victor Hugo) ou encore Badinguet, « une espèce d'aventurier sans
+   scrupules, et d'arriéré mental ridicule, un mélange de satrape débauché
+   et de démagogue fumeux, bref un pantin insignifiant »^[26]. L'œuvre de
+   Victor Hugo, bâtie sur l'opposition permanente entre la gloire de
+   Napoléon I^er et la bassesse tyrannique prêtée à Napoléon III,
+   contribua considérablement à asseoir l'image d'un despote médiocre et
+   sans scrupules. L'écrivain Émile Zola, circonspect sur l'Empereur dont
+   il note la complexité et qu'il appelle « l'énigme, le sphinx »^[26],
+   rappela ainsi dans ses romans la spéculation effrénée et la corruption
+   nées de l'« haussmanisation » et de la flambée boursière (La Curée,
+   L'Argent), le choc que l'irruption des grands magasins représenta pour
+   le petit commerce (Au Bonheur des Dames), la dureté des luttes sociales
+   sous Napoléon III (Germinal). Toutefois, le même Émile Zola démontra
+   comment le même homme pouvait être regardé différemment en fonction du
+   camp idéologique où l'on se situait, des revirements idéologiques ou
+   des métamorphoses de l'âge^[27], en écrivant que « Le Napoléon III des
+   Châtiments, c'est un croquemitaine sorti tout botté et tout éperonné de
+   l'imagination de Victor Hugo. Rien n'est moins ressemblant que ce
+   portrait, sorte de statue de bronze et de boue élevée par le poète pour
+   servir de cible à ses traits acérés, disons le mot, à ses
+   crachats »^[28].
+
+   Le Second Empire eut « longtemps mauvaise presse »^[29]. Les acquis
+   territoriaux de 1860 (Nice et la Savoie) obtenus à la suite d'une
+   guerre victorieuse contre l’Autriche sont oubliés, effacés par le
+   traumatisme que constitue alors la perte de l’Alsace et de la Moselle
+   marquant durablement la conscience nationale jusqu'à la fin de la
+   Première Guerre mondiale. Apparemment peu doué pour la prophétie, Louis
+   Pasteur, fervent bonapartiste^[30] affligé par la chute de l'Empire,
+   déclarait alors confiant que « malgré les vaines et stupides clameurs
+   de la rue et toutes les lâches défaillances de ces derniers temps,
+   l'Empereur peut attendre avec confiance le jugement de la postérité.
+   Son règne restera comme l'un des plus glorieux de notre
+   histoire »^[31].
+
+   Souvent mentionnée par les historiens dans leurs biographie de
+   l'Empereur^[32], la légende noire est notamment analysée en profondeur,
+   sans être exhaustive des autres auteurs, par les historiens Pierre
+   Milza et Éric Anceau dans leurs ouvrages respectifs consacrés à
+   Napoléon III.
+
+   Pour Éric Anceau, « le 2 décembre a permis aux républicains de s’ériger
+   en défenseurs du droit et de faire du coup d’État le mal absolu. Depuis
+   le 2 décembre 1851, qui se dit républicain en France ne peut prêter la
+   main à un coup d’État, ni s’en faire l’apologiste »^[33]. Cette
+   « référence négative désormais pour tout républicain authentique »
+   selon les mots de l'historien Raymond Huard pour désigner le 2
+   décembre, « jour néfaste parce qu’il mit fin à l’existence de la
+   Seconde République »^[34], fut l'argument des républicains pour
+   combattre tout retour en force du césarisme plébiscitaire, que ce soit
+   lors du boulangisme puis plus tard lors de la montée du gaullisme^[35].
+   Le précédent d'un président devenu empereur ainsi rendra impensable,
+   jusqu'en 1962, toute élection du chef de l'État au suffrage universel
+   direct, François Mitterrand comparant avec virulence le général de
+   Gaulle à Napoléon III afin d'instruire le procès des institutions de la
+   V^e République^[36]. L'historien Maurice Agulhon utilise pour sa part
+   les termes de légende noire et de légende rose pour les différentes
+   versions ou approches données à l'insurrection en province au moment du
+   coup d'État, notamment le fait que les historiens républicains
+   tendaient à minimiser « les faits de lutte des classes » qui la
+   sous-tendaient^[37].
+
+   Pour Pierre Milza, « l'année terrible [1870] a fortement traumatisé les
+   contemporains, peut-être autant que le fera la débâcle de 1940 » ce qui
+   explique également, en sus du 2 décembre, le « long discrédit » dont
+   souffre longtemps l'image de Napoléon III^[38].
+
+   Dans sa biographie, Éric Anceau note particulièrement que la
+   III^e République s'édifie sur les ruines du Second Empire et en
+   opposition à Napoléon III, à sa famille et à ses proches voués à
+   l'opprobre^[39]. Il paie ainsi la personnalisation du régime césarien
+   et, qualifié d'« aventurier qui avait trompé les Français pour accéder
+   au pouvoir », devient un bouc émissaire commode, tenu pour seul
+   responsable de la défaite et de la mutilation du territoire
+   français^[40]^,^[41]. Alors qu'Eugénie était dénigrée en raison de sa
+   dévotion religieuse ou de son origine espagnole, le préfet Haussmann
+   était lui aussi victime de l'hallali intellectuel exprimé notamment
+   dans les ouvrages publics de la III^e République à l'instar du Grand
+   dictionnaire universel du XIX^e siècle de Pierre Larousse en 1876^[42].
+
+   Si l'Empereur est, selon Pierre Milza, l'objet d'un « déferlement de
+   haines »^[43] au travers de pamphlets, caricatures et chansons qui le
+   présentent comme un despote vénal et immoral, l'historien confirme que
+   ces invectives ont lieu surtout au moment où le régime républicain
+   n'est pas encore acquis et doit encore se construire et s'enraciner.
+   Non seulement tout nom relatif à la toponymie impériale est globalement
+   éliminé de la voie publique, à l'exception des batailles remportées
+   durant le régime^[40], mais la nouvelle légitimité républicaine exige
+   alors que tous les mythes sur lesquels reposaient le précédent pouvoir,
+   telle l'image idéalisée du « sauveur de la nation », soient abattus et
+   discrédités^[44].
+
+   Précisant être un « républicain qui ne nourrit aucune nostalgie à
+   l'égard de l'Empire »^[38], Pierre Milza note cependant, au travers de
+   plusieurs commémorations concrètes officielles intervenues depuis les
+   années 1980, les prologues de ce qu'il considère, comme « l'ultime
+   étape d'une réhabilitation tardive et inachevée » : le rapatriement des
+   cendres de Napoléon III, de son épouse et de leur fils, à l'instar de
+   celles de Napoléon I^er^[45].
+
+   Ainsi, en 1988, pour la première fois en 118 ans, un gouvernement
+   français s'était fait représenter lors d'une cérémonie organisée à la
+   mémoire de Napoléon III et avait envoyé un détachement de la garde
+   républicaine rendre les honneurs de l'État à l'ancien Empereur lors
+   d'une messe de requiem en l'église Saint-Louis-des-Invalides^[46]. En
+   2008, prenant la suite de plusieurs demandes antérieures d'origines
+   diverses, Christian Estrosi, alors secrétaire d'État français à
+   l'Outre-Mer et candidat à la mairie de Nice, demandait le rapatriement
+   des cendres de Napoléon III pour 2010, année du 150^e anniversaire du
+   rattachement du comté de Nice à la France^[47]. Enfin, lors de son
+   hommage public et national au président de la Cour des Comptes,
+   Philippe Séguin, le 12 janvier 2010, le président de l’Assemblée
+   nationale, Bernard Accoyer, déclarait que celui qui fut aussi l'auteur
+   en 1990 de Louis-Napoléon le grand, en « rompant avec la tradition
+   héritière de Victor Hugo », avait « entrepris de réhabiliter la mémoire
+   de Napoléon III, substituant au personnage caricatural de Badinguet la
+   vision d’un empereur moderniste et soucieux du bien commun, qui équipa
+   et enrichit la France »^[48].
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Marc Ferro, Histoire des colonisations, Seuil, 1994, p. 263.
+    2. ↑ Marie-Sol Ortola, Marie Roig Miranda (dir.), Mémoire, récit,
+       histoire dans l'Europe des XVI^e et XVII^e siècles, Groupe
+       XVI^e – XVII^e siècles en Europe, 2007, p. 236-246.
+    3. ↑ Español Bouché, Luis (enero 2008). « La Leyenda Negra: una
+       denuncia de Julián Juderías » (en español). La Aventura de la
+       Historia (111): pp. 56-61. ; Español Bouché, p. 112
+    4. ↑ « […] el ambiente creado por los relatos fantásticos que acerca
+       de nuestra patria han visto la luz pública en todos los países, las
+       descripciones grotescas que se han hecho siempre del carácter de
+       los Españoles como individuos y colectividad, la negación o por lo
+       menos la ignorancia sistemática de cuanto es favorable y hermoso en
+       las diversas manifestaciones de la cultura y del arte, las
+       acusaciones que en todo tiempo se han lanzado sobre España
+       fundándose para ello en hechos exagerados, mal interpretados o
+       falsos en su totalidad, y, finalmente, la afirmación contenida en
+       libros al parecer respetables y verídicos y muchas veces
+       reproducida, comentada y ampliada en la Prensa extranjera, de que
+       nuestra Patria constituye, desde el punto de vista de la
+       tolerancia, de la cultura y del progreso político, una excepción
+       lamentable dentro del grupo de las naciones europeas. ».
+    5. ↑ « The "Black Legend" is a term long used by Spanish writers to
+       denote the ancient body of propaganda against the Iberian peoples
+       which began [sic] in sixteenth century England and has since been a
+       handy weapon for the rivals of Spain and Portugal in the religious,
+       maritime, and colonial wars of those four centuries. ».
+    6. ↑ « The basic premise of the Black Legend is that] Spaniards have
+       shown themselves, historically, to be uniquely cruel, bigoted,
+       tyrannical, obscurantists, lazy, fanatical, greedy, and
+       treacherous; that is, that they differ so much from other peoples
+       in these traits that Spaniards and Spanish history must be viewed
+       and understood in terms not ordinarily used in describing and
+       interpreting other people. » in P.W. Powell, Tree of Hate, éd.
+       1985, p. 11
+    7. ↑ Julián Juderías, La leyenda negra de España, intro. Luis Español,
+       Madrid, La Esfera de los Libros, 2014, pp. 72-74
+    8. ↑ « La «leyenda negra» es por así decir, la imagen exterior de
+       España tal como España la percibe […] La leyenda negra consiste,
+       por tanto, en los rasgos negativos — que son objetivamente los más
+       repetidos — que la conciencia española descubre en la imagen de
+       ella misma. », Carmen Iglesias in Vaca de Osma, El Imperio y la
+       leyenda negra, p.208
+    9. ↑ [1]
+   10. ↑ [2]
+   11. ↑ Napoléon, de la mythologie à l'Histoire de Nathalie Petiteau
+   12. ↑ Louis Girard, Napoléon III, Librairie Arthème Fayard, 1986
+       réédition 2002, p. 514
+   13. ↑ ^a b c d et e Jacques-Olivier Boudon, Les Bonaparte, regards sur
+       la France impériale, chapitre les légendes noires, La Documentation
+       française, dossier n°8073, janvier-février 2010, p. 32
+   14. ↑ Jacques Olivier Boudon, p 18
+   15. ↑ Napoléon y est assimilé à Satan.
+   16. ↑ Jean Tulard, Le mythe de Napoléon, A. Colin, 1971, p. 13.
+   17. ↑ Jean-Paul Bertaud, Les Royalistes et Napoléon : 1799-1816,
+       Éditions Flammarion, 2009, 463 p..
+   18. ↑ Discours L'usurpateur républicain de Jean Cottereau
+   19. ↑ Benjamin Constant, De l'esprit de conquête et de l'usurpation :
+       dans leurs rapports avec la civilisation européenne, Le Normand,
+       1814, 199 p..
+   20. ↑ Adrien-Jean-Quentin Beuchot, Dictionnaire des Immobiles, Poulet,
+       1815, 502 p..
+   21. ↑ Alexis Eymery, Dictionnaire des girouettes, A. Eymery, 1815,
+       491 p..
+   22. ↑ ^a et b Jean Tulard, L'anti-Napoléon - La légende noire de
+       l'Empereur, Gallimard, 2013, 343 p. (ISBN 978-2-07-045185-2).
+   23. ↑ Intégrale des vidéos de Guillemin sur la Télévision suisse
+       romande
+   24. ↑ Guillemin, Henri - Napoléon tel quel Paris, Trévise, 1969, 153 p.
+       Réédition Utovie
+   25. ↑ Claude Ribbe, Le Crime de Napoléon, Editions Privé, 2005, 206 p..
+   26. ↑ ^a b et c Guy Antonetti, ibid, p. 269-270
+   27. ↑ Pierre Milza, p. 325
+   28. ↑ Émile Zola, texte paru dans Le Gaulois en août 1895 et cité dans
+       André Castelot, La féerie impériale, Perrin, 1962, p. 55
+   29. ↑ Éditorial de Jean Garrigues, professeur à l’université d'Orléans,
+       président du CHPP, Revue d'histoire politique, n^o HS 4 2008/3,
+       p. 5-6.
+   30. ↑ Présenté à l'Empereur en 1863, Louis Pasteur avait publié ses
+       Études sur le vin (1866) en les dédiant à Napoléon III
+   31. ↑ Lettre du 5 septembre 1870 adressé par Louis Pasteur au Maréchal
+       Vaillant, cité par Éric Anceau, p. 559
+   32. ↑ Louis Girard, p. 514.
+   33. ↑ Le coup d’État du 2 décembre 1851 ou la chronique de deux morts
+       annoncées et l’avènement d’un grand principe, Revue d'histoire
+       politique, n^o 12 –2009/2, p. 24-42.
+   34. ↑ Autour de Décembre 1851, Revue d'histoire du XIXe siècle.
+   35. ↑ Pierre Milza, p 745
+   36. ↑ François Mitterrand, Le Coup d'État permanent, 1964.
+   37. ↑ Maurice Agulhon, ibid, p. 214.
+   38. ↑ ^a et b Pierre Milza, p. 775
+   39. ↑ Éric Anceau, Napoléon III, Taillandier, 2008, 750 p.
+   40. ↑ ^a et b Éric Anceau, p. 568.
+   41. ↑ Éric Anceau, p. 15 : « L'image négative du souverain domina au
+       lendemain de la défaite contre les Allemands à Sedan et de la chute
+       du Second Empire […]. Cette vision [d'aventurier qui a trompé les
+       Français] permettait aux républicains, désormais au pouvoir, de
+       faire à bon compte de l'ancien Maître de la France un repoussoir et
+       plus largement, à la nation de trouver un bouc émissaire commode
+       pour tous les malheurs qui venaient de s'abattre sur elle ».
+   42. ↑ Patrice de Moncan, Le Paris d'Haussmann, éditions du Mécène,
+       2009, p 193
+   43. ↑ Pierre Milza, p. 743.
+   44. ↑ Pierre Milza, p. 742-744.
+   45. ↑ Pierre Milza, p. 776.
+   46. ↑ Éric Anceau, p 569
+   47. ↑ Rendez-nous les cendres de Napoléon III !, Historia
+   48. ↑ Discours funéraire de Bernard Accoyer le 12 janvier 2010.
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Légende noire espagnole
+     * Légende napoléonienne
+
+Bibliographie
+
+   [modifier | modifier le code]
+
+En français
+
+   [modifier | modifier le code]
+     * Pierre Milza, Napoléon III, Perrin, 2004, réédition collection
+       Tempus 2006 (pp 741-746).
+     * Nathalie Petiteau, Napoléon, de la mythologie à l'histoire, Seuil,
+       1999.
+
+Autres langues
+
+   [modifier | modifier le code]
+     * (en) Edelmayer, Friedrich, « The "Leyenda Negra" and the
+       Circulation of Anti-Catholic and Anti-Spanish Prejudices »,
+       European History Online,‎ 2011 (lire en ligne)
+     * Español Bouché, Luis, "Leyendas Negras: Vida y Obra de Julian
+       Juderías", Junta de Castilla y Leon, 2007.
+     * Ricardo Garcia Cárcel, La leyenda negra. Historia y opinión,
+       Madrid, 1992
+     * (en) Gledhill, John, « Review: From "Others" to Actors: New
+       Perspectives on Popular Political Cultures and National State
+       Formation in Latin America », American Anthropologist, vol. 98,
+       n^o 3,‎ 1996, p. 630-633 (DOI 10.1525/aa.1996.98.3.02a00210)
+     * Griffin, Eric. "Ethos to Ethnos: Hispanizing 'the Spaniard' in the
+       Old World and the New," The New Centennial Review, 2:1, 2002.
+     * Kamen, Henry. Empire: How Spain Became a World Power, 1492-1763.
+       New York: HarperCollins. 2003. (ISBN 0-06-093264-3)
+     * (en) LaRosa, Michael, « Religion in a Changing Latin America: A
+       Review », Journal of Interamerican Studies and World Affairs,
+       vol. 34, n^o 4,‎ 1992–1993, p. 245–255 (DOI 10.2307/165811,
+       JSTOR 165811)
+     * Lock, Julian. "'How Many Tercios Has the Pope?' The Spanish War and
+       the Sublimation of Elizabethan Anti-Popery," History, 81, 1996.
+     * Maltby, William S., The Black Legend in England. Duke University
+       Press, Durham, 1971, (ISBN 0-8223-0250-0).
+     * Maura, Juan Francisco. "Cobardía, crueldad y oportunismo español:
+       algunas consideraciones sobre la 'verdadera' historia de la
+       conquista de la Nueva España". Lemir (Revista de literatura
+       medieval y del Renacimiento) 7 (2003): 1–29.
+     * Mignolo, W. D. (2007). "What does the Black Legend Have to do with
+       Race?" Rereading the Black Legend: The Discourses of Religious and
+       Racial Difference in the Renaissance Empires, 312–24.
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     *
+     *
+     *
+
+Premier et Second Empire
+
+   [modifier | modifier le code]
+     * Présentation de La légende de Napoléon de Sudhir Hazareesingh
+     * Napoléon III sort de sa légende noire, Historia n°736
+     * Les historiens et la légende noire du Second Empire, discours de
+       Jean des Cars devant l'Académie des sciences morales et politiques
+       le 7 mars 2005 suivi d'un débat avec les membres de cet institut de
+       France : Jacques de Larosière, les historiens Alain Besançon, Jean
+       Tulard, Emmanuel Le Roy Ladurie, Jacques Dupâquier, les professeurs
+       Gérald Antoine, Alain Plantey (droit), Pierre Bauchet (économie),
+       l'économiste Jean-Claude Casanova, l'ancien premier ministre Pierre
+       Messmer, Jean Foyer…
+
+Louis XIV
+
+   [modifier | modifier le code]
+     * Louis XIV Un bilan "globalement positif " ?, Historia n°96
+     * Les affaires du Grand Siècle, Historia n°96
+
+     * icône décorative Portail de l’historiographie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Légende_noire&oldid=219817
+   357 ».
+   Catégorie :
+     * Historiographie
+
+   Catégories cachées :
+     * Article à recycler/Liste complète
+     * Article à recycler
+     * Article à référence insuffisante
+     * Page utilisant un modèle Bases inactif
+     * Article utilisant le modèle Dictionnaires inactif
+     * Page utilisant le modèle Autorité inactif
+     * Portail:Historiographie/Articles liés
+
+     * La dernière modification de cette page a été faite le 28 octobre
+       2024 à 09:27.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
      * Politique de confidentialité
-     * CGV
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
 
-   logo
-
-   © 2025
-   [logo_FSC-9b3c152a263aba8e1c35bde6c4a520e67f37cdb975d6e66def79f26136e6f
-   ed0.svg]
-   [logo_imprimvert-8030d342a9a5a9faaa184bd0d827c4800df2d87019aa5ab893f2db
-   fc85e40bb3.svg]
-   [logo_PEFC-8b14c0e31e174f58120b1fe08faf2f6ed88f0b82d82afef3d2a5f4452b02
-   9ec7.svg]
-   [flag_france-d2891b02d08754e9d9965862adec28617af01d4e4b301836e4dc67f7fa
-   9b53f3.svg]
-
-   Made in France
-   Contactez-nous
-
-   Votre message a été envoyé !
-   Fermer
-   Nom et prénom ____________________
-   Sujet ____________________
-   Email ____________________
-   Message
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Envoyer
+     * Wikimedia Foundation
+     * Powered by MediaWiki

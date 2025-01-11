@@ -1,0 +1,64 @@
+          + Modèle Diagrammes
+          + Légendes Diagramme
+     * Légendes Diagramme
+     * Créer des légendes
+
+--
+
+Créer des légendes
+
+   Un élément Légende sur un diagramme fournit une clé visuelle des
+   couleurs et des épaisseurs de ligne que vous avez utilisées pour
+   identifier les éléments et/ou les connecteurs qui ont une signification
+   particulière. La Légende peut refléter une convention simple, appliquée
+   manuellement, telle que tous les éléments concernés par un système de
+   gestion étant ombrés en bleu, ou tous les connecteurs sortants colorés
+   en rouge. Cependant, les légendes de couleur automatique peuvent
+   également appliquer automatiquement le style aux éléments ou aux
+--
+
+   La légende répertorie d'abord les conventions d'apparence des éléments,
+   puis les conventions d'apparence des connecteurs en dessous.
+--
+
+   Vous travaillez sur un élément Légende en deux étapes : créez et
+   définissez d'abord l'élément Légende lui-même, puis définissez les
+   styles d'apparence tels qu'ils sont affichés sur le diagramme .
+--
+
+   Faites glisser l'icône de légende du Legend element Diagramme de la
+   page "Commun" de la boîte à outils vers le diagramme
+--
+
+Légendes multiples
+
+   Dans de nombreux cas, une seule Légende suffira à définir les styles et
+   leurs significations dans le diagramme actuel. Dans certaines
+   situations cependant, il est beaucoup plus intéressant et efficace
+   d'utiliser plusieurs légendes, surtout si les légendes sont à
+   coloration automatique. Les situations où plusieurs légendes sont
+   utiles incluent :
+--
+
+   Étant donné qu'une seule légende est limitée à un seul filtre par type
+   d'élément (ou tous les types), comme une plage de valeurs de statut
+   pour Exigences , plusieurs légendes sont un bon moyen d'adresser
+   différents filtres sur différents types d'éléments. Une deuxième
+   légende, par exemple, peut indiquer que tous les composants sont
+   colorés en fonction d'un numéro de version ou de phase.
+--
+   distincts. Cependant, vérifiez que les conventions dans les deux
+   Légendes fonctionnent sur des caractéristiques d'affichage différentes
+   ; par exemple, une légende définit la couleur de remplissage de la
+   classe tandis que l'autre définit la largeur de la bordure de la
+--
+   telle que la couleur de remplissage de la classe. Si c'est le cas, la
+   légende la plus récemment créée (ou celle avec l'ordre Z le plus élevé)
+   remplace la légende précédente.
+
+--
+   ( )
+     * Créer des légendes
+     * Légende Propriétés
+     * Clé de légende
+

@@ -1,0 +1,80 @@
+   La balise <figure role="figure"> doit :
+     * Englober l’image ainsi que la légende, qui doit de son côté être
+       balisée avec <figcaption>.
+--
+   Idéalement, le texte de remplacement de l’image (l’attribut alt pour la
+   balise <img />, par exemple) doit contenir une référence à la légende
+   adjacente.
+--
+            Bonjour Olivier,
+            Le RGAA définit une image sans légende dans les deux cas
+            suivants :
+--
+            figure avec l’élément figcaption vide n’est pas conforme pour
+            une image sans légende, donc cela constituerait une
+            non-conformité au regard du RGAA.
+--
+            À noter aussi que cela est nécessaire pour la conformité au
+            RGAA 4 (cf. critère 1.9. Chaque légende d’image est-elle, si
+            nécessaire, correctement reliée à l’image correspondante ?).
+--
+       n’ont aucun comportement particulier.
+       Avec jaws 17 + FF il annonce groupe + la légende quand on arrive
+       sur le bloc que ce soit avec le role ou sans car c’est la
+--
+  <img alt="mon texte alt" />
+  <figcaption id="iddelalegende">légende de mon image</figcaption>
+</figure>
+--
+       On peut se retrouver avec beaucoup de fois « Photographie, voir
+       légende ci-après » et ce n’est plus pertinent pour lui.
+       De même que : « Trois lamas dans le désert en Bolivie. » Jusque là
+--
+            classique.
+            Je la cherche toujours dans les résultats de : légende
+            ci-après :).
+--
+            images avec une synthèse vocale de savoir qu’on peut atteindre
+            une légende plus bas. Ou inversement quand on écoute une
+            légende de savoir à quoi elle se rattache.
+            Le plus simple est donc simplement d’utiliser « Photographie,
+            voir légende ci-après » comme alternative.
+
+--
+            L’objectif étant que l’alternative de l’image fasse référence
+            à la légende, il est possible de le faire par d’autres biais.
+            L’exemple numéro 1 est une autre possibilité.
+            Une autre solution peut être de préciser simplement dans
+            l’alternative (alt) de l’image : « Voir légende ci-après »
+            (notez que « ci-après » est plus recommandé que « ci-dessous »
+--
+       norme? Surtout concernant la notion de référence dans le texte
+       alternatif et la légende de l’image?
+       Merci beaucoup
+--
+            d’Accessibilité pour les Administrations).
+            Il s’agit précisément du critère 1.10 [A] Chaque légende
+            d’image est-elle, si nécessaire, correctement reliée à l’image
+--
+            contenu de l’attribut alt de l’image contient une référence à
+            la légende adjacente.".
+            L’intérêt pour l’utilisateur d’un lecteur d’écran est assez
+            fort. Lorsqu’il lit une légende, cela lui permet de comprendre
+            qu’elle est rattachée à un visuel (en inversement). Sans cela,
+            il peut être très perturbant de lire une légende sans
+            comprendre à quoi elle est rattachée (avec le risque de
+--
+       Cette information n’est pas déterminable en regardant l’image, et
+       par contre, a bien sa place dans la légende.
+       Cela donnerait donc :
+--
+       Bonjour,
+       Cette notion de référence dans l’alternative à la légende m’a
+       toujours embêté !!
+--
+       Si il n’y a qu’une seule image dans mon texte, je vais avoir du mal
+       à suggérer aux rédacteurs de rajouter photo 1 devant la légende.
+       Une autre solution pourrait de commencer l’alternative par le début
+       de la légende. Ici on aurait dans l’alternative : Désert de
+       Bolivie, trois lamas. et la légende : Désert de Bolivie, prise de
+       vue par Audesou ou en février 2013. Plus significatif que photo1
