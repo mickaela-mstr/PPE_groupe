@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projet Légende</title>
+    <title>Scripts Bash - Projet Légende</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
     <style>
         body {
@@ -44,38 +44,19 @@
             padding: 2rem;
         }
 
-        .hero {
-            background: url('./images/banner.jpg') no-repeat center center;
-            background-size: cover;
-            color: white;
-            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-            padding: 4rem 1rem;
-            position: relative;
-            text-align: center;
-        }
-
-        .hero .hero-content {
-            background: rgba(0, 0, 0, 0.6);
-            padding: 2rem;
-            border-radius: 10px;
-            display: inline-block;
-            margin: 0 auto;
-        }
-
-        .title {
-            font-family: 'Playfair Display', serif;
-            font-size: 2.5rem;
-        }
-
-        .subtitle {
-            font-size: 1.2rem;
-            color: #e8e8e8;
-        }
-
         .section-title {
             color: #6b4226 !important;
             font-weight: bold;
             font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .script-section {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
         footer {
@@ -85,72 +66,62 @@
             font-size: 0.9rem;
             color: #6b4226;
         }
-
-        .links {
-            margin-top: 1rem;
-        }
-
-        .links a {
-            color: #6b4226;
-            font-weight: bold;
-            text-decoration: none;
-            margin-right: 1rem;
-        }
-
-        .links a:hover {
-            text-decoration: underline;
-            color: #e2a68a;
-        }
-
-        .has-submenu {
-            position: relative;
-        }
-
-        .submenu {
-            display: none;
-            margin-top: 0.5rem;
-            margin-left: 1rem;
-        }
-
-        .has-submenu:hover .submenu {
-            display: block;
-        }
-
-        .submenu a {
-            background-color: #f5e8df;
-            margin-bottom: 0.5rem;
-            display: block;
-            padding: 0.8rem;
-            border-radius: 8px;
-            text-decoration: none;
-        }
-
-        .submenu a:hover {
-            background-color: #e2a68a;
-            color: white;
-        }
     </style>
 </head>
 <body>
     <aside class="sidebar">
         <a href="indexv2.html">Accueil</a>
-        <div class="has-submenu">
-            <a href="#tableaux">Tableaux</a>
-            <div class="submenu">
-                <a href="../tableaux/anglais.html">Anglais</a>
-                <a href="../tableaux/francais.html">Français</a>
-                <a href="../tableaux/arabe.html">Arabe</a>
-            </div>
-        </div>
-        <div class="has-submenu">
-            <a href="#linguistique">Analyse Linguistique</a>
-            <div class="submenu">
-                <a href="analyse_linguistique_en.html">Anglais</a>
-                <a href="linguistique/francais.html">Français</a>
-                <a href="analyse_linguistique_ar.html">Arabe</a>
-            </div>
-        </div>
-        <a href="script.html">Script</a>
+        <a href="script.html">Scripts Bash</a>
         <a href="journal.html">Journal</a>
         <a href="a_propos.html">À propos</a>
     </aside>
+
+    <div class="content">
+        <h1 class="section-title">Scripts Bash - Explications</h1>
+
+        <div class="script-section" id="run_all">
+            <h2>run_all.sh</h2>
+            <p>exécute aspiration_all.sh, dump_all.sh, contextes_all.sh, concordancier.sh, tableau_all.sh, vérifie leur existence, leur attribue les permissions d'exécution et arrête l'exécution en cas d'erreur.</p>
+        </div>
+
+        <div class="script-section" id="aspiration_all">
+            <h2>aspiration_all.sh</h2>
+            <p>Ce script parcourt une liste d'URL pour chaque langue (anglais, français, arabe) et télécharge les pages web correspondantes. Les pages sont enregistrées au format HTML avec des informations complémentaires.</p>
+        </div>
+
+        <div class="script-section" id="dump_all">
+            <h2>dump_all.sh</h2>
+            <p>Utilise <code>lynx</code> pour extraire le texte brut de chaque page web aspirée. Ces textes sont sauvegardés dans le dossier <code>dumps-text</code>.</p>
+        </div>
+
+        <div class="script-section" id="contextes_all">
+            <h2>contextes_all.sh</h2>
+            <p>Identifie et extrait les contextes pertinents pour un mot-clé donné. Les phrases contextuelles sont sauvegardées pour chaque langue dans un fichier séparé.</p>
+        </div>
+
+        <div class="script-section" id="concordancier">
+            <h2>concordancier.sh</h2>
+            <p>Ce script génère des fichiers HTML pour visualiser les concordances des mots-clés. Les résultats sont formatés sous forme de tableaux clairs et lisibles.</p>
+        </div>
+
+        <div class="script-section" id="tableau_all">
+            <h2>tableau_all.sh</h2>
+            <p>Crée des tableaux synthétiques regroupant les métadonnées importantes de chaque page aspirée : URL, statut HTTP, encodage, liens, etc.</p>
+        </div>
+
+        <div class="script-section" id="pals">
+            <h2>pals.sh</h2>
+            <p>prend en entrée un dossier contenant des fichiers .txt (soit dumps-text soit contextes), traite chaque fichier en séparant les mots par des sauts de ligne, puis sauvegarde le résultat dans un dossier de destination (pals). Il vérifie également l'existence du dossier et des fichiers avant de procéder au traitement.</p>
+        </div>
+
+        <div class="script-section" id="make_pals_corpus">
+            <h2>make_pals_corpus.sh</h2>
+            <p>prend un fichier de texte par langue (arabe, français ou anglais), transforme son contenu en séparant les mots ou les phrases, puis enregistre ce contenu transformé dans un fichier de sortie pour une analyse ou un traitement ultérieur.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.</p>
+    </footer>
+</body>
+</html>
