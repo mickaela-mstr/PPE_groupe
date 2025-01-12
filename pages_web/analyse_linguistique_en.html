@@ -178,18 +178,23 @@
 <p> L'analyse des contextes permet de valider ou d’affiner nos observations précédemment effectuées sur les dumps. En examinant si les cooccurrents identifiés dans les dumps textuels se retrouvent dans ces contextes. Cela permettra également d’éclairer des usages plus subtils ou des nuances qui échappent à l’analyse basée sur les dumps uniquement. Voici la commande utilisée pour cela: ../../pals/cooccurrent/contextes/anglais.txt --target "legends?" --match-mode regex -N50  --case-sensitivity insensitive</p>
 
 
-            <td><img src="../images/cooccurrent_contxt.png"></td>
+            <td><img src="../images/cooccurent_contxt.png"></td>
 
 <p>Les cooccurrents fréquents sont sensiblement les mêmes que dans les dumps. Les plus spécifiques mettent en lumière les associations immédiates du mot cible dont urban qui reste fortement associé à legend. De même pour zelda, folklore et arthurian. Ces résultats soulignent que les légendes restent une forme populaire d'expression culturelle, impliquant des récits largement transmis que ce soit dans le présent avec urban ou par le passé avec les légendes arthuriennes. Les mots game, twilight, et skyward (références aux titres des différents opus des jeux vidéo Zelda) renforcent l’importance des franchises vidéoludiques et médiatiques dans l’utilisation contemporaine de legend.</p>
 
-<p>Les nombreux articlent du corpus ramènent les termes "man", "figure", et "modern" ce qui met en évidence des usages métaphoriques de legend pour désigner des individus ou personnages célèbres et leurs exploits.
+<p>Les nombreux articles du corpus ramènent les termes "man", "figure", et "modern" ce qui met en évidence des usages métaphoriques de legend pour désigner des individus ou personnages célèbres et leurs exploits.
 Enfin, certains mots tels que rcparams, matplotlib, et handler pointent vers un usage fonctionnel et technique, comme dans les légendes graphiques, les annotations ou les diagrammes.</p>
 
-Pour finir, voici le nuage de mots crée d'après le corpus des dumps textuels, qui reprennent l'ensemble du contenu textuel des 50 pages webs : </p>
+Pour finir, voici une comparaison des nuages de mots crée d'après le corpus des dumps textuels et et des contextes respectivement, qui reprennent l'ensemble du contenu des 50 pages webs : </p>
 
-<iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/tool/Cirrus/?visible=100&corpus=93f8a24698cb972bbbebb0684bfb76ac'></iframe>
+<iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/tool/Cirrus/?visible=150&corpus=93f8a24698cb972bbbebb0684bfb76ac'></iframe>
+<iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/tool/Cirrus/?visible=150&corpus=cf57a39332c80199ee8b65970d54522f'></iframe>
 
-   </section>
+<p>L’analyse visuelle des nuages de mots vient compléter celle réalisée avec les scripts. Alors que les scripts permettent de mesurer la fréquence des mots et leur répartition dans les textes, la visualisation aide à comprendre les grands thèmes et leur importance relative. Dans les dumps, "pokemon" ou "michael jackson" ressortent visuellement comme dominants, alors que dans les contextes, ce sont "legends" et "urban" qui prennent le dessus.</p>
+
+<p>Les scripts permettent également d’identifier des statistiques détaillées sur la diversité et les densités lexicales, mais ils ne montrent pas directement sa nature. Avec un simple coup d’œil au nuage de mots, on perçoit immédiatement que les dumps sont plus variés en thèmes, et que les contextes sont davantage centrés sur des récits et des légendes. De plus, la taille des mots montre directement quels sujets dominent dans chaque source, tandis que les scripts nécessitent d’interpréter les chiffres. L’analyse visuelle est aussi utile pour repérer des différences. On remarque que pokemon, très présent dans les dumps, est absent des contextes, tandis que les contextes mettent en avant des termes plus narratifs comme mythes ou folklore.</p>
+
+    </section>
 
     <footer>
             <p>Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.<br>

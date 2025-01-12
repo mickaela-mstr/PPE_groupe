@@ -11,31 +11,30 @@ fi
 langue=$1
 
 if [ "$langue" == "arabe" ]; then
-    # Pour les fichiers dumps-text
-    for file in ../pals/dumps-text/$langue*.txt; do
-        cat "$file" | tr -cs '\u0600-\u06FF' '\n' | sed "s/\./\n/g" >> "../pals/cooccurrent/dumps-text/arabe.txt"
-    done
-    # Pour les fichiers contextes
-    for file in ../pals/contextes/$langue*.txt; do
-        cat "$file" | tr -cs '\u0600-\u06FF' '\n' | sed "s/\./\n/g" >> "../pals/cooccurrent/contextes/arabe.txt"
-    done
+    for file in "../dumps-text/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "ا-ي." "\n" | sed "s/\./\n/g" > ../pals/cooccurrent/dumps-text/$langue.txt
+        done
+    for file in "../contextes/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "ا-ي." "\n" | sed "s/\./\n/g" > ../pals/cooccurrent/contextes/$langue.txt
+        done
 fi
 
 if [ "$langue" == "francais" ]; then
-    for file in ../pals/dumps-text/$langue*.txt; do
-        cat "$file" | tr -cs "a-zàâçéèêëîïôûùüÿñæœ." "\n" | sed "s/\./\n/g" >> "../pals/cooccurrent/dumps-text/francais.txt"
-    done
-    for file in ../pals/contextes/$langue*.txt; do
-        cat "$file" | tr -cs "a-zàâçéèêëîïôûùüÿñæœ." "\n" | sed "s/\./\n/g" >> "../pals/cooccurrent/contextes/francais.txt"
-    done
+    for file in "../dumps-text/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "a-zàâçéèêëîïôûùüÿñæœ" "\n" | sed "s/\./\n/g"  > ../pals/cooccurrent/dumps-text/$langue.txt
+        done
+    for file in "../contextes/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "a-zàâçéèêëîïôûùüÿñæœ" "\n" | sed "s/\./\n/g" > ../pals/cooccurrent/contextes/$langue.txt
+        done
 fi
 
 if [ "$langue" == "anglais" ]; then
-    for file in ../pals/dumps-text/$langue*.txt; do
-        cat "$file" | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" >> "../pals/cooccurrent/dumps-text/anglais.txt"
-    done
-    for file in ../pals/contextes/$langue*.txt; do
-        cat "$file" | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" >> "../pals/cooccurrent/contextes/anglais.txt"
-    done
+
+    for file in "../dumps-text/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g"  > ../pals/cooccurrent/dumps-text/$langue.txt
+        done
+    for file in "../contextes/$langue/$langue-*.txt"; do
+        cat $file | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" > ../pals/cooccurrent/contextes/$langue.txt
+        done
 fi
 
