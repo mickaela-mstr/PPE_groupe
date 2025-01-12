@@ -8,6 +8,7 @@
     <style>
         body {
             display: flex;
+            flex-direction: row;
             min-height: 100vh;
             margin: 0;
             background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
@@ -50,7 +51,6 @@
             color: white;
             text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
             padding: 4rem 1rem;
-            position: relative;
             text-align: center;
         }
 
@@ -129,6 +129,12 @@
             background-color: #e2a68a;
             color: white;
         }
+
+        iframe {
+            max-width: 100%;
+            height: auto;
+            border: none;
+        }
     </style>
 </head>
 <body>
@@ -154,3 +160,32 @@
         <a href="journal.html">Journal</a>
         <a href="a_propos.html">À propos</a>
     </aside>
+    <div class="content">
+        <section id="linguistique" class="section">
+            <div class="section-title-container">
+                <h1 class="section-title">Analyse linguistique</h1>
+            </div>
+        </section>
+        <p>Le corpus étudié est composé de 20 URLs soigneusement sélectionnées pour analyser le mot "الأسطورة" (légende) dans divers contextes en arabe. Ces sources abordent des thématiques variées telles que la littérature, la culture et l'histoire, permettant d'identifier les principaux usages du mot et de mettre en lumière sa richesse sémantique. Bien que ce corpus ne soit pas totalement représentatif de tous les emplois possibles du terme, il reflète des sujets qui me sont familiers, d'où une prédominance de liens liés à la littérature arabe et à la mythologie. Une première hypothèse peut donc être avancée avant l’analyse : le mot "الأسطورة" sera souvent employé dans un cadre littéraire ou symbolique, servant à véhiculer des concepts narratifs ou métaphoriques, ce qui constituerait l’un de ses sens principaux dans les textes étudiés.</p>
+        <p><b>Analyse Contextes Textuels</b></p>
+        <p>Le nuage de mots des contextes textuels montre les termes les plus fréquemment utilisés dans les textes autour du concept de la "légende". Les termes dominants tels que "الأسطورة" (la légende), "أسطورة" (légende), et "العربي" (arabe) apparaissent en grandes tailles, indiquant leur centralité dans le corpus. D'autres termes comme "الشعر" (la poésie) et "الأساطير" (les légendes) montrent une forte interconnexion entre les légendes et la poésie dans le cadre culturel arabe.</p>
+        <iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/?corpus=56f7bb62e05af77177cf31643d79dc78&view=Cirrus'></iframe>
+        <p>L'analyse des tendances révèle une répartition continue des termes "الأسطورة" et "أسطورة" à travers le corpus, reflétant l'importance constante des légendes dans le discours. Le terme "العربي" montre que ces légendes sont principalement explorées dans le contexte de l'identité et de la culture arabe. "الشعر" est fréquemment associé, ce qui suggère que la poésie joue un rôle crucial dans la narration et la transmission des légendes.</p>
+        <iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/?corpus=56f7bb62e05af77177cf31643d79dc78&query=الأسطورة&query=أسطورة&query=العربي&query=الأساطير&query=الشعر&mode=document&view=Trends'></iframe>
+        <p>Les légendes semblent être un thème récurrent et largement discuté, souvent en lien avec la poésie et la culture arabe. Ce contexte textuel met en avant une exploration culturelle et littéraire des légendes, soulignant leur rôle dans le renforcement des traditions culturelles arabes.</p>
+        <p><b>Analyse Dumps Textuels</b></p>
+        <p>Dans le nuage de mots des dumps textuels, des termes comme "الأسطورة" (la légende), "الأساطير" (les légendes), "العربي" (arabe), "وقد" (et il a été), et "العربية" (arabe, féminin) dominent. Cela montre une discussion qui inclut des aspects historiques et culturels des légendes dans le cadre du monde arabe, mais aussi des éléments narratifs et descriptifs plus généraux représentés par "وقد".</p>
+        <iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/?corpus=3b25ffd495a88330c20e1483942d28e6&view=Cirrus'></iframe>
+        <p>Les tendances montrent que "الأسطورة" et "الأساطير" sont fréquemment utilisés, indiquant une exploration continue des légendes. L'apparition du terme "وقد" suggère une structure narrative et descriptive courante dans les textes arabes, souvent utilisée pour introduire des histoires ou des faits. "العربية" renforce l'idée que ces légendes sont ancrées dans la culture et la langue arabe.</p>
+        <iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/?corpus=3b25ffd495a88330c20e1483942d28e6&query=الأسطورة&query=الأساطير&query=العربي&query=وقد&query=العربية&mode=document&view=Trends'></iframe>
+        <p>Les dumps textuels semblent se concentrer non seulement sur les légendes elles-mêmes, mais aussi sur leur contexte culturel, historique, et narratif. Le vocabulaire utilisé reflète une approche plus descriptive et analytique, en intégrant des éléments de la langue qui structurent les récits</p>
+        <p>Les analyses des contextes textuels et des dumps textuels mettent en lumière différents aspects du traitement des légendes en arabe :</p>
+        <ul>
+            <li><strong>Contextes Textuels :</strong> Les légendes sont profondément ancrées dans la tradition poétique et culturelle arabe, avec une insistance sur leur rôle dans la transmission des valeurs culturelles.</li>
+            <li><strong>Dumps Textuels :</strong> Ces textes adoptent une approche plus descriptive et analytique, mettant en valeur les aspects historiques, narratifs, et linguistiques des légendes.</li>
+        </ul>
+        <p>Ensemble, ces deux analyses montrent une image complète de la manière dont les légendes sont intégrées dans la culture arabe, tant dans leur aspect littéraire et poétique que dans leur description narrative et culturelle. Cette dualité souligne la richesse des légendes arabes en tant qu'éléments clés de l'identité et de la tradition culturelle arabe.</p>
+    </div>
+</body>
+</html>
+   
