@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet Légende</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
+    <style>
+        body {
+            display: flex;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
+            color: #4a4a4a;
+            font-family: 'Georgia', serif;
+        }
+
+        .sidebar {
+            width: 250px;
+            background-color: #f3c5b3;
+            padding: 1rem;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar a {
+            display: block;
+            padding: 0.8rem 1rem;
+            margin-bottom: 1rem;
+            background-color: #e8d6c3;
+            color: #6b4226;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        .sidebar a:hover {
+            background-color: #e2a68a;
+            color: white;
+        }
+
+        .content {
+            flex: 1;
+            padding: 2rem;
+        }
+
+        .hero {
+            background: url('./images/banner.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            padding: 4rem 1rem;
+            position: relative;
+            text-align: center;
+        }
+
+        .hero .hero-content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 2rem;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 0 auto;
+        }
+
+        .title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #e8e8e8;
+        }
+
+        .section-title {
+            color: #6b4226 !important;
+            font-weight: bold;
+            font-size: 2.5rem;
+        }
+
+        footer {
+            background: #e8d6c3;
+            padding: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #6b4226;
+        }
+
+        .links {
+            margin-top: 1rem;
+        }
+
+        .links a {
+            color: #6b4226;
+            font-weight: bold;
+            text-decoration: none;
+            margin-right: 1rem;
+        }
+
+        .links a:hover {
+            text-decoration: underline;
+            color: #e2a68a;
+        }
+
+        .has-submenu {
+            position: relative;
+        }
+
+        .submenu {
+            display: none;
+            margin-top: 0.5rem;
+            margin-left: 1rem;
+        }
+
+        .has-submenu:hover .submenu {
+            display: block;
+        }
+
+        .submenu a {
+            background-color: #f5e8df;
+            margin-bottom: 0.5rem;
+            display: block;
+            padding: 0.8rem;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+
+        .submenu a:hover {
+            background-color: #e2a68a;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <aside class="sidebar">
+        <a href="indexv2.html">Accueil</a>
+        <div class="has-submenu">
+            <a href="#tableaux">Tableaux</a>
+            <div class="submenu">
+                <a href="../tableaux/anglais.html">Anglais</a>
+                <a href="../tableaux/francais.html">Français</a>
+                <a href="../tableaux/arabe.html">Arabe</a>
+            </div>
+        </div>
+        <div class="has-submenu">
+            <a href="#linguistique">Analyse Linguistique</a>
+            <div class="submenu">
+                <a href="analyse_linguistique_en.html">Anglais</a>
+                <a href="linguistique/francais.html">Français</a>
+                <a href="linguistique/arabe.html">Arabe</a>
+            </div>
+        </div>
+        <a href="journal.html">Journal</a>
+        <a href="a_propos.html">À propos</a>
+    </aside>
+
+    <div class="content">
+    <section id="linguistique" class="section">
+            <div class="section-title-container">
+                <h1 class="section-title">Analyse linguistique</h2>
+
+            </div>
+            <p>Le corpus analysé repose sur un ensemble de 51 URLs sélectionnées pour explorer le mot légende/légendes dans différents contextes en français. Ces sites couvrent plusieurs thèmes et permettent de dégager des catégories d’usage principales qui reflètent la polysémie du mot. Ce n’est cependant pas un corpus objectivement représentatif de tous ses usages car j’ai visé à étudié les sens qui me viennent à l'esprit directement lorque je pense au mot légende, donc tous ce qui est mythes, récits ou encore la légende d'un schéma dans un contexte scolaire.
+
+            On peut donc établir une première hypothèse avant d’entrer dans l’analyse, c’est que le mot légende sera utilisé fréquemment dans un contexte de "mythologie", "récits" je pense que ce sera le contexte le plus fréquent.Ce qui en ferait ici un de ses sens premier. </p>
+
+             <p>Tout d'abord j'aimerais préciser que comme je n'ai pas réussi à faire fonctionner le script makecorpus_pals sur lequel jusqu'au bout je n'ai pas réussi à régler les problèmes de regex et donc suite à quoi je n'ai pas pu utiliser les script pals de votre page: script cooccurrent et partition ^^" (j'ai vraiment tout essayer rien y fait. Et donc c'est pour cela que je fais mon analyse à partir de ce que j'ai réussi à obtenir avec voyant-tools</p>
+
+             <p>Maintenant que j'ai fait le petit disclaimer, commençons par analyser ce graphiques qui nous montre les fréquences et à observer les données qu'on nous donne dans le résumé.Voyons la fréquence globale et la distribution des variantes. J’ai ciblé légende avec sa variante au pluriel légendes. La fréquence totale dans le corpus est de 1098 occurrences (581 +517). Le mot au singulier légende comptabilise 581 occurrences et 517 occurrences au pluriel.Cette dominance du singulier peut refléter le fait que le mot légende peut être utiliser dans plus de contexte, en effet j'avais pet observer en cherchant les sites que dans les site éducatif légende est utilisé la plus part du temps au singulier (pour désigne la légende d'un schéma par exmemple).Ou encore dans un contexte sportif, il est aussi utiliser au singulier "La légende Lionel Messi". Alors que le pluriel etait surtout utilisé dans le constectes de mythes et de récit. Mais de manière générale on peut quand même voir que les fréquences sont sensiblement proches 581 et 517, il n' y a pas de si grand écart entre les deux. </p>
+
+             <td><img src="../images/resumervoyfr.png"></td>
+
+             <td><img src="../images/graphiquevoyfr.png"></td>
+
+<p>Observons maintenant le tableau de Collocations qui nous montre le Terme du contexte qui apparaît le plus près du mot clé. Et on peut voir ici qu'on est beaucoup dans le contexte de mythologie, de mythes et donc cela veut dire que légende est beaucoup utilisé dans ce sens là. on peut voir qu'il y a un grands totale de contexte où le mot légende est associé à mythe et mythologie donc toujours dans ce sens de "récits". Après on a le modifier qui à aussi un total de contexte éléver avec légende et ici ce serait plutôt le sens scolaire du terme en rapport avec les schéma par exemple.</p>
+
+    <td><img src="../images/coalocation1.png"></td>
+
+    <td><img src="../images/coalocation2.png"></td>
+
+
+<p> Je vous met maintenat une capture d'écran générale de la page de voyant-tools que j'ai eu pour dump. Et qui reflète les même résultats à peu près que vu précedement pour contexte.</p>
+
+
+            <td><img src="../images/alldumpvoyfr.png"></td>
+
+
+
+Pour finir, voici le nuage de mots crée d'après le corpus des dumps textuels, qui reprennent l'ensemble du contenu textuel des 51 pages webs : </p>
+
+<iframe style='width: 637px; height: 567px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=a39a2b90a72743831545c4b820238682'></iframe>
+
+   </section>
+
+    <footer>
+            <p>Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.<br>
+                <a href="https://github.com/mickaela-mstr/PPE_groupe" target="_blank">Voir le projet sur GitHub</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
+
