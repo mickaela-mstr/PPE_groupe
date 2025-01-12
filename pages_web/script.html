@@ -1,9 +1,9 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scripts Bash - Projet Légende</title>
+    <title>Projet Légende</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css">
     <style>
         body {
@@ -14,18 +14,14 @@
             color: #4a4a4a;
             font-family: 'Georgia', serif;
         }
-
-        h2 {
-        color: #4a2f26; /* Couleur brun foncé */
-         }
-
+    
         .sidebar {
             width: 250px;
             background-color: #f3c5b3;
             padding: 1rem;
             box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
         }
-
+    
         .sidebar a {
             display: block;
             padding: 0.8rem 1rem;
@@ -37,32 +33,47 @@
             border-radius: 8px;
             transition: background-color 0.3s;
         }
-
+    
         .sidebar a:hover {
             background-color: #e2a68a;
             color: white;
         }
-
+    
         .content {
             flex: 1;
             padding: 2rem;
         }
-
+    
+        .hero {
+            background: url('./images/banner.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            padding: 4rem 1rem;
+            position: relative;
+            text-align: center;
+        }
+    
+        .title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5rem;
+        }
+    
+        .subtitle {
+            font-size: 1.2rem;
+            color: #6b4226 !important;
+        }
+    
         .section-title {
             color: #6b4226 !important;
             font-weight: bold;
             font-size: 2.5rem;
-            margin-bottom: 1rem;
         }
-
-        .script-section {
-            margin-bottom: 2rem;
-            padding: 1rem;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+        h2 {
+            color: black !important;
         }
-
+    
         footer {
             background: #e8d6c3;
             padding: 1rem;
@@ -70,12 +81,73 @@
             font-size: 0.9rem;
             color: #6b4226;
         }
+    
+        .links {
+            margin-top: 1rem;
+        }
+    
+        .links a {
+            color: #6b4226;
+            font-weight: bold;
+            text-decoration: none;
+            margin-right: 1rem;
+        }
+    
+        .links a:hover {
+            text-decoration: underline;
+            color: #e2a68a;
+        }
+    
+        .has-submenu {
+            position: relative;
+        }
+    
+        .submenu {
+            display: none;
+            margin-top: 0.5rem;
+            margin-left: 1rem;
+        }
+    
+        .has-submenu:hover .submenu {
+            display: block;
+        }
+    
+        .submenu a {
+            background-color: #f5e8df;
+            margin-bottom: 0.5rem;
+            display: block;
+            padding: 0.8rem;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+    
+        .submenu a:hover {
+            background-color: #e2a68a;
+            color: white;
+        }
     </style>
+    
 </head>
 <body>
     <aside class="sidebar">
         <a href="indexv2.html">Accueil</a>
-        <a href="script.html">Scripts Bash</a>
+        <div class="has-submenu">
+            <a href="#tableaux">Tableaux</a>
+            <div class="submenu">
+                <a href="../tableaux/anglais.html">Anglais</a>
+                <a href="../tableaux/francais.html">Français</a>
+                <a href="../tableaux/arabe.html">Arabe</a>
+            </div>
+        </div>
+        <div class="has-submenu">
+            <a href="#linguistique">Analyse Linguistique</a>
+            <div class="submenu">
+                <a href="analyse_linguistique_en.html">Anglais</a>
+                <a href="../pages_web/analyse_linguistique_fr.html">Français</a>
+                <a href="../pages_web/analyse_linguistique_ar.html">Arabe</a>
+            </div>
+        </div>
+        <a href="script.html">Script</a>
         <a href="journal.html">Journal</a>
         <a href="a_propos.html">À propos</a>
     </aside>
