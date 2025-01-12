@@ -71,6 +71,7 @@
         }
 
         footer {
+            bottom: 0;
             background: #e8d6c3;
             padding: 1rem;
             text-align: center;
@@ -148,50 +149,51 @@
     </aside>
 
     <div class="content">
-        <h1 class="section-title">Scripts Bash - Explications</h1>
+        <section class="section">
+            <h1 class="section-title">Scripts Bash - Explications</h1>
 
         <div class="script-section" id="run_all">
-            <h2>run_all.sh</h2>
+            <h3 class="section-title">run_all.sh</h3>
             <p>exécute aspiration_all.sh, dump_all.sh, contextes_all.sh, concordancier.sh, tableau_all.sh, vérifie leur existence, leur attribue les permissions d'exécution et arrête l'exécution en cas d'erreur.</p>
         </div>
 
         <div class="script-section" id="aspiration_all">
-            <h2>aspiration_all.sh</h2>
+            <h3 class="section-title">aspiration_all.sh</h3>
             <p>Ce script parcourt une liste d'URL pour chaque langue (anglais, français, arabe) et télécharge les pages web correspondantes. Les pages sont enregistrées au format HTML avec des informations complémentaires.</p>
         </div>
 
         <div class="script-section" id="dump_all">
-            <h2>dump_all.sh</h2>
-            <p>Utilise <code>lynx</code> pour extraire le texte brut de chaque page web aspirée. Ces textes sont sauvegardés dans le dossier <code>dumps-text</code>.</p>
+            <h3 class="section-title">dump_all.sh</h3>
+            <p>Utilise lynx pour extraire le texte brut de chaque page web aspirée. Ces textes sont sauvegardés dans le dossier dumps-text.</p>
         </div>
 
         <div class="script-section" id="contextes_all">
-            <h2>contextes_all.sh</h2>
+            <h3 class="section-title">contextes_all.sh</h3>
             <p>Identifie et extrait les contextes pertinents pour un mot-clé donné. Les phrases contextuelles sont sauvegardées pour chaque langue dans un fichier séparé.</p>
         </div>
 
         <div class="script-section" id="concordancier">
-            <h2>concordancier.sh</h2>
+            <h3 class="section-title">concordancier.sh</h3>
             <p>Ce script génère des fichiers HTML pour visualiser les concordances des mots-clés. Les résultats sont formatés sous forme de tableaux clairs et lisibles.</p>
         </div>
 
         <div class="script-section" id="tableau_all">
-            <h2>tableau_all.sh</h2>
+            <h3 class="section-title">tableau_all.sh</h3>
             <p>Crée des tableaux synthétiques regroupant les métadonnées importantes de chaque page aspirée : URL, statut HTTP, encodage, liens, etc.</p>
         </div>
 
         <div class="script-section" id="pals">
-            <h2>pals.sh</h2>
+            <h3 class="section-title">pals.sh</h3>
             <p>prend en entrée un dossier contenant des fichiers .txt (soit dumps-text soit contextes), traite chaque fichier en séparant les mots par des sauts de ligne, puis sauvegarde le résultat dans un dossier de destination (pals). Il vérifie également l'existence du dossier et des fichiers avant de procéder au traitement.</p>
         </div>
 
         <div class="script-section" id="make_pals_corpus">
-            <h2>make_pals_corpus.sh</h2>
+            <h3 class="section-title">make_pals_corpus.sh</h3>
             <p>prend un fichier de texte par langue (arabe, français ou anglais), transforme son contenu en séparant les mots ou les phrases, puis enregistre ce contenu transformé dans un fichier de sortie pour une analyse.</p>
         </div>
-    </div>
 
-    <div>
+        </section>
+
         <footer>
             <p>Fait par Oumaya Chelbi, Mickaëla Masrodicasa et Zeinab Omar.<br>
                 <a href="https://github.com/mickaela-mstr/PPE_groupe" target="_blank">Voir le projet sur GitHub</a>
